@@ -1,0 +1,10 @@
+{
+  "oracle": "numpy.linalg.inv / LAPACK",
+  "comparisons": 75,
+  "max_absolute_difference": 4.440892098500626e-16,
+  "machine_architecture": "arm64",
+  "python": "3.14.6",
+  "numpy": "2.5.3",
+  "timing_scope": "complete inverse call including worker setup and residual computation; no file I/O",
+  "note": "three repeats; small matrices; not a claim of general parallel speedup"
+}

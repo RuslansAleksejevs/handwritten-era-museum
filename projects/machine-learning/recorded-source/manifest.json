@@ -1,0 +1,57 @@
+[
+  {
+    "path": "segmentation/run.py",
+    "sha256": "00be8329e2cc2c37d132e85f18725115565162917b0f84f88d0834015d4de153",
+    "role": "exact source recorded in experiment metrics"
+  },
+  {
+    "path": "segmentation/car_data.py",
+    "sha256": "58aad2ce16758a09b3016c2ba45b213687928ac6e445f33a1907a03824906d78",
+    "role": "exact source recorded in experiment metrics"
+  },
+  {
+    "path": "segmentation/segment_model.py",
+    "sha256": "c0642c35beef864e28abdb4428623eb0389aff3f87e151aad1e4668e6e228e9d",
+    "role": "exact source recorded in experiment metrics"
+  },
+  {
+    "path": "transfer/run.py",
+    "sha256": "9822f5a81e0f32f784d06c7590d1aa38ffe596ea1f9591bff230c70eb82bf599",
+    "role": "exact source recorded in experiment metrics"
+  },
+  {
+    "path": "transfer/squeeze_features.py",
+    "sha256": "8b5203a96ac7c29ddc5b795b8956274130391f2d6e1c4a516047ef101fb9fe3d",
+    "role": "exact source recorded in experiment metrics"
+  },
+  {
+    "path": "autoencoder/run.py",
+    "sha256": "7a8cfc6b09d121149e8c2868a1486cead5f8534170205d15611f05228ad9c6d8",
+    "role": "exact source recorded in experiment metrics"
+  },
+  {
+    "path": "autoencoder/fashion_data.py",
+    "sha256": "248d36a08b59cf687d03856daad7f3f6a85977fc2663d075deb02554c5e7a140",
+    "role": "exact source recorded in experiment metrics"
+  },
+  {
+    "path": "autoencoder/ae_model.py",
+    "sha256": "83c98f0ef893df12863b054161a47c4ccf18f9069b61ae4fe5edb0f41f7410ce",
+    "role": "exact source recorded in experiment metrics"
+  },
+  {
+    "path": "forecasting/run.py",
+    "sha256": "7bcca515e2d49727171ac214f78d655a3372242cc2932d8ad94656ac39d5e6dd",
+    "role": "exact source recorded in experiment metrics"
+  },
+  {
+    "path": "forecasting/forecast.py",
+    "sha256": "4519248fd94aa5962ee491111f73313329c9a07e664d9ffda580f988ae43233d",
+    "role": "exact source recorded in experiment metrics"
+  },
+  {
+    "path": "cnn/cifar_data.py",
+    "sha256": "120cf6a093d66473d603e180664d8f891ce9f3961d536f90447cd6de72dc8d23",
+    "role": "supporting data reader from the same source snapshot"
+  }
+]

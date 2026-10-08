@@ -1,0 +1,469 @@
+{
+  "dataset": "CIFAR-10 binary edition",
+  "dataset_sha256": "c4a38c50a1bc5f3a1c5537f2155ab9d68f9f25eb1ed8d9ddda3db29a59bca1dd",
+  "train": 3000,
+  "validation": 1000,
+  "test": 2000,
+  "seed": 2026,
+  "pretraining": "ImageNet-1K; extra labeled external data, not a matched total-data budget",
+  "weights_sha256": "b8a52dc049b60e4b6ab68ad0df457362afab8b6304b2febdc1650a5dab4d7e7b",
+  "feature_network_parameters": 722496,
+  "selection": "maximize validation accuracy among ridge alpha .1,1,10,100; ties choose first; no refit on validation",
+  "normalization": "ImageNet fixed normalization for both CNNs; downstream scaler fit on 3000 training feature vectors only",
+  "runs": [
+    {
+      "model": "ImageNet features",
+      "features": 512,
+      "selected_alpha": 100.0,
+      "validation_accuracy": 0.774,
+      "candidates": [
+        {
+          "alpha": 0.1,
+          "validation_accuracy": 0.761
+        },
+        {
+          "alpha": 1.0,
+          "validation_accuracy": 0.762
+        },
+        {
+          "alpha": 10.0,
+          "validation_accuracy": 0.767
+        },
+        {
+          "alpha": 100.0,
+          "validation_accuracy": 0.774
+        }
+      ],
+      "test_accuracy": 0.788,
+      "confusion_matrix": [
+        [
+          161,
+          2,
+          7,
+          5,
+          2,
+          0,
+          1,
+          2,
+          17,
+          3
+        ],
+        [
+          4,
+          179,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          3,
+          13
+        ],
+        [
+          8,
+          0,
+          130,
+          11,
+          29,
+          5,
+          10,
+          4,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          6,
+          141,
+          11,
+          24,
+          10,
+          2,
+          1,
+          2
+        ],
+        [
+          1,
+          1,
+          9,
+          7,
+          150,
+          2,
+          17,
+          11,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          3,
+          35,
+          9,
+          133,
+          2,
+          11,
+          4,
+          1
+        ],
+        [
+          1,
+          1,
+          6,
+          9,
+          8,
+          1,
+          170,
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          3,
+          8,
+          11,
+          17,
+          0,
+          152,
+          2,
+          5
+        ],
+        [
+          8,
+          1,
+          2,
+          1,
+          0,
+          0,
+          0,
+          0,
+          183,
+          5
+        ],
+        [
+          2,
+          16,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          4,
+          177
+        ]
+      ],
+      "test_correct": 1576
+    },
+    {
+      "model": "Random frozen features",
+      "features": 512,
+      "selected_alpha": 0.1,
+      "validation_accuracy": 0.386,
+      "candidates": [
+        {
+          "alpha": 0.1,
+          "validation_accuracy": 0.386
+        },
+        {
+          "alpha": 1.0,
+          "validation_accuracy": 0.38
+        },
+        {
+          "alpha": 10.0,
+          "validation_accuracy": 0.382
+        },
+        {
+          "alpha": 100.0,
+          "validation_accuracy": 0.375
+        }
+      ],
+      "test_accuracy": 0.389,
+      "confusion_matrix": [
+        [
+          87,
+          21,
+          10,
+          11,
+          5,
+          1,
+          5,
+          6,
+          42,
+          12
+        ],
+        [
+          12,
+          98,
+          5,
+          5,
+          4,
+          6,
+          12,
+          6,
+          6,
+          46
+        ],
+        [
+          17,
+          17,
+          53,
+          11,
+          34,
+          20,
+          21,
+          6,
+          12,
+          9
+        ],
+        [
+          12,
+          16,
+          18,
+          39,
+          11,
+          45,
+          30,
+          15,
+          4,
+          10
+        ],
+        [
+          9,
+          5,
+          26,
+          11,
+          63,
+          12,
+          44,
+          19,
+          4,
+          7
+        ],
+        [
+          7,
+          7,
+          20,
+          33,
+          14,
+          54,
+          20,
+          23,
+          15,
+          7
+        ],
+        [
+          3,
+          10,
+          13,
+          13,
+          19,
+          11,
+          106,
+          13,
+          4,
+          8
+        ],
+        [
+          10,
+          12,
+          14,
+          13,
+          17,
+          25,
+          10,
+          77,
+          4,
+          18
+        ],
+        [
+          27,
+          11,
+          5,
+          5,
+          2,
+          5,
+          5,
+          3,
+          120,
+          17
+        ],
+        [
+          12,
+          55,
+          7,
+          5,
+          2,
+          5,
+          7,
+          10,
+          16,
+          81
+        ]
+      ],
+      "test_correct": 778
+    },
+    {
+      "model": "Raw pixels, 8 x 8",
+      "features": 192,
+      "selected_alpha": 100.0,
+      "validation_accuracy": 0.375,
+      "candidates": [
+        {
+          "alpha": 0.1,
+          "validation_accuracy": 0.364
+        },
+        {
+          "alpha": 1.0,
+          "validation_accuracy": 0.362
+        },
+        {
+          "alpha": 10.0,
+          "validation_accuracy": 0.374
+        },
+        {
+          "alpha": 100.0,
+          "validation_accuracy": 0.375
+        }
+      ],
+      "test_accuracy": 0.3625,
+      "confusion_matrix": [
+        [
+          89,
+          16,
+          9,
+          7,
+          1,
+          4,
+          4,
+          7,
+          44,
+          19
+        ],
+        [
+          10,
+          85,
+          4,
+          8,
+          2,
+          4,
+          13,
+          13,
+          24,
+          37
+        ],
+        [
+          19,
+          14,
+          30,
+          15,
+          33,
+          14,
+          40,
+          14,
+          15,
+          6
+        ],
+        [
+          14,
+          21,
+          13,
+          31,
+          6,
+          41,
+          33,
+          9,
+          13,
+          19
+        ],
+        [
+          14,
+          7,
+          16,
+          8,
+          49,
+          14,
+          47,
+          34,
+          8,
+          3
+        ],
+        [
+          10,
+          14,
+          15,
+          28,
+          10,
+          54,
+          21,
+          17,
+          18,
+          13
+        ],
+        [
+          1,
+          14,
+          6,
+          20,
+          15,
+          17,
+          112,
+          4,
+          4,
+          7
+        ],
+        [
+          11,
+          12,
+          15,
+          13,
+          13,
+          14,
+          8,
+          81,
+          9,
+          24
+        ],
+        [
+          30,
+          14,
+          1,
+          9,
+          1,
+          5,
+          3,
+          1,
+          105,
+          31
+        ],
+        [
+          10,
+          37,
+          2,
+          5,
+          6,
+          6,
+          8,
+          11,
+          26,
+          89
+        ]
+      ],
+      "test_correct": 725
+    }
+  ],
+  "seconds": 142.04272829112597,
+  "environment": {
+    "python": "3.14.6",
+    "torch": "2.14.1",
+    "numpy": "2.5.3"
+  },
+  "code_sha256": {
+    "run.py": "9822f5a81e0f32f784d06c7590d1aa38ffe596ea1f9591bff230c70eb82bf599",
+    "squeeze_features.py": "8b5203a96ac7c29ddc5b795b8956274130391f2d6e1c4a516047ef101fb9fe3d"
+  }
+}

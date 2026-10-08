@@ -1,0 +1,26 @@
+[
+  {
+    "source_path": "03-Red-Belt/02-Second-week/03-Express/README.md",
+    "mode": "express",
+    "input": "7\nADD -2 5\nADD 10 4\nADD 5 8\nGO 4 10\nGO 4 -2\nGO 5 0\nGO 5 100\n",
+    "expected": "0\n6\n2\n92\n"
+  },
+  {
+    "source_path": "03-Red-Belt/02-Second-week/04-Book/README.md",
+    "mode": "reading",
+    "input": "12\nCHEER 5\nREAD 1 10\nCHEER 1\nREAD 2 5\nREAD 3 7\nCHEER 2\nCHEER 3\nREAD 3 10\nCHEER 3\nREAD 3 11\nCHEER 3\nCHEER 1\n",
+    "expected": "0\n1\n0\n0.5\n0.5\n1\n0.5\n"
+  },
+  {
+    "source_path": "03-Red-Belt/02-Second-week/05-Booking/README.md",
+    "mode": "booking",
+    "input": "11\nCLIENTS Marriott\nROOMS Marriott\nBOOK 10 FourSeasons 1 2\nBOOK 10 Marriott 1 1\nBOOK 86409 FourSeasons 2 1\nCLIENTS FourSeasons\nROOMS FourSeasons\nCLIENTS Marriott\nBOOK 86410 Marriott 2 10\nROOMS FourSeasons\nROOMS Marriott\n",
+    "expected": "0\n0\n2\n3\n1\n1\n10\n"
+  },
+  {
+    "source_path": "03-Red-Belt/04-Fourth-week/01-Sportsmen/README.md",
+    "mode": "sportsmen",
+    "input": "5\n42 0 \n17 42 \n13 0 \n123 42\n5 13\n",
+    "expected": "17 123 42 5 13\n"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "seed": 2019,
+  "dataset": "sklearn digits (8x8)",
+  "train_examples": 1347,
+  "test_examples": 450,
+  "test_accuracy": 0.96,
+  "final_train_loss": 0.09103754841782835,
+  "finite_difference_max_error": 2.746032012890254e-10,
+  "training_only_cv_accuracy": {
+    "None": [
+      0.9495548961424333,
+      0.9436201780415431,
+      0.9762611275964391,
+      0.9613095238095238
+    ],
+    "16": [
+      0.9198813056379822,
+      0.9109792284866469,
+      0.9614243323442137,
+      0.9196428571428571
+    ],
+    "32": [
+      0.9465875370919882,
+      0.9347181008902077,
+      0.9821958456973294,
+      0.9345238095238095
+    ]
+  },
+  "scope": "Modern experiment; not a rerun of historical CIFAR/MNIST course results."
+}

@@ -1,0 +1,526 @@
+{
+  "schema_version": "cpp-belts-coverage.v1",
+  "belt": "03-Red-Belt",
+  "source_page_count": 37,
+  "scope": "All leaf statement pages for this belt in the pinned learner archive, not a verified official-course census.",
+  "entries": [
+    {
+      "source_path": "03-Red-Belt/01-First-week/01-MaxElement/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/01-First-week/01-MaxElement/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/foundations.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "Foundations",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/01-First-week/02-LogMacro/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/01-First-week/02-LogMacro/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/foundations.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "Foundations",
+      "status": "ADAPTED_TESTED",
+      "limits": "The statement omits the starter tests specifying exact prefixes. The documented local format is file:line: message with independently optional file/line."
+    },
+    {
+      "source_path": "03-Red-Belt/01-First-week/03-CompGen/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/01-First-week/03-CompGen/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/foundations.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "Foundations",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/01-First-week/04-UPDATE_FIELD/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/01-First-week/04-UPDATE_FIELD/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/foundations.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "Foundations",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/01-First-week/05-BadMacro/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/01-First-week/05-BadMacro/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/foundations.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "Foundations",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/01-First-week/06-UNIQ_ID/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/01-First-week/06-UNIQ_ID/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/foundations.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "Foundations",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/01-First-week/07-Table/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/01-First-week/07-Table/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/foundations.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "Foundations",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/01-First-week/08-Deque/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/01-First-week/08-Deque/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/deque.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "Foundations",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/01-First-week/09-Paginator/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/01-First-week/09-Paginator/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/foundations.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "Foundations",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/02-Second-week/01-Ranking/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/02-Second-week/01-Ranking/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/foundations.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "Foundations",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/02-Second-week/02-Learner/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/02-Second-week/02-Learner/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/foundations.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "Foundations",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/02-Second-week/03-Express/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/02-Second-week/03-Express/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/services.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "ServicesAndOracles",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/02-Second-week/04-Book/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/02-Second-week/04-Book/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/services.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "ServicesAndOracles",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/02-Second-week/05-Booking/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/02-Second-week/05-Booking/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/services.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "ServicesAndOracles",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/03-Third-week/01-Objects/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/03-Third-week/01-Objects/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/algorithms.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "ContainersAndMoves",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/03-Third-week/02-Swap/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/03-Third-week/02-Swap/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/algorithms.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "ContainersAndMoves",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/03-Third-week/03-SimpleVector/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/03-Third-week/03-SimpleVector/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/foundations.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "Foundations",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/03-Third-week/04-LinkedList/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/03-Third-week/04-LinkedList/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/algorithms.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "ContainersAndMoves",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/04-Fourth-week/01-Sportsmen/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/04-Fourth-week/01-Sportsmen/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/services.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "ServicesAndOracles",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/04-Fourth-week/02-StackVector/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/04-Fourth-week/02-StackVector/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/foundations.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "Foundations",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/04-Fourth-week/03-Translator/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/04-Fourth-week/03-Translator/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/algorithms.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "ContainersAndMoves",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/04-Fourth-week/04-AirportCounter/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/04-Fourth-week/04-AirportCounter/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/algorithms.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "ContainersAndMoves",
+      "status": "ADAPTED_TESTED",
+      "limits": "Array-based implementation with functional tests; original supplied performance benchmarks absent."
+    },
+    {
+      "source_path": "03-Red-Belt/04-Fourth-week/05-TextEditor/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/04-Fourth-week/05-TextEditor/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/algorithms.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "ContainersAndMoves",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/04-Fourth-week/06-WebServer/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/04-Fourth-week/06-WebServer/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/algorithms.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "ContainersAndMoves",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/05-Fifth-week/01-JosephusPermutation/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/05-Fifth-week/01-JosephusPermutation/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/algorithms.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "ContainersAndMoves",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/05-Fifth-week/02-StringGroup/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/05-Fifth-week/02-StringGroup/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/algorithms.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "ContainersAndMoves",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/05-Fifth-week/03-SimpleVector2/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/05-Fifth-week/03-SimpleVector2/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/foundations.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "Foundations",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/05-Fifth-week/04-Sentence/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/05-Fifth-week/04-Sentence/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/algorithms.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "ContainersAndMoves",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/05-Fifth-week/05-SimpleVector3/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/05-Fifth-week/05-SimpleVector3/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/foundations.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "Foundations",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/05-Fifth-week/06-MergeSort/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/05-Fifth-week/06-MergeSort/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/algorithms.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "ContainersAndMoves",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/05-Fifth-week/07-PriorityCollection/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/05-Fifth-week/07-PriorityCollection/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/algorithms.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "ContainersAndMoves",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/05-Fifth-week/08-MatrixSum/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/05-Fifth-week/08-MatrixSum/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/concurrency.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "Concurrency",
+      "status": "ADAPTED_TESTED",
+      "limits": "Correctness and int64 accumulation tested. Original 9000x9000 / 15 ms grading budget is not claimed."
+    },
+    {
+      "source_path": "03-Red-Belt/05-Fifth-week/09-Stats/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/05-Fifth-week/09-Stats/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/concurrency.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "Concurrency",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/05-Fifth-week/10-Synchronized/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/05-Fifth-week/10-Synchronized/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/concurrency.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "Concurrency",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/05-Fifth-week/11-ConcurrentMap/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/05-Fifth-week/11-ConcurrentMap/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/concurrency.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "Concurrency",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/06-Course-project/01-FinalProjectPart1/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/06-Course-project/01-FinalProjectPart1/README.md",
+      "code": [
+        "projects/cpp-belts/search/search.cpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "existing search oracle suite and check.py CLI",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "03-Red-Belt/06-Course-project/02-FinalProjectPart2/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/06-Course-project/02-FinalProjectPart2/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/async_search.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "Concurrency",
+      "status": "ADAPTED_TESTED",
+      "limits": "Asynchronous stream-borrowing API: streams must outlive Wait/destruction; callers use distinct streams. Wait reports background exceptions; destructor only joins. Original timed grader was not run."
+    }
+  ]
+}

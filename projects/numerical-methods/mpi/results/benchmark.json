@@ -1,0 +1,240 @@
+{
+  "recorded_on": "2026-10-05",
+  "seed": 20261005,
+  "samples": 3,
+  "warmups": 1,
+  "environment": {
+    "system": "Darwin",
+    "architecture": "arm64",
+    "logical_cpu_count": 10,
+    "mpi_version": [
+      "HYDRA build details:",
+      "    Version:                                 5.0.2",
+      "    Release Date:                            Fri Sep 25 20:45:26 UTC 2026",
+      "    CC:                              clang   -O2     "
+    ],
+    "compiler": "Apple clang version 17.0.0 (clang-1700.6.4.2)",
+    "flags": "-std=c++17 -O2 -Wall -Wextra -Wpedantic -pthread",
+    "launcher_flags": "-launcher fork -iface lo0",
+    "placement": "single host, no CPU affinity requested"
+  },
+  "scope": "Maximum per-rank elapsed duration, not differences between clocks on different ranks. Distributed timing includes allocation, input packing/scatter, elimination, inverse rescaling, gather and root reconstruction. Excludes MPI startup, input generation, file I/O and residual checks. Elimination timing includes pivot communication, computation, error agreement and final rescaling.",
+  "runs": [
+    {
+      "ranks": 1,
+      "n": 64,
+      "elimination_seconds": [
+        0.00016700000014679972,
+        0.0001700000002529123,
+        0.00016400000004068715
+      ],
+      "distributed_seconds": [
+        0.00017699999989417847,
+        0.00017900000011650263,
+        0.0001710000001367007
+      ],
+      "left_residual_inf": 1.738059313728012e-15,
+      "right_residual_inf": 2.0739523051665625e-15,
+      "median_elimination_seconds": 0.00016700000014679972,
+      "median_distributed_seconds": 0.00017699999989417847
+    },
+    {
+      "ranks": 1,
+      "n": 128,
+      "elimination_seconds": [
+        0.001408999999966909,
+        0.0015170000001489825,
+        0.0017050000001290755
+      ],
+      "distributed_seconds": [
+        0.0014379999997800041,
+        0.0015450000000782893,
+        0.0017379999999320717
+      ],
+      "left_residual_inf": 2.1957195911744113e-15,
+      "right_residual_inf": 3.2167238415960913e-15,
+      "median_elimination_seconds": 0.0015170000001489825,
+      "median_distributed_seconds": 0.0015450000000782893
+    },
+    {
+      "ranks": 1,
+      "n": 256,
+      "elimination_seconds": [
+        0.012335999999777414,
+        0.012769000000389497,
+        0.012041999999837572
+      ],
+      "distributed_seconds": [
+        0.012571999999636319,
+        0.01300600000013219,
+        0.012279000000035012
+      ],
+      "left_residual_inf": 3.750404433652862e-15,
+      "right_residual_inf": 5.308244589865647e-15,
+      "median_elimination_seconds": 0.012335999999777414,
+      "median_distributed_seconds": 0.012571999999636319
+    },
+    {
+      "ranks": 1,
+      "n": 512,
+      "elimination_seconds": [
+        0.2599019999997836,
+        0.2603249999997388,
+        0.2608030000001236
+      ],
+      "distributed_seconds": [
+        0.26112000000011903,
+        0.26139899999998306,
+        0.2618729999999232
+      ],
+      "left_residual_inf": 6.28260691422503e-15,
+      "right_residual_inf": 9.947634953307004e-15,
+      "median_elimination_seconds": 0.2603249999997388,
+      "median_distributed_seconds": 0.26139899999998306
+    },
+    {
+      "ranks": 2,
+      "n": 64,
+      "elimination_seconds": [
+        0.006312999999863678,
+        0.00514500000008411,
+        0.0046609999999418505
+      ],
+      "distributed_seconds": [
+        0.006513999999697262,
+        0.005308000000241009,
+        0.004809999999906722
+      ],
+      "left_residual_inf": 1.738059313728012e-15,
+      "right_residual_inf": 2.0739523051665625e-15,
+      "median_elimination_seconds": 0.00514500000008411,
+      "median_distributed_seconds": 0.005308000000241009
+    },
+    {
+      "ranks": 2,
+      "n": 128,
+      "elimination_seconds": [
+        0.00579699999980221,
+        0.004824000000098749,
+        0.004495000000133587
+      ],
+      "distributed_seconds": [
+        0.005909999999857973,
+        0.004922000000078697,
+        0.004591999999774998
+      ],
+      "left_residual_inf": 2.1957195911744113e-15,
+      "right_residual_inf": 3.2167238415960913e-15,
+      "median_elimination_seconds": 0.004824000000098749,
+      "median_distributed_seconds": 0.004922000000078697
+    },
+    {
+      "ranks": 2,
+      "n": 256,
+      "elimination_seconds": [
+        0.014044000000012602,
+        0.016611999999895488,
+        0.016845000000103028
+      ],
+      "distributed_seconds": [
+        0.01438800000005358,
+        0.016939999999976862,
+        0.01716099999975995
+      ],
+      "left_residual_inf": 3.750404433652862e-15,
+      "right_residual_inf": 5.308244589865647e-15,
+      "median_elimination_seconds": 0.016611999999895488,
+      "median_distributed_seconds": 0.016939999999976862
+    },
+    {
+      "ranks": 2,
+      "n": 512,
+      "elimination_seconds": [
+        0.06831400000010035,
+        0.07087799999999334,
+        0.07004200000028504
+      ],
+      "distributed_seconds": [
+        0.06985299999996641,
+        0.07215599999972255,
+        0.07132799999999406
+      ],
+      "left_residual_inf": 6.28260691422503e-15,
+      "right_residual_inf": 9.947634953307004e-15,
+      "median_elimination_seconds": 0.07004200000028504,
+      "median_distributed_seconds": 0.07132799999999406
+    },
+    {
+      "ranks": 4,
+      "n": 64,
+      "elimination_seconds": [
+        0.004932000000280823,
+        0.004316000000017084,
+        0.004320999999890773
+      ],
+      "distributed_seconds": [
+        0.005043000000114262,
+        0.0044629999997596315,
+        0.0044589999997697305
+      ],
+      "left_residual_inf": 1.738059313728012e-15,
+      "right_residual_inf": 2.0739523051665625e-15,
+      "median_elimination_seconds": 0.004320999999890773,
+      "median_distributed_seconds": 0.0044629999997596315
+    },
+    {
+      "ranks": 4,
+      "n": 128,
+      "elimination_seconds": [
+        0.00897400000030757,
+        0.008548000000246248,
+        0.008417999999892345
+      ],
+      "distributed_seconds": [
+        0.009154999999736901,
+        0.008716000000276836,
+        0.008572000000185653
+      ],
+      "left_residual_inf": 2.1957195911744113e-15,
+      "right_residual_inf": 3.2167238415960913e-15,
+      "median_elimination_seconds": 0.008548000000246248,
+      "median_distributed_seconds": 0.008716000000276836
+    },
+    {
+      "ranks": 4,
+      "n": 256,
+      "elimination_seconds": [
+        0.02165000000013606,
+        0.020723999999972875,
+        0.020223999999871012
+      ],
+      "distributed_seconds": [
+        0.02204299999993964,
+        0.021128999999746156,
+        0.020613000000139436
+      ],
+      "left_residual_inf": 3.750404433652862e-15,
+      "right_residual_inf": 5.308244589865647e-15,
+      "median_elimination_seconds": 0.020723999999972875,
+      "median_distributed_seconds": 0.021128999999746156
+    },
+    {
+      "ranks": 4,
+      "n": 512,
+      "elimination_seconds": [
+        0.06348099999968326,
+        0.06058600000005754,
+        0.0636899999999514
+      ],
+      "distributed_seconds": [
+        0.06502199999977165,
+        0.062053000000105385,
+        0.06521100000009028
+      ],
+      "left_residual_inf": 6.28260691422503e-15,
+      "right_residual_inf": 9.947634953307004e-15,
+      "median_elimination_seconds": 0.06348099999968326,
+      "median_distributed_seconds": 0.06502199999977165
+    }
+  ]
+}

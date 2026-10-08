@@ -1,0 +1,2175 @@
+{
+  "observed_on": "2026-10-05",
+  "scope": "Located course-source fingerprints. Third-party material; this is not a claim of authorship, redistribution permission or complete course recovery.",
+  "files": [
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/Brown_Belt/materials/Notes/week_1.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "ece0da241aded0f406895837de3e1d2d6eb82a62",
+      "sha256": "387693764b490ed36bb9ba0da09591a66b2a1e1e891e5404b86740c4b61f4d2f",
+      "bytes": 291134,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/Brown_Belt/materials/Notes/week_2.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "448c8fe6fe516c5264b02b0e73fb4d58306a5c8f",
+      "sha256": "97e303b9aea7ee3eaaac5003f4ba419dffabef3ad4eb6732edaf984c3f08e738",
+      "bytes": 279428,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/Brown_Belt/materials/Notes/week_3.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "b4d9a6d438d677932fd2e9884fcd51b87e796378",
+      "sha256": "d1e4ecb60d969a625a716938d7279cd2060430ad57dc3bf48f0e877267de4ab2",
+      "bytes": 375104,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/Brown_Belt/materials/Notes/week_4.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "b76bea90ce8bf65f5b55ecbb8f48d4a6f1cffba3",
+      "sha256": "4ad9ebbe69339fc520361f4fd30c6d8c68ec5607ed6988d24ac63762bda43364",
+      "bytes": 349765,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/Brown_Belt/materials/Notes/week_5.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "89fdf3cf5a9e5dd397796b7b3d34724b865ee1d6",
+      "sha256": "8da7bc4026eb4890184799477672a1766fb2b1492793fe28e79a94b77c99ce30",
+      "bytes": 254444,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/Red_Belt/materials/1.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "9b3e4a5e9710ae9c943dc441de5b3c5830cd1693",
+      "sha256": "c2fef9ce0f2ab3471682db7a59a15f36c4eb5796ae0239e304b83c69817944b2",
+      "bytes": 250235,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/Red_Belt/materials/2.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "960fed3cba4637da672cbe40277ef62a9e0cb006",
+      "sha256": "5c883147e68fbbe639107b2bcb1430a6d53c82aa5441965b30ff6d63ffb72cdd",
+      "bytes": 279520,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/Red_Belt/materials/3.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "cfcd3563fec3605f912ba510eb27735fa58afc6d",
+      "sha256": "056fb9184cd52ae50bc948f9662b164a3d9865af2c13ae1cf9f5b39a78c098de",
+      "bytes": 1173738,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/Red_Belt/materials/4.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "b5457fb158ad4cbf76a5ee2e4c2c7553c72a74a3",
+      "sha256": "de0af09f37ef68b67191c6f9eb67532d65924a61550d8a656c158e49a5165df9",
+      "bytes": 901094,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/Red_Belt/materials/5.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "7f0e598de72f71e7a250a1c582642fd86721cbbf",
+      "sha256": "d4b57ffafcb98b98638f979b9dee15305b5fadc8c5a80ea5666f060b7245a28b",
+      "bytes": 2877465,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/White_Belt/materials/W1P4.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "3b9ed10f99c63793d296feeedf9e652b5d1a2545",
+      "sha256": "c83299f69c2905d4cd6f489f7dce2aed4e74a9061908f47e3f25ab9d4e488b15",
+      "bytes": 32943,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/White_Belt/materials/W2P1.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "1c18aa6c2cf537a36634a816d93d2ce1b4ee0bb0",
+      "sha256": "fe13e89b554d7a0aa478a3441bb85bf2d71980868bc965bf7d2bec026b759f69",
+      "bytes": 81466,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/White_Belt/materials/W2P2.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "35624efc86cd48bc72fe52f288e4cec33dc230a1",
+      "sha256": "8b6bcee01a5099372d56052a9f38310eff9da3d46b205125e3967bcb36e1708d",
+      "bytes": 72320,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/White_Belt/materials/W3P1.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "75b64e71e0496bd76485c03b44e201e3fb9c5d1c",
+      "sha256": "55ab5d084657fe03e95d88c0a3665e64ba0388e68e4143f5bb2ecfce4e6dbe78",
+      "bytes": 42909,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/White_Belt/materials/W3P2.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "1c93d1d4407575156e780aab4e03f96af805a093",
+      "sha256": "9e0c175c8b46fad4d923e76fdca43921f38d54c2476600dd9616e87e18c55b39",
+      "bytes": 37592,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/White_Belt/materials/W3P3.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "e178392af96ca5e38e179ef4b4a53f36c9337de1",
+      "sha256": "efde1605c099f578699150fef0d9da138f99c33e344dae0f881698cd5b38da78",
+      "bytes": 89672,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/White_Belt/materials/W4P1.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "28f61f1458b9a29e4fe4cc0f0c7f790275f9929c",
+      "sha256": "b77008906c258ebb3882e270880713fd7e364448e3c172adb7f89d142b84ea41",
+      "bytes": 74891,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/White_Belt/materials/W4P2.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "f0be2eb883190aa42f2cd39facfd575dd197f5c5",
+      "sha256": "5bd13d080db409f9199c8c6fd7a5d22b0e8902e0ae322213ff0933b8144f9031",
+      "bytes": 48755,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/White_Belt/materials/W4P3.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "2219f901249e4fb4fe4a5e967b4279771722adf6",
+      "sha256": "5f32710edc9eaab8e4f928e036c4a2e8918e8b71f9054f09082f80e9d89d182a",
+      "bytes": 52822,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/White_Belt/materials/W4P4.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "136f92d9405a2e68b688d9067d83b8541ae32f24",
+      "sha256": "77716fac16d9bdc5f516d4e4b1fa63e1c08b45d66d195173fb168511ab65a70e",
+      "bytes": 38146,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/Yellow_Belt/materials/week1.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "9d3a391781ddad4ee92089f0fa7e2e945a39e481",
+      "sha256": "3e405ffffe586c598137067f9bfb9a2d61d758469d521b02c39894dfc081a821",
+      "bytes": 361931,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/Yellow_Belt/materials/week2.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "347a3400c4dab54705a3bf1671cec844975cd807",
+      "sha256": "1c0a4e76d58a7cff40673b06821044b1cf9e4066ec355f700aa193242bc20d00",
+      "bytes": 259333,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/Yellow_Belt/materials/week3.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "6e16d0699886168460f46dbf781bd3c68493f9e6",
+      "sha256": "25174e920d3a9879cfdf3a4e7240fef80fa8d7ce2af63f0541af09957072ccc2",
+      "bytes": 2562309,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/Yellow_Belt/materials/week4.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "3c58d619eff6cba169a107b6da3dfb9b2ba6840a",
+      "sha256": "5bd66ced5ddee817e5e3efc81e75c38394df5191930372ca7e84b80c91513a5f",
+      "bytes": 427756,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Jerma066/Coursera_MIPT_Cpp/aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e/Yellow_Belt/materials/week5.pdf",
+      "source_repository": "Jerma066/Coursera_MIPT_Cpp",
+      "source_commit": "aedbe1459a25ddd9b3ac3930f64b50a73c84ca2e",
+      "git_blob_sha": "002d468dc4d69ba517fe8ad253f1fa48636ee9dd",
+      "sha256": "cbda9422e47b7a74d6de584e27e5a4a5b0b1a3fea041001a012de03fce71e1c6",
+      "bytes": 283333,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/01-First-week/01-Sum/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "a4a8f569b7086aafac2a06d31c25ee4b1c28f0d3",
+      "sha256": "81987611624d1942ff574061846a089e741ec813c795a6a598c361b2bcb7e50c",
+      "bytes": 1391,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/01-First-week/02-MinString/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "89053be629194c4f6b0861acffdccdf0ec3b6489",
+      "sha256": "effd1c4e0f6e9bab6a3c0ea16317c9dcc64f58008a78339dc7dfae672830c04a",
+      "bytes": 599,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/01-First-week/03-Equation/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "7e870ee52d27935e267a819d2b707c41ca5bf7c3",
+      "sha256": "eb06f11863ccfa04846bb89cd7819b6cb9d0c81a9663e2fedb1180eb4d1e2c64",
+      "bytes": 1052,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/01-First-week/04-Division/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "d76fd6f9cd9261e66ec1c0ef7a0104341be04a03",
+      "sha256": "f2939c778eee5a176bd51e31600ca9dd57fca90655b19d60a8e530d6b980af4d",
+      "bytes": 467,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/01-First-week/05-Value/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "b388822dc334adc85b4bdc52426d78daad39c3fb",
+      "sha256": "3f0780964f296de7e937ff2584ebf94d169c9b68ca8f85c7ac47584aa8ed202a",
+      "bytes": 984,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/01-First-week/06-EvenNums/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "7fd08c54d19b16a35c07cd41b6ca9cbd1ca6b1e6",
+      "sha256": "c4d497814559c4b7deafcad37f70f8ed9361873f67163b6489076cea6ce3cd70",
+      "bytes": 762,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/01-First-week/07-SecondOccurence/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "d19f423535d1a08d31469c6ae3c27836d2f46a18",
+      "sha256": "dc8017c8bc28b33faa22a7e47ecb5df8d82a2f735c209d3068b3761b2330074a",
+      "bytes": 630,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/01-First-week/08-GCD/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "a6eb82fc7a4b2008922e49e923023d5a9beed129",
+      "sha256": "6a420107a59b18d3d489effffb723cbe31386be1c9a498fded02fc3b52256243",
+      "bytes": 335,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/01-First-week/09-BinaryNums/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "5e7cc0afd8df165df3d8d1da6893452f59e6f797",
+      "sha256": "0349627a38cc3ed1da5180985534199e0d25546389a02a94944a91f33a18909e",
+      "bytes": 1099,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/01-First-week/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "85dbc1a1638be4f289a4c8ce8975282993bb8934",
+      "sha256": "a1150f7ace94251e0721e49ed34cfb82c1d29aabd4d6cfe796bab43468959763",
+      "bytes": 449,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/01-Factorial/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "203c0de07bdb99bfd8c20c94450910d3a78c2cde",
+      "sha256": "5470d97b7ce098015c09286533374ee7d2c30f8e467c8b23691501a0a4e9c514",
+      "bytes": 602,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/02-Palindrome/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "47872bc595143b51f8a5e0c7cf7ac3803011131b",
+      "sha256": "17051a3f5ee8bc4558094badc89dbd061cc68dda9e3d2c0f99fec8ef258a15e7",
+      "bytes": 698,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/03-PalindromeFilter/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "da67ab932148cbc764eb8123c52591c3dca08d81",
+      "sha256": "1d1aa95e303bde564701152110543de4cb12b8dc490bddad5c1215419e313424",
+      "bytes": 1294,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/04-Maximizer/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "01988bc82b5dc99393c284bd7ced35059a29d14f",
+      "sha256": "a69bc7fa59801cdb1d001ce63c7a23fd6a6e96a0ce885de4c62c25c4c9fa1a60",
+      "bytes": 746,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/05-StringMover/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "6c90ac11efdbe7fdcc128aca0864049eafb0ecdc",
+      "sha256": "9ad5083503fb211c668de8584758b76aea22720fefd4b133bd82d39e386b8e04",
+      "bytes": 998,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/06-SequenceReversed/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "dd82c7384627301836d884a4c950780b5b9d654b",
+      "sha256": "8437164e4e41e2948af22109520bc1b0bb33dfe2bc2b1ec776c3d361abfa9ef5",
+      "bytes": 444,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/07-SequenceReversed2/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "abccce03ff1bdcb3427127d74955ada670fbe7f4",
+      "sha256": "df90edccdc889445dc1ac38c45f9463104e6bb5988e464371e8c77b6ca2aca10",
+      "bytes": 459,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/08-MeanTemperature/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "eecc3fb9b228cb9509bd5d5b8d7ed477d7202fb8",
+      "sha256": "709dad5d0fa19458c4f54037b2ea3a3789c449e93beb7602fcb41075688be594",
+      "bytes": 1180,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/09-Queue/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "a935028193357d207d8fbcdebfd9ed20c3ba7939",
+      "sha256": "fee9de046f58994943bb5612fcb3c54e54ec83e9eeb6addbfe26af3b1233e2e6",
+      "bytes": 2051,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/10-MonthlyTasks/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "bb8c4223a0289a57d0da38831deb2e5d843b9ce9",
+      "sha256": "d265e9961366ca97aa295a6efa6a3224db2f033802b6b8d734876e25d9b4caba",
+      "bytes": 5401,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/11-Anagrams/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "9618f7bf857681386c630ad9e15fd19fe458c2cf",
+      "sha256": "cc63082d5dce50d9c9a166017fe7e613ff071d71e71fc8f79c9c00852a2f817a",
+      "bytes": 2205,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/12-Dictionary/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "9223bda6f017cfc734db36046cb896dbfeebd541",
+      "sha256": "0db854ced4b8df34b4335c4e5cc34cb64605fe5cb09abffb2377b582d20f3faf",
+      "bytes": 7075,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/13-BusSchedule/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "e2f9250d9e55aa6b8a24ba81708c5015510d4b90",
+      "sha256": "2343ef5c4a1b6e9a6100afef174fa6a17342072ccbb3573890c920a85a46165d",
+      "bytes": 5150,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/14-BusSchedule2/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "e6476e5c95f17b464f6600e4ac496e93303c1dda",
+      "sha256": "6032878fb1e4784b4a3abdf11f2ae2939f9023709765225c895767b21ebcb157",
+      "bytes": 3729,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/15-UniqueStrings/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "a75f72e34af9e95deb0c9b25417bbc4cab577a9b",
+      "sha256": "4116bbe63ab008770f69f79a9cdccca5cc08188991cb8f0f3624f8b0d5bea0c9",
+      "bytes": 856,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/16-DictionaryValues/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "ce4f16c7042f95a050fa1035c2a3a1bc2d6b2a7a",
+      "sha256": "87c05c949b3c55c62fb001f8ac4ffe227d9bf2f05cd0707d21b81d90214b5b50",
+      "bytes": 1037,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/17-Synonims/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "02e23c24124349b20bf0c205fb453942499a56a5",
+      "sha256": "0d90d854489cad14b5d72b46d0957bfc8ec3e4f201d51680f9aee1e4b4fe65e9",
+      "bytes": 2437,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/18-BusSchedule3/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "a48c3fee11b27991a7b1217d73d7094d594d0176",
+      "sha256": "9728bbd083f1735a4b73de02b202d3272f87b1bf9899268a0dd0581aedda7f10",
+      "bytes": 3537,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "de90d2a0552e58b3bbe719b0d4520e3d527aad38",
+      "sha256": "d29f4bfb40d1453a390f81309223d3beafa8db3b21f6dc8d05955c95ed6ef803",
+      "bytes": 256,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/03-Third-week/01-AbsSort/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "433f4dacd0f45ecc3ca116324630f73182c92426",
+      "sha256": "cc4e2ab847ad2d203dfbb7dca370100dfe3eeb4ba76b42cb7a73954d807e0ef1",
+      "bytes": 902,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/03-Third-week/02-ToLowerSort/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "3644774bc8fc5c2109ae8b8856858c3742cbd15a",
+      "sha256": "929cf2857a8cf2a830f05be545d4608d0e5c8c821c01d1a147900cab83b55f40",
+      "bytes": 984,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/03-Third-week/03-SortedStrings/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "d8f2584aafd5f5d478e3690cffff913d2e6d0474",
+      "sha256": "3ec129c0f0a9a0016946594eb947116fbf4e640539e03a74dfc8e056f1a3adc6",
+      "bytes": 1194,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/03-Third-week/04-Names1/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "cf6779cf787cf2e6427ed4721d2e4ef725d1cecf",
+      "sha256": "ac5bbeb826dc43af78cda9e060c39561af9993d0e16dd964e34ea1ffd91d9e66",
+      "bytes": 2988,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/03-Third-week/05-Names2/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "9be66a9cbb9569ee990f553be8d286d015e49d0d",
+      "sha256": "5402bc10cc4d15c0e492b48f0db5372e0a51d503b2eb9eb4d1f658bb57d45695",
+      "bytes": 3563,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/03-Third-week/06-String/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "df6528c70f37debe393386415c198c0ffe150d58",
+      "sha256": "7f329b50bdbfa337f7ba4f4af0917d5b92596174a59131fe0fa18c79ea55a3ec",
+      "bytes": 686,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/03-Third-week/07-Names3/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "5ec2ed51b9036d7b8502685e987402a25b5e19b8",
+      "sha256": "19629f01de511d2362cd8172bf0f5380dc8e47663cd6a4641528452f8a192756",
+      "bytes": 1454,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/03-Third-week/08-Incognizable/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "464bb364aca2f8874f1f2892bb2c8d3c7e359b0a",
+      "sha256": "9b34a0af808a807b5fcce686a12f4665d8aa84659d07de958612f0fa3c241dca",
+      "bytes": 355,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/03-Third-week/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "a1a6f02af51fb9f39d9920e9ea4f8b66c371be20",
+      "sha256": "bc19fe7b779b15c29171f6c26d46bba580063d0d5faf387e328873492b0f705d",
+      "bytes": 436,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/01-LectureTitle/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "97d91946675d4bfc64f3222a16d2ae7c714aad57",
+      "sha256": "b6b97bfbfc943c27f9f26262cc496b809ca1d3886164ba39cdd51ef4431dbe84",
+      "bytes": 1053,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/02-ReversableFunc/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "a2383b18e31d4984df70ba3745054bd1e60ca701",
+      "sha256": "5c2973679ac04dcda94858b8231236b2bba15ed7d8a32cbf66103a655f583b7d",
+      "bytes": 1752,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/03-ReversableFunc2/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "af43c605554e4fe4f6b2ea7de50bbb8dd92cb094",
+      "sha256": "5828f073fe6b867df54994beb8e5c2547d1bd79c8b17af33c3bdb479317779d7",
+      "bytes": 1565,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/04-Input1/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "98f0d8b44b99ff291668fa7c87aa3810240ad4a9",
+      "sha256": "831ce8ac9ad07c5db4d44a8b4316bfed42ab06bf354d56dd56db76e0fc64692f",
+      "bytes": 556,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/05-Input2/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "b32790bdd14296de69703554f63ecbf6361dcefa",
+      "sha256": "0623a3cd3fb8e56cdfcaa6da41946f31e70aa0b201f8c26367b9e661ce9445ae",
+      "bytes": 565,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/06-Precision/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "e887e7b36bf0981255617fe67b958f568fd5144f",
+      "sha256": "74dc2bba7f9b1ba80563ecc5ca4e7fa25021979ea78e670762e74581e12ad6a4",
+      "bytes": 799,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/07-TableReading/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "5af5e7f42d6264a89df2f81f1b9a79e72921178b",
+      "sha256": "260457ccd210edea88ff34ab7e0448f968c80a2ab14c55930b894ce2638f8477",
+      "bytes": 1542,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/08-StudentList/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "17aa0a8cc01cd3ff9dc098f87d8c91abe593578d",
+      "sha256": "7415b0c91e166c69ec6bf672bd6d5c61751c3d4407f8c137d38b0f3074bc1299",
+      "bytes": 2020,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/09-Rational/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "bfaceee965b21d8770c2b8a7bfa862f2b1b0f721",
+      "sha256": "3451a470da59acc3178a9ff3b8eeb47b6d94c0f6c4480198aef4c7f16aa1ac33",
+      "bytes": 8402,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/10-EnsureEqual/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "67525907da6e6590456e4564ef8499b1f3367e08",
+      "sha256": "5cdc2d32d837457b8d0d96e3327bbbfe17ebed51f76d64ad35a7ba605d4bfcb4",
+      "bytes": 1178,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/11-RationalExceptions/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "b4f55c8dc31091e1b350368774c1bb89348c4f89",
+      "sha256": "5288f09d80b711a78837885b167888f0db4d4b11621a267db8c71ce661f89fb9",
+      "bytes": 2387,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/12-Calc/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "1e0b0734e58a512fd0b7e3c890c079d598987be6",
+      "sha256": "3eadfd887fceb90d336b923258cdeff1700893fe12397a3de26b03e5e4e1c415",
+      "bytes": 1778,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/13-TimeServer/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "4268f24b98c970363985302476f7337c80f0c993",
+      "sha256": "6ac4051321b29851499ea04edc93bd19f053a108a89a2a848b3f6d629ec13b1c",
+      "bytes": 3192,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "b3485a95348a4dde0017ddab35f70fd7d9785376",
+      "sha256": "7e527d5e2cb7fe0852e088d1edb8b0868f93fbc8f3b2d699d37d036f9aa79a49",
+      "bytes": 348,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/05-Course-project/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "85bcc162082e3fdcfaab012b65bab6282dbdf020",
+      "sha256": "baa822cf12d4d2a7c9f31569a03824a05fab9711a190d08b486ed24d89fb85ef",
+      "bytes": 15237,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "ca5fbe6ddf1fd655f3619fc930f65fb0ad5dc814",
+      "sha256": "6f05e2deae7412197239beb5c74205f91d097488dca8fc60e22210b88ee02118",
+      "bytes": 678,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/01-First-week/01-Matrix-Sum/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "dae680965d0abebf8651a44dcb9e6ea2b3692cd3",
+      "sha256": "6d41a014e06104c4d02f46d5916b2462ad93005b2bad4f18e8769cd3b5785383",
+      "bytes": 5717,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/01-First-week/02-Mean-Temperature/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "84a5eba20289dc3672c3299b6077d261cd58ed02",
+      "sha256": "932c3495b7b71e410f6c1fd9558ca93692136d07e4b37ecce274f5c16d9ea1e1",
+      "bytes": 1787,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/01-First-week/03-Block-Mass/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "a98aacea0262f7d83e52c70de769ca25b94b6c2c",
+      "sha256": "911893c8506d31d9dffa48c1824b3ff63382e7cbba88b3b17972bda8aa8162a6",
+      "bytes": 1466,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/01-First-week/04-Region-Base/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "5a187341d4280e7d7ae14ef99c77c4dd0919eee9",
+      "sha256": "8e609ef1ccc6d0d7cbce0017b7b066c8739147cc181e0774fe51c26d6036c5f9",
+      "bytes": 3350,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/01-First-week/05-Issue-Tracker/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "dc693fca79de6d57323f50311086f9cf99a9b052",
+      "sha256": "f042fa1256e9d63a55d79fdcc6b1b2383eba18dcf997f42c86b971ddf9ce65ee",
+      "bytes": 7607,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/01-First-week/06-Squares/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "9393173d81e5f4db5c68cd88231dee082728155c",
+      "sha256": "0aa01f207875f80af5b3af319fa892f5fb099e14dbbed6fe69f40770172c8a6a",
+      "bytes": 2093,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/01-First-week/07-Reference/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "1430761e209cb42936d2a94b8e95529fa539624f",
+      "sha256": "c1cf3163ce46069dba2fac8c6b11f9e409c4d3d82fb7d45e95aaadab22e1a294",
+      "bytes": 654,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/01-First-week/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "073dd6cf151935ff0ebae06f214b302cb35b06fd",
+      "sha256": "b7908544130cb95e22bf2e8849a4c6bbf4e0033db056f17346678002cb7ea52e",
+      "bytes": 303,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/02-Second-week/01-Decomposition/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "b73116953d4d9b9cac11b941d4aecb6f0aca03d8",
+      "sha256": "db3a5b0d26ddba04058fd9e3f963cf35d30a8cfac328432c6e4fd272cb0122c5",
+      "bytes": 6113,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/02-Second-week/02-GetDistinctRealRootCount/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "2db058cf098f9706224478f78729790a946de4ed",
+      "sha256": "32164ef89ea498a201b879b5418f49b272f4f1b780fa9659dfabd584039716a1",
+      "bytes": 758,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/02-Second-week/03-PersonTest/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "6715d2f7cdcdfa0550e52e0e464b99faf4055b57",
+      "sha256": "b3deb262e53aeab2e1a2cce117cb72d0a0c895beb1f1f02798dd7514d7539b06",
+      "bytes": 3784,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/02-Second-week/04-RationalTest/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "d0d5b808cb5746eec8c2627a6fe9d8bd8639bde6",
+      "sha256": "5985d457b1f4283412bd41b310a4cd3ab060cae75bade8bef171eb5a5b95ebc5",
+      "bytes": 2484,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/02-Second-week/05-IsPalindromTest/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "bc6284246fd0cfe6e4f2ddb42a2b316a82525eb8",
+      "sha256": "bf33c5cd97bab63d2c391c3387c06882afaee8240a71b90532f0edc473ebc43c",
+      "bytes": 1911,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/02-Second-week/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "c14ece5d51f9f4b10693b823b0467d92bc2f3984",
+      "sha256": "d60a16b31d5e3ee510aeab856ce341b188361097c85abf8f008335f4878e8aac",
+      "bytes": 440,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/03-Third-week/01-SumReverseSort/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "b44eb0375b393caef1358330155e08480c2da25e",
+      "sha256": "13b15530be32c3f427fcaac806d37be009c36c30d39f7761bfea05ff7c6a3b9c",
+      "bytes": 516,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/03-Third-week/02-PhoneNumber/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "041fd00a30b1f31ef0a407c56cff52e3de98949f",
+      "sha256": "b44fa0529424dc0383e75d03fcef4e0c8af00594640befa52fc0f78b7e9bbc8b",
+      "bytes": 1995,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/03-Third-week/03-ClassDeclaration/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "cf70d68b9f206137b5da883a684cd07adcdd32ae",
+      "sha256": "a7a446b196b09457e439bf5e3878b9e390124b3cad8bafcfb6495afd17bbd9f7",
+      "bytes": 944,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/03-Third-week/04-Decomposition2/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "5250a856daa3091cddcd12024e5aa97b5f75796f",
+      "sha256": "22d3abe2a7fbd00d0b9fd937e494125d7308ad3fd72346418d0f8bc46ca8fae2",
+      "bytes": 1313,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/03-Third-week/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "2add9a54a1b5ceb84c231d042e9b97e5e17b541f",
+      "sha256": "b8653a726adda01a5a3afff271bbc7d60792fa942e139c17887d2f5cb2f10656",
+      "bytes": 213,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/01-PrintVectorPart/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "d27d5126b2b57a5b5caf660888659e301b78e512",
+      "sha256": "6b51ffd283ac4443941d27fe84334b7d39db31d19312aab5b4c0d081fc10faa1",
+      "bytes": 948,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/02-FindGreaterElements/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "0e5bbe7244b9bcea4e2784d87f3911de47272396",
+      "sha256": "b463d489e2e9c2bdd13257ff1165caa5ba3f3ea1062c94cb22608a0117a04c44",
+      "bytes": 822,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/03-SplitIntoWords/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "8a90f6c935232b1f6ec54b4a6d59eb0e49f5a5cd",
+      "sha256": "d1bb587e8152f0674314c661a15270f3419971699f411cd99be63e98614ce764",
+      "bytes": 1292,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/04-RemoveDuplicates/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "d2441398ade234cf73c9b7b5e943ec7b60c4101a",
+      "sha256": "d44e3892a58c072e58d5a151c727a3c7e2c149060c2dd9b2283ad0bf4e366b47",
+      "bytes": 1095,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/05-Permutations/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "38284049ca0b1740bc05d847de8685b6de374762",
+      "sha256": "07933bc03ccb7b51614e1f79725681fa3db646e845c960ae920f009a513c717f",
+      "bytes": 436,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/06-PersonStats/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "750f1cb5bbf2f083256c5459a7646f0ca82f6982",
+      "sha256": "53c6326e0ca6c7ab87973b74d5a2de28a9f21052a6707f004f3559d908eb8cfb",
+      "bytes": 4302,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/07-MergeSort/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "42c357e16840c3816fb8d6da41e8ee73df757e95",
+      "sha256": "c390dcade6a3ad0d552fb14410821c61ff473123e237e8265d45d54498658197",
+      "bytes": 3394,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/08-MergeSort2/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "7f050b396a83fc94613e127d601ae05055665b26",
+      "sha256": "2bacb0c1540e6a2a241db5fc9bf38ed401fce3dfc042e56d4cdfa83cbc5a4d71",
+      "bytes": 1407,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/09-Budget/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "8cecdf7400accb281bee137f5f2ae25c20094851",
+      "sha256": "d5abc3ee70903bfe4dfcd81d7aa4bff25c8ba97d2926ba83294562b81709f18c",
+      "bytes": 2247,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/10-Budget2/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "bffa774454fd47b74368d3cb592ca8138bec1cc4",
+      "sha256": "817fbaafa307ffb399cfc24231b03b138fce588a17d8ce9bc22110ddd73f9904",
+      "bytes": 2533,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/11-FindNearestElement/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "09bcfeed82c41ee1039f399f6e06886c62275bd1",
+      "sha256": "e651714768ad4d6e165a420da3191e79ff97d024cbf83dbc866adb3c32267625",
+      "bytes": 1180,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/12-Person4/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "37aeceb414bcb976ece5abb0b302e8b6b3561d4e",
+      "sha256": "2740c433ee3d26a7694307cb82cdeb04fec0dec0586b1d075f9ec528a75542e8",
+      "bytes": 3196,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/13-Prefix/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "17972b7eecd094a28ff319415163e1b460db6b3b",
+      "sha256": "4370c4b4d5c0519865eb54cad841a9fb9ee24b5d517e37f05bc0b6e9fea088be",
+      "bytes": 2867,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/14-Prefix2/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "f08e3dd0d4e3deb44fb331caaf363844d2148d43",
+      "sha256": "4feb66385b1e3e23ca1590cdfd32cf5ef082885bb6421a73dc2bab90b9ddddda",
+      "bytes": 1347,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/15-Arithmetic/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "a8fbaa8223d9163f47c8c74ebf898db0047c05df",
+      "sha256": "c0bb6695a550c75310753292592113915efc0fd5a722d8a67919dcedbd7b0b20",
+      "bytes": 3056,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/16-Arithmetic2/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "851a1bc626974004d28ad7dbf6b608843d865ecb",
+      "sha256": "c841bb8b9a3500f5b2566bdb116a703da21bebe02251d8b7e1571e42c2cb2018",
+      "bytes": 555,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "10beeb5aef3b284a3288fc58376562de4fe54ee8",
+      "sha256": "e8cfc576029a47e5d336a88f0c05daf5045d5fe76e42368b03e3183c5433bfd7",
+      "bytes": 399,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/05-Fifth-week/01-Inheritance/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "3dfe22461fa0a9a99b0f0897a6c23412b3396ce3",
+      "sha256": "dac96c1ae9fa75f323df9ee05a9072dbaa16fca69d6f69eeb55d63f83394a0f0",
+      "bytes": 727,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/05-Fifth-week/02-SendMessage/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "9d9ce69405409e45c8e40bcff90bd8e46c35d761",
+      "sha256": "07a8caaf7096dbaec171b19ced3d010959373d92608565c39112bdbcc0e56517",
+      "bytes": 2709,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/05-Fifth-week/03-Figures/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "67c145bb0f301febfae57160eceded3eb152cd08",
+      "sha256": "2adbb199716c840a4e1a807a7f583edc213d7d4c939e661d2c8e697de8cae716",
+      "bytes": 2844,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/05-Fifth-week/04-Refactoring/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "90fb1c136cd842cffccc5ebd6bf4a08e9b721521",
+      "sha256": "ba69c6e9cb9a82c0842b62da313f6eab162f5cb0e797a1ea42e031c4e841b90c",
+      "bytes": 3705,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/05-Fifth-week/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "c6a772130b4995703ea2cede79911e659ab09acf",
+      "sha256": "d64bd5c0da8e2813bb95252f4f0c85fb2efbdd19da4ff2e89c785f31234c66aa",
+      "bytes": 108,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/06-Course-project/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "92190a7dcb1cc416a55d3291bd07c9bded1fb123",
+      "sha256": "9a6ff1aad5fb9197665ff20da699e39adae12ef84bbf525e4c3f2e205e76da0e",
+      "bytes": 14381,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "2ab1a34deb654a7a7e7b388b4954f925053c0ecc",
+      "sha256": "c3d8e58f04c6f1d979601a4a6ff9858868c79c2fc0a7741dcbcba0950a9b569d",
+      "bytes": 1672,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/01-First-week/01-MaxElement/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "b5a216ffaeb8c0c5ebc392c004e443990d183baa",
+      "sha256": "aaa5cc6a1fb0af788f9642d49b651517be32fe436ef8f32e3c0a5684897261ed",
+      "bytes": 2220,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/01-First-week/02-LogMacro/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "1773a79a14362f309b9419c43c108a396d1baa03",
+      "sha256": "d3d5be4847b22eb612d4ca64b7313323328e0f41930789a6db02935ad41b1e32",
+      "bytes": 2056,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/01-First-week/03-CompGen/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "917843340fb7f210695086935776151d29cfad4d",
+      "sha256": "2049402ce1395866df9e5618e9ce28d153313b0a9c1c094d279caeec3e4f4d28",
+      "bytes": 3591,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/01-First-week/04-UPDATE_FIELD/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "4d1e269204a7b4dedad38af2a99337d75e1cd53f",
+      "sha256": "0724b5d45974aadd5949260a66149461b76e101bc6ccdc646518d7a926a84320",
+      "bytes": 3642,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/01-First-week/05-BadMacro/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "5e069c913614ca909810a95ec1a67291efb1adf1",
+      "sha256": "03114dfb0efbd23b5fd7f9eb9cbf3179ed464240e055dcba7599dc782466965c",
+      "bytes": 593,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/01-First-week/06-UNIQ_ID/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "997bba168ab58cbdd5176b8c337a643a4d018658",
+      "sha256": "c1237a02a57a4fe3a2699c80e4ddd45bfbbb0606e6c7e581e4e31ef4f444a4c3",
+      "bytes": 685,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/01-First-week/07-Table/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "d4e2e42e4e48cecd449be385c6f3c89ae32f45ba",
+      "sha256": "b9466430d476999d0d4c1e528c23ee10b27d9af62c81562a2016feaa39a39894",
+      "bytes": 2141,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/01-First-week/08-Deque/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "b52ba41838b80cfd1ca9472cb9dde7d85b6aba4f",
+      "sha256": "0e2ed2e8b17fdcababb97d46959d628a692e5551702a5b2a3f8e5fcf8c5d86aa",
+      "bytes": 1926,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/01-First-week/09-Paginator/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "bae4f084c92d011b9e888ed67068aeefa5d88de6",
+      "sha256": "7ce853c4e623acc58e4a7c41d5ba366a151d8aac5ed195a3bf273c70d5b84757",
+      "bytes": 3598,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/01-First-week/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "1002ed4a4d6284704f89a739fd8d30df74b8e4d3",
+      "sha256": "f1cb1d60a01457a430ab85591e37af75d15b9ddc716a294419ddae41a863d25b",
+      "bytes": 346,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/02-Second-week/01-Ranking/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "9470ebbe28d2aa82b74e5a0c66ab1058773220c2",
+      "sha256": "ea17aa7150202984b25377036668a1964c7c7e582b659429910d5bf819398193",
+      "bytes": 1431,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/02-Second-week/02-Learner/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "7b551c9af5c874de5ed359b1088734ed59d2b053",
+      "sha256": "6d6993aef9b87410457d2014079cf4055ede268d7fdd5f92b84604f4428bbd03",
+      "bytes": 1760,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/02-Second-week/03-Express/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "955705971741a7d5e5ece417da9d85a367b7bd32",
+      "sha256": "268b3f28f9c282d797ba2bc417e4a3f43e4e0499163243bf36213188b5302723",
+      "bytes": 3834,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/02-Second-week/04-Book/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "ced69854d82043deaa58803cb2e329915311ce48",
+      "sha256": "562b433caf3acafd6591d7da306dd73919fb6fd2108a8e83b765978632f89ae7",
+      "bytes": 4740,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/02-Second-week/05-Booking/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "0fd7a9f46a0613d77bd8183a03b2e91e47f05afc",
+      "sha256": "bfa89b382763b5662d9ae841bb50d2a4fff4ff2eb1af3f82a7694070cff821d0",
+      "bytes": 4185,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/02-Second-week/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "bbd1c7dd8fced0a6bbc24f3b2c42baea211150ce",
+      "sha256": "21988a485c470f5ebdfdc280c959d4e275d6288c72bbbc56ef2b78cd987df4aa",
+      "bytes": 367,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/03-Third-week/01-Objects/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "3d035ef9afcf23a9fd37a7abe2e87d77eeaf1f52",
+      "sha256": "d1076f26356f9c19394b4649573f6429a73a715398d8183e592375edae80cd6e",
+      "bytes": 2973,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/03-Third-week/02-Swap/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "fe9f28ab4f99afefdf7c231b720dbb5e28b2c372",
+      "sha256": "2c5ec7a1b5c993162c6a8b3cfeb62ac213f70633fce8b29d49cae751789f825a",
+      "bytes": 1328,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/03-Third-week/03-SimpleVector/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "aa6be5b4ff8a7db7ac0946c74a534d9c8b3f87fa",
+      "sha256": "8968e74bdb22d2843c9a11162432cb839cdb396c52b3daad42feb9581dd84f05",
+      "bytes": 2251,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/03-Third-week/04-LinkedList/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "c95a2796d7943cb7a174c2b05451b23bf1d99e64",
+      "sha256": "8067455878144e68eb2d622809fcb01de4551ac84439ca366c88a4ffeb9fafc3",
+      "bytes": 2579,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/03-Third-week/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "743e0dab7b585b1427833509df4d8756a80d7d28",
+      "sha256": "9da6042cde8f1d316717b47215d9852697f366cb8194b9719727023037e1e6c5",
+      "bytes": 67,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/04-Fourth-week/01-Sportsmen/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "a862c7984c348d40526562d593ff463595f8d2fb",
+      "sha256": "447cbf41ae6f7a721f7732f29d382693589ea292459b100e0350c36b587a6c5a",
+      "bytes": 1616,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/04-Fourth-week/02-StackVector/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "3539a8af2ad45e1d205f57aa733d04142db1c301",
+      "sha256": "655238dbfc144f6596cc255e2c7c03c7511445895aad4906f2b5967a87cfe77e",
+      "bytes": 5408,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/04-Fourth-week/03-Translator/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "fc29ab7f70ec92030a4d92ec51d8f0b4a5cac5e3",
+      "sha256": "74ab6767592308de16b2992e7def00e9a3b203b26d63e5f99cfac26a1e71796b",
+      "bytes": 2679,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/04-Fourth-week/04-AirportCounter/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "95ae0165813e6036efe84fecbca66c8acd346416",
+      "sha256": "c5487ada84db6b4ff248c71665c299b691f01f9000e00bbd8ca52d2513dff271",
+      "bytes": 5636,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/04-Fourth-week/05-TextEditor/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "09f3aaa68771000cac6676dab05101c15be0276c",
+      "sha256": "a1d25d9e98d1556181646f77282c8058f5a673d339739e95ef3866462e2aaaa5",
+      "bytes": 7570,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/04-Fourth-week/06-WebServer/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "7cc601c836cb5ecd172d3b41658cc302e4b077e8",
+      "sha256": "96e801c806d52f7af2e761eda9b64464ea64e7d924fb89df3183e45d5ac93b71",
+      "bytes": 5297,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/04-Fourth-week/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "e4e5b1fceab0acea3b6441729cfa310bed3568dc",
+      "sha256": "fec2916ddfcee2817dce3116585deafd6d47bbb12a769acf476625b0b4413a07",
+      "bytes": 402,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/05-Fifth-week/01-JosephusPermutation/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "4bba667ac4104f33bb685efeb3d5b1c33cfe433d",
+      "sha256": "86946abed9298ed25f6361ed566665c75d9c69384ae04d54723d6c92c3f887a1",
+      "bytes": 1792,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/05-Fifth-week/02-StringGroup/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "9e7a46e6476c6e1e9868cc50f8de274c4bad17ee",
+      "sha256": "dcd2b3c2f369bd69fb0349ff3a21466d18e19a7e4f28f70ab076074a607215e7",
+      "bytes": 3689,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/05-Fifth-week/03-SimpleVector2/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "74c46b47ef8c1f656867ac0c949d9fb1c300e166",
+      "sha256": "4ce8b37b0427289532979934a221cf4734f0d96d9aed03c9f96ee9d3858325a9",
+      "bytes": 1286,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/05-Fifth-week/04-Sentence/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "3b0997199853a980372a107982a57b1ebb96c812",
+      "sha256": "49b28448faa93dae2af0f2fe8052346c36f9dffed8c62d3bd9a1cf44860d6eb6",
+      "bytes": 2651,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/05-Fifth-week/05-SimpleVector3/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "9531eaea60df5f8fd998b88afaa3431a1969a860",
+      "sha256": "4d9cefe4efbf6655ba51a2140b671fc089767f3f0b22f212533b7fc96f38b69e",
+      "bytes": 1065,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/05-Fifth-week/06-MergeSort/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "a01aef49f8765a701f7744eca3e517b0ca42682d",
+      "sha256": "26f1aeff6d61204465ebde2c09662b87d1317360006c5c55f94ed03cfca0317b",
+      "bytes": 2965,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/05-Fifth-week/07-PriorityCollection/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "81658d33a13bea0072bc2529981a5f2dff4d3112",
+      "sha256": "1857b3310c73a5c4abec2edb667c17919b949c962b13c7360220f753c348cd4c",
+      "bytes": 4714,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/05-Fifth-week/08-MatrixSum/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "f8ffb1f47de6cba69da2b09165afe8f91628de5e",
+      "sha256": "13a05e28a57141d801bb4b1653802e41cc2569f6e1cf12b489bef1f95c74e17c",
+      "bytes": 1609,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/05-Fifth-week/09-Stats/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "4c48f59b4dc69cb2352fb4463d5bb07c456fa444",
+      "sha256": "77fcc568248d9e7feecd7153ee09511360ab70107b7880e9035fab2b5a08dafd",
+      "bytes": 4635,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/05-Fifth-week/10-Synchronized/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "e73d7a864bc03f97c87aa85469c65d8f37887157",
+      "sha256": "e25b8cbe193e167f6ca3ce9af80368c95bfcc75df1ea29d76414da91dc098082",
+      "bytes": 3124,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/05-Fifth-week/11-ConcurrentMap/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "714fa6c2d51d74b7f10871bd203a1d0ab5f769de",
+      "sha256": "c95c72705a9ecf9b289514f6cd361a31a3b58dcb3c613478d511aa33d34ab3d8",
+      "bytes": 4545,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/05-Fifth-week/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "d8bf7598a3de7d493d81ce0c6237bebd4f45de51",
+      "sha256": "c1126eb80f3792f68b707e8906aee163b8c2f0dde4e0f4d0a794cd6b5897c65f",
+      "bytes": 257,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/06-Course-project/01-FinalProjectPart1/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "d2b42f6c059421d698d6b334fe5e7ae31e242792",
+      "sha256": "aa6a382b9d0b905c55df41e908f57f4c19361d2f0aab2cde1d2a626f38ec8f17",
+      "bytes": 8760,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/06-Course-project/02-FinalProjectPart2/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "2146caf00beafd617ab865b2dc2f0229b2a15aaa",
+      "sha256": "52ff7aa32d82d1d0c56a6de04eb6a7ccfb10f5247bd6049e2e3fa2d129ae754f",
+      "bytes": 2869,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/03-Red-Belt/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "2b7e1a2d35d7cf5a628a987a96e5d8fc677c0543",
+      "sha256": "80073b85487a78ba420fe982e23a4ace01a25270064950685edae88e86ff8d83",
+      "bytes": 1357,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/01-First-week/01-PriorityCollection/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "16594e4229b6776745835be500e4f8148377cce2",
+      "sha256": "f8849d28519803ba481848bc731bf26648d4f3a7716ecdd9c80ec28749f432ee",
+      "bytes": 4883,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/01-First-week/02-Hash/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "082565b94b71db4c30468db157d2fd741f02aaca",
+      "sha256": "572c125734662d10fdd691d9c77f9f3e6e2940dc30a3b1599b5d334e4ded319f",
+      "bytes": 1827,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/01-First-week/03-SetIterator/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "fbef10a3df680aa13d371f9b192bbd7db8fd36cc",
+      "sha256": "7e4d35e872f29f0ca13fc69b0b66d5ecef3b323a5b525b00f49a3a75db7f26da",
+      "bytes": 1684,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/01-First-week/04-Point3DHasher/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "f48fb4fb7d7b6e18be701d8a8b270d82104c17c0",
+      "sha256": "83742c5da1e10a13c9a4c168d8d58ca8736d50e59b251c0efdef82382a123b12",
+      "bytes": 1339,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/01-First-week/05-PersonHasher/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "9ac6651df82af986b210d721cb3da023b51cb2c4",
+      "sha256": "c46fa2c708705376e35d216eb23eb828c60c430046eb1923298126b38827f577",
+      "bytes": 1480,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/01-First-week/06-SecondIndex/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "1134c3ff3c041619217978186575888dae716acd",
+      "sha256": "fd62b386496052fa9c20e4179dcead7f81a4726d50522f3a10f8ee53916a4696",
+      "bytes": 3163,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/01-First-week/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "45a9038664446f3a1dbb06a6036dea3c3ecc3f4e",
+      "sha256": "97c2c5f36d4edab5c6e3ee2966708d2383b6c437fa3c4a8c17c04501e35ea1a4",
+      "bytes": 329,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/02-Second-week/01-XMLLoad/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "0d0cc3b8d51fe4ed6928755fac29b15cbaf1a950",
+      "sha256": "6e4d9f7a63befcbbdf8b5b00ca9e92b25742334bb9cc2ffc76c5b0e6f3adc095",
+      "bytes": 2663,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/02-Second-week/02-JSONLoad/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "2c257c81ebd0dd814a4446c0035f4808c4759ce7",
+      "sha256": "3e605a90944d1ae44688e93b7e6fddc2fe6d05d1b781c6ea73dd9f1be5df2e85",
+      "bytes": 2603,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/02-Second-week/03-INILoad/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "7fa703c1cec7d7e5cc8c1a6a74763decf804e25d",
+      "sha256": "a6afa3900dfcc84b7555ee5f4e8f54bc2eceb5b0e9f0bb848992f1f636241777",
+      "bytes": 2035,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/02-Second-week/04-Xml2Json/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "f9a6a919f4361e9d95b68da7fd1fa1e037d090a9",
+      "sha256": "e11c757cd87355025f027f2eb5348ce93eff0932b8fd4d2a3d7d0baa879134e1",
+      "bytes": 3629,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/02-Second-week/05-StatsAggregator/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "677d8761d7cc6dec2f4290c1e1f596e8b52f29b8",
+      "sha256": "5fb56759de8ef7de932ef5fb07f53bcb68aff0ca36463632e7809c6a637528db",
+      "bytes": 3247,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/02-Second-week/06-DoubleDisp/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "77029a4e44685f46fbca7a0b4b1828d33536e6ba",
+      "sha256": "273365b848074089ddc17614ff4d60c8a576ca188b7802323184542da47ff606",
+      "bytes": 3538,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/02-Second-week/07-CommentServer/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "dea066dba0b893d2bc3991a1cdb5f51b49099c4e",
+      "sha256": "960eb7ce036010e2ede6848f9e735b793de44123ed9bd52bcaa8d7d74c59ae10",
+      "bytes": 10967,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/02-Second-week/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "45a9038664446f3a1dbb06a6036dea3c3ecc3f4e",
+      "sha256": "97c2c5f36d4edab5c6e3ee2966708d2383b6c437fa3c4a8c17c04501e35ea1a4",
+      "bytes": 329,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/03-Third-week/01-Demographics/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "56294fc4fe2b74dfe70be1da5de5f633bc837482",
+      "sha256": "fe5c5a6e9e0644afb45a8d8118ff12f442a9a96358e77068e9f390c00c494c08",
+      "bytes": 6397,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/03-Third-week/02-LazyValue/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "ca8d49e79ed3ffa6a3c95b45c2a073d66c3a1e32",
+      "sha256": "98a5698b0228cd8f344c96bf4356f36d01667a0c5e69510d59ec7ac8c7dce18c",
+      "bytes": 2783,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/03-Third-week/03-Synchronized/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "949750c7ea9e44aab9b9ceeb4a7c46e2e02718c2",
+      "sha256": "5c78cd340da178ad45e606f9c3759cfad09666b6d663773172a4dd77f3cf0974",
+      "bytes": 4378,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/03-Third-week/04-ConcurrentMap/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "1269bbc901383b577a670bf99e3f07455ff757fe",
+      "sha256": "adb75f645f5169a33818770ea273fe991c9908f9c8e0b44b003abb6afb1d4429",
+      "bytes": 7004,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/03-Third-week/05-Polynomial/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "7b2dcb21b169df5949d2675bf2070089e8753e02",
+      "sha256": "c535da08a269c90cd72384b8c8ee0686275affe0aa038c9b4c8e3f45ed321f73",
+      "bytes": 5616,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/03-Third-week/06-Objects/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "3d035ef9afcf23a9fd37a7abe2e87d77eeaf1f52",
+      "sha256": "d1076f26356f9c19394b4649573f6429a73a715398d8183e592375edae80cd6e",
+      "bytes": 2973,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/03-Third-week/07-Zoo/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "9d36449440b9b82b4b3d11afa53df9debc8c270c",
+      "sha256": "9599b37816ea7083dc146cb002f70ce162001bc3ce92170b3193f994d0e1549c",
+      "bytes": 2429,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/03-Third-week/08-PipelineBuilder/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "a9a35516259c2955156bd135bd9c531dc9cdc68c",
+      "sha256": "1961bb38f814d27df3b8ade355e381b5090046b7e4b0d728a7d392189c248acb",
+      "bytes": 6967,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/03-Third-week/09-ExpressionTree/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "ef3aac948165675a1259c6bd81830fcb42c1356b",
+      "sha256": "4c48a080b9c123ad56786403528d68cf80461f0e66b9e05502a2ee7097e43050",
+      "bytes": 2816,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/04-Fourth-week/01-Textures/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "ce0c5df6269b9aad5e9548726aac780cc88bda8c",
+      "sha256": "a7f7c5319cc086103c8938c9cb253f4c3d0781bbd066172258afe34a554cee8c",
+      "bytes": 5712,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/04-Fourth-week/02-Cache/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "33f4ac1b74df09df3a0f760b2f086c12796bf9cc",
+      "sha256": "0a028d3f7b8c4ba0ccb3c9ffaafcbcb9962668b43da7ae97709de32a0966967a",
+      "bytes": 4539,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/04-Fourth-week/03-UniquePtr/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "5f00b76306c40f0d02312c82671704f7614b614c",
+      "sha256": "cd453b0c98ac6fb535af26e4add10322d23c6dffb33c0d0be34e5504d0fc93c7",
+      "bytes": 2806,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/04-Fourth-week/04-RAII%20Booking/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "807d710f0c5997a1ea6f882a6a20db29f3cd91bb",
+      "sha256": "61a9e2c166f2dcc5bdc5efe4dd1eb3bc4b4b00faa02689f04ffa98fa92722bcd",
+      "bytes": 3056,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/01-PersonStats/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "bc8d74c9b8adbd6d07baf009a29664abeb699621",
+      "sha256": "7287c14d2dec4f1c2603b50639cc30e3b0b58c197c227bdf67a325460377f75b",
+      "bytes": 2879,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/02-Book/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "ced69854d82043deaa58803cb2e329915311ce48",
+      "sha256": "562b433caf3acafd6591d7da306dd73919fb6fd2108a8e83b765978632f89ae7",
+      "bytes": 4740,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/03-Express/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "955705971741a7d5e5ece417da9d85a367b7bd32",
+      "sha256": "268b3f28f9c282d797ba2bc417e4a3f43e4e0499163243bf36213188b5302723",
+      "bytes": 3834,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/04-Issue-Tracker/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "dc693fca79de6d57323f50311086f9cf99a9b052",
+      "sha256": "f042fa1256e9d63a55d79fdcc6b1b2383eba18dcf997f42c86b971ddf9ce65ee",
+      "bytes": 7607,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/05-Booking/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "0fd7a9f46a0613d77bd8183a03b2e91e47f05afc",
+      "sha256": "bfa89b382763b5662d9ae841bb50d2a4fff4ff2eb1af3f82a7694070cff821d0",
+      "bytes": 4185,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/06-TestPersonStats/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "cd0d62a0e117a9541799abef50e90c978ca95db1",
+      "sha256": "1631861e3f41b018479f3798602492f4030759b4f56d1a07dbc06c56ebc38b3c",
+      "bytes": 8122,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/07-BannedDomains/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "e3d5bf3a7029923321ba5c5f7cde44caef9a30ac",
+      "sha256": "c22a83534a6890d59619891210a8205c7448e8b320a03351437ad1e4b59e056e",
+      "bytes": 2093,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/08-TestBannedDomains/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "cedfccbd37c4feedca8fe9e08bb58ade7c870a7f",
+      "sha256": "03b11b05c10b23a1aa263fbea3d593d96605b5a54500d1266a716744888e2087",
+      "bytes": 1468,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/09-BudgetPart1/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "68ae9f4ba4a019d6773a3703d38dbf3df1b8e414",
+      "sha256": "21cb4a8b961d3186fc41cd678623a88a5df30124e8ed7c997bdf833d0b8246a1",
+      "bytes": 2704,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/10-BudgetPart2/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "2984b02f8fa1cc63d8328a56d532da16d6a5e1c8",
+      "sha256": "bdfd15c321a7ac1a25e93da5b12681a33068ae22b4f3f8ce6fa6f6691d39f526",
+      "bytes": 1431,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/11-BudgetPart3/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "672ee829ced455568d7e2609db5e505896e56d3f",
+      "sha256": "4a16805fcb5e82cd5f206f3666fc27b0135d5c6453c0181bdf68bf1e0870d189",
+      "bytes": 416,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/12-BudgetPart4/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "2d5a62f67154ffecdcf4b5a63f78b99d115611b8",
+      "sha256": "a8bbf656331333116d9354eb27af4ea85e8ac71cf9431a91fce0b315085bab47",
+      "bytes": 1003,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/06-Course-project/01-Part-AB/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "30a9d8171bd1b5c1bc1a821e04c4b1f51ad0c9fc",
+      "sha256": "69af1af0a3c1aa8f3f076ee132edb57147dfde1ac7e886fb48ac3a64f809f2b7",
+      "bytes": 8311,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/06-Course-project/03-Part-C/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "e91cf454e53bf02dabf650d199b98de7c7e4f104",
+      "sha256": "1909ef262ab6e246b926f7d3be4d280b6c8ba43f7e5b4a83bf8972599c07ea3b",
+      "bytes": 4872,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/06-Course-project/04-Part-D/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "9c63c7a7819a4bad7cde441c4575622dfcce0a55",
+      "sha256": "deb8cfb798dc83ee4379f286566355c1e80d901ea4db1b5b91103e77a0d6a8a3",
+      "bytes": 5282,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/06-Course-project/05-Part-E/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "674526a0e2d02d499ce95f5c607c9ca2d237f57d",
+      "sha256": "dc687932e93f1a1358b81936dfa880c530bd2c5a1ce7022d3f49983c57824a9b",
+      "bytes": 26076,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "16e73b2862a2267d24b62ce7d7d83cb40bd08574",
+      "sha256": "ad4684ee0fcf5fd4551dae816e801d7b7d1daa6d40999be85204245fd97bb7ff",
+      "bytes": 1012,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/01-First-week/01-Forbidden%20domains/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "0f00a245fdaac63fd622d5c3fd0f3dab3c6df165",
+      "sha256": "7b105a4bec6cce7063fba93d85ecb5a005bb89a4ff936ef41c2f020c0a7ce2af",
+      "bytes": 2934,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/01-First-week/02-Budget/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "04f81ad03d43c622fe92a2247cf52390c1b15aab",
+      "sha256": "c6fdf976bc20fbf751e6fb5c22a791b61927c1f6e48e715a3357001f4541f0b1",
+      "bytes": 4381,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/01-First-week/03-TransportCatalog/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "3ef5e19f48e732de912c783e6bc7a6b7612522a5",
+      "sha256": "e2393093d47001946f36554c8189d07a7b4cde0ce56390a1e30ab49c9386c4b2",
+      "bytes": 1583,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/01-First-week/04-Sum/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "26c0d20ef27abf73c08561ad66a14a19fa056ac5",
+      "sha256": "e7ba8aa7f4bdef21f17113c54d005a6aa5d148ca89cb99ef33be3cfd94e85cc1",
+      "bytes": 1397,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/01-First-week/05-Part-E/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "674526a0e2d02d499ce95f5c607c9ca2d237f57d",
+      "sha256": "dc687932e93f1a1358b81936dfa880c530bd2c5a1ce7022d3f49983c57824a9b",
+      "bytes": 26076,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/01-First-week/06-Part-F/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "7e3a73a80d109d1263ec69d1d830aff1b111dbe9",
+      "sha256": "4aa7b2f4a9d6c3d9f83732dde4139737126956fcdbf00240cf2cb699c196e50c",
+      "bytes": 14298,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/01-First-week/07-Part-G/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "a424d75f833578a13c45252f0ff44771acc7aa08",
+      "sha256": "6c2ee15a508ee29e08a440a7609bac6dfc2ac860a800d8bac02b9e66bbcfa109",
+      "bytes": 13277,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/01-First-week/08-Part-H/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "6f6b0f7398c378cf3757b5c9a0dde05f4cf3e905",
+      "sha256": "c85e8104c2b7c82e287181bd4b439a3ad1b13652c10eaedfeeea972f4193a572",
+      "bytes": 3595,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/01-First-week/09-Part-I/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "c461ca24c1b7ce4e605047515b70eea1f689e290",
+      "sha256": "63413d2aa36f83e28a29c58e3b4d6674647dd3cc862c52b94729d7e22997c45c",
+      "bytes": 2152,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/01-First-week/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "226d68377b019af2db5597bac33206498959a928",
+      "sha256": "4548310f268a7bb8e44d063b2e16ccc8d676f7129182dc24d8a2f2fe4208599e",
+      "bytes": 207,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/02-Second-week/01-JSON-Printer/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "517ccc3ce29cb168823818413251388f1d8a3969",
+      "sha256": "f2906989c1908601e5e4ef6016a87ec463cae20250aed7a1a81ebede4dd40be6",
+      "bytes": 4362,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/02-Second-week/02-Save-Load/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "917323ae46938878e4d18155864a118a0f930a2b",
+      "sha256": "f030fbd1ac86e312f037d5fb3ce2e2cc1d4542d24b88a35ab8afacaa2e69c61f",
+      "bytes": 4399,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/02-Second-week/03-Phone-Book/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "3d11f498d8b3a394cf2e0caf31566a4c5a2c1eb6",
+      "sha256": "a4b53e869a4de3dc223c441f15b27c88358c193bd128e04ed3d11e24d05c68ff",
+      "bytes": 6745,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/02-Second-week/04-Yellow-Pages/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "1724b7897ef6a05ac195b8298df5240de42ccdf7",
+      "sha256": "3ce7c05cecb137add68f36282122e16bf1491111c952e7f6351fbf56d3135cc2",
+      "bytes": 3553,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/02-Second-week/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "bcdc77258a88239a702184430abec7adff367b20",
+      "sha256": "9ac1a7f523872d375358db7ce3062d957d334e4b09dfb94590968b3fa4a68b2d",
+      "bytes": 39,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/03-Third-week/01-Nucleotide/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "2415215bd85e0298d20d659cec847f4e47dcc055",
+      "sha256": "fc556b17ba15e39c9bd40d4052226a642141b554b466941b3bfaa1c366b0235e",
+      "bytes": 2539,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/03-Third-week/02-Lexer/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "1977b9d3ad7b631a67ded0e14a70cd07a0dbab3d",
+      "sha256": "b541869b8142de125c8e0015b7a9fcceddaaf8c98bbdb48e3d5efe0b457cc81a",
+      "bytes": 7108,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/03-Third-week/03-Interpret/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "687846da3d7ef5841664bbca97c248c1d739c6da",
+      "sha256": "d47f4a61c486df8c87cc1eebb61ae70bc226c7a31a798e5585cea2d83f2627b9",
+      "bytes": 4070,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/03-Third-week/04-Part-J/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "495a36b559dbbcb156504558290a1c7792af2032",
+      "sha256": "04e4d3a4bcc403646d8bc185a24a5c2d23abca2236f5bb7191e5dd24a991e25e",
+      "bytes": 2243,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/03-Third-week/05-Part-K/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "20f1dc33c71274921858a9a3d7a8cacd82d554f8",
+      "sha256": "9693565e9d0de790ae539f0b56013952596322121370ec9e6de6b94f7b7d469c",
+      "bytes": 3062,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/03-Third-week/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "bcdc77258a88239a702184430abec7adff367b20",
+      "sha256": "9ac1a7f523872d375358db7ce3062d957d334e4b09dfb94590968b3fa4a68b2d",
+      "bytes": 39,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/04-Fourth-week/01-Optional/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "90965c7ca002d7ee9c72f7d4ad8b5004d4bb77d7",
+      "sha256": "47bb5d2785c7a71d70ace429bd4e1864b96d6940efd3d08525bf7e4bafff7d74",
+      "bytes": 2837,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/04-Fourth-week/02-EqualsToOneOf/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "ab7fafa95692f3785dce502ed19617ad10f6ae0f",
+      "sha256": "c7f2dff3539b1e8f80a572a0e1bddf1e39d49822ac11c0483ac2896c5dd49de7",
+      "bytes": 882,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/04-Fourth-week/03-ApplyToMany/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "ec3c8084c5b66353b5076e6ca2446e90cc23af44",
+      "sha256": "2d3853c7af6c9da63b87215e6ae2333a1d99d0127522271c993fab229385080c",
+      "bytes": 399,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/04-Fourth-week/04-Vector/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "6d87686afbd82cd3b62301df56dfc7c9ebe477f7",
+      "sha256": "ab65f86e76130830ea70b8f49d7bbe622d424b34a16358364ea9214ef2753aab",
+      "bytes": 490,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/04-Fourth-week/05-Vector%202/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "0235c298e7d855473eef6395f6dd487d47fc0c26",
+      "sha256": "86f0bc47398101d538e578e796a127c9542da09a90f76e4a4ca701f84eccb4f6",
+      "bytes": 1111,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/04-Fourth-week/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "a8808bb001c73c287439e036923df392470e85e4",
+      "sha256": "00fda1416ae64404211a193c0b50de44928ba7deb2655c5751eab56006858309",
+      "bytes": 41,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/06-Six-week/01-Spreadsheet/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "6b539ab8f6c99397f24b7eb7f4c5ec8bef1902a7",
+      "sha256": "a759dad2ea3d45813f90e9abee6015675e1a7cb598e108b9c8688fea754576b2",
+      "bytes": 9542,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/06-Six-week/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "84ee4e7c7532df60455fdefd58f441856a1ce5d6",
+      "sha256": "68734ceba847a5b259931d93f31955f5f6672cf62f9c472beb85dc2442b55c1d",
+      "bytes": 40,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "463293a5f1d1d49b5d24bf1204de09bd63bde164",
+      "sha256": "52616cd1b300619d46d4a5d487faff3479f091ab7f122fe8952e12b5fb6a6b2a",
+      "bytes": 1869,
+      "redistribution_permission": "UNVERIFIED"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/ivtsylin/BeltsCpp/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/README.md",
+      "source_repository": "ivtsylin/BeltsCpp",
+      "source_commit": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+      "git_blob_sha": "6e4f1ef9bfbfa525ab993445efb8e7630ebd380a",
+      "sha256": "5b18e7e864c3b277547b438572ee1cdcd143108298b8552306dfbc5d9ab3b7aa",
+      "bytes": 371,
+      "redistribution_permission": "UNVERIFIED"
+    }
+  ]
+}

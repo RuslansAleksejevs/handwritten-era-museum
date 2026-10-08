@@ -1,0 +1,393 @@
+{
+  "schema_version": "cpp-belts-coverage.v1",
+  "belt": "05-Black-Belt",
+  "source_page_count": 24,
+  "recorded_on": "2026-10-07",
+  "scope": "Every recovered leaf page; explicit adapters are not historical grader packaging.",
+  "checks": {
+    "standard": "PASS",
+    "undefined_behavior_sanitizer": "PASS",
+    "official_python_protobuf": "PASS",
+    "fresh_environment_audit": "DEFERRED_BY_USER"
+  },
+  "entries": [
+    {
+      "source_path": "05-Black-Belt/01-First-week/01-Forbidden domains/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/01-First-week/01-Forbidden%20domains/README.md",
+      "statement_sha256": "7b105a4bec6cce7063fba93d85ecb5a005bb89a4ff936ef41c2f020c0a7ce2af",
+      "code": [
+        "projects/cpp-belts/domains/domains.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/tests/check.cpp",
+        "scripts/check_belts.py"
+      ],
+      "status": "ADAPTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run. Original buggy starter not restored; a new shared implementation is tested with UBSan.",
+      "grader_acceptance": "NOT_RUN"
+    },
+    {
+      "source_path": "05-Black-Belt/01-First-week/02-Budget/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/01-First-week/02-Budget/README.md",
+      "statement_sha256": "c6fdf976bc20fbf751e6fb5c22a791b61927c1f6e48e715a3357001f4541f0b1",
+      "code": [
+        "projects/cpp-belts/course/brown/budget.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "status": "ADAPTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run. Original buggy starter not restored; a new shared implementation is tested with UBSan.",
+      "grader_acceptance": "NOT_RUN"
+    },
+    {
+      "source_path": "05-Black-Belt/01-First-week/03-TransportCatalog/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/01-First-week/03-TransportCatalog/README.md",
+      "statement_sha256": "e2393093d47001946f36554c8189d07a7b4cde0ce56390a1e30ab49c9386c4b2",
+      "code": [
+        "projects/cpp-belts/course/brown/transport.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "status": "ADAPTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run. Original buggy starter not restored; a new shared implementation is tested with UBSan.",
+      "grader_acceptance": "NOT_RUN"
+    },
+    {
+      "source_path": "05-Black-Belt/01-First-week/04-Sum/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/01-First-week/04-Sum/README.md",
+      "statement_sha256": "e7ba8aa7f4bdef21f17113c54d005a6aa5d148ca89cb99ef33be3cfd94e85cc1",
+      "code": [
+        "projects/cpp-belts/course/black/foundations.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/black/tests.cpp",
+        "projects/cpp-belts/course/black/check.py"
+      ],
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run.",
+      "grader_acceptance": "NOT_RUN"
+    },
+    {
+      "source_path": "05-Black-Belt/01-First-week/05-Part-E/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/01-First-week/05-Part-E/README.md",
+      "statement_sha256": "dc687932e93f1a1358b81936dfa880c530bd2c5a1ce7022d3f49983c57824a9b",
+      "code": [
+        "projects/cpp-belts/course/black/transport.hpp",
+        "projects/cpp-belts/course/black/svg.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/black/tests.cpp",
+        "projects/cpp-belts/course/black/check.py",
+        "projects/cpp-belts/course/black/test_cli.py"
+      ],
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run.",
+      "grader_acceptance": "NOT_RUN"
+    },
+    {
+      "source_path": "05-Black-Belt/01-First-week/06-Part-F/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/01-First-week/06-Part-F/README.md",
+      "statement_sha256": "4aa7b2f4a9d6c3d9f83732dde4139737126956fcdbf00240cf2cb699c196e50c",
+      "code": [
+        "projects/cpp-belts/course/black/transport.hpp",
+        "projects/cpp-belts/course/black/svg.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/black/tests.cpp",
+        "projects/cpp-belts/course/black/check.py",
+        "projects/cpp-belts/course/black/test_cli.py"
+      ],
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run.",
+      "grader_acceptance": "NOT_RUN"
+    },
+    {
+      "source_path": "05-Black-Belt/01-First-week/07-Part-G/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/01-First-week/07-Part-G/README.md",
+      "statement_sha256": "6c2ee15a508ee29e08a440a7609bac6dfc2ac860a800d8bac02b9e66bbcfa109",
+      "code": [
+        "projects/cpp-belts/course/black/transport.hpp",
+        "projects/cpp-belts/course/black/svg.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/black/tests.cpp",
+        "projects/cpp-belts/course/black/check.py",
+        "projects/cpp-belts/course/black/test_cli.py"
+      ],
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run.",
+      "grader_acceptance": "NOT_RUN"
+    },
+    {
+      "source_path": "05-Black-Belt/01-First-week/08-Part-H/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/01-First-week/08-Part-H/README.md",
+      "statement_sha256": "c85e8104c2b7c82e287181bd4b439a3ad1b13652c10eaedfeeea972f4193a572",
+      "code": [
+        "projects/cpp-belts/course/black/transport.hpp",
+        "projects/cpp-belts/course/black/svg.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/black/tests.cpp",
+        "projects/cpp-belts/course/black/check.py",
+        "projects/cpp-belts/course/black/test_cli.py"
+      ],
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run.",
+      "grader_acceptance": "NOT_RUN"
+    },
+    {
+      "source_path": "05-Black-Belt/01-First-week/09-Part-I/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/01-First-week/09-Part-I/README.md",
+      "statement_sha256": "63413d2aa36f83e28a29c58e3b4d6674647dd3cc862c52b94729d7e22997c45c",
+      "code": [
+        "projects/cpp-belts/course/black/transport.hpp",
+        "projects/cpp-belts/course/black/svg.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/black/tests.cpp",
+        "projects/cpp-belts/course/black/check.py",
+        "projects/cpp-belts/course/black/test_cli.py"
+      ],
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run.",
+      "grader_acceptance": "NOT_RUN"
+    },
+    {
+      "source_path": "05-Black-Belt/02-Second-week/01-JSON-Printer/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/02-Second-week/01-JSON-Printer/README.md",
+      "statement_sha256": "f2906989c1908601e5e4ef6016a87ec463cae20250aed7a1a81ebede4dd40be6",
+      "code": [
+        "projects/cpp-belts/course/black/json_printer.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/black/tests.cpp",
+        "projects/cpp-belts/course/black/check.py",
+        "projects/cpp-belts/course/black/test_cli.py"
+      ],
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run.",
+      "grader_acceptance": "NOT_RUN"
+    },
+    {
+      "source_path": "05-Black-Belt/02-Second-week/02-Save-Load/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/02-Second-week/02-Save-Load/README.md",
+      "statement_sha256": "f030fbd1ac86e312f037d5fb3ce2e2cc1d4542d24b88a35ab8afacaa2e69c61f",
+      "code": [
+        "projects/cpp-belts/course/black/foundations.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/black/tests.cpp",
+        "projects/cpp-belts/course/black/check.py"
+      ],
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run. Native arithmetic representation and size_t make this a same-ABI teaching format.",
+      "grader_acceptance": "NOT_RUN"
+    },
+    {
+      "source_path": "05-Black-Belt/02-Second-week/03-Phone-Book/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/02-Second-week/03-Phone-Book/README.md",
+      "statement_sha256": "a4b53e869a4de3dc223c441f15b27c88358c193bd128e04ed3d11e24d05c68ff",
+      "code": [
+        "projects/cpp-belts/course/black/phone_book.hpp",
+        "projects/cpp-belts/course/black/contact.proto"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/black/tests.cpp",
+        "projects/cpp-belts/course/black/check.py",
+        "projects/cpp-belts/course/black/test_cli.py"
+      ],
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run. Schema-specific authored protobuf wire codec, official Python-runtime interoperability checked; deprecated groups unsupported.",
+      "grader_acceptance": "NOT_RUN"
+    },
+    {
+      "source_path": "05-Black-Belt/02-Second-week/04-Yellow-Pages/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/02-Second-week/04-Yellow-Pages/README.md",
+      "statement_sha256": "3ce7c05cecb137add68f36282122e16bf1491111c952e7f6351fbf56d3135cc2",
+      "code": [
+        "projects/cpp-belts/course/black/yellow_pages.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/black/tests.cpp",
+        "projects/cpp-belts/course/black/check.py"
+      ],
+      "status": "ADAPTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run. Structured JSON values replace generated protobuf messages; proto3 absent/default equality not emulated.",
+      "grader_acceptance": "NOT_RUN"
+    },
+    {
+      "source_path": "05-Black-Belt/03-Third-week/01-Nucleotide/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/03-Third-week/01-Nucleotide/README.md",
+      "statement_sha256": "fc556b17ba15e39c9bd40d4052226a642141b554b466941b3bfaa1c366b0235e",
+      "code": [
+        "projects/cpp-belts/course/black/foundations.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/black/tests.cpp",
+        "projects/cpp-belts/course/black/check.py"
+      ],
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run.",
+      "grader_acceptance": "NOT_RUN"
+    },
+    {
+      "source_path": "05-Black-Belt/03-Third-week/02-Lexer/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/03-Third-week/02-Lexer/README.md",
+      "statement_sha256": "b541869b8142de125c8e0015b7a9fcceddaaf8c98bbdb48e3d5efe0b457cc81a",
+      "code": [
+        "projects/cpp-belts/course/black/mython.hpp",
+        "projects/cpp-belts/course/black/mython.cpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/black/tests_mython.py"
+      ],
+      "status": "ADAPTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run. Standalone interpreter and modern token API replace the supplied starter classes; grammar/semantics tested locally.",
+      "grader_acceptance": "NOT_RUN"
+    },
+    {
+      "source_path": "05-Black-Belt/03-Third-week/03-Interpret/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/03-Third-week/03-Interpret/README.md",
+      "statement_sha256": "d47f4a61c486df8c87cc1eebb61ae70bc226c7a31a798e5585cea2d83f2627b9",
+      "code": [
+        "projects/cpp-belts/course/black/mython.hpp",
+        "projects/cpp-belts/course/black/mython.cpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/black/tests_mython.py"
+      ],
+      "status": "ADAPTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run. Standalone interpreter and modern token API replace the supplied starter classes; grammar/semantics tested locally.",
+      "grader_acceptance": "NOT_RUN"
+    },
+    {
+      "source_path": "05-Black-Belt/03-Third-week/04-Part-J/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/03-Third-week/04-Part-J/README.md",
+      "statement_sha256": "04e4d3a4bcc403646d8bc185a24a5c2d23abca2236f5bb7191e5dd24a991e25e",
+      "code": [
+        "projects/cpp-belts/course/black/transport.hpp",
+        "projects/cpp-belts/course/black/svg.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/black/tests.cpp",
+        "projects/cpp-belts/course/black/check.py",
+        "projects/cpp-belts/course/black/test_cli.py"
+      ],
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run.",
+      "grader_acceptance": "NOT_RUN"
+    },
+    {
+      "source_path": "05-Black-Belt/03-Third-week/05-Part-K/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/03-Third-week/05-Part-K/README.md",
+      "statement_sha256": "9693565e9d0de790ae539f0b56013952596322121370ec9e6de6b94f7b7d469c",
+      "code": [
+        "projects/cpp-belts/course/black/transport.hpp",
+        "projects/cpp-belts/course/black/svg.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/black/tests.cpp",
+        "projects/cpp-belts/course/black/check.py",
+        "projects/cpp-belts/course/black/test_cli.py"
+      ],
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run.",
+      "grader_acceptance": "NOT_RUN"
+    },
+    {
+      "source_path": "05-Black-Belt/04-Fourth-week/01-Optional/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/04-Fourth-week/01-Optional/README.md",
+      "statement_sha256": "47bb5d2785c7a71d70ace429bd4e1864b96d6940efd3d08525bf7e4bafff7d74",
+      "code": [
+        "projects/cpp-belts/course/black/foundations.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/black/tests.cpp",
+        "projects/cpp-belts/course/black/check.py"
+      ],
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run.",
+      "grader_acceptance": "NOT_RUN"
+    },
+    {
+      "source_path": "05-Black-Belt/04-Fourth-week/02-EqualsToOneOf/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/04-Fourth-week/02-EqualsToOneOf/README.md",
+      "statement_sha256": "c7f2dff3539b1e8f80a572a0e1bddf1e39d49822ac11c0483ac2896c5dd49de7",
+      "code": [
+        "projects/cpp-belts/course/black/foundations.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/black/tests.cpp",
+        "projects/cpp-belts/course/black/check.py"
+      ],
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run.",
+      "grader_acceptance": "NOT_RUN"
+    },
+    {
+      "source_path": "05-Black-Belt/04-Fourth-week/03-ApplyToMany/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/04-Fourth-week/03-ApplyToMany/README.md",
+      "statement_sha256": "2d3853c7af6c9da63b87215e6ae2333a1d99d0127522271c993fab229385080c",
+      "code": [
+        "projects/cpp-belts/course/black/foundations.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/black/tests.cpp",
+        "projects/cpp-belts/course/black/check.py"
+      ],
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run.",
+      "grader_acceptance": "NOT_RUN"
+    },
+    {
+      "source_path": "05-Black-Belt/04-Fourth-week/04-Vector/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/04-Fourth-week/04-Vector/README.md",
+      "statement_sha256": "ab65f86e76130830ea70b8f49d7bbe622d424b34a16358364ea9214ef2753aab",
+      "code": [
+        "projects/cpp-belts/course/black/foundations.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/black/tests.cpp",
+        "projects/cpp-belts/course/black/check.py"
+      ],
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run.",
+      "grader_acceptance": "NOT_RUN"
+    },
+    {
+      "source_path": "05-Black-Belt/04-Fourth-week/05-Vector 2/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/04-Fourth-week/05-Vector%202/README.md",
+      "statement_sha256": "86f0bc47398101d538e578e796a127c9542da09a90f76e4a4ca701f84eccb4f6",
+      "code": [
+        "projects/cpp-belts/course/black/foundations.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/black/tests.cpp",
+        "projects/cpp-belts/course/black/check.py"
+      ],
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run.",
+      "grader_acceptance": "NOT_RUN"
+    },
+    {
+      "source_path": "05-Black-Belt/06-Six-week/01-Spreadsheet/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/05-Black-Belt/06-Six-week/01-Spreadsheet/README.md",
+      "statement_sha256": "a759dad2ea3d45813f90e9abee6015675e1a7cb598e108b9c8688fea754576b2",
+      "code": [
+        "projects/cpp-belts/course/black/spreadsheet.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/black/tests.cpp",
+        "projects/cpp-belts/course/black/check.py",
+        "projects/cpp-belts/course/black/test_cli.py"
+      ],
+      "status": "ADAPTED_TESTED",
+      "limits": "Modern local C++17 implementation; original external grader and timing limits not run. Missing complete common.h; local Sheet/Cell/JSON API implements the described behavior.",
+      "grader_acceptance": "NOT_RUN"
+    }
+  ]
+}

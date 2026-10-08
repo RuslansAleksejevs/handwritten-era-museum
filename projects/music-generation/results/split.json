@@ -1,0 +1,6763 @@
+{
+  "revision": "67ef0b59bf49d0b562e8dfc9b870f6f9d5287822",
+  "archive_sha256": "7b7f9cb7b349ed3111c82a73e899dd4080950037cbb143c3d7698234d4db4c5b",
+  "preprocess_version": 1,
+  "split_seed": 1729,
+  "excluded": [
+    {
+      "id": "chor003",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor008",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor011",
+      "reason": "changing meter"
+    },
+    {
+      "id": "chor015",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor019",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor025",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor034",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor049",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor056",
+      "reason": "duration outside fixed 1..32 tick vocabulary"
+    },
+    {
+      "id": "chor070",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor082",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor086",
+      "reason": "off-grid rhythm: 0.125"
+    },
+    {
+      "id": "chor087",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor110",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor113",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor119",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor122",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor127",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor130",
+      "reason": "too short"
+    },
+    {
+      "id": "chor133",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor154",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor155",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor160",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor162",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor166",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor168",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor171",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor174",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor180",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor184",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor185",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor186",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor187",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor195",
+      "reason": "off-grid rhythm: 0.125"
+    },
+    {
+      "id": "chor197",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor199",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor203",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor205",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor206",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor210",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor218",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor228",
+      "reason": "too short"
+    },
+    {
+      "id": "chor231",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor232",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor237",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor241",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor244",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor247",
+      "reason": "off-grid rhythm: 0.125"
+    },
+    {
+      "id": "chor252",
+      "reason": "changing meter"
+    },
+    {
+      "id": "chor262",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor280",
+      "reason": "changing meter"
+    },
+    {
+      "id": "chor284",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor288",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor302",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor305",
+      "reason": "off-grid rhythm: 0.125"
+    },
+    {
+      "id": "chor320",
+      "reason": "too short"
+    },
+    {
+      "id": "chor325",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor357",
+      "reason": "missing or changing key"
+    },
+    {
+      "id": "chor358",
+      "reason": "duration outside fixed 1..32 tick vocabulary"
+    },
+    {
+      "id": "chor369",
+      "reason": "missing or changing key"
+    }
+  ],
+  "family_edges": [
+    [
+      "chor063",
+      "chor050",
+      "interval similarity"
+    ],
+    [
+      "chor064",
+      "chor029",
+      "title"
+    ],
+    [
+      "chor067",
+      "chor029",
+      "title"
+    ],
+    [
+      "chor067",
+      "chor064",
+      "title"
+    ],
+    [
+      "chor074",
+      "chor021",
+      "interval similarity"
+    ],
+    [
+      "chor076",
+      "chor029",
+      "title"
+    ],
+    [
+      "chor076",
+      "chor064",
+      "title"
+    ],
+    [
+      "chor076",
+      "chor067",
+      "title"
+    ],
+    [
+      "chor078",
+      "chor059",
+      "interval similarity"
+    ],
+    [
+      "chor080",
+      "chor021",
+      "interval similarity"
+    ],
+    [
+      "chor080",
+      "chor074",
+      "title"
+    ],
+    [
+      "chor083",
+      "chor061",
+      "title"
+    ],
+    [
+      "chor084",
+      "chor036",
+      "title"
+    ],
+    [
+      "chor088",
+      "chor023",
+      "BWV"
+    ],
+    [
+      "chor089",
+      "chor021",
+      "interval similarity"
+    ],
+    [
+      "chor089",
+      "chor074",
+      "title"
+    ],
+    [
+      "chor089",
+      "chor080",
+      "title"
+    ],
+    [
+      "chor092",
+      "chor073",
+      "opening"
+    ],
+    [
+      "chor097",
+      "chor036",
+      "title"
+    ],
+    [
+      "chor097",
+      "chor084",
+      "title"
+    ],
+    [
+      "chor098",
+      "chor021",
+      "interval similarity"
+    ],
+    [
+      "chor098",
+      "chor074",
+      "title"
+    ],
+    [
+      "chor098",
+      "chor080",
+      "title"
+    ],
+    [
+      "chor098",
+      "chor089",
+      "title"
+    ],
+    [
+      "chor099",
+      "chor023",
+      "opening"
+    ],
+    [
+      "chor099",
+      "chor088",
+      "title"
+    ],
+    [
+      "chor102",
+      "chor009",
+      "interval similarity"
+    ],
+    [
+      "chor103",
+      "chor050",
+      "interval similarity"
+    ],
+    [
+      "chor103",
+      "chor063",
+      "title"
+    ],
+    [
+      "chor104",
+      "chor062",
+      "title"
+    ],
+    [
+      "chor105",
+      "chor059",
+      "opening"
+    ],
+    [
+      "chor105",
+      "chor078",
+      "title"
+    ],
+    [
+      "chor106",
+      "chor061",
+      "title"
+    ],
+    [
+      "chor106",
+      "chor083",
+      "title"
+    ],
+    [
+      "chor107",
+      "chor058",
+      "title"
+    ],
+    [
+      "chor108",
+      "chor024",
+      "title"
+    ],
+    [
+      "chor111",
+      "chor059",
+      "interval similarity"
+    ],
+    [
+      "chor111",
+      "chor078",
+      "title"
+    ],
+    [
+      "chor111",
+      "chor105",
+      "title"
+    ],
+    [
+      "chor112",
+      "chor062",
+      "title"
+    ],
+    [
+      "chor112",
+      "chor104",
+      "title"
+    ],
+    [
+      "chor115",
+      "chor041",
+      "title"
+    ],
+    [
+      "chor116",
+      "chor007",
+      "title"
+    ],
+    [
+      "chor117",
+      "chor050",
+      "interval similarity"
+    ],
+    [
+      "chor117",
+      "chor063",
+      "title"
+    ],
+    [
+      "chor117",
+      "chor103",
+      "title"
+    ],
+    [
+      "chor118",
+      "chor077",
+      "title"
+    ],
+    [
+      "chor120",
+      "chor041",
+      "title"
+    ],
+    [
+      "chor120",
+      "chor115",
+      "title"
+    ],
+    [
+      "chor121",
+      "chor095",
+      "title"
+    ],
+    [
+      "chor123",
+      "chor088",
+      "title"
+    ],
+    [
+      "chor123",
+      "chor099",
+      "title"
+    ],
+    [
+      "chor126",
+      "chor100",
+      "title"
+    ],
+    [
+      "chor138",
+      "chor096",
+      "title"
+    ],
+    [
+      "chor140",
+      "chor050",
+      "title"
+    ],
+    [
+      "chor145",
+      "chor094",
+      "title"
+    ],
+    [
+      "chor146",
+      "chor062",
+      "title"
+    ],
+    [
+      "chor146",
+      "chor104",
+      "title"
+    ],
+    [
+      "chor146",
+      "chor112",
+      "title"
+    ],
+    [
+      "chor170",
+      "chor028",
+      "title"
+    ],
+    [
+      "chor177",
+      "chor148",
+      "opening"
+    ],
+    [
+      "chor178",
+      "chor053",
+      "title"
+    ],
+    [
+      "chor191",
+      "chor114",
+      "title"
+    ],
+    [
+      "chor204",
+      "chor062",
+      "interval similarity"
+    ],
+    [
+      "chor204",
+      "chor104",
+      "opening"
+    ],
+    [
+      "chor204",
+      "chor112",
+      "opening"
+    ],
+    [
+      "chor204",
+      "chor146",
+      "interval similarity"
+    ],
+    [
+      "chor215",
+      "chor091",
+      "title"
+    ],
+    [
+      "chor217",
+      "chor156",
+      "title"
+    ],
+    [
+      "chor233",
+      "chor095",
+      "title"
+    ],
+    [
+      "chor233",
+      "chor121",
+      "title"
+    ],
+    [
+      "chor248",
+      "chor004",
+      "interval similarity"
+    ],
+    [
+      "chor249",
+      "chor125",
+      "title"
+    ],
+    [
+      "chor250",
+      "chor020",
+      "title"
+    ],
+    [
+      "chor254",
+      "chor029",
+      "interval similarity"
+    ],
+    [
+      "chor254",
+      "chor064",
+      "interval similarity"
+    ],
+    [
+      "chor254",
+      "chor067",
+      "interval similarity"
+    ],
+    [
+      "chor254",
+      "chor076",
+      "interval similarity"
+    ],
+    [
+      "chor255",
+      "chor085",
+      "interval similarity"
+    ],
+    [
+      "chor256",
+      "chor029",
+      "opening"
+    ],
+    [
+      "chor256",
+      "chor064",
+      "BWV"
+    ],
+    [
+      "chor256",
+      "chor067",
+      "opening"
+    ],
+    [
+      "chor256",
+      "chor076",
+      "opening"
+    ],
+    [
+      "chor256",
+      "chor254",
+      "interval similarity"
+    ],
+    [
+      "chor257",
+      "chor093",
+      "BWV"
+    ],
+    [
+      "chor259",
+      "chor091",
+      "title"
+    ],
+    [
+      "chor259",
+      "chor215",
+      "title"
+    ],
+    [
+      "chor263",
+      "chor096",
+      "title"
+    ],
+    [
+      "chor263",
+      "chor138",
+      "title"
+    ],
+    [
+      "chor265",
+      "chor041",
+      "opening"
+    ],
+    [
+      "chor265",
+      "chor115",
+      "interval similarity"
+    ],
+    [
+      "chor265",
+      "chor120",
+      "interval similarity"
+    ],
+    [
+      "chor266",
+      "chor073",
+      "opening"
+    ],
+    [
+      "chor266",
+      "chor092",
+      "title"
+    ],
+    [
+      "chor267",
+      "chor047",
+      "title"
+    ],
+    [
+      "chor268",
+      "chor007",
+      "title"
+    ],
+    [
+      "chor268",
+      "chor116",
+      "title"
+    ],
+    [
+      "chor269",
+      "chor037",
+      "title"
+    ],
+    [
+      "chor270",
+      "chor021",
+      "interval similarity"
+    ],
+    [
+      "chor270",
+      "chor074",
+      "interval similarity"
+    ],
+    [
+      "chor270",
+      "chor080",
+      "interval similarity"
+    ],
+    [
+      "chor270",
+      "chor089",
+      "interval similarity"
+    ],
+    [
+      "chor270",
+      "chor098",
+      "interval similarity"
+    ],
+    [
+      "chor272",
+      "chor002",
+      "title"
+    ],
+    [
+      "chor273",
+      "chor020",
+      "title"
+    ],
+    [
+      "chor273",
+      "chor250",
+      "title"
+    ],
+    [
+      "chor274",
+      "chor026",
+      "title"
+    ],
+    [
+      "chor275",
+      "chor050",
+      "interval similarity"
+    ],
+    [
+      "chor275",
+      "chor063",
+      "interval similarity"
+    ],
+    [
+      "chor275",
+      "chor103",
+      "interval similarity"
+    ],
+    [
+      "chor275",
+      "chor117",
+      "opening"
+    ],
+    [
+      "chor276",
+      "chor054",
+      "title"
+    ],
+    [
+      "chor277",
+      "chor058",
+      "title"
+    ],
+    [
+      "chor277",
+      "chor107",
+      "title"
+    ],
+    [
+      "chor279",
+      "chor040",
+      "title"
+    ],
+    [
+      "chor282",
+      "chor029",
+      "title"
+    ],
+    [
+      "chor282",
+      "chor064",
+      "title"
+    ],
+    [
+      "chor282",
+      "chor067",
+      "title"
+    ],
+    [
+      "chor282",
+      "chor076",
+      "title"
+    ],
+    [
+      "chor282",
+      "chor254",
+      "BWV"
+    ],
+    [
+      "chor282",
+      "chor256",
+      "interval similarity"
+    ],
+    [
+      "chor283",
+      "chor096",
+      "title"
+    ],
+    [
+      "chor283",
+      "chor138",
+      "title"
+    ],
+    [
+      "chor283",
+      "chor263",
+      "title"
+    ],
+    [
+      "chor285",
+      "chor031",
+      "interval similarity"
+    ],
+    [
+      "chor285",
+      "chor182",
+      "title"
+    ],
+    [
+      "chor286",
+      "chor021",
+      "interval similarity"
+    ],
+    [
+      "chor286",
+      "chor074",
+      "opening"
+    ],
+    [
+      "chor286",
+      "chor080",
+      "opening"
+    ],
+    [
+      "chor286",
+      "chor089",
+      "interval similarity"
+    ],
+    [
+      "chor286",
+      "chor098",
+      "opening"
+    ],
+    [
+      "chor286",
+      "chor270",
+      "title"
+    ],
+    [
+      "chor287",
+      "chor033",
+      "title"
+    ],
+    [
+      "chor289",
+      "chor050",
+      "opening"
+    ],
+    [
+      "chor289",
+      "chor063",
+      "title"
+    ],
+    [
+      "chor289",
+      "chor103",
+      "title"
+    ],
+    [
+      "chor289",
+      "chor117",
+      "title"
+    ],
+    [
+      "chor289",
+      "chor275",
+      "interval similarity"
+    ],
+    [
+      "chor290",
+      "chor004",
+      "title"
+    ],
+    [
+      "chor290",
+      "chor248",
+      "interval similarity"
+    ],
+    [
+      "chor291",
+      "chor085",
+      "opening"
+    ],
+    [
+      "chor291",
+      "chor255",
+      "title"
+    ],
+    [
+      "chor292",
+      "chor047",
+      "opening"
+    ],
+    [
+      "chor292",
+      "chor267",
+      "opening"
+    ],
+    [
+      "chor293",
+      "chor065",
+      "title"
+    ],
+    [
+      "chor294",
+      "chor073",
+      "opening"
+    ],
+    [
+      "chor294",
+      "chor092",
+      "title"
+    ],
+    [
+      "chor294",
+      "chor266",
+      "title"
+    ],
+    [
+      "chor295",
+      "chor236",
+      "BWV"
+    ],
+    [
+      "chor296",
+      "chor007",
+      "title"
+    ],
+    [
+      "chor296",
+      "chor116",
+      "title"
+    ],
+    [
+      "chor296",
+      "chor268",
+      "title"
+    ],
+    [
+      "chor297",
+      "chor037",
+      "title"
+    ],
+    [
+      "chor297",
+      "chor269",
+      "title"
+    ],
+    [
+      "chor298",
+      "chor029",
+      "opening"
+    ],
+    [
+      "chor298",
+      "chor064",
+      "opening"
+    ],
+    [
+      "chor298",
+      "chor067",
+      "opening"
+    ],
+    [
+      "chor298",
+      "chor076",
+      "opening"
+    ],
+    [
+      "chor298",
+      "chor254",
+      "title"
+    ],
+    [
+      "chor298",
+      "chor256",
+      "opening"
+    ],
+    [
+      "chor298",
+      "chor282",
+      "interval similarity"
+    ],
+    [
+      "chor299",
+      "chor152",
+      "title"
+    ],
+    [
+      "chor300",
+      "chor094",
+      "title"
+    ],
+    [
+      "chor300",
+      "chor145",
+      "title"
+    ],
+    [
+      "chor301",
+      "chor031",
+      "title"
+    ],
+    [
+      "chor301",
+      "chor285",
+      "interval similarity"
+    ],
+    [
+      "chor303",
+      "chor101",
+      "title"
+    ],
+    [
+      "chor304",
+      "chor281",
+      "opening"
+    ],
+    [
+      "chor306",
+      "chor201",
+      "title"
+    ],
+    [
+      "chor307",
+      "chor198",
+      "title"
+    ],
+    [
+      "chor308",
+      "chor156",
+      "title"
+    ],
+    [
+      "chor308",
+      "chor217",
+      "title"
+    ],
+    [
+      "chor309",
+      "chor005",
+      "BWV"
+    ],
+    [
+      "chor310",
+      "chor044",
+      "title"
+    ],
+    [
+      "chor312",
+      "chor085",
+      "title"
+    ],
+    [
+      "chor312",
+      "chor255",
+      "interval similarity"
+    ],
+    [
+      "chor312",
+      "chor291",
+      "interval similarity"
+    ],
+    [
+      "chor313",
+      "chor125",
+      "title"
+    ],
+    [
+      "chor313",
+      "chor249",
+      "title"
+    ],
+    [
+      "chor315",
+      "chor085",
+      "title"
+    ],
+    [
+      "chor315",
+      "chor312",
+      "title"
+    ],
+    [
+      "chor316",
+      "chor006",
+      "title"
+    ],
+    [
+      "chor317",
+      "chor144",
+      "interval similarity"
+    ],
+    [
+      "chor318",
+      "chor144",
+      "BWV"
+    ],
+    [
+      "chor318",
+      "chor317",
+      "interval similarity"
+    ],
+    [
+      "chor319",
+      "chor235",
+      "BWV"
+    ],
+    [
+      "chor321",
+      "chor055",
+      "title"
+    ],
+    [
+      "chor322",
+      "chor052",
+      "title"
+    ],
+    [
+      "chor323",
+      "chor278",
+      "title"
+    ],
+    [
+      "chor324",
+      "chor096",
+      "title"
+    ],
+    [
+      "chor324",
+      "chor138",
+      "title"
+    ],
+    [
+      "chor324",
+      "chor263",
+      "title"
+    ],
+    [
+      "chor324",
+      "chor283",
+      "title"
+    ],
+    [
+      "chor326",
+      "chor125",
+      "title"
+    ],
+    [
+      "chor326",
+      "chor249",
+      "title"
+    ],
+    [
+      "chor326",
+      "chor313",
+      "title"
+    ],
+    [
+      "chor328",
+      "chor131",
+      "title"
+    ],
+    [
+      "chor329",
+      "chor004",
+      "interval similarity"
+    ],
+    [
+      "chor329",
+      "chor248",
+      "title"
+    ],
+    [
+      "chor329",
+      "chor290",
+      "opening"
+    ],
+    [
+      "chor330",
+      "chor032",
+      "title"
+    ],
+    [
+      "chor331",
+      "chor281",
+      "title"
+    ],
+    [
+      "chor331",
+      "chor304",
+      "opening"
+    ],
+    [
+      "chor332",
+      "chor114",
+      "title"
+    ],
+    [
+      "chor332",
+      "chor191",
+      "title"
+    ],
+    [
+      "chor333",
+      "chor016",
+      "title"
+    ],
+    [
+      "chor334",
+      "chor164",
+      "opening"
+    ],
+    [
+      "chor335",
+      "chor004",
+      "title"
+    ],
+    [
+      "chor335",
+      "chor248",
+      "interval similarity"
+    ],
+    [
+      "chor335",
+      "chor290",
+      "title"
+    ],
+    [
+      "chor335",
+      "chor329",
+      "opening"
+    ],
+    [
+      "chor336",
+      "chor031",
+      "interval similarity"
+    ],
+    [
+      "chor336",
+      "chor285",
+      "interval similarity"
+    ],
+    [
+      "chor336",
+      "chor301",
+      "opening"
+    ],
+    [
+      "chor337",
+      "chor085",
+      "title"
+    ],
+    [
+      "chor337",
+      "chor312",
+      "title"
+    ],
+    [
+      "chor337",
+      "chor315",
+      "title"
+    ],
+    [
+      "chor338",
+      "chor175",
+      "title"
+    ],
+    [
+      "chor339",
+      "chor062",
+      "title"
+    ],
+    [
+      "chor339",
+      "chor104",
+      "title"
+    ],
+    [
+      "chor339",
+      "chor112",
+      "title"
+    ],
+    [
+      "chor339",
+      "chor146",
+      "title"
+    ],
+    [
+      "chor339",
+      "chor204",
+      "interval similarity"
+    ],
+    [
+      "chor340",
+      "chor270",
+      "title"
+    ],
+    [
+      "chor340",
+      "chor286",
+      "title"
+    ],
+    [
+      "chor341",
+      "chor002",
+      "title"
+    ],
+    [
+      "chor341",
+      "chor272",
+      "title"
+    ],
+    [
+      "chor342",
+      "chor054",
+      "title"
+    ],
+    [
+      "chor342",
+      "chor276",
+      "title"
+    ],
+    [
+      "chor343",
+      "chor009",
+      "interval similarity"
+    ],
+    [
+      "chor343",
+      "chor102",
+      "interval similarity"
+    ],
+    [
+      "chor344",
+      "chor046",
+      "title"
+    ],
+    [
+      "chor345",
+      "chor021",
+      "interval similarity"
+    ],
+    [
+      "chor345",
+      "chor074",
+      "title"
+    ],
+    [
+      "chor345",
+      "chor080",
+      "title"
+    ],
+    [
+      "chor345",
+      "chor089",
+      "title"
+    ],
+    [
+      "chor345",
+      "chor098",
+      "title"
+    ],
+    [
+      "chor345",
+      "chor270",
+      "interval similarity"
+    ],
+    [
+      "chor345",
+      "chor286",
+      "interval similarity"
+    ],
+    [
+      "chor347",
+      "chor065",
+      "title"
+    ],
+    [
+      "chor347",
+      "chor293",
+      "title"
+    ],
+    [
+      "chor348",
+      "chor152",
+      "title"
+    ],
+    [
+      "chor348",
+      "chor299",
+      "title"
+    ],
+    [
+      "chor349",
+      "chor041",
+      "interval similarity"
+    ],
+    [
+      "chor349",
+      "chor115",
+      "opening"
+    ],
+    [
+      "chor349",
+      "chor120",
+      "BWV"
+    ],
+    [
+      "chor349",
+      "chor265",
+      "interval similarity"
+    ],
+    [
+      "chor350",
+      "chor095",
+      "interval similarity"
+    ],
+    [
+      "chor350",
+      "chor233",
+      "opening"
+    ],
+    [
+      "chor351",
+      "chor052",
+      "title"
+    ],
+    [
+      "chor351",
+      "chor322",
+      "title"
+    ],
+    [
+      "chor352",
+      "chor016",
+      "title"
+    ],
+    [
+      "chor352",
+      "chor333",
+      "title"
+    ],
+    [
+      "chor353",
+      "chor125",
+      "opening"
+    ],
+    [
+      "chor353",
+      "chor249",
+      "opening"
+    ],
+    [
+      "chor353",
+      "chor313",
+      "BWV"
+    ],
+    [
+      "chor353",
+      "chor326",
+      "opening"
+    ],
+    [
+      "chor354",
+      "chor004",
+      "interval similarity"
+    ],
+    [
+      "chor354",
+      "chor248",
+      "title"
+    ],
+    [
+      "chor354",
+      "chor290",
+      "interval similarity"
+    ],
+    [
+      "chor354",
+      "chor329",
+      "title"
+    ],
+    [
+      "chor354",
+      "chor335",
+      "interval similarity"
+    ],
+    [
+      "chor355",
+      "chor050",
+      "interval similarity"
+    ],
+    [
+      "chor355",
+      "chor063",
+      "title"
+    ],
+    [
+      "chor355",
+      "chor103",
+      "title"
+    ],
+    [
+      "chor355",
+      "chor117",
+      "title"
+    ],
+    [
+      "chor355",
+      "chor275",
+      "opening"
+    ],
+    [
+      "chor355",
+      "chor289",
+      "title"
+    ],
+    [
+      "chor356",
+      "chor096",
+      "title"
+    ],
+    [
+      "chor356",
+      "chor138",
+      "title"
+    ],
+    [
+      "chor356",
+      "chor263",
+      "title"
+    ],
+    [
+      "chor356",
+      "chor283",
+      "title"
+    ],
+    [
+      "chor356",
+      "chor324",
+      "title"
+    ],
+    [
+      "chor359",
+      "chor013",
+      "title"
+    ],
+    [
+      "chor360",
+      "chor055",
+      "title"
+    ],
+    [
+      "chor360",
+      "chor321",
+      "title"
+    ],
+    [
+      "chor361",
+      "chor009",
+      "BWV"
+    ],
+    [
+      "chor361",
+      "chor102",
+      "title"
+    ],
+    [
+      "chor361",
+      "chor343",
+      "interval similarity"
+    ],
+    [
+      "chor362",
+      "chor260",
+      "title"
+    ],
+    [
+      "chor363",
+      "chor050",
+      "opening"
+    ],
+    [
+      "chor363",
+      "chor063",
+      "interval similarity"
+    ],
+    [
+      "chor363",
+      "chor103",
+      "interval similarity"
+    ],
+    [
+      "chor363",
+      "chor117",
+      "interval similarity"
+    ],
+    [
+      "chor363",
+      "chor275",
+      "title"
+    ],
+    [
+      "chor363",
+      "chor289",
+      "opening"
+    ],
+    [
+      "chor364",
+      "chor114",
+      "title"
+    ],
+    [
+      "chor364",
+      "chor191",
+      "title"
+    ],
+    [
+      "chor364",
+      "chor332",
+      "title"
+    ],
+    [
+      "chor365",
+      "chor095",
+      "interval similarity"
+    ],
+    [
+      "chor365",
+      "chor233",
+      "interval similarity"
+    ],
+    [
+      "chor365",
+      "chor350",
+      "interval similarity"
+    ],
+    [
+      "chor366",
+      "chor103",
+      "interval similarity"
+    ],
+    [
+      "chor366",
+      "chor117",
+      "interval similarity"
+    ],
+    [
+      "chor366",
+      "chor275",
+      "title"
+    ],
+    [
+      "chor366",
+      "chor355",
+      "interval similarity"
+    ],
+    [
+      "chor366",
+      "chor363",
+      "title"
+    ],
+    [
+      "chor367",
+      "chor021",
+      "interval similarity"
+    ],
+    [
+      "chor367",
+      "chor074",
+      "opening"
+    ],
+    [
+      "chor367",
+      "chor080",
+      "opening"
+    ],
+    [
+      "chor367",
+      "chor089",
+      "interval similarity"
+    ],
+    [
+      "chor367",
+      "chor098",
+      "opening"
+    ],
+    [
+      "chor367",
+      "chor270",
+      "title"
+    ],
+    [
+      "chor367",
+      "chor286",
+      "title"
+    ],
+    [
+      "chor367",
+      "chor340",
+      "title"
+    ],
+    [
+      "chor367",
+      "chor345",
+      "interval similarity"
+    ],
+    [
+      "chor370",
+      "chor045",
+      "interval similarity"
+    ],
+    [
+      "chor371",
+      "chor261",
+      "title"
+    ]
+  ],
+  "pieces_sha256": "4fd4d97a7407f052d081f18c25b8207ef5dc3127fc794d6d826274925214cf17",
+  "counts": {
+    "validation": 40,
+    "test": 40,
+    "train": 230
+  },
+  "family_counts": {
+    "train": 125,
+    "validation": 21,
+    "test": 21
+  },
+  "pieces": [
+    {
+      "id": "chor001",
+      "title": "Aus meines Herzens Grunde",
+      "bwv": "BWV 269",
+      "source_sha256": "3d52db21808db6b55f9790b5d56e7643e649191b19220e36e8634c8c24dbd73a",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 8,
+      "family": "chor001",
+      "split": "validation",
+      "events": 46,
+      "events_sha256": "2f29fc5bda86434999e2fb2c6af3a84280eee9e423ed1a5958cd3ff4dff398fa"
+    },
+    {
+      "id": "chor002",
+      "title": "Ich dank dir, lieber Herre",
+      "bwv": "BWV 347",
+      "source_sha256": "f2b745a06030ac1be953df6e48ef81abbd8937f5e4d4ba1c0d2572c3ebddde72",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor002",
+      "split": "test",
+      "events": 53,
+      "events_sha256": "abbb4b4b7c1276364e79f56883a3646ebd05195da1a129236abc78d9cf88a419"
+    },
+    {
+      "id": "chor004",
+      "title": "Es ist das Heil uns kommen her",
+      "bwv": "BWV 86/6",
+      "source_sha256": "eb302f8dbb62ece381e064dfd733112356c2170346041e4ba42a562f15721912",
+      "key": "E major",
+      "mode": 0,
+      "shift": -4,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor004",
+      "split": "train",
+      "events": 43,
+      "events_sha256": "6f7c082fa02c05c3f95cc2922ed856abaf6c56f426dc05d8ae34c748171eb56c"
+    },
+    {
+      "id": "chor005",
+      "title": "An Wasserflüssen Babylon",
+      "bwv": "BWV 267",
+      "source_sha256": "32f804e53813af5eab79516b798e23d1fe00618746461db1f049d3409beee62b",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor005",
+      "split": "train",
+      "events": 78,
+      "events_sha256": "ba69d24e86876b2ba73f181cd4b00c29c1c1bf01f755cb6e4b18cd910d81ac1b"
+    },
+    {
+      "id": "chor006",
+      "title": "Christus, der ist mein Leben",
+      "bwv": "BWV 281",
+      "source_sha256": "d91d6f2a153f64b7b42a376795bc2249a23fb4ec416b59f69325b4b2fc15bcd5",
+      "key": "F major",
+      "mode": 0,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor006",
+      "split": "train",
+      "events": 27,
+      "events_sha256": "aab367accefd2dcfcb37bf113f0025e8b9dcff5f3b447d07abda86a42f316fc3"
+    },
+    {
+      "id": "chor007",
+      "title": "Nun lob, mein Seel, den Herren",
+      "bwv": "BWV 17/7",
+      "source_sha256": "f3d0982dfc9840f198bc139731ca7f6af64cbe363823d70437f802cbb2174d80",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 8,
+      "family": "chor007",
+      "split": "train",
+      "events": 82,
+      "events_sha256": "55e269d5feda6637bce0dfe9fda4fb6aff0ea5bdf0b7d97ee2bbcfc09f7c2d8c"
+    },
+    {
+      "id": "chor009",
+      "title": "Ermuntre dich, mein schwacher Geist",
+      "bwv": "BWV 248/12",
+      "source_sha256": "5c5062a7f597deb2d94e5e55f86438101bd8a24dcf50c093382e484e45f4607c",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor009",
+      "split": "train",
+      "events": 49,
+      "events_sha256": "e258ceee49c4d747b9a47dda12f12bb082c2773015f42421b84781268a591089"
+    },
+    {
+      "id": "chor010",
+      "title": "Aus tiefer Not schrei ich zu dir",
+      "bwv": "BWV 38/6",
+      "source_sha256": "8f52942d1fa0f67dee0851d8398c761f957badc9b375980f9dfbc93131db1189",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor010",
+      "split": "train",
+      "events": 43,
+      "events_sha256": "94f7fe8ecd0e19cfe5a0fc169aef75bc2be3e61bebe8dcafa45c64e364c086f4"
+    },
+    {
+      "id": "chor012",
+      "title": "Puer natus in Bethlehem",
+      "bwv": "BWV 65/2",
+      "source_sha256": "de9a04be638010333ceb86a217b38ff74b8a6d68cfe3fc30074cf76b127ef16a",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 8,
+      "family": "chor012",
+      "split": "train",
+      "events": 33,
+      "events_sha256": "4a4c1cf8ebcf7b0e44e1eeac6deb9bffb25939a6ed58b2db2e6e4747dc659624"
+    },
+    {
+      "id": "chor013",
+      "title": "Allein zu dir, Herr Jesu Christ",
+      "bwv": "BWV 33/6",
+      "source_sha256": "6152a7c070948b7cc1d05b66eaf181eda794a0c0bea5db91dc86372f34f80df2",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor013",
+      "split": "train",
+      "events": 72,
+      "events_sha256": "6f4496c4f270c5738456b65ff243367c5c8a195fd4884bf3780f5cb4f3dea11e"
+    },
+    {
+      "id": "chor014",
+      "title": "O Herre Gott, dein göttlich Wort",
+      "bwv": "BWV 185/5",
+      "source_sha256": "5f20998e901a770b334dbd73ff2fbae183dbe6861e959ac2edf6c29a7fae6c7c",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor014",
+      "split": "train",
+      "events": 54,
+      "events_sha256": "103f1f4b2b9e03e7812ccb576483cdad8abefa518826242b3e3c9d156bb12d29"
+    },
+    {
+      "id": "chor016",
+      "title": "Es woll' uns Gott genädig sein",
+      "bwv": "BWV 311",
+      "source_sha256": "72a0689146fedaf1d60241b67ad6a4988a73e30232c2d93ee45c65d7d5f1bb0d",
+      "key": "B minor",
+      "mode": 1,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor016",
+      "split": "test",
+      "events": 69,
+      "events_sha256": "6bbab67f9c5e60146e75bb3637dbe413e94db95f1bd58bd982b0154b3f597721"
+    },
+    {
+      "id": "chor017",
+      "title": "Erschienen ist der herrliche Tag",
+      "bwv": "BWV 145/5",
+      "source_sha256": "409ab56a1e0be13d009032ead17f0fbe39788e838daf06a17692d4d01d5872f5",
+      "key": "E minor",
+      "mode": 1,
+      "shift": 5,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 0,
+      "family": "chor017",
+      "split": "train",
+      "events": 39,
+      "events_sha256": "78223233a9b031e334d8f764761a122a5ff307f2cf2095f4dba24a94d39151dc"
+    },
+    {
+      "id": "chor018",
+      "title": "Gottes Sohn ist kommen",
+      "bwv": "BWV 318",
+      "source_sha256": "d35048e2cdaf663d85a242cbe3f664519285b3a3b4cc65cbf45bfca2c96345e7",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor018",
+      "split": "validation",
+      "events": 46,
+      "events_sha256": "5cef38e8de99b7f8574b55d6f0746c1577beb7f48c746ace79b0f59ee130b780"
+    },
+    {
+      "id": "chor020",
+      "title": "Ein feste Burg ist unser Gott",
+      "bwv": "BWV 302",
+      "source_sha256": "424dfa015e7fa10dfe40fd6c47216ca400ed5574d9097752abdf0102eacae996",
+      "key": "D major",
+      "mode": 0,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor020",
+      "split": "test",
+      "events": 52,
+      "events_sha256": "3b769435b39946ec48ab3e1a0e07ead6eea4d4931282587f08b6b60ecba77037"
+    },
+    {
+      "id": "chor021",
+      "title": "Herzlich tut mich verlangen",
+      "bwv": "BWV 153/5",
+      "source_sha256": "a4339b0197546b3c31015f94211d3af8d6f7341af3b2a23d86c5af239d216157",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor021",
+      "split": "train",
+      "events": 40,
+      "events_sha256": "351e4013dd28f7ce917818b0c7af798476dd445b8a49671baf6048ebb71d7af8"
+    },
+    {
+      "id": "chor022",
+      "title": "Schmücke dich, o liebe Seele",
+      "bwv": "BWV 180/7",
+      "source_sha256": "35a7971e8096116e1c2d550d01dd535d60ebfc31c1ffb8a15439a4fb8c8c7c1f",
+      "key": "E- major",
+      "mode": 0,
+      "shift": -3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor022",
+      "split": "train",
+      "events": 61,
+      "events_sha256": "4f51d16e428398bd9d1b028ded79012dc7bb06894dde1dbc66b6b94057122663"
+    },
+    {
+      "id": "chor023",
+      "title": "Zeuch ein zu deinen Toren",
+      "bwv": "BWV 28/6",
+      "source_sha256": "a9f9776f32e1c8030a886f2b2b3758594a8acae4582ce92637acdcfb4a6edc6d",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor023",
+      "split": "train",
+      "events": 44,
+      "events_sha256": "4b17655cf9b4e179717ca2d876566a67739025ba47dfe6283bab4a64e4d80ffa"
+    },
+    {
+      "id": "chor024",
+      "title": "Valet will ich dir geben",
+      "bwv": "BWV 415",
+      "source_sha256": "1c03bd8b5ce4b423f9c1b98d05c572d17ff24f3c3efd5157ac2f5c48ee35ca79",
+      "key": "D major",
+      "mode": 0,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor024",
+      "split": "train",
+      "events": 45,
+      "events_sha256": "1152656b00d4725730fb8dc7cf52ba8e33ba149c257a7d6e531d588413ab317c"
+    },
+    {
+      "id": "chor026",
+      "title": "O Ewigkeit, du Donnerwort",
+      "bwv": "BWV 20/7,11",
+      "source_sha256": "7faf965abeea337b9744e8ae3cb58f7da5f813b0c087d8db832f7ff0ba38d216",
+      "key": "F major",
+      "mode": 0,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor026",
+      "split": "train",
+      "events": 41,
+      "events_sha256": "671c301fc0fea4a73fc06c9bbade63f8ee31338fcfd515f988f2f86140730e14"
+    },
+    {
+      "id": "chor027",
+      "title": "Es spricht der Unweisen Mund",
+      "bwv": "BWV 308",
+      "source_sha256": "5d769fbcd99ad097904efc36c9fb9893f18d6ac7da8b3b6b0c790ffb6d384d48",
+      "key": "B- major",
+      "mode": 0,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor027",
+      "split": "train",
+      "events": 45,
+      "events_sha256": "b8b01b4fc0294e9271893df36df6e85b3d78515c75c118cc22eedf983156d977"
+    },
+    {
+      "id": "chor028",
+      "title": "Nun komm, der Heiden Heiland",
+      "bwv": "BWV 36(2)/8",
+      "source_sha256": "7b991cddf953eb285b374f9dfe68c7231418c6fa744baad491c55256ee93d981",
+      "key": "B minor",
+      "mode": 1,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor028",
+      "split": "train",
+      "events": 33,
+      "events_sha256": "135da2bbebb4999bc9dc923252872e046f4787f96207b1808420bedb6245c5e1"
+    },
+    {
+      "id": "chor029",
+      "title": "Freu dich sehr, o meine Seele",
+      "bwv": "BWV 32/6",
+      "source_sha256": "47ee1bbb8125d61b4756fe103043e2dfb2a1c8e408337881fd604ea59f589af2",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor029",
+      "split": "train",
+      "events": 47,
+      "events_sha256": "3d2eccbc1c28e02f79103d3657b40e998af23176d4b1c1872bf6303a42d1da46"
+    },
+    {
+      "id": "chor030",
+      "title": "Jesus Christus, unser Heiland",
+      "bwv": "BWV 363",
+      "source_sha256": "b100d70c63c1b0310526ce7cbef8fcf38e2f94b0f9c44723c7fc6e8966346eee",
+      "key": "E minor",
+      "mode": 1,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor030",
+      "split": "train",
+      "events": 47,
+      "events_sha256": "129489cd3e9dfcabf8961f2725a1ab36092a598261d998f76c081a3f4450e37e"
+    },
+    {
+      "id": "chor031",
+      "title": "Ach lieben Christen, seid getrost",
+      "bwv": "BWV 256",
+      "source_sha256": "c531271faabe0a3838a7683ad6778456ae3f9355bf5a7419a75974e6c7a2478e",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor031",
+      "split": "validation",
+      "events": 50,
+      "events_sha256": "27ecc7838a5958601616ac992e6a5ae1e9df26c1ef16daab0359151f3009a8c7"
+    },
+    {
+      "id": "chor032",
+      "title": "Nun danket alle Gott",
+      "bwv": "BWV 386",
+      "source_sha256": "801221d04aa9ab79f3713d95015209378b1d921027a50f1a8970acb8ec83a539",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor032",
+      "split": "train",
+      "events": 44,
+      "events_sha256": "832972d9a578e83b078061fea09b034169946abfa4d9bfa5e51ddf89dcb6bfc9"
+    },
+    {
+      "id": "chor033",
+      "title": "Herr, ich habe mißgehandelt",
+      "bwv": "BWV 330",
+      "source_sha256": "6bfa6f2efb488d294f8683a11c9c26c549b4c0f7f5f4c6ff96f0c0446d95e65f",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor033",
+      "split": "train",
+      "events": 37,
+      "events_sha256": "c7838cd6e56870c5ea2ba52b91c3427ad1d11c6490dfd83d046632de5595b39c"
+    },
+    {
+      "id": "chor035",
+      "title": "Gott des Himmels und der Erden",
+      "bwv": "BWV 248/53",
+      "source_sha256": "a839379374bc349c618eb81b627e1737238609972be4aeb460147729199ac318",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor035",
+      "split": "train",
+      "events": 37,
+      "events_sha256": "baad275d31d7a8abeab82a4cd9199d9aaeac911b273af36c8726740c18e1fc47"
+    },
+    {
+      "id": "chor036",
+      "title": "Nun bitten wir den heiligen Geist",
+      "bwv": "BWV 385",
+      "source_sha256": "41958d27c43bed0584a485269b186b1b177000556a5c1e6a99a743fd5651b51f",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor036",
+      "split": "train",
+      "events": 53,
+      "events_sha256": "1b16b43afffe079286145de2f1c9ae2349e7d80a33b3ba0b665f0af4cc5cebea"
+    },
+    {
+      "id": "chor037",
+      "title": "Jesu, der du meine Seele",
+      "bwv": "BWV 352",
+      "source_sha256": "9e7917f5ca4edabfedfa8c6b493c876046fa0ea70c961ba03f27f29e9f410184",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor037",
+      "split": "train",
+      "events": 51,
+      "events_sha256": "ae521c8514b4c9a7156dfbec676acbaf14e0d8b579090a2175ea8c9003c0aee9"
+    },
+    {
+      "id": "chor038",
+      "title": "Straf mich nicht in deinem Zorn",
+      "bwv": "BWV 115/6",
+      "source_sha256": "a64c2e86eee8f4dd08348f8acff37c6c1451ee60270c3461d57605dc78f9e9cf",
+      "key": "E- major",
+      "mode": 0,
+      "shift": -3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor038",
+      "split": "train",
+      "events": 33,
+      "events_sha256": "7901f58e574490d7692b6e980c56f0f812515fcfa8ac74e0d3986e111fa57631"
+    },
+    {
+      "id": "chor039",
+      "title": "Ach, was soll ich Sünder machen?",
+      "bwv": "BWV 259",
+      "source_sha256": "1582a50d0ddcae7dc9606a745d474d5edb6e0cb73c4c30bc43273193dbaa5c53",
+      "key": "E minor",
+      "mode": 1,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor039",
+      "split": "train",
+      "events": 44,
+      "events_sha256": "69c08ee6a1c2a3cb982a28595e584b51cef2bdb8fcddee35439f53448821dee6"
+    },
+    {
+      "id": "chor040",
+      "title": "Ach Gott und Herr",
+      "bwv": "BWV 255",
+      "source_sha256": "0639b116439d3270d168229ee0e489f07eb4f9aba644a07c57b1c4fa33d9af67",
+      "key": "C major",
+      "mode": 0,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor040",
+      "split": "train",
+      "events": 34,
+      "events_sha256": "5b936a2c8c004a5acfb5cae9056cb35be76c4e1e9fa2dd7a1ada06c1cf6709f9"
+    },
+    {
+      "id": "chor041",
+      "title": "Was mein Gott will, das g'scheh allzeit",
+      "bwv": "BWV 65/7",
+      "source_sha256": "bd01c21628bb3976ae98ba0e31ebf7a558870716b14d644b243f6c223267dbb2",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor041",
+      "split": "train",
+      "events": 52,
+      "events_sha256": "d034505a6fbe9ff1b45c8264977e75bac2391ea87b2b9e139087ac811dc13298"
+    },
+    {
+      "id": "chor042",
+      "title": "Du Friedefürst, Herr Jesu Christ",
+      "bwv": "BWV 67/7",
+      "source_sha256": "074b3647f650adf4ab7ae1e2a15d50379471afa932e5c268f88452dd4ccad6ff",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor042",
+      "split": "train",
+      "events": 32,
+      "events_sha256": "7fc1bb1206c68b5e13fb0ee37978d0a63f532c5a4bf8dd6e2f576ebe2f534c93"
+    },
+    {
+      "id": "chor043",
+      "title": "Liebester Gott, wann werd ich sterben",
+      "bwv": "BWV 8/6",
+      "source_sha256": "80bd69e549b3fad4dfe821ace93d3484aeb4569191b2a063b70d6af48b04dead",
+      "key": "E major",
+      "mode": 0,
+      "shift": -4,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor043",
+      "split": "validation",
+      "events": 64,
+      "events_sha256": "dbbd892bcf638610989eb36d55ff40557be2979e5623323b5e1460bd770bcfd4"
+    },
+    {
+      "id": "chor044",
+      "title": "Mach's mit mir, Gott, nach deiner Güt",
+      "bwv": "BWV 377",
+      "source_sha256": "2b188ddbcb6eb971f1f3dbf6cb2d0d2502eb4c1c10f0cb1d8936f0ad0cd68e78",
+      "key": "D major",
+      "mode": 0,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor044",
+      "split": "train",
+      "events": 33,
+      "events_sha256": "00f36bee949b3db0f7f6c43c954007467cf48cf0409b39076ea294b6f258c13b"
+    },
+    {
+      "id": "chor045",
+      "title": "Kommt her zu mir, spricht",
+      "bwv": "BWV 108/6",
+      "source_sha256": "8c1210ef71804f72cdf71e2ccf8f9cb49fb3961fddd53572c4744dac7c2f329b",
+      "key": "B minor",
+      "mode": 1,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor045",
+      "split": "train",
+      "events": 61,
+      "events_sha256": "33063db03d4b5352d2b0537085467972970ee6bf8c98e07c3e79902a8d9fb1cf"
+    },
+    {
+      "id": "chor046",
+      "title": "Vom Himmel hoch, da komm ich her",
+      "bwv": "BWV 248/9",
+      "source_sha256": "9a1db06fa067cd0d65981d8fe90ad71dfdffe18c6433bee1372d02d647b83378",
+      "key": "D major",
+      "mode": 0,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor046",
+      "split": "train",
+      "events": 37,
+      "events_sha256": "c383aaacf11325b4a18950482869009b456d4433b5327d7fc3b4e91fb4ff96d3"
+    },
+    {
+      "id": "chor047",
+      "title": "Vater unser im Himmelreich",
+      "bwv": "BWV 245/5 & 416",
+      "source_sha256": "34ec4515d7cd81f31b4ed3480365ae1866a96664412322100ca132d419b3864e",
+      "key": "D minor",
+      "mode": 1,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor047",
+      "split": "test",
+      "events": 51,
+      "events_sha256": "b824e1840f35322806378c27c8be0fcfccc6a60cdc41ce1c61c636b327b5ac3c"
+    },
+    {
+      "id": "chor048",
+      "title": "Ach wie flüchtig, ach wie nichtig",
+      "bwv": "BWV 26/6",
+      "source_sha256": "db87a7ee120cbbb64302e292d66fe321ce9e42f3d5fa72d724f0288719bdd79b",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor048",
+      "split": "train",
+      "events": 40,
+      "events_sha256": "5c94137ecfde77bea4d4abded8162f7cbb4d9103f55e29f682e8499af50e76e2"
+    },
+    {
+      "id": "chor050",
+      "title": "In allen meinen Taten",
+      "bwv": "BWV 244/37",
+      "source_sha256": "3287065a8ba7a1934590a8b179dec6615b53692314d8478228599117e486900e",
+      "key": "F major",
+      "mode": 0,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor050",
+      "split": "train",
+      "events": 53,
+      "events_sha256": "5bbc7251fb6e8a9c0f25b4ad38c452f876eafa6bd09e7cdf787370bab46bca3e"
+    },
+    {
+      "id": "chor051",
+      "title": "Gelobet seist du, Jesu Christ",
+      "bwv": "BWV 91/6",
+      "source_sha256": "131dacfe0188ee3c69911962c7414e2e898507fbea2477a152e1f15f8dfaca63",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor051",
+      "split": "train",
+      "events": 43,
+      "events_sha256": "4a564209a303576515f83c569b7cac966f620f264538c1ffe7b31dcc0d3ea38e"
+    },
+    {
+      "id": "chor052",
+      "title": "Wenn mein Stündlein vorhanden ist",
+      "bwv": "BWV 429",
+      "source_sha256": "3e3ca0d58f2ed3f0b153ae3ddedee331e56b79574b003a874cb29b2cc02c2047",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor052",
+      "split": "test",
+      "events": 65,
+      "events_sha256": "6a065202bac8bc7c22344e06f59519bd6393023f9b6d41327f38f82be7a20388"
+    },
+    {
+      "id": "chor053",
+      "title": "Das neugeborne Kindelein",
+      "bwv": "BWV 122/6",
+      "source_sha256": "f67ae228f4ac5d58132b01c3b39933a70af63da070ccfb0a7fbecccee4586b31",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 0,
+      "family": "chor053",
+      "split": "train",
+      "events": 38,
+      "events_sha256": "7a8d8b0247899a5952375a37b77c71d77038b0d8f0f804c83204187bffd9ba81"
+    },
+    {
+      "id": "chor054",
+      "title": "Lobt Gott, ihr Christen allzugleich",
+      "bwv": "BWV 151/5",
+      "source_sha256": "66b79139b91ac4e8122fc19814b79b7536b80468a4452dfa5c2ce486fa828a04",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor054",
+      "split": "train",
+      "events": 44,
+      "events_sha256": "b9a7027133fa38835d12964894decc96763a68a960cca3b7fa90a47b46b278ed"
+    },
+    {
+      "id": "chor055",
+      "title": "Wir Christenleut",
+      "bwv": "BWV 110/7",
+      "source_sha256": "3f372058ab1558b646d4eeae98b853ddc82a1fdb078eb080846847149db39b0f",
+      "key": "B minor",
+      "mode": 1,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor055",
+      "split": "test",
+      "events": 39,
+      "events_sha256": "e10d24dfbda1a579b7ecd91d204c63246c5891ec3c2a7152273c49a5c9e4f27a"
+    },
+    {
+      "id": "chor057",
+      "title": "O Traurigkeit, o Herzeleid",
+      "bwv": "BWV 404",
+      "source_sha256": "39fba51e76783164200f26676508e513ee9d06b89c12256f6440f6e2042946a1",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor057",
+      "split": "train",
+      "events": 31,
+      "events_sha256": "8f2e458e1020db0b460d90f51c501dd46950d0f938391d65d7cfd17456dbcd0f"
+    },
+    {
+      "id": "chor058",
+      "title": "Herzlich lieb hab ich dich, o Herr",
+      "bwv": "BWV 174/5",
+      "source_sha256": "8cfd493359fa7f9cc4b8159717cc0ed80c6096204f461cbc4e31fd037694c72f",
+      "key": "D major",
+      "mode": 0,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor058",
+      "split": "train",
+      "events": 86,
+      "events_sha256": "4ec7369d0e5c7687df13f33f7bbbcd3c459aeed0ca30f08a8af766633d063172"
+    },
+    {
+      "id": "chor059",
+      "title": "Herzliebster Jesu, was hast du verbrochen",
+      "bwv": "BWV 245/3",
+      "source_sha256": "9f9a93fcfd9b5ce0de0b7fb3a015da7c8f75293bc67bedb19ae9795361233d76",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor059",
+      "split": "train",
+      "events": 43,
+      "events_sha256": "e240255294e31c6c8e4a8df278e9e06a07e2beff9da2216b3937f0971c3a7ade"
+    },
+    {
+      "id": "chor060",
+      "title": "Ich freue mich in dir",
+      "bwv": "BWV 133/6",
+      "source_sha256": "705c60d1912eda66a94e868ee55810ed556266dc7e3ce492fa9c09defc3a3020",
+      "key": "D major",
+      "mode": 0,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor060",
+      "split": "train",
+      "events": 46,
+      "events_sha256": "7a3b3aae173ec5e6b595f270480f5101c1a383a1b090771f2265f8d0291de28d"
+    },
+    {
+      "id": "chor061",
+      "title": "Jesu Leiden, Pein und Tod",
+      "bwv": "BWV 159/5",
+      "source_sha256": "27dbfea1c201ad5d747afbb71c175c41a616ca1ff51a57755f67710b0c44cfd0",
+      "key": "E- major",
+      "mode": 0,
+      "shift": -3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor061",
+      "split": "train",
+      "events": 57,
+      "events_sha256": "5afdee089c6b24452749ff4b92034b3b36373566068c00dc2a538282a372165c"
+    },
+    {
+      "id": "chor062",
+      "title": "Wer nur den lieben Gott läßt walten",
+      "bwv": "BWV 197/10",
+      "source_sha256": "4dd4f16351a1ec4bbd83cfc94942d7f8c42d988347f1fb5a6e8692183d9ebf66",
+      "key": "B minor",
+      "mode": 1,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor062",
+      "split": "train",
+      "events": 36,
+      "events_sha256": "a87b75a4070f0fb75baa26827ff611dcab2a03062bda79369c998d2eefdc4486"
+    },
+    {
+      "id": "chor063",
+      "title": "Nun ruhen alle Wälder",
+      "bwv": "BWV 245/11",
+      "source_sha256": "b6608788e11c669dcbd03e8265155848e50cfbe503d8296021cc6f783c0aa0e4",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor050",
+      "split": "train",
+      "events": 51,
+      "events_sha256": "ee62bdef59c22a5f1552c19ad64b819593520c466ec16b974d1776260a4749b3"
+    },
+    {
+      "id": "chor064",
+      "title": "Freu dich sehr, o meine Seele",
+      "bwv": "BWV 194/6",
+      "source_sha256": "be3f8d4df8340dcd8f59bd4276fab14f8e6de6ad0d1bb69f144b90c3e11c01eb",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor029",
+      "split": "train",
+      "events": 46,
+      "events_sha256": "9ae33cf7551cd10423e7c136bc833dc9993885818c4104be8621d4edeb9ba470"
+    },
+    {
+      "id": "chor065",
+      "title": "Was Gott tut, das ist wohlgetan",
+      "bwv": "BWV 144/3",
+      "source_sha256": "616baa3080e5ba2184ba59aebfb2c2ba6782adb6ec8516fd0603776126484b36",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor065",
+      "split": "test",
+      "events": 40,
+      "events_sha256": "95203bed90c1649d87dff7d28083ffce311719adcd6386c0462c15fb4b1f1905"
+    },
+    {
+      "id": "chor066",
+      "title": "Christ, unser Herr zum Jordan kam",
+      "bwv": "BWV 280",
+      "source_sha256": "dde09c213e49b85009360a282bfb357f16eaa41ea2e16b4ab7176bb7c6f7e7da",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor066",
+      "split": "train",
+      "events": 64,
+      "events_sha256": "b864c1329ca04dbb3552a6d8c690f6c11524aebee21dfdfb53c0552fc6861a6d"
+    },
+    {
+      "id": "chor067",
+      "title": "Freu dich sehr, o meine Seele",
+      "bwv": "BWV 39/7",
+      "source_sha256": "9ecd1f3f299aaceab010b43170e2eafe2e73c72175f9f95e990ff066cec23e51",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor029",
+      "split": "train",
+      "events": 48,
+      "events_sha256": "dab9dc70b71fdaa53a9ada5ee03ce7d109aac95f3c72bdfa71a2c7f3bc1e22a4"
+    },
+    {
+      "id": "chor068",
+      "title": "Wenn wir in höchsten Nöten sein",
+      "bwv": "BWV 431",
+      "source_sha256": "4e88cbf3d2c01a60a0e4781df3fe2d647da0547757896dccedd5c7eb6b138440",
+      "key": "F major",
+      "mode": 0,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor068",
+      "split": "train",
+      "events": 37,
+      "events_sha256": "7a64196e3037cf419c11823775dac3f5d93c709d8cb333fabe19a7d7cb1d6274"
+    },
+    {
+      "id": "chor069",
+      "title": "Komm, heiliger Geist, Herre Gott",
+      "bwv": "BWV 226",
+      "source_sha256": "c5a54ba7d3e13aa68ff60385d28a618f697526c081618540482876038e793d5e",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor069",
+      "split": "train",
+      "events": 99,
+      "events_sha256": "f22d24fc47c015a2edf639a1a8b442cde248e9fd1ebe72d50ead662225e2bf40"
+    },
+    {
+      "id": "chor071",
+      "title": "Ich ruf zu dir, Herr Jesu Christ",
+      "bwv": "BWV 177/5",
+      "source_sha256": "b2b1ffc88881f0b41bf297e5dcecb948577a59357fe1395d7306fb829a23f95d",
+      "key": "E minor",
+      "mode": 1,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor071",
+      "split": "validation",
+      "events": 65,
+      "events_sha256": "020241b478ac2d78eafc5a3b9c49b2580724bc0d95725867ab453eba8fc2ecbe"
+    },
+    {
+      "id": "chor072",
+      "title": "Erhalt uns, Herr, bei deinem Wort",
+      "bwv": "BWV 6/6",
+      "source_sha256": "b2f6630be1b19457cb241cd88b4113630ee4fc8cc4068042487337ea39109b9d",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor072",
+      "split": "train",
+      "events": 38,
+      "events_sha256": "2afa8f896639e936516f61ac117c6ca9e2d1a91c649f30aa8c99491ef9e5e48d"
+    },
+    {
+      "id": "chor073",
+      "title": "Herr Jesu Christ, ich schrei zu dir",
+      "bwv": "BWV 334",
+      "source_sha256": "8d88f2f212178017310ea6ed032a9e93ccfa6ae64bf582c3e1dd9ddeb87772cf",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor073",
+      "split": "validation",
+      "events": 44,
+      "events_sha256": "c6f11836b45bcb2c624fc491670455c033d66d9c369e1a2fe2a9bdee19ce074a"
+    },
+    {
+      "id": "chor074",
+      "title": "O Haupt voll Blut und Wunden",
+      "bwv": "BWV 244/54",
+      "source_sha256": "f6b2bbfce9c9b1dc668e1cd4f0b20960625baf6b5a8cff410f43cdebc2ac7169",
+      "key": "F major",
+      "mode": 0,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor021",
+      "split": "train",
+      "events": 43,
+      "events_sha256": "7cc50a35b9fa4fb9ff30e2845c4fb03fd6e82ee4992e1607ea3bcb93da17faa8"
+    },
+    {
+      "id": "chor075",
+      "title": "Das walt mein Gott",
+      "bwv": "BWV 291",
+      "source_sha256": "897123213244658fddb493b75ffd6816493f6093753f2c2764c4f8e694192337",
+      "key": "D minor",
+      "mode": 1,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor075",
+      "split": "train",
+      "events": 40,
+      "events_sha256": "597610cd3677e6e2aa759ba8d41381b28716fc266624d2e0d43cce4418e66ace"
+    },
+    {
+      "id": "chor076",
+      "title": "Freu dich sehr, o meine Seele",
+      "bwv": "BWV 30/6",
+      "source_sha256": "b850d72eeb432408fb64f100b2bef2e4ada59113bfb6abe5d9b0f66fc3b72860",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor029",
+      "split": "train",
+      "events": 49,
+      "events_sha256": "1a23c11beaf14b5fe2fb8c6eda02bcb2877ba2fac2170c974742bea7ce9719a6"
+    },
+    {
+      "id": "chor077",
+      "title": "In dich hab ich gehoffet, Herr",
+      "bwv": "BWV 248/46",
+      "source_sha256": "2832206e240a754b9e98a50c2fc6dc78d9cb730a412e4ab0086c7f79471b6a5b",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor077",
+      "split": "train",
+      "events": 51,
+      "events_sha256": "bde5da7823dd27721636fe2c0a1a29efefd47f38094f85911fad52c10a697246"
+    },
+    {
+      "id": "chor078",
+      "title": "Herzliebester Jesu, was hast du verbrochen",
+      "bwv": "BWV 244/3",
+      "source_sha256": "3d16b70a7a298abc1e8f10ba6b51022f19f5916fc2aa8d70d787b07b21b3a7d4",
+      "key": "B minor",
+      "mode": 1,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor059",
+      "split": "train",
+      "events": 43,
+      "events_sha256": "5e4fdf0622a33faa56324485cb0a29fb970af2323903e733249074ed090cf6c2"
+    },
+    {
+      "id": "chor079",
+      "title": "Heut triumphieret Gottes Sohn",
+      "bwv": "BWV 342",
+      "source_sha256": "b99cd370d9689ca2463e290ac210353f50eed3a2513e821635c2f8764beda3ee",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 0,
+      "family": "chor079",
+      "split": "train",
+      "events": 53,
+      "events_sha256": "7423f9af612ca86858f5e20a41182cfc30d90bc1a011db1aba599286ca0e3a93"
+    },
+    {
+      "id": "chor080",
+      "title": "O Haupt voll Blut und Wunden",
+      "bwv": "BWV 244/44",
+      "source_sha256": "be5f0756ae54969379652ef76ce3cb2d4c7f493b0b1499e0cb8277bc4b082384",
+      "key": "D major",
+      "mode": 0,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor021",
+      "split": "train",
+      "events": 42,
+      "events_sha256": "dae130925a2e377c7d7d0306e16fbbc2196fe804ae6aeed23eb40cd3131f23c6"
+    },
+    {
+      "id": "chor081",
+      "title": "Christus, der uns delig macht",
+      "bwv": "BWV 245/15",
+      "source_sha256": "7cc04bae8e73a3a2d16892c9e77008addbc7d6370d7ac71575dee2f280967a18",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor081",
+      "split": "train",
+      "events": 58,
+      "events_sha256": "c37083d0931827436345181d0ac12fc447ebe944662bd0d476978c6d779d85cb"
+    },
+    {
+      "id": "chor083",
+      "title": "Jesu Leiden, Pein und Tod",
+      "bwv": "BWV 245/14",
+      "source_sha256": "19b2898fa75c1ff736e3d43a20a6fa198c393d5c100cb868358fa288dfe72d54",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor061",
+      "split": "train",
+      "events": 63,
+      "events_sha256": "be86e9f3d26784cb66e38834d1f6f05cad18e1b535cfc053a94d5c79daf5f954"
+    },
+    {
+      "id": "chor084",
+      "title": "Nun bitten wir den heiligen Geist",
+      "bwv": "BWV 197/5",
+      "source_sha256": "2dc6f0d5ad8c35dde3bd095e145eabc43f1d8ccc487e00ef31f22efad29f0703",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor036",
+      "split": "train",
+      "events": 58,
+      "events_sha256": "926d063ab4ab52729cef81c39050bc8f132b32e6f429dbba8c2b61fe13c24760"
+    },
+    {
+      "id": "chor085",
+      "title": "O Gott, du frommer Gott",
+      "bwv": "BWV 45/7",
+      "source_sha256": "f6c40c2125478f115e3eda3617747a9f31d3d887293386cb00aa61031113d12f",
+      "key": "E major",
+      "mode": 0,
+      "shift": -4,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor085",
+      "split": "train",
+      "events": 60,
+      "events_sha256": "25c6eaf8dfa239f2bb6d7d45d1d81b448046e1aa0623e38864f74a8246ab9a44"
+    },
+    {
+      "id": "chor088",
+      "title": "Helft mir Gotts Güte preisen",
+      "bwv": "BWV 28/6",
+      "source_sha256": "0d5c62e6b50c47cdc67f60f200aa40da9c6aca1e5d94e856eee61b2fdf2877b0",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor023",
+      "split": "train",
+      "events": 44,
+      "events_sha256": "4b17655cf9b4e179717ca2d876566a67739025ba47dfe6283bab4a64e4d80ffa"
+    },
+    {
+      "id": "chor089",
+      "title": "O Haupt voll Blut und Wunden",
+      "bwv": "BWV 244/62",
+      "source_sha256": "09b07f22efebdb8a8054e62480427733386b74f97186a545ed961e15d15bdcf8",
+      "key": "B minor",
+      "mode": 1,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor021",
+      "split": "train",
+      "events": 46,
+      "events_sha256": "813a61ec491e390f2ef26b64890272e8bb728c9d9ddea9ceca510ed1dd157924"
+    },
+    {
+      "id": "chor090",
+      "title": "Hast du denn, Jesu, dein Angesicht",
+      "bwv": "BWV 57/8",
+      "source_sha256": "47e307a9a3062d9b681c76c7c289248a3c7c21d6bc053033f1df20179b57d998",
+      "key": "B- major",
+      "mode": 0,
+      "shift": 2,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 0,
+      "family": "chor090",
+      "split": "train",
+      "events": 43,
+      "events_sha256": "8852340d4a9aeedab8611952fe52856d8f006e046cbdcb6af0a35e76cdf98922"
+    },
+    {
+      "id": "chor091",
+      "title": "Verleih uns Frieden gnädiglich",
+      "bwv": "BWV 42/7",
+      "source_sha256": "bb733604e95c95d302008ec3fca08d0d4755a2b8d78b4366608cb7e5db02d973",
+      "key": "F# minor",
+      "mode": 1,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor091",
+      "split": "train",
+      "events": 109,
+      "events_sha256": "21dfa94e67473d9b12fbc7c20e97cc073602477c39bf546a19e1bb06fab09883"
+    },
+    {
+      "id": "chor092",
+      "title": "Herr Jesu Christ, du höchstes Gut",
+      "bwv": "BWV 168/6",
+      "source_sha256": "fac37cd5fe2203b74a4d38aec1a875343770f17b4e4ba1cf153c3f432e8186a8",
+      "key": "B minor",
+      "mode": 1,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor073",
+      "split": "validation",
+      "events": 43,
+      "events_sha256": "30c01d69f66f1dae8f4c86e72dcff8aa0ed25f93efeedc8731f4c8f798134c83"
+    },
+    {
+      "id": "chor093",
+      "title": "Wach auf, mein Herz",
+      "bwv": "BWV 194/12",
+      "source_sha256": "d3358f1598612b80169f52694e2f682e9e10431611025ae873b399f81f81cb7a",
+      "key": "B- major",
+      "mode": 0,
+      "shift": 2,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 8,
+      "family": "chor093",
+      "split": "train",
+      "events": 34,
+      "events_sha256": "05c86830bf6f735558be0208e01b174e73b6135956e94fd8ecf47c1c2ab8950a"
+    },
+    {
+      "id": "chor094",
+      "title": "Warum betrübst du dich, mein Herz",
+      "bwv": "BWV 47/5",
+      "source_sha256": "5add2cd8a3903c62d58dc7692a53f4ffd1871eb0e39e7ddbf5e4badc5fc76868",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor094",
+      "split": "train",
+      "events": 44,
+      "events_sha256": "2c4f0d6236dbcb6b08e946e0fe0e0e085c2c96907ad07891cf668e42f074ccf2"
+    },
+    {
+      "id": "chor095",
+      "title": "Werde munter, mein Gemüte",
+      "bwv": "BWV 55/5",
+      "source_sha256": "431f002af1a788dec12bcb7a2b33b205d0d7ab8a5dc159a1c6b8716316f39421",
+      "key": "B- major",
+      "mode": 0,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor095",
+      "split": "train",
+      "events": 47,
+      "events_sha256": "a89a63b9674d4488e6864022c11c92449a6c4e06274904c7ed274510fffad762"
+    },
+    {
+      "id": "chor096",
+      "title": "Jesu, meine Freude",
+      "bwv": "BWV 87/7",
+      "source_sha256": "816cac30c213c70a57f4cc26caec57f3f8426e466ec5928f3bba2012798556bc",
+      "key": "D minor",
+      "mode": 1,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor096",
+      "split": "train",
+      "events": 43,
+      "events_sha256": "fe816dd216eb7a797eb6521b82641336af78e27658800ff5d5291c15414c6107"
+    },
+    {
+      "id": "chor097",
+      "title": "Nun bitten wir den heiligen Geist",
+      "bwv": "BWV 169/7",
+      "source_sha256": "3ce46855c94fc9aa4a0b752aedb720f1a496ad5e3affb6291bedeec839775b24",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor036",
+      "split": "train",
+      "events": 59,
+      "events_sha256": "a3d2e1c8ec54295001ef9f051f0d33d3e1cc7ccb88aea8815b290b511407361f"
+    },
+    {
+      "id": "chor098",
+      "title": "O Haupt voll Blut und Wunden",
+      "bwv": "BWV 244/15,17",
+      "source_sha256": "4d306715aecfab9a3c5a1a21c4acb31a4d8f41257b5d8e420979d1f4f996374a",
+      "key": "D major",
+      "mode": 0,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor021",
+      "split": "train",
+      "events": 42,
+      "events_sha256": "dae130925a2e377c7d7d0306e16fbbc2196fe804ae6aeed23eb40cd3131f23c6"
+    },
+    {
+      "id": "chor099",
+      "title": "Helft mir Gotts Güte preisen",
+      "bwv": "BWV 16/6",
+      "source_sha256": "a15dcfe25af1bc043165b443d84fa8389c72503272c341aa15a808093fb4172c",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor023",
+      "split": "train",
+      "events": 43,
+      "events_sha256": "d8febce0839aeb4a39b71219b416b96a678ecaf578f7f30bc0229852f2556891"
+    },
+    {
+      "id": "chor100",
+      "title": "Durch Adams Fall ist ganz verderbt",
+      "bwv": "BWV 18/5",
+      "source_sha256": "7a3e6c598c62d0e7e9caa4aba7bc9f63f93f3dc48b446c49e67f90ecae2cb44a",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor100",
+      "split": "train",
+      "events": 55,
+      "events_sha256": "7adfbbf0d6bd8f78d38f86afd8bc0be3b1833749fd0d4b57e2cdcb8317577710"
+    },
+    {
+      "id": "chor101",
+      "title": "Herr Christ, der ein'ge Gott's-Sohn",
+      "bwv": "BWV 164/6",
+      "source_sha256": "32aaf87add217adba33bc82369071276449aa8fd09c75ff18aabae81e70f5b3b",
+      "key": "B- major",
+      "mode": 0,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor101",
+      "split": "train",
+      "events": 37,
+      "events_sha256": "f3fd1a4fd6fccaa02a8607a1cc58c6c8c51056a50e2eb980b7e3c595e26fe17b"
+    },
+    {
+      "id": "chor102",
+      "title": "Du lebensfürst, Herr Jesu Christ",
+      "bwv": "BWV 43/11",
+      "source_sha256": "2ed3986a94a97505ca49f1e616651902a5493e050cc3edc0ecbc451956d87e28",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 0,
+      "family": "chor009",
+      "split": "train",
+      "events": 50,
+      "events_sha256": "4f8aa993870930950f9b68b12322936f703d6edeb5bf133465608a92cdd05f6d"
+    },
+    {
+      "id": "chor103",
+      "title": "Nun ruhen alle Wälder",
+      "bwv": "BWV 13/6",
+      "source_sha256": "5ebd6aff41b73078d2221f326a9b004dcd03430061c8de09a2564bbb50d038b1",
+      "key": "B- major",
+      "mode": 0,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor050",
+      "split": "train",
+      "events": 47,
+      "events_sha256": "e0f1c0aa8790a8b2f235ba276cda3fa15b6ce6b76f5e8d332efc9d9f5da8b7bb"
+    },
+    {
+      "id": "chor104",
+      "title": "Wer nur den lieben Gott läßt walten",
+      "bwv": "BWV 88/7",
+      "source_sha256": "987248968bd579752f9095a1e77abe4e8e6ce13e8186282e74cbb9220f0c5f87",
+      "key": "B minor",
+      "mode": 1,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor062",
+      "split": "train",
+      "events": 37,
+      "events_sha256": "2675373f44b70b0692abf66816cafdcf979756ebf2871f86bea53362e2aa64ea"
+    },
+    {
+      "id": "chor105",
+      "title": "Herzliebester Jesu, was hast du verbrochen",
+      "bwv": "BWV 244/46",
+      "source_sha256": "7c6c2992a5c4cbf5fd82e924532a8acb0503d780c9d6b2d838683459f072620b",
+      "key": "B minor",
+      "mode": 1,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor059",
+      "split": "train",
+      "events": 43,
+      "events_sha256": "a8a24c802aeb4536d8163f0fbab897a3c3df4ecc0c1d748d4b09b0168a781d6f"
+    },
+    {
+      "id": "chor106",
+      "title": "Jesu Leiden, Pein und Tod",
+      "bwv": "BWV 245/28",
+      "source_sha256": "c26b1d67abf137e62052bc4c2b37a3b81e0037c59a69c132f2b9dc5ab8c234d4",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor061",
+      "split": "train",
+      "events": 59,
+      "events_sha256": "40af3d8bc1c0f3bb4109728afccb24c5d20481d583a87f51e2763baaeafda82a"
+    },
+    {
+      "id": "chor107",
+      "title": "Herzlich lieb hab ich dich, o Herr",
+      "bwv": "BWV 245/40",
+      "source_sha256": "e0709cb5ac3bc23696733a90eef41e9a27859bcc7ce3fac1477f862cad76a0b8",
+      "key": "E- major",
+      "mode": 0,
+      "shift": -3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor058",
+      "split": "train",
+      "events": 86,
+      "events_sha256": "19527dcac944a71eede9ec21e8804216d3d448ae684a37d369ec13df2cac4ffe"
+    },
+    {
+      "id": "chor108",
+      "title": "Valet will ich dir geben",
+      "bwv": "BWV 245/26",
+      "source_sha256": "6f2c20716803ec097e61e25c50b247ec68dfc4ed5c05056d21e8bd75f5f6ea1c",
+      "key": "E- major",
+      "mode": 0,
+      "shift": -3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor024",
+      "split": "train",
+      "events": 44,
+      "events_sha256": "24b2fed206827c750deac85fb03303732d5fe75b99972e22097399382a353f2a"
+    },
+    {
+      "id": "chor109",
+      "title": "Singen wir aus Herzensgrund",
+      "bwv": "BWV 187/7",
+      "source_sha256": "37a4dca615f3a0bde75096a69b7514e58a473ae91dbc3126452998fd4b694b71",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 0,
+      "family": "chor109",
+      "split": "test",
+      "events": 68,
+      "events_sha256": "c5410eeda022da6950a417051be8f3f31fea7f0b3677de0431ca1be3e7c8a125"
+    },
+    {
+      "id": "chor111",
+      "title": "Herzliebester Jesu, was hast du verbrochen",
+      "bwv": "BWV 245/17",
+      "source_sha256": "8b48ee3a77bbf6469a0c1dbc7d28efb8dc9790637c87067093e276f7497d38a9",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor059",
+      "split": "train",
+      "events": 48,
+      "events_sha256": "e3e140d0b25c941bbe5ede7f231f3c955eaadf849ca2c3513718fc5b84f28397"
+    },
+    {
+      "id": "chor112",
+      "title": "Wer nur den lieben Gott läßt walten",
+      "bwv": "BWV 84/5",
+      "source_sha256": "9c3d6a7eb9633c9ccfad59641e4be85360f8a79cd5ff7064f6313e494aa624f8",
+      "key": "B minor",
+      "mode": 1,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor062",
+      "split": "train",
+      "events": 35,
+      "events_sha256": "62d92b115e6825a6cc58f5ea0132c52fe03477844594ddc215453b6414ddf700"
+    },
+    {
+      "id": "chor114",
+      "title": "Von Gott will ich nicht lassen",
+      "bwv": "BWV 419",
+      "source_sha256": "2f8e64f0e8c6dfeda6f2e706a1795765bb3c764d01fc8ceda5b41a6b3cadb4d4",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor114",
+      "split": "test",
+      "events": 42,
+      "events_sha256": "be5f54a876ccbb0bce11f3f27fe363fe2b75a59c07bc4987bbe9ecdd9b8be261"
+    },
+    {
+      "id": "chor115",
+      "title": "Was mein Gott will, das g'scheh allzeit",
+      "bwv": "BWV 244/25",
+      "source_sha256": "6ba4ead15ea75ffbc4f8206046da37196bbf876cc8b1b335b55509c878052b74",
+      "key": "B minor",
+      "mode": 1,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor041",
+      "split": "train",
+      "events": 50,
+      "events_sha256": "ecc0ee0a6cacfcdfc7974db79bfba7bb407a395d09d6b3db37d6bb980e2d14ba"
+    },
+    {
+      "id": "chor116",
+      "title": "Nun lob, mein Seel, den Herren",
+      "bwv": "BWV 29/8",
+      "source_sha256": "8e8c6085219b8172d7851c04cb2027233056c67dc4e4be5cbb466ce3cad5376d",
+      "key": "D major",
+      "mode": 0,
+      "shift": -2,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 8,
+      "family": "chor007",
+      "split": "train",
+      "events": 87,
+      "events_sha256": "ee0a5ea375368ed9d8d8916e2a30d8ab0dcce652d6ce3fdd8ce8ba402bdeb48a"
+    },
+    {
+      "id": "chor117",
+      "title": "Nun ruhen alle Wälder",
+      "bwv": "BWV 244/10",
+      "source_sha256": "22ba7f3d42bde4f861008c66ed043a0cae8f8836c4be6847a2c9f186e7bd30b3",
+      "key": "A- major",
+      "mode": 0,
+      "shift": 4,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor050",
+      "split": "train",
+      "events": 46,
+      "events_sha256": "57df90fce12d8351f3177b93045c34cddc5a8ec6968ebe84ecb2c0f46e315216"
+    },
+    {
+      "id": "chor118",
+      "title": "In dich hab ich gehoffet, Herr",
+      "bwv": "BWV 244/32",
+      "source_sha256": "6bd8c679d8ebb59b048353e8fb393d0e6529b85f9d08c56b1e27aeaf403e8318",
+      "key": "B- major",
+      "mode": 0,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor077",
+      "split": "train",
+      "events": 51,
+      "events_sha256": "5ced53138f8879d0ad2817a12974fb4e9bca00daf3e93314c5cbc95d9ae4d64e"
+    },
+    {
+      "id": "chor120",
+      "title": "Was mein Gott will, das g'scheh allzeit",
+      "bwv": "BWV 103/6",
+      "source_sha256": "7735898a968b9d6e6310b1c63d0110c1527118438e7a4fb5a460d8802b136847",
+      "key": "B minor",
+      "mode": 1,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor041",
+      "split": "train",
+      "events": 52,
+      "events_sha256": "0555f69baf23b251a9c86304f31a286ec879acefc26695cb71e893512c865d4d"
+    },
+    {
+      "id": "chor121",
+      "title": "Werde munter, mein Gemüte",
+      "bwv": "BWV 244/40",
+      "source_sha256": "cfd89b93ea27ca8fd75464e89c2b5e3c1aba0f623db2a3db6491662dc61e13a6",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor095",
+      "split": "train",
+      "events": 69,
+      "events_sha256": "f78836576d5939a152760857bccc3d6c7809b367446668b17fe9a12a542171b5"
+    },
+    {
+      "id": "chor123",
+      "title": "Helft mir Gotts Güte preisen",
+      "bwv": "BWV 183/5",
+      "source_sha256": "75526995d57de0acc25431fee9d3b2447574fa74ca390858a947f27791a1a0ac",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor023",
+      "split": "train",
+      "events": 54,
+      "events_sha256": "f8b5c60686c35cd61e0ac88afe34ab42319347bb83f0240885cfc4173bf3fafd"
+    },
+    {
+      "id": "chor124",
+      "title": "Auf, auf, mein Herz, und du mein ganzer Sinn",
+      "bwv": "BWV 268",
+      "source_sha256": "94ac4821ce0cc4d538107ea1b9f0b7d91731d8c884a0a9df92347e83e65629e2",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor124",
+      "split": "train",
+      "events": 45,
+      "events_sha256": "83b475673faa355ecfc387348ce8798fa32891a6b378807cf3a9090e2852f98a"
+    },
+    {
+      "id": "chor125",
+      "title": "Allein Gott in der Höh sei Ehr",
+      "bwv": "BWV 104/6",
+      "source_sha256": "24ed8173cc648dcd64c09250e127d34a89d4f84e115e5ca059c5d6f8c89a2901",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor125",
+      "split": "validation",
+      "events": 46,
+      "events_sha256": "580f53c689bdb1b7d21d10adc1d813c35595a4e8440e825057e2c6c9fd70fb37"
+    },
+    {
+      "id": "chor126",
+      "title": "Durch Adams Fall ist ganz verderbt",
+      "bwv": "BWV 18/5",
+      "source_sha256": "904ed587d728fe9745a38840bd837fd25ca7f09730d5266ddef7416972187e68",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor100",
+      "split": "train",
+      "events": 55,
+      "events_sha256": "12786b190e48fa74db206f848c837142ba8f62b77145025253fc684955759e2c"
+    },
+    {
+      "id": "chor128",
+      "title": "Alles ist an Gottes Segen",
+      "bwv": "BWV 263",
+      "source_sha256": "606ddb5acad46803edcf5d856926475f7009f78c4c51cf3372be6d89d1fb0790",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor128",
+      "split": "train",
+      "events": 51,
+      "events_sha256": "875ae43302b76d4f8e541281975d24f55c0e0d21c5cc1b02f9ef4deeba76fc21"
+    },
+    {
+      "id": "chor129",
+      "title": "Keinen hat Gott verlassen",
+      "bwv": "BWV 369",
+      "source_sha256": "34d1dd4f8a793eef0344be8d6e134032947f0430525a5693c187de4b735c59cb",
+      "key": "E minor",
+      "mode": 1,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor129",
+      "split": "train",
+      "events": 43,
+      "events_sha256": "badb28871f822e12eec34d588963bc689437285f20365ec1489fedb7779dbf1f"
+    },
+    {
+      "id": "chor131",
+      "title": "Liebester Jesu, wir sind hier",
+      "bwv": "BWV 373",
+      "source_sha256": "baf3ae7587a80e8c7a60668be2a395fd70d7c7b266163956510fe4b507b05622",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor131",
+      "split": "train",
+      "events": 32,
+      "events_sha256": "1abea6aab5d86b28b35627a9b23a78302e760bc4ae910c515e8efef88c0f3ee2"
+    },
+    {
+      "id": "chor132",
+      "title": "Kyrie! Gott Vater in Ewigkeit",
+      "bwv": "BWV 371",
+      "source_sha256": "fe4e76d2a81cd785fe929b55be0cb96b9f8325f986a88f9e0a8df6dae42c7db2",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor132",
+      "split": "train",
+      "events": 133,
+      "events_sha256": "5f055503055c7e552b0308fec3fff19f2cee93ee1e7278461165a10a6d4289ae"
+    },
+    {
+      "id": "chor134",
+      "title": "Du, o schönes Weltgebäude",
+      "bwv": "BWV 301",
+      "source_sha256": "5ad1aaaee69847c4bbc3fff850752024c9b4d220c22f8a3eb83fc53620d20b57",
+      "key": "D minor",
+      "mode": 1,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor134",
+      "split": "train",
+      "events": 46,
+      "events_sha256": "cd94b5e7982da60ab81e283e5c8babe782a038cf87f09e426c2cc11cf2f85ccc"
+    },
+    {
+      "id": "chor135",
+      "title": "Gott der Vater wohn uns bei",
+      "bwv": "BWV 317",
+      "source_sha256": "4719895d5feb4b550eebef66bd02332622100a347189b8a3015469882a211f84",
+      "key": "D major",
+      "mode": 0,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor135",
+      "split": "train",
+      "events": 62,
+      "events_sha256": "a61265bab0cdcfa17849ccf319e602a44311a128c6394d28a5b1df824d611c73"
+    },
+    {
+      "id": "chor136",
+      "title": "Herr Jesu Christ, dich zu uns wend",
+      "bwv": "BWV 332",
+      "source_sha256": "ffe4602b014c20b60245590bdbf4dbbba354e9c58a93ff0365f5f5feabe80a0a",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor136",
+      "split": "train",
+      "events": 34,
+      "events_sha256": "516ff3cf4b7cf305a2362be72e4d14a8e7370649811b39c4768e20c14eb93784"
+    },
+    {
+      "id": "chor137",
+      "title": "Wer Gott vertraut, hat wohl gebaut",
+      "bwv": "BWV 433",
+      "source_sha256": "3068094dbe21c3807b9f373102cd25147a6a9c43abb6fb3f3a06b08e7d985b86",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor137",
+      "split": "train",
+      "events": 68,
+      "events_sha256": "35d031cf569e542639cb67e3bb42b84d1600dd28fcf32192d8f7ca3765d88e9f"
+    },
+    {
+      "id": "chor138",
+      "title": "Jesu, meine Freude",
+      "bwv": "BWV 64/8",
+      "source_sha256": "88edbb0da44f5f5d623795dae3a52894db90353a8ea28a15d1abd97022007b80",
+      "key": "E minor",
+      "mode": 1,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor096",
+      "split": "train",
+      "events": 38,
+      "events_sha256": "83378afc9b4d9159cbf5be4c56ae31f31eed1289430ce0e97051db8125b693a5"
+    },
+    {
+      "id": "chor139",
+      "title": "Warum sollt ich mich denn grämen",
+      "bwv": "BWV 248/33",
+      "source_sha256": "b52b98455f09b0500c80f31f60399db86741a84a4fbea22d93a6f1f94826e578",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor139",
+      "split": "train",
+      "events": 48,
+      "events_sha256": "52832744625ee24c3b1fcc6cbce38d62321f1de53a4b7693374efe301ea55c0a"
+    },
+    {
+      "id": "chor140",
+      "title": "In allen meinen Taten",
+      "bwv": "BWV 367",
+      "source_sha256": "01a679b25fed3f71aa75719c6a28a9d661d061a7f919151647b2b2ff2e7aed9c",
+      "key": "C major",
+      "mode": 0,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor050",
+      "split": "train",
+      "events": 41,
+      "events_sha256": "90be26b7ceef065642e2685bb891c2c699391fee54a98f4110e4a249a049f11c"
+    },
+    {
+      "id": "chor141",
+      "title": "Seelen-bräutigam",
+      "bwv": "BWV 409",
+      "source_sha256": "9b72fe024e8a4df9788fd8d2ebbc82276b48f763c6876f1cd5091c5bf53ba769",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor141",
+      "split": "train",
+      "events": 38,
+      "events_sha256": "457e8ac7229e038087bb407be0267badefc01af986f34dd924e82fae66b1698b"
+    },
+    {
+      "id": "chor142",
+      "title": "Schwing dich auf zu deinem Gott",
+      "bwv": "BWV 40/6",
+      "source_sha256": "7c3bb6e8b31be3d490298069f48dae8f0bb0fbeb806aee02f0fe7159e0c37965",
+      "key": "D minor",
+      "mode": 1,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor142",
+      "split": "train",
+      "events": 56,
+      "events_sha256": "bd67fb8ef31ad85794d9f1ebc446aa5cc499a3e4f1a9ee867909124822d67639"
+    },
+    {
+      "id": "chor143",
+      "title": "In dulci jubilo",
+      "bwv": "BWV 368",
+      "source_sha256": "173efb50ff2f599dd00951966da42b4163469bd9f408e852fc8adf4ce0341c63",
+      "key": "F major",
+      "mode": 0,
+      "shift": -5,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 8,
+      "family": "chor143",
+      "split": "train",
+      "events": 65,
+      "events_sha256": "8c14f164e6cc82dab345a0230ed8a5324dac624dd3f9fb828034b2d87f0f493c"
+    },
+    {
+      "id": "chor144",
+      "title": "Wer in dem Schutz des Höchsten ist",
+      "bwv": "BWV 339",
+      "source_sha256": "426d8a6b934c07c0a0ca75ac5bdb5b2d42a6e283202fbe2386d82ce13b1d4ceb",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor144",
+      "split": "validation",
+      "events": 50,
+      "events_sha256": "ef935b2255cd600dc048d8166296580c9acb56520d129e929421aea091dfb7a3"
+    },
+    {
+      "id": "chor145",
+      "title": "Warum betrübst du dich, mein Herz",
+      "bwv": "BWV 420",
+      "source_sha256": "9aa3e326739ee298125fa36d0892ebe169e4076eb29e2cfa62cec42c5aa64326",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor094",
+      "split": "train",
+      "events": 45,
+      "events_sha256": "22cd324f9a176bbe0aab7f58164d83c87b6eeb8fccc5aa94c3901ed002083511"
+    },
+    {
+      "id": "chor146",
+      "title": "Wer nur den lieben Gott laßt walten",
+      "bwv": "BWV 434",
+      "source_sha256": "72e4bf06e8e0736ab5cf6b16d69ca5ac023532cbf05b2cf00153e9e8b5bbf635",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor062",
+      "split": "train",
+      "events": 39,
+      "events_sha256": "b5a1bb9ebbd4873bae5ea83e558936ec2e5e26b77fa99329161e863d5cf06b2a"
+    },
+    {
+      "id": "chor147",
+      "title": "Wenn ich in Angst und Not",
+      "bwv": "BWV 427",
+      "source_sha256": "441d0fad97043bf47fe4e120eb8df494b008c88673e80545be97661c2cbc7b8f",
+      "key": "E- major",
+      "mode": 0,
+      "shift": -3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor147",
+      "split": "test",
+      "events": 50,
+      "events_sha256": "60ea86da4a55ab5f743f998fb861fe6fa3b151ef24b7fbd0abf7de77d5b2823b"
+    },
+    {
+      "id": "chor148",
+      "title": "Uns ist ein Kindlein heut geborn",
+      "bwv": "BWV 414",
+      "source_sha256": "bc2d5804fb851c72911a20025769646385ae003ceb2cffc5d2adeb5e24d9d134",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor148",
+      "split": "train",
+      "events": 39,
+      "events_sha256": "2844e11646316d374f62188841956809df5b5c8aaae10a6296ed9f2df4d7035d"
+    },
+    {
+      "id": "chor149",
+      "title": "Nicht so traurig, nicht so sehr",
+      "bwv": "BWV 384",
+      "source_sha256": "3b7641d58f7a6e51cdeb50983e6ccdcb5876127c30cffa55241afbc85ff2580b",
+      "key": "C minor",
+      "mode": 1,
+      "shift": -3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 8,
+      "family": "chor149",
+      "split": "test",
+      "events": 35,
+      "events_sha256": "cc23dc7b8a6d36327e9c89cb533725a0c3c6a104720c9d97e62b1c6f39881bc5"
+    },
+    {
+      "id": "chor151",
+      "title": "Meinen Jesum laß ich nicht, Jesus",
+      "bwv": "BWV 379",
+      "source_sha256": "a56888b0333201cc7865c3249b75069300a1d9eb2a59988dcfeaa3bb159478e3",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor151",
+      "split": "train",
+      "events": 29,
+      "events_sha256": "b116fe6a72b036c9da0b036cda1f168828c371bfc4149cc6f7b5013aa329eb01"
+    },
+    {
+      "id": "chor152",
+      "title": "Meinen Jesum laß ich nicht, weil",
+      "bwv": "BWV 154/8",
+      "source_sha256": "13de13a2e448aff24b30f8ac83f9c44c50f1daa9168d894dac04a86b9fe89e5a",
+      "key": "D major",
+      "mode": 0,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor152",
+      "split": "test",
+      "events": 48,
+      "events_sha256": "4ddf78522e9a81cff6df1d18383555e1ae1e3d9ce1dbedb336b713bfae386590"
+    },
+    {
+      "id": "chor153",
+      "title": "Alle Menschen müssen sterben",
+      "bwv": "BWV 262",
+      "source_sha256": "f66e9b46a0887c596d76b0b9dc311785f6ba3d5575237292a5e356ce79ab1934",
+      "key": "D major",
+      "mode": 0,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor153",
+      "split": "train",
+      "events": 46,
+      "events_sha256": "cd5dbdd8e678939d7a5db2357bf42f9906f31b4a7fe22670b31cdade2494acd7"
+    },
+    {
+      "id": "chor156",
+      "title": "Ach Gott, wie manches Herzeleid",
+      "bwv": "BWV 3/6",
+      "source_sha256": "4406dcb9f134f94159818b61ad6236c69d266fea24200cb83daf0f6aba23c853",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor156",
+      "split": "validation",
+      "events": 37,
+      "events_sha256": "9117ce5b9f2525f4c25a05bca18ced0a2accd42c9a9eb31ee3f8779ddb71421b"
+    },
+    {
+      "id": "chor157",
+      "title": "Wo Gott zum Haus nicht gibt sein' Gunst",
+      "bwv": "BWV 438",
+      "source_sha256": "bc7c6c9cda5f8382e6e2269a3e8aed450431e44d567b54191bb6ccf10484046f",
+      "key": "F major",
+      "mode": 0,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor157",
+      "split": "train",
+      "events": 34,
+      "events_sha256": "b24f9a1172cfdcae04745d2bd13b474db8b7b2ad07a8553f0409a762738d5fe6"
+    },
+    {
+      "id": "chor158",
+      "title": "Der Tag, der ist so freudenreich",
+      "bwv": "BWV 294",
+      "source_sha256": "92131cfda7d16eed9f120e6121f2a4cdff8b39ef1ebc350516adc1b4f267a74f",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor158",
+      "split": "train",
+      "events": 65,
+      "events_sha256": "053441411f5d50337d21a36d02e533d0f98245f19c26eecf512a80faab2fda3d"
+    },
+    {
+      "id": "chor159",
+      "title": "Als der gütige Gott",
+      "bwv": "BWV 264",
+      "source_sha256": "745de265ee76693b10111955e6563de295cf9aaea916444f017a42cf76438900",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor159",
+      "split": "train",
+      "events": 34,
+      "events_sha256": "0043ecbf74ead612777f30de84fa2e6ba1e5ad6e16f0712970fdd54734c68e97"
+    },
+    {
+      "id": "chor161",
+      "title": "Ihr Gestirn, ihr hohen Lüfte",
+      "bwv": "BWV 366",
+      "source_sha256": "26848b64683419cd630d1ddb3a4668f039f123008f7a2ba4f1667a3c16ccb930",
+      "key": "D minor",
+      "mode": 1,
+      "shift": -5,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 0,
+      "family": "chor161",
+      "split": "train",
+      "events": 32,
+      "events_sha256": "36135ceb583a4fb2db28748063520a38fd518fcbf7e3ff8c108ed160061ce0dc"
+    },
+    {
+      "id": "chor163",
+      "title": "Für Freuden laßt uns springen",
+      "bwv": "BWV 313",
+      "source_sha256": "a2a5e757bfe5fd7f207093e57fd2456a26b01fbe97a89a50c4d02486cffb90fc",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor163",
+      "split": "test",
+      "events": 35,
+      "events_sha256": "43da06b7c023693cb08095b1d77103f4ac27883e436eb492a2cec0da441fe07c"
+    },
+    {
+      "id": "chor164",
+      "title": "Herr Gott, dich loben alle wir",
+      "bwv": "BWV 326",
+      "source_sha256": "2abb6b768e075bfd6ea1d3ce4811eb679262c2d260a52e93cb3f03168c7a9fea",
+      "key": "B- major",
+      "mode": 0,
+      "shift": 2,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 8,
+      "family": "chor164",
+      "split": "validation",
+      "events": 32,
+      "events_sha256": "0bfb8ee7063cc9782d3ca420c71c29e024fe2d487ec066d63f0593d616c4875e"
+    },
+    {
+      "id": "chor165",
+      "title": "O Lamm Gottes, unschuldig",
+      "bwv": "BWV 401",
+      "source_sha256": "6f62e570b1673986c909bb8577bad6eb6ee4a96bca43772479f929f7a076abd4",
+      "key": "F major",
+      "mode": 0,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor165",
+      "split": "train",
+      "events": 44,
+      "events_sha256": "9f7ea6b64ae72b24fe0edc84571f7624b842ce3bf5f6f1aa75d88ffac1cbacf0"
+    },
+    {
+      "id": "chor167",
+      "title": "Du großer Schmerzensmann",
+      "bwv": "BWV 300",
+      "source_sha256": "84f2efd38c9fdd24dd94222a476935dc0d4f930e46374a129a0900d0fdf26f3e",
+      "key": "E minor",
+      "mode": 1,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor167",
+      "split": "train",
+      "events": 56,
+      "events_sha256": "594f0f9d80516e147a69ca66f54e496d5eb68a402cfc22febdf7eace418fec6a"
+    },
+    {
+      "id": "chor169",
+      "title": "Jesu, der du selbsten wohl",
+      "bwv": "BWV 355",
+      "source_sha256": "5b86d6762d7e36adfd9d0b51aa8c12b99c36f4eea242e08fec4ab431481c228f",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor169",
+      "split": "test",
+      "events": 52,
+      "events_sha256": "c3a2b3efb480d8653835b9d525e6ba22d6181c95bc84d5a2dc2723fbfe1cab53"
+    },
+    {
+      "id": "chor170",
+      "title": "Nun komm, der Heiden Heiland",
+      "bwv": "BWV 62/6",
+      "source_sha256": "d21cf25b9abf8440799bac0ae15b8ed5aec802e12085f6dae1bd3d73f471827f",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor028",
+      "split": "train",
+      "events": 33,
+      "events_sha256": "135da2bbebb4999bc9dc923252872e046f4787f96207b1808420bedb6245c5e1"
+    },
+    {
+      "id": "chor172",
+      "title": "Sei gegrüßet, Jesu gütig",
+      "bwv": "BWV 410",
+      "source_sha256": "e37fc523da26fac9ada5e2b8b076b2a73674e6d392ae192964992e062f6658ac",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor172",
+      "split": "train",
+      "events": 51,
+      "events_sha256": "d23a55e974fc125f2aefaf531eb7a61d2401deaabeaa47c5aa0b3043781f529e"
+    },
+    {
+      "id": "chor173",
+      "title": "O Herzensangst, o Bangigkeit",
+      "bwv": "BWV 400",
+      "source_sha256": "75ae0563c7cbef053dfd8f7c02d7a2efb128f9a40cf348977b6527b76190c016",
+      "key": "E- major",
+      "mode": 0,
+      "shift": -3,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 0,
+      "family": "chor173",
+      "split": "train",
+      "events": 40,
+      "events_sha256": "9b1a04a1c08dfed9fff49b2032d145bf714d49dc8ca54bcbf388991488f51cad"
+    },
+    {
+      "id": "chor175",
+      "title": "Jesus, meine Zuversicht",
+      "bwv": "BWV 365",
+      "source_sha256": "90ff73fe77bfd26352acbe17e46bfcf7cb8b68875159da4338f2df585dffd7bf",
+      "key": "C major",
+      "mode": 0,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor175",
+      "split": "train",
+      "events": 30,
+      "events_sha256": "5a88fbfb30b877c9db4182bd667d172dd0937e5c2a791512234c9f2d713fe5d7"
+    },
+    {
+      "id": "chor176",
+      "title": "Erstanden ist der heil'ge Christ",
+      "bwv": "BWV 306",
+      "source_sha256": "27254cc78efc37e24a2b5bae78a748a5e511bee5a00fde2e343c595bdf28c4db",
+      "key": "F major",
+      "mode": 0,
+      "shift": -5,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 8,
+      "family": "chor176",
+      "split": "train",
+      "events": 39,
+      "events_sha256": "2b8e106f9eefa7b9ac4a7297612342faa93a6348649e92c47a8bdd9acb167b59"
+    },
+    {
+      "id": "chor177",
+      "title": "Ach bleib bei uns, Herr Jesu Christ",
+      "bwv": "BWV 253",
+      "source_sha256": "34cf12e096dd324d70fb45bc2b1dcbcafaa3ee41e6df4db13bb530fc95d4c2c4",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor148",
+      "split": "train",
+      "events": 39,
+      "events_sha256": "2844e11646316d374f62188841956809df5b5c8aaae10a6296ed9f2df4d7035d"
+    },
+    {
+      "id": "chor178",
+      "title": "Das neugeborne Kindelein",
+      "bwv": null,
+      "source_sha256": "0d4391cb7184cd2f42dcb1d9ca4ea0f55c4ea32a96d26d805e909716f80088b4",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 0,
+      "family": "chor053",
+      "split": "train",
+      "events": 38,
+      "events_sha256": "7a8d8b0247899a5952375a37b77c71d77038b0d8f0f804c83204187bffd9ba81"
+    },
+    {
+      "id": "chor179",
+      "title": "Wachet auf, ruft uns die Stimme",
+      "bwv": "BWV 140/7",
+      "source_sha256": "fa6149fd07d10e16b6a54afd4a2773d0e00dd05ef57cc26e8e997ae09b215034",
+      "key": "E- major",
+      "mode": 0,
+      "shift": -3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor179",
+      "split": "train",
+      "events": 66,
+      "events_sha256": "ae430d2b6c3070e645ea138b9edd7b944ad6bdb4f3fa8f88331443383516afc4"
+    },
+    {
+      "id": "chor181",
+      "title": "Gott hat das Evangelium",
+      "bwv": "BWV 319",
+      "source_sha256": "3492c37e69288c543453e9cd345ce884584625b0e4d89a19f97eb23374d0d26f",
+      "key": "E minor",
+      "mode": 1,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor181",
+      "split": "validation",
+      "events": 51,
+      "events_sha256": "f7b09fa58bf9333ba6b9b653af3015c3502623e104ec20ea7b0142cf508afd64"
+    },
+    {
+      "id": "chor182",
+      "title": "Wär Gott nicht mit uns diese Zeit",
+      "bwv": "BWV 14/5",
+      "source_sha256": "37824d4adf7532bfed052651e20ef10ca3742c3360b61b105f796d4e98157af9",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor031",
+      "split": "validation",
+      "events": 51,
+      "events_sha256": "2f0c0a933219500320a57db4bcfc64aeb6a9222d0b3b2b7f28608e271b60a139"
+    },
+    {
+      "id": "chor183",
+      "title": "Nun freut euch, lieben Christen g'mein",
+      "bwv": "BWV 388",
+      "source_sha256": "df57c67cff351e7e28d0fff52c4bae6b8e9cf11745243220ffc3f0369d2db144",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor183",
+      "split": "train",
+      "events": 41,
+      "events_sha256": "66ee112e894ec05a4ef6c0f84c6982e6d71156c6b70a19e6b32a9da4c14cfdf4"
+    },
+    {
+      "id": "chor188",
+      "title": "Ich dank dir schon durch deinen Sohn",
+      "bwv": "BWV 349",
+      "source_sha256": "af3b36d86fe503e7bc5166eaaa8ec875e6738f4b8a759fce803c6276d6b88811",
+      "key": "F major",
+      "mode": 0,
+      "shift": -5,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 0,
+      "family": "chor188",
+      "split": "train",
+      "events": 33,
+      "events_sha256": "ca16cf236de303ddcc1ae681cbac2f673fce133369af5eaa9bd48e92a0b0f152"
+    },
+    {
+      "id": "chor189",
+      "title": "Herr Jesu Christ, wahr Mensch und Gott",
+      "bwv": "BWV 336",
+      "source_sha256": "53eac2b8e21f1a2916bf4dba2b7bf90968be1fdbbf1e350d071ac3f5f2a79159",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor189",
+      "split": "train",
+      "events": 32,
+      "events_sha256": "32483af0a5353ee4a84dc24b5237ce3aad938206cb72c48758ffe3f5b5b30964"
+    },
+    {
+      "id": "chor190",
+      "title": "Herr, nun laß in Friede",
+      "bwv": "BWV 337",
+      "source_sha256": "039f4cfb3737e8c35aad4bebf5d0f593c149443a4961d4ebe342ed585f6c0c0e",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor190",
+      "split": "validation",
+      "events": 36,
+      "events_sha256": "1a4c5695a9256425f10343ae70a3caa9e073d2a0b61ea54d014c6fb64bb712d4"
+    },
+    {
+      "id": "chor191",
+      "title": "Von Gott will ich nicht lassen",
+      "bwv": "BWV 73/5",
+      "source_sha256": "ef409a28c9652598c5be10d9edff4e4810705c9d26dc6eac6a64f316dfd9a200",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor114",
+      "split": "test",
+      "events": 40,
+      "events_sha256": "3afad8def0e04626e9fed83873983e6c58be4ed1f4b354df64ef2f62901473ad"
+    },
+    {
+      "id": "chor192",
+      "title": "Gottlob, es geht nunmehr zu Ende",
+      "bwv": "BWV 321",
+      "source_sha256": "0a951e68a43f13ba4c318405582b34c30c61ad34f46f3c72947679e5aea6eea0",
+      "key": "B- major",
+      "mode": 0,
+      "shift": 2,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 0,
+      "family": "chor192",
+      "split": "test",
+      "events": 33,
+      "events_sha256": "56b0e8e9c9853752ee0bd287d3f4086ef477d0fc18bed60cfc20ed7455cf2bc0"
+    },
+    {
+      "id": "chor193",
+      "title": "Was bist du doch, o Seele, so betrübet",
+      "bwv": "BWV 424",
+      "source_sha256": "66fdb7776371567cce6ccd113c64a59afded0a6a3d4807ec9714c523a2ac4312",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor193",
+      "split": "test",
+      "events": 38,
+      "events_sha256": "3da25e7f68e7c73398653f677d074370c3579efa84eac6f59d03eab8d5939ab8"
+    },
+    {
+      "id": "chor194",
+      "title": "Liebster Immanuel, Herzog der Frommen",
+      "bwv": "BWV 123/16",
+      "source_sha256": "13349e2d2065a2b1370f02bb4787aa0c67ba0af66b932b496acc18b0c0b9908a",
+      "key": "B minor",
+      "mode": 1,
+      "shift": -2,
+      "meter": "3/2",
+      "bar_ticks": 24,
+      "pickup_ticks": 0,
+      "family": "chor194",
+      "split": "train",
+      "events": 44,
+      "events_sha256": "2032217f748971813f2a0abb3f805a868c3c1f22533962ee29a0f92bba2ca6d9"
+    },
+    {
+      "id": "chor196",
+      "title": "Da der Herr Christ zu Tische saß",
+      "bwv": "BWV 285",
+      "source_sha256": "a8f9e0a03badd11652543fe4e42686d34371024c435e2c124c9c1c89881b12b3",
+      "key": "C minor",
+      "mode": 1,
+      "shift": -3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor196",
+      "split": "train",
+      "events": 50,
+      "events_sha256": "58a1a0069159349738df1882cd5c89c450b5a0a55cacc631916ef90dc055cea3"
+    },
+    {
+      "id": "chor198",
+      "title": "Christus, der uns selig macht",
+      "bwv": "BWV 283",
+      "source_sha256": "efab2b6b4490cc586900699247067210ddf5e5bdfbf3aa643d112dd3070d4135",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor198",
+      "split": "train",
+      "events": 67,
+      "events_sha256": "ddc9f10b8e94438f3a397e696fc0248f2db418fa06e21705b892e4dc8d2d97c8"
+    },
+    {
+      "id": "chor200",
+      "title": "Christus ist erstanden, hat überwunden",
+      "bwv": "BWV 284",
+      "source_sha256": "b5dd1b51f5bb0b1ba4b565638fb710349049e12ba1451d3509dd625b0f900d24",
+      "key": "C major",
+      "mode": 0,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor200",
+      "split": "train",
+      "events": 51,
+      "events_sha256": "c6ccbeab2d9aa08817f6a92e34730d3bb10f30ab69449471bc04100d0f47614e"
+    },
+    {
+      "id": "chor201",
+      "title": "O Mensch, bewein dein' Sünde groß",
+      "bwv": "BWV 402",
+      "source_sha256": "9fd80ec326401c4083d966af44a3bf7ca958e299c445df6e865dccde7b5af0ac",
+      "key": "E- major",
+      "mode": 0,
+      "shift": -3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor201",
+      "split": "validation",
+      "events": 72,
+      "events_sha256": "caf21ecbca3903cbc50ccf2c8c387611dd0b53d779f78e04fc8e03200af227be"
+    },
+    {
+      "id": "chor202",
+      "title": "O wir armen Sünder",
+      "bwv": "BWV 407",
+      "source_sha256": "6d4d4792949f68944f6fa095d4e54766030135fdcf4e8a0cf1a737f4224ca2f8",
+      "key": "D major",
+      "mode": 0,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor202",
+      "split": "train",
+      "events": 65,
+      "events_sha256": "3f67335552ba3d54221185d8c6107e03b0bab2a486fe6c5b36428d25f5f15b28"
+    },
+    {
+      "id": "chor204",
+      "title": "Wer weiß, wie nahe mir mein Ende",
+      "bwv": "BWV 166/6",
+      "source_sha256": "c50e8c8af3ea7decd15dff0033938ea34d92b6c1548b68cf5ce55d473e4ebaf8",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor062",
+      "split": "train",
+      "events": 34,
+      "events_sha256": "ee718524331706acf8d4a96abfad890e457b6db1b44ef16e92f5e7f1989f3a13"
+    },
+    {
+      "id": "chor207",
+      "title": "Des heil'gen Geistes reiche Gnad",
+      "bwv": "BWV 295",
+      "source_sha256": "a2bb4e39bcb2e686973990b70dd5ee1ca22309b6f8f0a57461ba48617b443ecf",
+      "key": "D minor",
+      "mode": 1,
+      "shift": -5,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 0,
+      "family": "chor207",
+      "split": "train",
+      "events": 32,
+      "events_sha256": "e92bc2a99dc6e7896e8b9b4d9d48d85053eaf35af5f8b65e7421b69d4f22b3b2"
+    },
+    {
+      "id": "chor208",
+      "title": "Als vierzig Tag nach Ostern",
+      "bwv": "BWV 266",
+      "source_sha256": "b7707e7114a2a9046ea8e5a99196e2b666e146d258321c1487397d7668e1c498",
+      "key": "E minor",
+      "mode": 1,
+      "shift": 5,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 0,
+      "family": "chor208",
+      "split": "train",
+      "events": 51,
+      "events_sha256": "b11ba18d686b767a2ac0ec82ade5a56eb0387906cb2b0f64118a2c18e10f5af1"
+    },
+    {
+      "id": "chor209",
+      "title": "Dir, dir, Jehova will ich singen",
+      "bwv": "BWV 299",
+      "source_sha256": "5e8272542e91d4f699efc04e6ee86e38915f45cf28104a3bd9017d2a2da36e25",
+      "key": "B- major",
+      "mode": 0,
+      "shift": 2,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 8,
+      "family": "chor209",
+      "split": "train",
+      "events": 57,
+      "events_sha256": "dcdcfca38047a20ca37dc8a51d8775ae697dec3632170ff2b6090a45186b43eb"
+    },
+    {
+      "id": "chor211",
+      "title": "Weltlich Ehr und zeitlich Gut",
+      "bwv": "BWV 426",
+      "source_sha256": "5642acf8c36e79741731e4d29e48bbdaac7785425a697e95dadb512148d81478",
+      "key": "C major",
+      "mode": 0,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor211",
+      "split": "test",
+      "events": 60,
+      "events_sha256": "43c2b5c37e90b8bb0125a720cea501c0def1834455ab1397dcbab7fa17eb88b7"
+    },
+    {
+      "id": "chor212",
+      "title": "Herr, ich dank an jene Zeit",
+      "bwv": "BWV 329",
+      "source_sha256": "c310f2cebbf1e496f743587a33c284eac57578ff29639af8469896584c51dc15",
+      "key": "E- major",
+      "mode": 0,
+      "shift": -3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor212",
+      "split": "test",
+      "events": 45,
+      "events_sha256": "beeb1c578144cd05802e3545419e17e0e72880c6737fe89c1cb96c5f56d63fb5"
+    },
+    {
+      "id": "chor213",
+      "title": "O wie selig ihr doch, ihr Frommen",
+      "bwv": "BWV 405",
+      "source_sha256": "0e2e331e6107c89999c653964eaa71a0c0c77b5ce5e4f603061e06cab4bcdaf5",
+      "key": "D minor",
+      "mode": 1,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor213",
+      "split": "train",
+      "events": 42,
+      "events_sha256": "62ffc5b9c4669f954d32c9fbd86a767868a914b33bdc22b009ba0cb926e2820e"
+    },
+    {
+      "id": "chor214",
+      "title": "Mitten wir im Leben sind",
+      "bwv": "BWV 383",
+      "source_sha256": "7c2923557fc45dcccf2419a46a42070433e2b65aa28a59052d7d9059c4ed481c",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor214",
+      "split": "train",
+      "events": 92,
+      "events_sha256": "fd1384af85d44e3253823053b2c07e812abeda12494350930a5a8fd45ba23a4a"
+    },
+    {
+      "id": "chor215",
+      "title": "Verleih uns Frieden gnädiglich",
+      "bwv": "BWV 126/6",
+      "source_sha256": "c20bb209ff05d89d0b7672d1005f1ed901f137b284035a75c29a1ee925e17760",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor091",
+      "split": "train",
+      "events": 105,
+      "events_sha256": "b17634e29d1a5b44aa0bb0cdb516d419dea61918184910e1dd524b361c70ae84"
+    },
+    {
+      "id": "chor216",
+      "title": "Es ist genug! so nimm Herr",
+      "bwv": "BWV 60/5",
+      "source_sha256": "3d0680901f8b53d10bfc313f31ef091d6a40bfe722ad479103bb7d19d7afc97d",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor216",
+      "split": "train",
+      "events": 67,
+      "events_sha256": "7ebda98ec811eb3719db940d5af45511b92cd583b9431411d3d74db952681dbf"
+    },
+    {
+      "id": "chor217",
+      "title": "Ach Gott, wie manches Herzeleid",
+      "bwv": "BWV 153/9",
+      "source_sha256": "48ee7b0a0f638995795c45bd7d005a1562182e5e4df77c2b850962bba61bd955",
+      "key": "C major",
+      "mode": 0,
+      "shift": 0,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 0,
+      "family": "chor156",
+      "split": "validation",
+      "events": 35,
+      "events_sha256": "5d673f95e2a034835a6476bcfa110c9c90ecff3ddc869aee5eabff36b28e46c8"
+    },
+    {
+      "id": "chor219",
+      "title": "O wie selig seid ihr doch, ihr Frommen",
+      "bwv": "BWV 406",
+      "source_sha256": "c61421eb3b17b9935b5452e97960fe823f030179f6430e085d83e11511e9a2b4",
+      "key": "D minor",
+      "mode": 1,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor219",
+      "split": "train",
+      "events": 37,
+      "events_sha256": "8fb5483bdab783c02a434dff11a29ebd8dd5a8bdf59b914932a33121a31c9bb9"
+    },
+    {
+      "id": "chor220",
+      "title": "Sollt ich meinem Gott nicht singen",
+      "bwv": "BWV 413",
+      "source_sha256": "047e853ed86931df9ba9731452c117a390662f145631f6968b56dc937eff570a",
+      "key": "D minor",
+      "mode": 1,
+      "shift": -5,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 0,
+      "family": "chor220",
+      "split": "test",
+      "events": 70,
+      "events_sha256": "b5d086c683e32cad336e0cffba7cbe57d9918e2e22cb3ac494e59cdacb6a66a5"
+    },
+    {
+      "id": "chor221",
+      "title": "Herr, straf mich nicht in deinem Zorn",
+      "bwv": "BWV 338",
+      "source_sha256": "07ea3c1af3549866243895a85bf813da9d5b845e820847a7a21863671638e777",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor221",
+      "split": "train",
+      "events": 38,
+      "events_sha256": "f214285a5791681fda098d9ff418d0c78fecba50cd4fd2fcb47d65518e86919d"
+    },
+    {
+      "id": "chor222",
+      "title": "Nun preiset alle Gottes Barmherzigkeit",
+      "bwv": "BWV 391",
+      "source_sha256": "e9dad65e3baa1b0d16877259e8784b5bccea9401742a7ebcf3c379fd4f98b3a8",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 0,
+      "family": "chor222",
+      "split": "train",
+      "events": 43,
+      "events_sha256": "3bfa48b13b6bcedb013881f27558a3887f1c5a721f02fc7eead8d624fe7fdd23"
+    },
+    {
+      "id": "chor223",
+      "title": "Ich dank dir, Gott, für all Wohlat",
+      "bwv": "BWV 346",
+      "source_sha256": "918c34e0a676469e6293ae3617f4acd86d183c85b3fbf762e9e1a530a8ccc72a",
+      "key": "C major",
+      "mode": 0,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor223",
+      "split": "train",
+      "events": 57,
+      "events_sha256": "ccef50e4775e3ded8a4644b2f7577588cc4ed03eb4c2dc6e8b6741330b0823ae"
+    },
+    {
+      "id": "chor224",
+      "title": "Das walt Gott Vater und Gott Sohn",
+      "bwv": "BWV 290",
+      "source_sha256": "410d1855309654f24da145e8e703d1e3b0686b109ebd49d8e6a8f0c572888b28",
+      "key": "F major",
+      "mode": 0,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor224",
+      "split": "train",
+      "events": 35,
+      "events_sha256": "cddd4f5e96a13d625e789ea74b31d8dad62daf51c5a80a3e08b032c59aead411"
+    },
+    {
+      "id": "chor225",
+      "title": "Gott, der du selber bist das Licht",
+      "bwv": "BWV 316",
+      "source_sha256": "7beae846c3bb4157731c17661136f86a7d43dcda509c5b234c3a15317b86a6f6",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor225",
+      "split": "validation",
+      "events": 41,
+      "events_sha256": "0a74419172cb2756807730d9dc46b0b75396e1607cfb238011f0c3ab4f67cb61"
+    },
+    {
+      "id": "chor226",
+      "title": "Herr Jesu Christ, du hast bereit't",
+      "bwv": "BWV 333",
+      "source_sha256": "5d7bbd7e9e4a737f54a4a988b3984b9b735f65d9200de0ae238f470b7201316e",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor226",
+      "split": "train",
+      "events": 40,
+      "events_sha256": "617847532f47a1eb7366a5f82eb30d09cf249f174ac671f9f6bead2a6745ff58"
+    },
+    {
+      "id": "chor227",
+      "title": "Lobet den Herren, denn er ist freundlich",
+      "bwv": "BWV 374",
+      "source_sha256": "7405d33b981cbdcf8bfc3e9655b2ea5174cd9c98a871b0af260a8584c06d3361",
+      "key": "D minor",
+      "mode": 1,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor227",
+      "split": "test",
+      "events": 61,
+      "events_sha256": "b5c7ab9bf259fc3e8e08a81cf171231852d78263173dc846bfb70d34a4850809"
+    },
+    {
+      "id": "chor229",
+      "title": "Ich danke dir, o Gott, in deinem Throne",
+      "bwv": "BWV 350",
+      "source_sha256": "bd0cc94e0415d53890b8e2e24eed69141637e08f2808ee0fdfd53481b68230c0",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor229",
+      "split": "train",
+      "events": 71,
+      "events_sha256": "9639fc9ca8e5d3dbb4d06de0f52cee7a9473c4e84678d8dcd6b20bae4d17ae4e"
+    },
+    {
+      "id": "chor230",
+      "title": "Christ, der du bist der helle Tag",
+      "bwv": "BWV 273",
+      "source_sha256": "1e648f8cc265e7689b3c25c0bac503af76020f38d94b44325303df1b4c4ad426",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor230",
+      "split": "train",
+      "events": 44,
+      "events_sha256": "674f6843f5d66f40a3f2ff83e6e7f47efec045a5cb0591c4622d91bfea81e79a"
+    },
+    {
+      "id": "chor233",
+      "title": "Werde munter, mein Gemüte",
+      "bwv": "BWV 154/3",
+      "source_sha256": "47cfdbb892da59dab4e933b5d5c03e449db17a760b93eb797fb9fb7430317065",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor095",
+      "split": "train",
+      "events": 45,
+      "events_sha256": "63097ef4c1cd4ec1d0f5fd8223c641b47f3f73c52b41ddc08a6886e35aab0a4e"
+    },
+    {
+      "id": "chor234",
+      "title": "Gott lebet noch",
+      "bwv": "BWV 320",
+      "source_sha256": "9f27e8c82d6bef8f85e50fa7d7b0d7ed60c36ff0b2576130cd36c0fbcb697099",
+      "key": "F major",
+      "mode": 0,
+      "shift": -5,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 0,
+      "family": "chor234",
+      "split": "train",
+      "events": 89,
+      "events_sha256": "257015cb23679bae80a11c6b71b480878512b032cf0ea210237db71b4673f3a7"
+    },
+    {
+      "id": "chor235",
+      "title": "Heilig, heilig",
+      "bwv": "BWV 325",
+      "source_sha256": "de24953289322060f519b839d8658da201b043fb47d9b09b748cb0e7bb2a6fb5",
+      "key": "F major",
+      "mode": 0,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor235",
+      "split": "train",
+      "events": 59,
+      "events_sha256": "9bb1c82675027c278ecf2cdd8867ca41d90f8286cf4a913cce6e71f6e1bf3bef"
+    },
+    {
+      "id": "chor236",
+      "title": "O Jesu, du mein Bräutigam",
+      "bwv": "BWV 335",
+      "source_sha256": "5359b9f40b1e4411256f0e4b20ad0d8ede5a8447c5ed8225d884471fcd77f35d",
+      "key": "E minor",
+      "mode": 1,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor236",
+      "split": "train",
+      "events": 38,
+      "events_sha256": "72ca7eaf40eed230b157ff9e048d7e36ee67796d77b0e4adea0c8df5e0a71b97"
+    },
+    {
+      "id": "chor238",
+      "title": "Es wind schier der letzte Tag",
+      "bwv": "BWV 310",
+      "source_sha256": "7ce3f02b2feb09c912c9fb2247936edd8546539734469ca46de548693fe21ff3",
+      "key": "E minor",
+      "mode": 1,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor238",
+      "split": "validation",
+      "events": 37,
+      "events_sha256": "55dd340d5f0388dfbb09d564e0553865f588a385a6409ea75d194a3413e42144"
+    },
+    {
+      "id": "chor239",
+      "title": "Den Veter dort oben",
+      "bwv": "BWV 292",
+      "source_sha256": "652f0c4c16a262c4a7a6621ade32386065b9503a3094229187eaf820d207acb9",
+      "key": "C major",
+      "mode": 0,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor239",
+      "split": "validation",
+      "events": 45,
+      "events_sha256": "da6f0790d010e9e5692083f12fa8e2a9079c7b7bf886ba046fd501e7e53e6a39"
+    },
+    {
+      "id": "chor240",
+      "title": "Nun sich der Tag geendet hat",
+      "bwv": "BWV 396",
+      "source_sha256": "42106710c298ad35d7965c050d347b3a2f9d11874a8434261f031b891cd2a484",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor240",
+      "split": "train",
+      "events": 29,
+      "events_sha256": "95a9255329539684b1c9260afe2c451105dff86cb5857145485188547622c41b"
+    },
+    {
+      "id": "chor242",
+      "title": "Wie bist du, Seele, in mir so gar betrübt",
+      "bwv": "BWV 435",
+      "source_sha256": "015b7992af9c94d01af9278a3f534a879688ba0b08a966b701c7e5cb5ab0f233",
+      "key": "E minor",
+      "mode": 1,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor242",
+      "split": "train",
+      "events": 41,
+      "events_sha256": "e370c0bcb1ffe0627b773fb3edb999339c35a80021fc64018df0f59efe16ce83"
+    },
+    {
+      "id": "chor243",
+      "title": "Jesu, du mein liebstes Leben",
+      "bwv": "BWV 356",
+      "source_sha256": "6a5fb7cfed69ba8cd81ae2119e90042693614e40430e2ae81ce75c665a0489b4",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 0,
+      "family": "chor243",
+      "split": "train",
+      "events": 43,
+      "events_sha256": "bcf88a07d5a0fdac340b3fa1642f68785e8a65dd0c64989dba525bfd3f400168"
+    },
+    {
+      "id": "chor245",
+      "title": "Christe, der du bist Tag und Licht",
+      "bwv": "BWV 274",
+      "source_sha256": "60bd83242bad45f89e17fe042b2321722d0eedb89cadefc4da60209e27e813b6",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor245",
+      "split": "validation",
+      "events": 37,
+      "events_sha256": "c99ab58769d5d7e234add8be2be53f1d34d963db6bc5a11340e94464eb57db4b"
+    },
+    {
+      "id": "chor246",
+      "title": "Singt dem Herrn ein neues Lied",
+      "bwv": "BWV 411",
+      "source_sha256": "94f1fb106e35ab309aa4375c95644a7f50d4385d7c4c589b30fc171f84eddb3a",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor246",
+      "split": "train",
+      "events": 46,
+      "events_sha256": "254241152d1c8d1ff92d053f425a5a869f759bc3b9d3f4ff0b4bff87669b1e0d"
+    },
+    {
+      "id": "chor248",
+      "title": "Sei Lob und Ehr dem höchsten Gut",
+      "bwv": "BWV 117/4",
+      "source_sha256": "2629c80f2f5f0fc9aac74007811e7e896c383185871d0918c663bce4a4be2f67",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor004",
+      "split": "train",
+      "events": 46,
+      "events_sha256": "bf96c36ef4b0a0a9786286552dce8c6e18baef130111f1d0e4688738f479c7a4"
+    },
+    {
+      "id": "chor249",
+      "title": "Allein Gott in der Höh sei Ehr",
+      "bwv": "BWV 260",
+      "source_sha256": "1516a2c691337c9939e5cc93874c21b3d4e8437ad3d4264622472ea365625f37",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor125",
+      "split": "validation",
+      "events": 47,
+      "events_sha256": "ea26d1e7a269437e4be0c31f8f597fc3001e56d5e00dc012e168b325580e0724"
+    },
+    {
+      "id": "chor250",
+      "title": "Ein feste Burg ist unser Gott",
+      "bwv": "BWV 303",
+      "source_sha256": "09024594d65b28d6d71bae089ec1dc15b15ec7de225c69c6de59456875f5eaa9",
+      "key": "D major",
+      "mode": 0,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor020",
+      "split": "test",
+      "events": 54,
+      "events_sha256": "fe3da59529351e5ef6e02f88afaec9637fa5705c0d3a98b7c3e0b5bce70e3b0a"
+    },
+    {
+      "id": "chor251",
+      "title": "Ich bin ja, Herr, in deiner Macht",
+      "bwv": "BWV 345",
+      "source_sha256": "e7ad94ede39b6ad3ce15545412f4265b554a587953d2aa34c96e3f98da196557",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor251",
+      "split": "validation",
+      "events": 60,
+      "events_sha256": "9f71a445d039a1e1d734d45bbb62a893b8b74673bb6e9cf4399f72e84bd4918a"
+    },
+    {
+      "id": "chor253",
+      "title": "Ach Gott, vom Himmel seih darein",
+      "bwv": "BWV 77/6",
+      "source_sha256": "c6a06983f7798d841f576731539cca23e79e0815649e17d4df0a56bde6b65a32",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor253",
+      "split": "train",
+      "events": 66,
+      "events_sha256": "284bc5a782c1fd27c1f3f2ea9513023043e90c23d85db1365ca200b2bc3e6d80"
+    },
+    {
+      "id": "chor254",
+      "title": "Weg, mein Herz, mit den Gedanken",
+      "bwv": "BWV 25/6",
+      "source_sha256": "41fec00ebf3daeb920f2a8186c08896a37bff6322cd938c7a992afc801a21dd5",
+      "key": "C major",
+      "mode": 0,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor029",
+      "split": "train",
+      "events": 49,
+      "events_sha256": "21a9afec470dccfb3004fd018c10812a7b9f70af1b90231d1fa285ddb0d6b999"
+    },
+    {
+      "id": "chor255",
+      "title": "Was frag ich nach der Welt",
+      "bwv": "BWV 64/4",
+      "source_sha256": "21e74777af1eff2bcf1eae2fc8661fc33412d47ccb04eb2c68ac46794cf967dd",
+      "key": "D major",
+      "mode": 0,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor085",
+      "split": "train",
+      "events": 52,
+      "events_sha256": "483a331b790c47479ec713d138c569203ad0be6173d6fdf7fe33306aa48eced1"
+    },
+    {
+      "id": "chor256",
+      "title": "Jesu, deine tiefen Wunden",
+      "bwv": "BWV 194/6",
+      "source_sha256": "69ed0b117b948287f5b2651540715399a0d4025a8f7ca06b54e993abf38e7366",
+      "key": "B- major",
+      "mode": 0,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor029",
+      "split": "train",
+      "events": 46,
+      "events_sha256": "9ae33cf7551cd10423e7c136bc833dc9993885818c4104be8621d4edeb9ba470"
+    },
+    {
+      "id": "chor257",
+      "title": "Nun laßt uns Gott, dem Herren",
+      "bwv": "BWV 194/12",
+      "source_sha256": "86ab7d4cb517afe79733f20641727ffee367f5a936ec96d1eba475778729800a",
+      "key": "B- major",
+      "mode": 0,
+      "shift": 2,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 8,
+      "family": "chor093",
+      "split": "train",
+      "events": 34,
+      "events_sha256": "05c86830bf6f735558be0208e01b174e73b6135956e94fd8ecf47c1c2ab8950a"
+    },
+    {
+      "id": "chor258",
+      "title": "Mein' Augen schließ ich jetzt",
+      "bwv": "BWV 378",
+      "source_sha256": "354430cd346ae2959c4fd10404f8b1013b9a1d89a9042ec93619855a5d9a55d3",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor258",
+      "split": "train",
+      "events": 57,
+      "events_sha256": "f5b9a12d90c8c4e624de6a8b288d886f895531ac74857ee75bb6b56410446f2b"
+    },
+    {
+      "id": "chor259",
+      "title": "Verleih uns Frieden gnädiglich",
+      "bwv": "BWV 42/7",
+      "source_sha256": "950e47f8c7892224d4770a44771a9f15e7d696b5f59bf8ebfca8518babb284c5",
+      "key": "F# minor",
+      "mode": 1,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor091",
+      "split": "train",
+      "events": 109,
+      "events_sha256": "21dfa94e67473d9b12fbc7c20e97cc073602477c39bf546a19e1bb06fab09883"
+    },
+    {
+      "id": "chor260",
+      "title": "Es ist gewißlich an der Zeit",
+      "bwv": "BWV 307",
+      "source_sha256": "7caf9d8def4fdb966da22c3101d68204cba16124e6ede7133465b390b7c92bbc",
+      "key": "B- major",
+      "mode": 0,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor260",
+      "split": "train",
+      "events": 44,
+      "events_sha256": "537501f37b4e4916cf0b7b76416f7073e89c2f2d01432597d7c954a815f6b014"
+    },
+    {
+      "id": "chor261",
+      "title": "Christ lag in Todesbanden",
+      "bwv": "BWV 158/4 (279)",
+      "source_sha256": "429460948e9e54c15d63d7033b54e0adb8375f7bcb09b0cfa91b731b8841d219",
+      "key": "E minor",
+      "mode": 1,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor261",
+      "split": "train",
+      "events": 47,
+      "events_sha256": "8a2db51113f30fa57b2261a596bd1f533ef964f10d5bd968a6f6f440b17e7d17"
+    },
+    {
+      "id": "chor263",
+      "title": "Jesu, meine Freude",
+      "bwv": "BWV 227/1",
+      "source_sha256": "0399c0723bf387ea992e8a526ff9d944458f51023cb622fc935784766e673469",
+      "key": "E minor",
+      "mode": 1,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor096",
+      "split": "train",
+      "events": 41,
+      "events_sha256": "8f46683b90363774c3c638b4aac2030a7022402ec77f56a12bacea64b31d79e5"
+    },
+    {
+      "id": "chor264",
+      "title": "Jesu meines Herzens Freud",
+      "bwv": "BWV 361",
+      "source_sha256": "196f931b59af430227e672c85e72c1a658536b8d6f0b38546afad1cd69e47d3e",
+      "key": "B- major",
+      "mode": 0,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor264",
+      "split": "train",
+      "events": 57,
+      "events_sha256": "be94980c5762dcdb4161cdc4fdc5148b5ee3b380deddb9a6b9bcf94fdf2eee6a"
+    },
+    {
+      "id": "chor265",
+      "title": "Was mein Gott will, das g'schen allzeit",
+      "bwv": "BWV 144/6",
+      "source_sha256": "6d4b5e8f119cd55b51a9dff5093ff5d98fcd7e2632731bc00a551d7a206c482f",
+      "key": "B minor",
+      "mode": 1,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor041",
+      "split": "train",
+      "events": 52,
+      "events_sha256": "5976b3c927b22b8df4cc005e48be9befa154e7ad675d6f874d3bd1c97866ef36"
+    },
+    {
+      "id": "chor266",
+      "title": "Herr Jesu Christ, du höchstes Gut",
+      "bwv": "BWV 48/7",
+      "source_sha256": "735b08ed5ce8aca0a6173a3c57c65237dff7b582314b3d1d7bed663748a87dc1",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor073",
+      "split": "validation",
+      "events": 44,
+      "events_sha256": "8c2411dc6b3684947600e1aaee0092ffba394e7f85fec92a13bf678e7a401020"
+    },
+    {
+      "id": "chor267",
+      "title": "Vater unser im Himmelreich",
+      "bwv": "BWV 90/5",
+      "source_sha256": "682cbf5986df998d76bbfaa90662f9f1c386c09ffddcc5df25b2febf12ce77da",
+      "key": "D minor",
+      "mode": 1,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor047",
+      "split": "test",
+      "events": 49,
+      "events_sha256": "08dba4b3dfbfa050e62556e12e789c05ed2cb4a82862c0c3398c495c7dc6b27c"
+    },
+    {
+      "id": "chor268",
+      "title": "Nun lob, mein Seel, den Herren",
+      "bwv": "BWV 389",
+      "source_sha256": "2c79ae7aa0ea664d4226c6b08c3ba37169817b56bd37748d51c6908df7f00d39",
+      "key": "C major",
+      "mode": 0,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor007",
+      "split": "train",
+      "events": 86,
+      "events_sha256": "27462a2544e8b171f07eb1e4ebb6e84932f58f1fc3b0e105b51acdc50c41d955"
+    },
+    {
+      "id": "chor269",
+      "title": "Jesu, der du meine Seele",
+      "bwv": "BWV 353",
+      "source_sha256": "c6f2d3cd02b58def8f99f7d72359759fcb68abb0b6d6c70b88b604e38c35d2cc",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor037",
+      "split": "train",
+      "events": 48,
+      "events_sha256": "567bb8ae197a16e03b526e451861cf1cfb45309645c07d0aba8e3abf370a2ba9"
+    },
+    {
+      "id": "chor270",
+      "title": "Befiehl du deine Wege",
+      "bwv": "BWV 161/6",
+      "source_sha256": "0ccafa96e2b18ed57c74f43582c731ae8b38a4f9b052c27e7357ed26bd688df9",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor021",
+      "split": "train",
+      "events": 43,
+      "events_sha256": "44796d14487da65d2883da365687a8d84096e9b229fafe2e27fdf18290cc24be"
+    },
+    {
+      "id": "chor271",
+      "title": "Gib dich zufrieden und sei stille",
+      "bwv": "BWV 315",
+      "source_sha256": "614aa72e69b26da870c45fbba659a10af277d15e7dfedabab9e25efed0d17898",
+      "key": "E minor",
+      "mode": 1,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor271",
+      "split": "validation",
+      "events": 67,
+      "events_sha256": "bef474b2e83f0f3c1c78f3e50cbd42fc2efffea2aad8cdd615a476e7d0fca7d6"
+    },
+    {
+      "id": "chor272",
+      "title": "Ich dank' dir, lieber Herre",
+      "bwv": "BWV 348",
+      "source_sha256": "fc3e438c8a0d102899e00bde3ae5bfdcc642896a23045362330fa586239ea6eb",
+      "key": "B- major",
+      "mode": 0,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor002",
+      "split": "test",
+      "events": 67,
+      "events_sha256": "805f13485e69278991c9ef94051ff5e5d9af475ea4f7f52cf13b217577dc9b95"
+    },
+    {
+      "id": "chor273",
+      "title": "Ein feste Burg ist unser Gott",
+      "bwv": "BWV 80/8",
+      "source_sha256": "4e384a2c29bf0e75a2eb0a7d81437a69c38ee3e4d0e59cc29520d1a5532305d5",
+      "key": "D major",
+      "mode": 0,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor020",
+      "split": "test",
+      "events": 53,
+      "events_sha256": "7fb2d4bda36981764e2d4fdb252487139267711525c04395a05bd7a3be3d6399"
+    },
+    {
+      "id": "chor274",
+      "title": "O Ewigkeit, du Donnerwort",
+      "bwv": "BWV 397",
+      "source_sha256": "2894b2a6b00206d16adbe1ebfaaef7ab5ab99dcd0d8d9f61141f6849c43fe32a",
+      "key": "F major",
+      "mode": 0,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor026",
+      "split": "train",
+      "events": 41,
+      "events_sha256": "7ccdd47767cbbb7b900ec44b091296229697ea07e407058e3b314f74c5af30d3"
+    },
+    {
+      "id": "chor275",
+      "title": "O Welt, sieh hier dein Leben",
+      "bwv": "BWV 393",
+      "source_sha256": "2f18bf127d58fd6b6a024c23af40fe6cd912a331b1a0e2dca136a2cef1824105",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor050",
+      "split": "train",
+      "events": 49,
+      "events_sha256": "7236449b8999d5a08c59ddc60abc56fb97448380b838c8aa41d4106cade0aaa4"
+    },
+    {
+      "id": "chor276",
+      "title": "Lobt Gott, ihr Christen allzugleich",
+      "bwv": "BWV 375",
+      "source_sha256": "452154a48c4818db79664da0f5c79347e0df54accb5eb3667f0ef3100274a007",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor054",
+      "split": "train",
+      "events": 43,
+      "events_sha256": "0b2612423b97feefb00488301b023459db822c9efd4dea95f624abb9cf93c571"
+    },
+    {
+      "id": "chor277",
+      "title": "Herzlich lieb hab ich dich, o Herr",
+      "bwv": "BWV 340",
+      "source_sha256": "270862a3cdb1ae452809bd3ca7880aa82224d59ba9154ac6ee3f08d3986db305",
+      "key": "C major",
+      "mode": 0,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor058",
+      "split": "train",
+      "events": 89,
+      "events_sha256": "4f37cf375e8ca54cd51fcacc654010905553c7fee79fe706b5218c4191923842"
+    },
+    {
+      "id": "chor278",
+      "title": "Wie schön leuchtet der Morgenstern",
+      "bwv": "BWV 436",
+      "source_sha256": "f98cf7c8b3d69200cda0388ce6147abe49d75252a19b07c99ce3e2127c4ae215",
+      "key": "E major",
+      "mode": 0,
+      "shift": -4,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor278",
+      "split": "train",
+      "events": 47,
+      "events_sha256": "6b584289b218edd3b5f649cac16d5ef24e3bb432db78b4600621dd45e4a439ea"
+    },
+    {
+      "id": "chor279",
+      "title": "Ach Gott und Herr",
+      "bwv": "BWV 48/3",
+      "source_sha256": "6044d20a9a8c289a294552b18fbd5a96af28ff4f460c434f6701eff957046de2",
+      "key": "B- major",
+      "mode": 0,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor040",
+      "split": "train",
+      "events": 35,
+      "events_sha256": "4d3498f2ce3d2faed03eb27ad05f1a29dd5672aa6b81b8132248bff9e885b931"
+    },
+    {
+      "id": "chor281",
+      "title": "Wo soll ich fliehen hin",
+      "bwv": "BWV 89/6",
+      "source_sha256": "f1f12e1d698d971c27567778f67381f0ba2323af428821cf512356a4af79ff7d",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor281",
+      "split": "validation",
+      "events": 41,
+      "events_sha256": "4e8865a9ce8e326eea776ee238da632428d64e23d93ef29c679483b4f1ff1d62"
+    },
+    {
+      "id": "chor282",
+      "title": "Freu dich sehr, o meine Seele",
+      "bwv": "BWV 25/6",
+      "source_sha256": "3773b41b38b2f56cccc22db83f32556bb3f2ef4f4c556161499b1cac395e0d63",
+      "key": "C major",
+      "mode": 0,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor029",
+      "split": "train",
+      "events": 49,
+      "events_sha256": "21a9afec470dccfb3004fd018c10812a7b9f70af1b90231d1fa285ddb0d6b999"
+    },
+    {
+      "id": "chor283",
+      "title": "Jesu, meine Freude",
+      "bwv": "BWV 227/7",
+      "source_sha256": "5c710751c93270cbb718fc1bb01eb8c30c1eafb612f10343eb796fee64da2fdc",
+      "key": "E minor",
+      "mode": 1,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor096",
+      "split": "train",
+      "events": 39,
+      "events_sha256": "a6a1c3d9ddf0164450e6c6a8c81f4f97b1b138ba6d1b60538e1f69b2c0cef7dd"
+    },
+    {
+      "id": "chor285",
+      "title": "Wär Gott nicht mit uns diese Zeit",
+      "bwv": "BWV 257",
+      "source_sha256": "3a14d7656d76f00af3639480b320457fbd08a79909db23866ade42c941921d31",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor031",
+      "split": "validation",
+      "events": 45,
+      "events_sha256": "3b6e4d138c7cbcc95bf6dcf8e77be8eb37ae9ceec31ebd916eab3b990090c540"
+    },
+    {
+      "id": "chor286",
+      "title": "Befiehl du deine Wege",
+      "bwv": "BWV 270",
+      "source_sha256": "a27aa1772b9b35cd6871a5b012ad837a7b3325e1be67e1cd7a1815fb4412b649",
+      "key": "B minor",
+      "mode": 1,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor021",
+      "split": "train",
+      "events": 43,
+      "events_sha256": "7cc50a35b9fa4fb9ff30e2845c4fb03fd6e82ee4992e1607ea3bcb93da17faa8"
+    },
+    {
+      "id": "chor287",
+      "title": "Herr, ich habe mißgehandelt",
+      "bwv": "BWV 331",
+      "source_sha256": "f2f67edb1f6f2f485245680bc4192620abb1bcd87a181c6d89af743b3e09df9c",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor033",
+      "split": "train",
+      "events": 31,
+      "events_sha256": "73ea5e607d1a5ba54811d01a9a30e3fe20bf4d9834b52139c226d990911394e0"
+    },
+    {
+      "id": "chor289",
+      "title": "Nun ruhen alle Wälder",
+      "bwv": "BWV 392",
+      "source_sha256": "3f623fe192d3347842d46b44a0b56ebb37618203da8e5d5aa1a1430300425754",
+      "key": "B- major",
+      "mode": 0,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor050",
+      "split": "train",
+      "events": 53,
+      "events_sha256": "6a1929d95e2d2c730fd9021c1247d4afbdf9fb54752885516712f5ea96d9f111"
+    },
+    {
+      "id": "chor290",
+      "title": "Es ist das Heil uns kommen her",
+      "bwv": "BWV 917",
+      "source_sha256": "b7b5a1352321b4ef56162c52de0437c41ed397f4160a0c30c08cacbbc9b5b8c9",
+      "key": "E major",
+      "mode": 0,
+      "shift": -4,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor004",
+      "split": "train",
+      "events": 47,
+      "events_sha256": "7c087c670455a2af6233152b5e979d057ca0602b22f71adb74c3e5f50ff3462f"
+    },
+    {
+      "id": "chor291",
+      "title": "Was frag ich nach der Welt",
+      "bwv": "BWV 64/4 (94/8)",
+      "source_sha256": "63a0fa689acfbef72eb5ee245afd7558fbff769dfe230eb3d623b6bc4658559a",
+      "key": "D major",
+      "mode": 0,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor085",
+      "split": "train",
+      "events": 59,
+      "events_sha256": "14649932055736478bce40f36f93d268fb5325717ae1d0446ba3cd18c480098b"
+    },
+    {
+      "id": "chor292",
+      "title": "Nimm von uns, Herr, du treuer Gott",
+      "bwv": "BWV 101/7",
+      "source_sha256": "bbfa872efef947ba10e350d6eaf687ed17469f3cb9d2e9421ac9936a2e998304",
+      "key": "D minor",
+      "mode": 1,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor047",
+      "split": "test",
+      "events": 50,
+      "events_sha256": "42720d8a992f8ca419bc79754e30ff6fdfb58593456807270882e56dd03a154e"
+    },
+    {
+      "id": "chor293",
+      "title": "Was Gott tut, das ist wohlgetan",
+      "bwv": "BWV 12/7 & 69a/16",
+      "source_sha256": "3e7a5176f1ca0236d935eb23a7b92545797a944107a13d8dbce199e2326c7051",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor065",
+      "split": "test",
+      "events": 37,
+      "events_sha256": "cc5ea15eea4d78c376094727e0f8a248102cca09dae099711e9867e3539ac30e"
+    },
+    {
+      "id": "chor294",
+      "title": "Herr Jesu Christ, du höchstes Gut",
+      "bwv": "BWV 113/8",
+      "source_sha256": "5b63d580b64a5662f9bb4ed692526b27ff1064b69e02d1607aa1dd22519c2e17",
+      "key": "B minor",
+      "mode": 1,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor073",
+      "split": "validation",
+      "events": 44,
+      "events_sha256": "87cb73f6c5742443379b7b2facdb8227aeb2210ae47854f23b8b1739e4f0ada2"
+    },
+    {
+      "id": "chor295",
+      "title": "Herr Jesu Christ, mein's Lebens Licht",
+      "bwv": "BWV 335",
+      "source_sha256": "239ad975d9d9c3f434af12b194c1ae5a48e0e4b6e8c8c55925d66bb3101e7bb5",
+      "key": "E minor",
+      "mode": 1,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor236",
+      "split": "train",
+      "events": 38,
+      "events_sha256": "72ca7eaf40eed230b157ff9e048d7e36ee67796d77b0e4adea0c8df5e0a71b97"
+    },
+    {
+      "id": "chor296",
+      "title": "Nun lob, mein Seel, den Herren",
+      "bwv": "BWV 390",
+      "source_sha256": "0e86f2a8b9fb8c9a0a0e6a60ec9f37531457bdd6e0de6ce6d68e978b34b3e626",
+      "key": "C major",
+      "mode": 0,
+      "shift": 0,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 8,
+      "family": "chor007",
+      "split": "train",
+      "events": 88,
+      "events_sha256": "697cafd21f3802671b4fe84a368763953f4916f10e3692f11484e69ddcd062f6"
+    },
+    {
+      "id": "chor297",
+      "title": "Jesu, der du meine Seele",
+      "bwv": "BWV 78/7",
+      "source_sha256": "c7c8f6e187f7c65244fd6888a53871803ee271febd701cffc9e37e5a207375b3",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor037",
+      "split": "train",
+      "events": 64,
+      "events_sha256": "593b78504e8435c8579053d2b8f1a9217f187c14cae7f6a581bc3d935bd6543e"
+    },
+    {
+      "id": "chor298",
+      "title": "Weg, mein Herz, mit den Gedanken",
+      "bwv": "BWV 19/7",
+      "source_sha256": "d67e5133e01b90fb43812e5e024064670f2de9f6b67027c450327a9cf1d7eb73",
+      "key": "C major",
+      "mode": 0,
+      "shift": 0,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 0,
+      "family": "chor029",
+      "split": "train",
+      "events": 45,
+      "events_sha256": "5172886995668ee9d9cd9c854aadb7da5b22a0d4a9d713b4d6947f3c39f4fc9a"
+    },
+    {
+      "id": "chor299",
+      "title": "Meinen Jesum laß ich nicht, weil",
+      "bwv": "BWV 380",
+      "source_sha256": "711e89271f391b58e0889d8de408e04aef15eb4aa867b39f2fa51a988a41aa81",
+      "key": "E- major",
+      "mode": 0,
+      "shift": -3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor152",
+      "split": "test",
+      "events": 59,
+      "events_sha256": "b81ab2f1dfb62720d894eee50386d887d2ce2ae4748ec9d2e5cf26154b1be2d2"
+    },
+    {
+      "id": "chor300",
+      "title": "Warum betrübst du dich, mein Herz",
+      "bwv": "BWV 421",
+      "source_sha256": "9a2695536faa67b709dddb2c66735328c6818a4a9417d12e2ea4f537858b6133",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor094",
+      "split": "train",
+      "events": 43,
+      "events_sha256": "0b0046726f27981d024e531e825e27f603b8cbf74f3ee7686eba2d7ce40da078"
+    },
+    {
+      "id": "chor301",
+      "title": "Ach lieben Christen, seid getrost",
+      "bwv": "BWV 114/7",
+      "source_sha256": "ecb0d85676346eb59ab7b5e593ff0fb50de07634b4ac8efeac6a5ec7a29a5efe",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor031",
+      "split": "validation",
+      "events": 46,
+      "events_sha256": "7a974990a3b34f72e2566fccb089e815c8c004c5a885bd23059f270818d92e49"
+    },
+    {
+      "id": "chor303",
+      "title": "Herr Christ, der ein'ge Gotts Sohn",
+      "bwv": "BWV 96/6",
+      "source_sha256": "586fc2fa864c4a7c7b6740dc745f3581e11a2f15bc7cd0a92b0a5f0fc30d8437",
+      "key": "F major",
+      "mode": 0,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor101",
+      "split": "train",
+      "events": 35,
+      "events_sha256": "2aaf663c9dadca4522ef9ceb8c31b74c5defef788a8e74fbccbb083cba0ec28b"
+    },
+    {
+      "id": "chor304",
+      "title": "Auf meinen lieben Gott",
+      "bwv": "BWV 5/7",
+      "source_sha256": "8f34678180a85264c2c51d4667fad9561aaf282d41dae5806e10c0ee03bbf939",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor281",
+      "split": "validation",
+      "events": 40,
+      "events_sha256": "ed3b3f9359f95760fdc4ea4c8edeac0da7ee0c84e50a1b9a171ba8d67968a3f9"
+    },
+    {
+      "id": "chor306",
+      "title": "O Mensch, bewein dein' Sünde groß",
+      "bwv": null,
+      "source_sha256": "9ff8d16e75b7135f5cf40658217f0884b070aa1da55cc43b8b2c5453fcf6f2ba",
+      "key": "E- major",
+      "mode": 0,
+      "shift": -3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor201",
+      "split": "validation",
+      "events": 72,
+      "events_sha256": "caf21ecbca3903cbc50ccf2c8c387611dd0b53d779f78e04fc8e03200af227be"
+    },
+    {
+      "id": "chor307",
+      "title": "Christus, der uns selig macht",
+      "bwv": null,
+      "source_sha256": "16088f8346bb516b986658c325a469915071a94d2635276a79cdd10806cd3522",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor198",
+      "split": "train",
+      "events": 67,
+      "events_sha256": "ddc9f10b8e94438f3a397e696fc0248f2db418fa06e21705b892e4dc8d2d97c8"
+    },
+    {
+      "id": "chor308",
+      "title": "Ach Gott, wie manches Herzeleid",
+      "bwv": "BWV 3/6",
+      "source_sha256": "4dfa889b45d3ed65a146022dfc15decd54e5cdd9e74619e36570155b74f5545f",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor156",
+      "split": "validation",
+      "events": 37,
+      "events_sha256": "9117ce5b9f2525f4c25a05bca18ced0a2accd42c9a9eb31ee3f8779ddb71421b"
+    },
+    {
+      "id": "chor309",
+      "title": "Ein Lämmelein geht und trägt die Schuld",
+      "bwv": "BWV 267",
+      "source_sha256": "d21de98eaddebf4d07923e4b75f1a4e7c5e9b460b1eb5062dd035727b6e7bee0",
+      "key": "A- major",
+      "mode": 0,
+      "shift": 4,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor005",
+      "split": "train",
+      "events": 78,
+      "events_sha256": "ba69d24e86876b2ba73f181cd4b00c29c1c1bf01f755cb6e4b18cd910d81ac1b"
+    },
+    {
+      "id": "chor310",
+      "title": "Mach's mit mir, Gott, nach deiner Güt",
+      "bwv": "BWV 245/22",
+      "source_sha256": "862c25f67959238fe9193dd6ade7edff5e0c02f87d68d41aff0954c4b32db1b8",
+      "key": "E major",
+      "mode": 0,
+      "shift": -4,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor044",
+      "split": "train",
+      "events": 35,
+      "events_sha256": "77b17a4c124d8fd30a7f5d947f95c2d5345a3fd4934fce4cd75451c2febdb2fe"
+    },
+    {
+      "id": "chor311",
+      "title": "Dank sei Gott in der Höhe",
+      "bwv": "BWV 287",
+      "source_sha256": "b5f5f17bed16cd808a2934aec86b9188907a6c06aa926cb11f966836672b50ff",
+      "key": "F major",
+      "mode": 0,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor311",
+      "split": "train",
+      "events": 42,
+      "events_sha256": "3411f4dcba666f43a916156c8765245443618153326f4250eeca84884c6ce9a2"
+    },
+    {
+      "id": "chor312",
+      "title": "O Gott, du frommer Gott",
+      "bwv": "BWV 398",
+      "source_sha256": "b574f3498c52a2931e19d63fa87a554e3cf09584bac3ea0968f3b951b9a40458",
+      "key": "D major",
+      "mode": 0,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor085",
+      "split": "train",
+      "events": 63,
+      "events_sha256": "a958950e4969295eceda3333590ced1969c48f7ff8afd303a88233199455e445"
+    },
+    {
+      "id": "chor313",
+      "title": "Allein Gott in der Höh sei Ehr",
+      "bwv": "BWV 112/5",
+      "source_sha256": "e24cfc299132f20b2ebd72bdc8046719ffae55a19e855730e81d2e45330ca094",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor125",
+      "split": "validation",
+      "events": 47,
+      "events_sha256": "7f11b9bc8ff5cafa59ad1c7323e433875eabfffbcaddf8b76a6e871f405ec546"
+    },
+    {
+      "id": "chor314",
+      "title": "Das alte Jahr vergangen ist",
+      "bwv": "BWV 289",
+      "source_sha256": "7e674133a1d333db5b6cb4e1ea4df34ad36dbc2d39b536ebd005282e00b4ddfe",
+      "key": "E minor",
+      "mode": 1,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor314",
+      "split": "validation",
+      "events": 55,
+      "events_sha256": "149a36c0b992cd97b609793c851df89070d34f18e271bab4657cbfb68612f055"
+    },
+    {
+      "id": "chor315",
+      "title": "O Gott, du frommer Gott",
+      "bwv": "BWV 399",
+      "source_sha256": "24d8396d7b0b00bd8ab043aae6d121dce8dacf0351add284f94884b21350b9d6",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor085",
+      "split": "train",
+      "events": 49,
+      "events_sha256": "6f8ad49f06390480fa5cb6ddc6aa8243001f511de1c978ef66d10fba039cd446"
+    },
+    {
+      "id": "chor316",
+      "title": "Christus, der ist mein Leben",
+      "bwv": "BWV 282",
+      "source_sha256": "73af23ae955cc6d351a5a664821d833e55352aa5a4c06d46252649a11e9bd808",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 8,
+      "family": "chor006",
+      "split": "train",
+      "events": 32,
+      "events_sha256": "b91016f71397c903abdb81dae23baf447629fcbef5c49b0572d27dc673127332"
+    },
+    {
+      "id": "chor317",
+      "title": "Herr, wie du willt, so schick's mit mir",
+      "bwv": "BWV 156/6",
+      "source_sha256": "4ee161dcd3018ae0d15d0e3beb9a9fdfbb14b6a6aa29a41248f80e2d2cad6258",
+      "key": "C major",
+      "mode": 0,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor144",
+      "split": "validation",
+      "events": 48,
+      "events_sha256": "3815786a3da3d822c2845b89b185e7878466124be40c9d946e725b6b619a9332"
+    },
+    {
+      "id": "chor318",
+      "title": "Herr wie du willst, so schick's mit mir",
+      "bwv": "BWV 339",
+      "source_sha256": "2c552afa02cee5a472709dfae3a94b0663816f70621c656028a9a05aada3afab",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor144",
+      "split": "validation",
+      "events": 50,
+      "events_sha256": "ef935b2255cd600dc048d8166296580c9acb56520d129e929421aea091dfb7a3"
+    },
+    {
+      "id": "chor319",
+      "title": "Sanctus, sanctus Dominus Deus Sabaoth",
+      "bwv": "BWV 325",
+      "source_sha256": "c09e5064d321371cf06f6cd69ff33899680d738ca06c2c44c119cceef3e93252",
+      "key": "F major",
+      "mode": 0,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor235",
+      "split": "train",
+      "events": 59,
+      "events_sha256": "9bb1c82675027c278ecf2cdd8867ca41d90f8286cf4a913cce6e71f6e1bf3bef"
+    },
+    {
+      "id": "chor321",
+      "title": "Wir Christenleut",
+      "bwv": "BWV 40/3",
+      "source_sha256": "dbe64cdd87dfb451afb3b0ff45629813cb7f02568dd0faf29f5dd39385d8a006",
+      "key": "G minor",
+      "mode": 1,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor055",
+      "split": "test",
+      "events": 43,
+      "events_sha256": "48d847e695205447f2cb688f58d8b1c771e1a9eb10e732f1390f88df323e6ab5"
+    },
+    {
+      "id": "chor322",
+      "title": "Wenn mein Stündlein vorhanden ist",
+      "bwv": "BWV 428",
+      "source_sha256": "9dc647a02e193050e0874c3470d8cdda0304625c482703cfdf227c15bab9251a",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor052",
+      "split": "test",
+      "events": 63,
+      "events_sha256": "f0f20cbb2e9d6795a9ec6fc5812593a97759ed6a6241259bb68d735caca85471"
+    },
+    {
+      "id": "chor323",
+      "title": "Wie schön leuchtet der Morgenstern",
+      "bwv": "BWV 172/6",
+      "source_sha256": "5d6760264e6f760d0a4ae58ad018189eece695428b664a57bbc6373c8e1c4dbe",
+      "key": "F major",
+      "mode": 0,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor278",
+      "split": "train",
+      "events": 50,
+      "events_sha256": "50dc7e83601791e41d28e858d99971d3ec978e83c539394e362942a1a2c3e530"
+    },
+    {
+      "id": "chor324",
+      "title": "Jesu, meine Freude",
+      "bwv": "BWV 81/7",
+      "source_sha256": "1576946cc68784afd79d2acc20241a00e5c0e5e90ecde6ed7f8cf9c8d2d93444",
+      "key": "E minor",
+      "mode": 1,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor096",
+      "split": "train",
+      "events": 39,
+      "events_sha256": "c999fc1e52e85bfb6e130397cba1d5337b1d96a19193aab0cb15dbf322f3ac69"
+    },
+    {
+      "id": "chor326",
+      "title": "Allein Gott in der Höh sei Ehr",
+      "bwv": "BWV 104/6",
+      "source_sha256": "2c8f3ffa10f5adbcad2e36685cc167e19579394c0c6a8cbb6bbf630c21aa4ebe",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor125",
+      "split": "validation",
+      "events": 45,
+      "events_sha256": "db86ff7eee7a9097becf261d089a2c9908d7789b683ceb29ef0dabebe7696a22"
+    },
+    {
+      "id": "chor327",
+      "title": "Jesu, nun sei gepreiset",
+      "bwv": "BWV 190/7",
+      "source_sha256": "b83a72845caecf4277a16c751514ad71a24d8bb87fca17cb65b11c7da6fd6d71",
+      "key": "D major",
+      "mode": 0,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor327",
+      "split": "train",
+      "events": 59,
+      "events_sha256": "d8a3b5cb76dc4cd270a25e7d6af3ef1d92db4389d279f4c630791df545e7fbc4"
+    },
+    {
+      "id": "chor328",
+      "title": "Liebester Jesu, wir sind hier",
+      "bwv": null,
+      "source_sha256": "920f8601098a06cf9ebea47f60c83b13e010677ea3fb7d2eed76f12befedd7bb",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor131",
+      "split": "train",
+      "events": 32,
+      "events_sha256": "1abea6aab5d86b28b35627a9b23a78302e760bc4ae910c515e8efef88c0f3ee2"
+    },
+    {
+      "id": "chor329",
+      "title": "Sei Lob und Ehr dem höchsten Gut",
+      "bwv": "BWV 251",
+      "source_sha256": "52141aeebb73a4aa9ea9371abb6a2b98247f3e869528526fa1083fb108b84918",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor004",
+      "split": "train",
+      "events": 49,
+      "events_sha256": "62902342043b3e7b2d783aaff28891ce9beb9c50f6f7f59020f236fc26552af6"
+    },
+    {
+      "id": "chor330",
+      "title": "Nun danket alle Gott",
+      "bwv": "BWV 252",
+      "source_sha256": "040813c9e08f8ec5d85ecabe7cf8a1987a5d8cdb7e464601af0ed062768832cb",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor032",
+      "split": "train",
+      "events": 40,
+      "events_sha256": "af8a1017ccb24710cff9abb5b0337f04f3538aa271a1044410ff41566c2c2831"
+    },
+    {
+      "id": "chor331",
+      "title": "Wo soll ich fliehen hin",
+      "bwv": "BWV 136/6",
+      "source_sha256": "3dde23075aded2767dad7e408ce3c551bb05f2a85129ce568a4415727ee037dd",
+      "key": "B minor",
+      "mode": 1,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor281",
+      "split": "validation",
+      "events": 41,
+      "events_sha256": "4e8865a9ce8e326eea776ee238da632428d64e23d93ef29c679483b4f1ff1d62"
+    },
+    {
+      "id": "chor332",
+      "title": "Von Gott will ich nicht lassen",
+      "bwv": "BWV 418",
+      "source_sha256": "2e0647d0017f0ea92b0e1e2e248c19b265717d87198c65138ae112a6c1bd7f91",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor114",
+      "split": "test",
+      "events": 59,
+      "events_sha256": "bd32d9b3f9eb1315fbeb2a0fa04045af99d378f5b92e26114666ae656d19925b"
+    },
+    {
+      "id": "chor333",
+      "title": "Es woll' uns Gott genädig sein",
+      "bwv": "BWV 69/6",
+      "source_sha256": "39a38761cfc5a4ee1f94f7968e4601198436b4a99596ccf819bf6bb46d198e93",
+      "key": "D major",
+      "mode": 0,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor016",
+      "split": "test",
+      "events": 71,
+      "events_sha256": "e9d078fe89ab06188ed522e722f6c3b4cf32ecedd5ed5781e4cf7708976ba236"
+    },
+    {
+      "id": "chor334",
+      "title": "Für deinen Thron tret ich hiermit",
+      "bwv": "BWV 327",
+      "source_sha256": "df2137ffb12f2d3416fbac6f97647de37f63290f2167788b04079df20f25fef2",
+      "key": "D major",
+      "mode": 0,
+      "shift": -2,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 8,
+      "family": "chor164",
+      "split": "validation",
+      "events": 32,
+      "events_sha256": "0bfb8ee7063cc9782d3ca420c71c29e024fe2d487ec066d63f0593d616c4875e"
+    },
+    {
+      "id": "chor335",
+      "title": "Es ist das Heil uns kommen her",
+      "bwv": "BWV 155/5",
+      "source_sha256": "4e89db0c3b59bf9aabcc53eec733b9a0daa1d1a723508f91a9994a21daa7ac3d",
+      "key": "F major",
+      "mode": 0,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor004",
+      "split": "train",
+      "events": 48,
+      "events_sha256": "946f273e45d30de80bbd047bb05b6beabfb816a8173c2983f6e03bd0bda20a01"
+    },
+    {
+      "id": "chor336",
+      "title": "Wo Gott, der Herr, mich bei uns hält",
+      "bwv": "BWV 258",
+      "source_sha256": "a8e1abc7cfc2e8faf2835e0afdce4e1446a76fa53889a1efa92cfcb8d7e3b091",
+      "key": "B minor",
+      "mode": 1,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor031",
+      "split": "validation",
+      "events": 46,
+      "events_sha256": "7a974990a3b34f72e2566fccb089e815c8c004c5a885bd23059f270818d92e49"
+    },
+    {
+      "id": "chor337",
+      "title": "O Gott, du frommer Gott",
+      "bwv": "BWV 24/6",
+      "source_sha256": "66fe44445d820236979627ff35073df75cbf0b9f1728e597abcf7f9557473c18",
+      "key": "F major",
+      "mode": 0,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor085",
+      "split": "train",
+      "events": 66,
+      "events_sha256": "0401b33d921718b433b1eb3059ff5e77abc0e8ba986da32da2300b62cf1bd92d"
+    },
+    {
+      "id": "chor338",
+      "title": "Jesus, meine Zuversicht",
+      "bwv": "BWV 145/8",
+      "source_sha256": "17d1d32130bdfa5e07e21373165741ad070827691dd4a46a7fe66bb4d033ea1b",
+      "key": "D major",
+      "mode": 0,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor175",
+      "split": "train",
+      "events": 33,
+      "events_sha256": "b5a7606c23761e4adcd54ee51c9fcaba8e8568dd3ddf67d0292cc1d481ebd63c"
+    },
+    {
+      "id": "chor339",
+      "title": "Wer nur den lieben Gott laßt walten",
+      "bwv": "BWV 179/6",
+      "source_sha256": "894bd613a5583dfede82230e529b3ff5754c371afef12d8351c2253cbdaaf17a",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor062",
+      "split": "train",
+      "events": 35,
+      "events_sha256": "dfdf9bcfb4f40aca5367cfa9be0e04c4c8968a6db93e3926d029d1d3ec85efac"
+    },
+    {
+      "id": "chor340",
+      "title": "Befiehl du deine Wege",
+      "bwv": "BWV 272",
+      "source_sha256": "eb4879cd410f9ea23bec5069eae6d9195dc75dde354862cfb478cb45eb991ad8",
+      "key": "D minor",
+      "mode": 1,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor021",
+      "split": "train",
+      "events": 42,
+      "events_sha256": "28e2c3a97882fd6c51e7c1aaa5606c56b0012c47747db5999e742354cfe2f0c6"
+    },
+    {
+      "id": "chor341",
+      "title": "Ich dank dir, lieber Herre",
+      "bwv": "BWV 37/6",
+      "source_sha256": "80351ac1d10df420f16d4a1d276b87cfe9e359f57c002f4b73e05080698bb8b7",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor002",
+      "split": "test",
+      "events": 70,
+      "events_sha256": "efad2af22423d1747be6c650cc010ca0338ae54a1651cd6c6e273ac5145962d9"
+    },
+    {
+      "id": "chor342",
+      "title": "Lobt Gott, ihr Christen allzugleich",
+      "bwv": "BWV 376",
+      "source_sha256": "82146d476e09a8044189bc7b79789487c6b3b445f8e17e88844fb10f176e542d",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor054",
+      "split": "train",
+      "events": 44,
+      "events_sha256": "70cc0cee2036d06f61cf398fce310c916175c7adb7c66d3e7acfcb32d0c9d72d"
+    },
+    {
+      "id": "chor343",
+      "title": "Nun lieget alles unter dir",
+      "bwv": "BWV 11/6",
+      "source_sha256": "7b9b03bdfbbdd01ee8a0b00b95fee61bfa5c4e2dc165b0d9c3f7a271461240f8",
+      "key": "D major",
+      "mode": 0,
+      "shift": -2,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 0,
+      "family": "chor009",
+      "split": "train",
+      "events": 50,
+      "events_sha256": "b9777bc6849d2322c1d08fd6443053d8c580248b9c529eefba854a2277175e8e"
+    },
+    {
+      "id": "chor344",
+      "title": "Vom Himmel hoch, da komm ich her",
+      "bwv": "BWV 248/23",
+      "source_sha256": "099a3354ece1ad2fdcec6f72153e86cde866e398dd1d18923915149dd4ac3a14",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor046",
+      "split": "train",
+      "events": 38,
+      "events_sha256": "1b1f39acbc7434c85efafb8596af202c11750655948b129222acaa7f26892968"
+    },
+    {
+      "id": "chor345",
+      "title": "O Haupt voll Blut und Wunden",
+      "bwv": "BWV 248/5",
+      "source_sha256": "0f0e7215376e344a7bc6ef7abf2eeebeb62986d2955a0a8ec9397abd6fd68414",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor021",
+      "split": "train",
+      "events": 45,
+      "events_sha256": "5fff3569bd3702a8be872f1c122ff5c0a3378135b9a6855c3d53dc17079da45e"
+    },
+    {
+      "id": "chor346",
+      "title": "Meines Lebens letzte Zeit",
+      "bwv": "BWV 381",
+      "source_sha256": "741b815718d3168f28abac3ffe1b0c7e59db6139884280c30a028528d9736fe3",
+      "key": "E minor",
+      "mode": 1,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor346",
+      "split": "test",
+      "events": 60,
+      "events_sha256": "b2d6af676108de4b75af3bb75cdff2e0699cc56b6cf4bfe8bd3f5acebb1b0c0f"
+    },
+    {
+      "id": "chor347",
+      "title": "Was Gott tut, das ist wohlgetan",
+      "bwv": "BWV 250",
+      "source_sha256": "a994015f9fab1d749164741cf957d94b10fcf718a8959b8050c44ca460e58ae2",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor065",
+      "split": "test",
+      "events": 46,
+      "events_sha256": "077152449612325b6e780000cafa53bc411b959ae976a29d2bf83dbb003c095a"
+    },
+    {
+      "id": "chor348",
+      "title": "Meinen Jesum laß ich nicht, weil",
+      "bwv": "BWV 70 & 70a/11",
+      "source_sha256": "2abefe2388f6b4188d48e893b92a796ba8dbcfe357fa2494c6e25ccf3caf3ae3",
+      "key": "C major",
+      "mode": 0,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor152",
+      "split": "test",
+      "events": 48,
+      "events_sha256": "4ddf78522e9a81cff6df1d18383555e1ae1e3d9ce1dbedb336b713bfae386590"
+    },
+    {
+      "id": "chor349",
+      "title": "Ich hab in Gottes Herz und Sinn",
+      "bwv": "BWV 103/6",
+      "source_sha256": "a2e06d5c3277da24bccc7f9639d59c83164e3abb53412b749a4f59ae1fbaf7f5",
+      "key": "B minor",
+      "mode": 1,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor041",
+      "split": "train",
+      "events": 52,
+      "events_sha256": "0555f69baf23b251a9c86304f31a286ec879acefc26695cb71e893512c865d4d"
+    },
+    {
+      "id": "chor350",
+      "title": "Jesu, meiner Freuden Freude",
+      "bwv": "BWV 360",
+      "source_sha256": "47ec909694e12abb2c22aade3b1a45e4f85844393e87eb48825dc6a026f83dba",
+      "key": "B- major",
+      "mode": 0,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor095",
+      "split": "train",
+      "events": 46,
+      "events_sha256": "386fbfd81f0fdf95e343889df91b8cfed5c2edba9cd65a6a9beb824a44ee47be"
+    },
+    {
+      "id": "chor351",
+      "title": "Wenn mein Stündlein vorhanden ist",
+      "bwv": "BWV 430",
+      "source_sha256": "0011fc583b1108e5a8ed8efff5777773f1e76c6440477e05d0ee6bb3c3ceb0d4",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor052",
+      "split": "test",
+      "events": 63,
+      "events_sha256": "75f1668313a589d8bcf03fc0c171216af09017f413b999fa6f72ebbd3256af6b"
+    },
+    {
+      "id": "chor352",
+      "title": "Es woll' uns Gott genädig sein",
+      "bwv": "BWV 312",
+      "source_sha256": "294d1967138c67ecf35504441af51df77628c3861d0f7c28611863c0730cb28d",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor016",
+      "split": "test",
+      "events": 70,
+      "events_sha256": "141874c64e76568043e71203890ad017791566a92c9c807dbf7309b23d0eac1f"
+    },
+    {
+      "id": "chor353",
+      "title": "Der Herr ist mein getreuer Hirt",
+      "bwv": "BWV 112/5",
+      "source_sha256": "4b6476a035ea57200cfcf7cdd0f43bdf495421b73674cb4eac461c78b39627f4",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor125",
+      "split": "validation",
+      "events": 47,
+      "events_sha256": "9e89f57b923bfd96072a44025bc16ad8c839f76151f0bd4ea8a03b6da6b34ccb"
+    },
+    {
+      "id": "chor354",
+      "title": "Sei Lob und Ehr dem höchsten Gut",
+      "bwv": "BWV 117/4",
+      "source_sha256": "da731bef452f6208df2a87196c1f2d0619a82f28ea0491d617ce37a57699a0b6",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor004",
+      "split": "train",
+      "events": 46,
+      "events_sha256": "bf96c36ef4b0a0a9786286552dce8c6e18baef130111f1d0e4688738f479c7a4"
+    },
+    {
+      "id": "chor355",
+      "title": "Nun ruhen alle Wälder",
+      "bwv": "BWV 44/7",
+      "source_sha256": "6ffa277acc707720777c7b24b5aa00938515af8f0a666b38e15247d5bf947e05",
+      "key": "B- major",
+      "mode": 0,
+      "shift": 2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor050",
+      "split": "train",
+      "events": 47,
+      "events_sha256": "db79356b8d80ad49743b859a37e3c390b5698597dc900f231f8014de7adf52f2"
+    },
+    {
+      "id": "chor356",
+      "title": "Jesu, meine Freude",
+      "bwv": "BWV 358",
+      "source_sha256": "0270b0cb48a617356d56177b294d4df6b2bfe11c175459a77dc08ec110618468",
+      "key": "D minor",
+      "mode": 1,
+      "shift": -5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor096",
+      "split": "train",
+      "events": 41,
+      "events_sha256": "04c5892c9cee4fd0f3a4512fc5c9fd36c1a6b5f06d63989448cbdc9531f58018"
+    },
+    {
+      "id": "chor359",
+      "title": "Allein zu dir, Herr Jesu Christ",
+      "bwv": "BWV 261",
+      "source_sha256": "a1f3c456527c1b2c065dab10fe54df53b218b91978187420d2403351bd86e465",
+      "key": "B minor",
+      "mode": 1,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor013",
+      "split": "train",
+      "events": 70,
+      "events_sha256": "8eeba19926cd243993cbc043234ea54f3fc1a49c712fecff52227515bfb4552a"
+    },
+    {
+      "id": "chor360",
+      "title": "Wir Christenleut",
+      "bwv": "BWV 248/35",
+      "source_sha256": "9299b364caf5efdb4d80c2a94e284ed9327db3cf932efba21cceae5ecf624332",
+      "key": "F# minor",
+      "mode": 1,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor055",
+      "split": "test",
+      "events": 46,
+      "events_sha256": "954587b4e2891061b2b3111aa046ffdeffc0a381d1ba66a67b1847fbc2f79610"
+    },
+    {
+      "id": "chor361",
+      "title": "Du Lebensfurst, Herr Jesu Christ",
+      "bwv": "BWV 248/12",
+      "source_sha256": "e4363676844f50b5767faa3de12b9e5334becbae1e6b5e18c95f0881a0b40e79",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor009",
+      "split": "train",
+      "events": 49,
+      "events_sha256": "e258ceee49c4d747b9a47dda12f12bb082c2773015f42421b84781268a591089"
+    },
+    {
+      "id": "chor362",
+      "title": "Es ist gewißlich an der Zeit",
+      "bwv": "BWV 248/59",
+      "source_sha256": "fab711d3ef977397d8d0f3d172750117144bfbaff53f5347697fa1c155f2c24c",
+      "key": "G major",
+      "mode": 0,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor260",
+      "split": "train",
+      "events": 48,
+      "events_sha256": "22c4d94f522e17881e2a49ad90f1df41d0c392eb8da19f629e85167a9c59c287"
+    },
+    {
+      "id": "chor363",
+      "title": "O Welt, sieh hier dein Leben",
+      "bwv": "BWV 395",
+      "source_sha256": "209490cc153c882a7bd74a4747c9d8b5b77c11fd98ea6109e44c9e24b13c805f",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor050",
+      "split": "train",
+      "events": 52,
+      "events_sha256": "7382450679448bd77fb3b83ec18aaf9330bb4fd17f1aee291de25e706cb65773"
+    },
+    {
+      "id": "chor364",
+      "title": "Von Gott will ich nicht lassen",
+      "bwv": "BWV 417",
+      "source_sha256": "8c13d7088b3c4c419336b5bbc0e331e6df323dc0289f3290025ec2ba25d0e7ea",
+      "key": "B minor",
+      "mode": 1,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor114",
+      "split": "test",
+      "events": 50,
+      "events_sha256": "118ba8247695ed2defeef0a42d0b59649d821e66655b304faaf6657ebc17b3ae"
+    },
+    {
+      "id": "chor365",
+      "title": "Jesu meiner Seelen Wonne",
+      "bwv": "BWV 359",
+      "source_sha256": "d21c72aa2e9c362d26033e6d9598bd3a41b53d83b761f526fdb0fb69d16cae86",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 0,
+      "family": "chor095",
+      "split": "train",
+      "events": 46,
+      "events_sha256": "e8119af8a987b947ed777828b22b68fe62c4f707d90ea3f2bdc70b53f779f441"
+    },
+    {
+      "id": "chor366",
+      "title": "O Welt, sieh hier dein Leben",
+      "bwv": "BWV 394",
+      "source_sha256": "d41833c1afefc38bf3e370fd4189489a9f817f0142947a9363e7c6d41d5cd8de",
+      "key": "A major",
+      "mode": 0,
+      "shift": 3,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor050",
+      "split": "train",
+      "events": 55,
+      "events_sha256": "239868764821237467aae788297a3c32a5a92d53e616692005497206a3bd14fa"
+    },
+    {
+      "id": "chor367",
+      "title": "Befiehl du deine Wege",
+      "bwv": "BWV 271",
+      "source_sha256": "977e7cb6b79a510b133ac8041fedf9067aaee1545d3b2f76c5d27c046562ab2b",
+      "key": "B minor",
+      "mode": 1,
+      "shift": -2,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor021",
+      "split": "train",
+      "events": 43,
+      "events_sha256": "52e99d999a906f2da415be2c375df6c1f2537ab576a4bbc057e18cedf9e34e13"
+    },
+    {
+      "id": "chor368",
+      "title": "Hilf, Herr Jesu, laß gelingen",
+      "bwv": "BWV 248/42",
+      "source_sha256": "c20f666777e387d6d52e249566b7419578301b0fc2893bffd7c33042002891d7",
+      "key": "F major",
+      "mode": 0,
+      "shift": -5,
+      "meter": "3/4",
+      "bar_ticks": 12,
+      "pickup_ticks": 0,
+      "family": "chor368",
+      "split": "train",
+      "events": 38,
+      "events_sha256": "f50afb26f903a15538e334d4e9b34f15f0e5522844caaef59089bb44a8e4aa18"
+    },
+    {
+      "id": "chor370",
+      "title": "Kommt her zu mir, spricht Gottes Sohn",
+      "bwv": "BWV 74/8",
+      "source_sha256": "ccd4eaf4cc5b78bc968a5c8301bb46633cc3c2085f938925da0b5600b0c96060",
+      "key": "A minor",
+      "mode": 1,
+      "shift": 0,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor045",
+      "split": "train",
+      "events": 60,
+      "events_sha256": "898c671a8d52e7be6418a334ee7e48bd57e4139c213b50b727779cda38b33a7f"
+    },
+    {
+      "id": "chor371",
+      "title": "Christ lag in Todesbanden",
+      "bwv": "BWV 278",
+      "source_sha256": "dcdce05eb461d02928f7027eb9ecf1e99f008a767da5495852e71f39419690a7",
+      "key": "E minor",
+      "mode": 1,
+      "shift": 5,
+      "meter": "4/4",
+      "bar_ticks": 16,
+      "pickup_ticks": 12,
+      "family": "chor261",
+      "split": "train",
+      "events": 54,
+      "events_sha256": "bcfd65c2f771bfbed3c2fbcac1a4ce1267b3109d434774cc6e06444ddaf8f14b"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "description": "Saved weights and CNN prediction evidence for the first museum edition. Dataset archives are not included.",
+  "files": [
+    {
+      "path": "LICENSE",
+      "bytes": 1074,
+      "sha256": "4405ed73ca51f71941d50de92c84280ef6f546a7bffe4f499207c583e5ca1a57"
+    },
+    {
+      "path": "cnn/checkpoints-1c3370b8e3bd/compact-2026.pt",
+      "bytes": 363861,
+      "sha256": "9f461003c4140d18febed37a0f7e2cbebb004cf06c1bd70abcfddbc9ce8a018e"
+    },
+    {
+      "path": "cnn/checkpoints-1c3370b8e3bd/compact-2027.pt",
+      "bytes": 363861,
+      "sha256": "fe4368d58e82a4de635b0f34c618d7db1cc42654d9c1bb09c475899a85e6041a"
+    },
+    {
+      "path": "cnn/checkpoints-1c3370b8e3bd/compact-2028.pt",
+      "bytes": 363861,
+      "sha256": "2848b5d2e53cd22196c042c934d85617662cbb9d34c7e30edd700d6a21809d9a"
+    },
+    {
+      "path": "cnn/checkpoints-1c3370b8e3bd/historical-2026.pt",
+      "bytes": 81469,
+      "sha256": "8c12b4a65fbd45a323d786c39cd60c845151c454af273760631a4d506f9d4f7b"
+    },
+    {
+      "path": "cnn/checkpoints-1c3370b8e3bd/historical-2027.pt",
+      "bytes": 81469,
+      "sha256": "504ce9885f6e6b55bd15a9cb7f4704821e80f3ef1a1fd13dddeee54994aaa3ff"
+    },
+    {
+      "path": "cnn/checkpoints-1c3370b8e3bd/historical-2028.pt",
+      "bytes": 81469,
+      "sha256": "da8f31d0fbfa890bf74a8c2da5f6ab92bfcb0755be82d89994cc06b3bf9d3beb"
+    },
+    {
+      "path": "cnn/checkpoints-1c3370b8e3bd/linear-2026.pt",
+      "bytes": 124869,
+      "sha256": "674214c14006ba77a56f2b46c237f5972308642c818ebbdcbfc25e6077923f64"
+    },
+    {
+      "path": "cnn/checkpoints-1c3370b8e3bd/linear-2027.pt",
+      "bytes": 124869,
+      "sha256": "0dddf878abd998505a89108d0396fe4ddaaee93265905e9459a1a208c8bc6f80"
+    },
+    {
+      "path": "cnn/checkpoints-1c3370b8e3bd/linear-2028.pt",
+      "bytes": 124869,
+      "sha256": "f88c6e696d60c4026aa73e4fea02d76f09430bb9580491ad96276f47f4d6f5f1"
+    },
+    {
+      "path": "cnn/checkpoints-1c3370b8e3bd/predictions.json",
+      "bytes": 4514537,
+      "sha256": "e143ed11c8730f31151562be13d8cc2c2eef83262550c0fb1e20677481183ac6"
+    },
+    {
+      "path": "extensions/TORCHVISION-LICENSE.txt",
+      "bytes": 1516,
+      "sha256": "2b63e4f6569e0e58260881a1f7ea8b1d9802859ab3cb4b32a45cba246245c8da"
+    },
+    {
+      "path": "extensions/autoencoder-2.pt",
+      "bytes": 1618721,
+      "sha256": "78456d45b1b5973283b54ec43f41891677dd6e85d4465caa1bbb072db4aa8c42"
+    },
+    {
+      "path": "extensions/autoencoder-30.pt",
+      "bytes": 1676143,
+      "sha256": "94253d9c4f0cc7569e734981150fd4b31bab43ed09b9eb3caacfaf154c47223b"
+    },
+    {
+      "path": "extensions/segmentation-pixel.pt",
+      "bytes": 3467,
+      "sha256": "7d41a262182a4b46666fdcd9abb51cb05027452b87f5408f54a4342cc3ef81ee"
+    },
+    {
+      "path": "extensions/segmentation-unet.pt",
+      "bytes": 134277,
+      "sha256": "e0dbf5ef3336a65f8b9dcc0e75aa85bf1daba781b2bd1cebc8c4b4b3fe96b597"
+    },
+    {
+      "path": "extensions/squeezenet1_1-b8a52dc0.pth",
+      "bytes": 4958839,
+      "sha256": "b8a52dc049b60e4b6ab68ad0df457362afab8b6304b2febdc1650a5dab4d7e7b"
+    },
+    {
+      "path": "music/CORPUS-LICENSE.txt",
+      "bytes": 1094,
+      "sha256": "e94affa96457ee2bdeb27d3aace39422b903fc4ed873ffc4d4319c9a01921471"
+    },
+    {
+      "path": "music/gru-2022.pt",
+      "bytes": 781251,
+      "sha256": "980672e19c700a2adfc1208ce21896ff8a48808d2749d8bab7d7ed0af7ec5703"
+    },
+    {
+      "path": "music/gru-2023.pt",
+      "bytes": 781251,
+      "sha256": "0cdec38851c0eca0883b22a2c3c6afbac8b8f166288fc3111867ade88e8094f7"
+    },
+    {
+      "path": "music/gru-2024.pt",
+      "bytes": 781251,
+      "sha256": "1510dbd75b7fb04e85a32719b2662e1c1ac704fac3d0a2809cedf4adf458ec7a"
+    }
+  ]
+}

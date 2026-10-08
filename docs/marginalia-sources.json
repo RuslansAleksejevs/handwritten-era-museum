@@ -1,0 +1,241 @@
+[
+  {
+    "file": "README.md",
+    "ref": "68b0a91a4c8a032e637f9287fdea37575b960c2a",
+    "snapshot_observed_on": "2026-10-04",
+    "source_sha256": "aa8c2bbfc256d6494a5c7eb6231bf31233f53973bd75bb18371090520f3b81dd",
+    "selection": "line 5",
+    "quote": "Нда, нужно было писать комменты тогда, зря торопился",
+    "excerpt_sha256": "dfc11e2b4e9973840a14781c0aa9098f0dec6ed4dc0e8476e030884b289f259d",
+    "source_id": "archive-music"
+  },
+  {
+    "file": "contests/biweekly100.ipynb",
+    "ref": "23cfdd72109ea0cd2d51b1694c97c44a6a2b9457",
+    "snapshot_observed_on": "2026-10-04",
+    "source_sha256": "084d9f34a7e591da16234705667bda1630aaa2c524f7c11194b8b38f01b68257",
+    "selection": "notebook cell 4 (zero-based)",
+    "quote": "Нельзя давать такую хуету в качестве Q1.",
+    "excerpt_sha256": "dd849c62b5035db11bd7df9d61b708e6d397c6a31b96ac7f9f6b538239614e8a",
+    "source_id": "archive-algorithms"
+  },
+  {
+    "file": "README.md",
+    "ref": "12f1058d2d0f2753ecf0a69526226755b889244c",
+    "snapshot_observed_on": "2026-10-04",
+    "source_sha256": "26f5dc709ee0d5c49a33973ae37cf9272408c8ada272eaf425ef7a502507e2ee",
+    "selection": "line 28",
+    "quote": "И ВООБЩЕ, ЧТО-ТО ЭТА ШТУКА ПЕРЕСТАЛА РАБОТАТЬ, ИСПРАВЬ НА ДНЯХ",
+    "excerpt_sha256": "ae7dabef6aa8d2ab7e8c3721091f8d4432febed000bb6943a4b8139192fda007",
+    "source_id": "archive-learning"
+  },
+  {
+    "file": "README.md",
+    "ref": "23cfdd72109ea0cd2d51b1694c97c44a6a2b9457",
+    "snapshot_observed_on": "2026-10-04",
+    "source_sha256": "3cdb2e5329afe54cfca4ff9745409ee3b37478ec267a7b8e53da8fc537863e1a",
+    "selection": "line 41",
+    "quote": "Хотя рекурсивные внешне пизже, офк.",
+    "excerpt_sha256": "1081604d2a073cc2515bd282d63fa417f6fd7e455e83c292a061bf84de5626d4",
+    "source_id": "archive-algorithms"
+  },
+  {
+    "file": "README.md",
+    "ref": "12f1058d2d0f2753ecf0a69526226755b889244c",
+    "snapshot_observed_on": "2026-10-04",
+    "source_sha256": "26f5dc709ee0d5c49a33973ae37cf9272408c8ada272eaf425ef7a502507e2ee",
+    "selection": "line 33",
+    "quote": "охуенная штука, обожаю.",
+    "excerpt_sha256": "7ed0dfa21bfa1617a042eeddf7a949b5b9560d7274c45ccad0994cdfaf643c65",
+    "source_id": "archive-learning"
+  },
+  {
+    "file": "README.md",
+    "ref": "23cfdd72109ea0cd2d51b1694c97c44a6a2b9457",
+    "snapshot_observed_on": "2026-10-04",
+    "source_sha256": "3cdb2e5329afe54cfca4ff9745409ee3b37478ec267a7b8e53da8fc537863e1a",
+    "selection": "line 72",
+    "quote": "Решил, так и есть, точно идет в мой топ.",
+    "excerpt_sha256": "8bd97b6725568c06ea1fd5931b5f4a9129b8c5eb16646c66b483a87afd49c253",
+    "source_id": "archive-algorithms"
+  },
+  {
+    "selection_id": 1,
+    "source_label": "Algorithms",
+    "source_file": "biweekly100.ipynb",
+    "selection": "cell 19 (0-based)",
+    "source_sha256": "084d9f34a7e591da16234705667bda1630aaa2c524f7c11194b8b38f01b68257",
+    "quote": "Доказывать последнее равенство классов мне в лом.",
+    "excerpt_sha256": "0e921c65387200adc9f768c4a2d1e8cb678af989f5ea0a42b00748685e7cd596",
+    "selected_on": "2026-10-06"
+  },
+  {
+    "selection_id": 4,
+    "source_label": "Machine learning",
+    "source_file": "ML_final_project.ipynb",
+    "selection": "cell 4 (0-based)",
+    "source_sha256": "ebbe58bb99f9882819b45ebbd16d734e3888b1e56ec9e5c54eae297daa5c087a",
+    "quote": "я был молод и глуп, id сам по себе обьект никак не описывает.",
+    "excerpt_sha256": "5d82a43693466d5769e5d0bad0b127d9fdf762d24bfeea91acd82a5cb5e7af1d",
+    "selected_on": "2026-10-06"
+  },
+  {
+    "selection_id": 11,
+    "source_label": "Algorithms",
+    "source_file": "README.md",
+    "selection": "line 27",
+    "source_sha256": "3cdb2e5329afe54cfca4ff9745409ee3b37478ec267a7b8e53da8fc537863e1a",
+    "quote": "Без указателей что-то сложно.",
+    "excerpt_sha256": "4c019d761e1f4947f039bd6b19c21d85d3360e252006c18390ecd3eb5df93003",
+    "selected_on": "2026-10-06"
+  },
+  {
+    "selection_id": 13,
+    "source_label": "Numerical methods",
+    "source_file": "solver.h",
+    "selection": "line 20",
+    "source_sha256": "4b5c702adf341aaa9e41a52f51e74e08845f7158ecd6ce029093f1ccc5d259ae",
+    "quote": "Указатели, потому что мои потоки должны именно менять матрицу!!!",
+    "excerpt_sha256": "4bf87859807723fd4bfeacdffcc3c838ee87aef3a06aaef59ecf635c06ae5f89",
+    "selected_on": "2026-10-06"
+  },
+  {
+    "selection_id": 14,
+    "source_label": "Numerical methods",
+    "source_file": "matrix.h",
+    "selection": "line 61",
+    "source_sha256": "f6330b16b96f53b4b5f90593b38a4279062d294c8577cbb1fa32c0fafd063583",
+    "quote": "вообще, пригодится только для векторов, но хохмы ради определим для любой матрицы",
+    "excerpt_sha256": "b96b3b0336ad52b85c713306265b28e6bb7ce4897608fddf079c12548fde2661",
+    "selected_on": "2026-10-06"
+  },
+  {
+    "selection_id": 16,
+    "source_label": "Numerical methods",
+    "source_file": "matrix.h",
+    "selection": "line 40",
+    "source_sha256": "f6330b16b96f53b4b5f90593b38a4279062d294c8577cbb1fa32c0fafd063583",
+    "quote": "Делаю это осознанно, чтобы легче через MPI_Bcast() передавать сразу столбец целиком",
+    "excerpt_sha256": "308b2604686f446efcf50c50891daea57480e4ea6e40d3a374d2e24fbb232a64",
+    "selected_on": "2026-10-06"
+  },
+  {
+    "selection_id": 17,
+    "source_label": "Numerical methods",
+    "source_file": "solver.h",
+    "selection": "line 32",
+    "source_sha256": "f76ae850d137d176baff2cb0524cd44ba70ec4cc166336f78c00240b879cf2dd",
+    "quote": "if очень важен, иначе появится нулевая строка, но богачеву в книжке пофиг, его прога не работала бы",
+    "excerpt_sha256": "3536df258994064071f9dfde3f6ee47649ef3aedaa340c47e03c563d0f141bcf",
+    "selected_on": "2026-10-06"
+  },
+  {
+    "selection_id": 20,
+    "source_label": "Algorithms",
+    "source_file": "README.md",
+    "selection": "line 79",
+    "source_sha256": "3cdb2e5329afe54cfca4ff9745409ee3b37478ec267a7b8e53da8fc537863e1a",
+    "quote": "банальная, но не очень банальная рекурсия, стоит ее отметить.",
+    "excerpt_sha256": "4aa37dce4724c9f9ec0279f553cf111efa4480ae6856b47329f3cf47cb8080b1",
+    "selected_on": "2026-10-06"
+  },
+  {
+    "selection_id": 21,
+    "source_label": "Algorithms",
+    "source_file": "README.md",
+    "selection": "line 86",
+    "source_sha256": "3cdb2e5329afe54cfca4ff9745409ee3b37478ec267a7b8e53da8fc537863e1a",
+    "quote": "хочу по разным экзотическим сортировкам постепенно пройтись, не только по меинстримным мердж и квик",
+    "excerpt_sha256": "f834ac1bca45955b9dd0c4ddcdbef987a5a08fefb91e559da8ba2269d784c7f4",
+    "selected_on": "2026-10-06"
+  },
+  {
+    "selection_id": 24,
+    "source_label": "Algorithms",
+    "source_file": "biweekly99.ipynb",
+    "selection": "cell 7 (0-based)",
+    "source_sha256": "7f96929730f127770f26d6458150dd69a96e4b3b739a7de0f8fe08e08d0da682",
+    "quote": "Тупо замечаю рекуррентное соотношение, откуда все сразу решается.",
+    "excerpt_sha256": "99ef261dec854270d0c7345ee1261f4105d0a18c220f9f80b1b0d9e0c4a269d8",
+    "selected_on": "2026-10-06"
+  },
+  {
+    "selection_id": 25,
+    "source_label": "Algorithms",
+    "source_file": "biweekly100.ipynb",
+    "selection": "cell 14 (0-based)",
+    "source_sha256": "084d9f34a7e591da16234705667bda1630aaa2c524f7c11194b8b38f01b68257",
+    "quote": "По-быстрому набросал код, из него все ясно.",
+    "excerpt_sha256": "5e588da27ea4f4482812ee8c55d2602de7c2241c63c78cf953ad2245e9cb2b2a",
+    "selected_on": "2026-10-06"
+  },
+  {
+    "selection_id": 26,
+    "source_label": "Algorithms",
+    "source_file": "biweekly100.ipynb",
+    "selection": "cell 11 (0-based)",
+    "source_sha256": "084d9f34a7e591da16234705667bda1630aaa2c524f7c11194b8b38f01b68257",
+    "quote": "Логика то же самая, что у меня, но тут я ее более аккуратно расписываю и оказывается, что задача не на прогу.",
+    "excerpt_sha256": "116193c0cf4f9c2bbf002eac8c44fdae4b006851c19bfce8cbbc1101f363a1f2",
+    "selected_on": "2026-10-06"
+  },
+  {
+    "selection_id": 31,
+    "source_label": "Machine learning",
+    "source_file": "NN4science_5_neural_networks.ipynb",
+    "selection": "cell 23 (0-based)",
+    "source_sha256": "eb8724f82fd5b160de380ffa85ed2e37d47c5f55e16feb85e04de5733efc8e17",
+    "quote": "Но вообще я ведь должен обучать скейлер только на трейне?",
+    "excerpt_sha256": "96b4a83783b658b12a106b49c43e75da805fb19582e82342d2c63b649c480ceb",
+    "selected_on": "2026-10-06"
+  },
+  {
+    "selection_id": 32,
+    "source_label": "Machine learning",
+    "source_file": "ML_final_project.ipynb",
+    "selection": "cell 7 (0-based)",
+    "source_sha256": "ebbe58bb99f9882819b45ebbd16d734e3888b1e56ec9e5c54eae297daa5c087a",
+    "quote": "сортирую, как надо (и разбираюсь, почему так надо).",
+    "excerpt_sha256": "c5e2ff00b61abd43bbe487bf806a38a8e79589abf1c154c74b79559a8add3060",
+    "selected_on": "2026-10-06"
+  },
+  {
+    "selection_id": 36,
+    "source_label": "Algorithms",
+    "source_file": "biweekly99.ipynb",
+    "selection": "cell 21 (0-based)",
+    "source_sha256": "7f96929730f127770f26d6458150dd69a96e4b3b739a7de0f8fe08e08d0da682",
+    "quote": "уловил привкус, а остальное сам додумывал.",
+    "excerpt_sha256": "31027be11852bf31f33db4ce3f5485e658ba591a4f44d4fd07a7a8cc8828ddd7",
+    "selected_on": "2026-10-06"
+  },
+  {
+    "selection_id": 37,
+    "source_label": "Algorithms",
+    "source_file": "biweekly99.ipynb",
+    "selection": "cell 21 (0-based)",
+    "source_sha256": "7f96929730f127770f26d6458150dd69a96e4b3b739a7de0f8fe08e08d0da682",
+    "quote": "Потно, но задача отличная.",
+    "excerpt_sha256": "a03b240ddebff2da742cd476431f6e63963d6561e5a25c74e386f7e254180e35",
+    "selected_on": "2026-10-06"
+  },
+  {
+    "selection_id": 38,
+    "source_label": "Algorithms",
+    "source_file": "README.md",
+    "selection": "line 114",
+    "source_sha256": "3cdb2e5329afe54cfca4ff9745409ee3b37478ec267a7b8e53da8fc537863e1a",
+    "quote": "Типа наша память юзается, как вспомогательная хуйня для рекурсии.",
+    "excerpt_sha256": "5f38e46139e8f7057f4fa6cd172d6979b0118cdf5752b8c67722b7359ea245ee",
+    "selected_on": "2026-10-06"
+  },
+  {
+    "source_label": "Machine learning",
+    "source_file": "NN4science_4_feature_engineering.ipynb",
+    "selection": "cell 11 (zero-based)",
+    "source_sha256": "ce308f1e7516419be90a0097030c5b52a5a714c5a9616aa3211750156af7e9a4",
+    "quote": "Фигасе, реааально сильно коррелированы!",
+    "excerpt_sha256": "ab13967efebb7748c68357e616c1a7f80ae0cab1858178d8d8f66982a7110cdb",
+    "selected_on": "2026-10-08"
+  }
+]

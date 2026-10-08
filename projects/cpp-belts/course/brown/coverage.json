@@ -1,0 +1,597 @@
+{
+  "schema_version": "cpp-belts-coverage.v1",
+  "belt": "04-Brown-Belt",
+  "source_page_count": 42,
+  "scope": "All leaf statement pages for this belt in the pinned learner archive, not a verified official-course census.",
+  "entries": [
+    {
+      "source_path": "04-Brown-Belt/01-First-week/01-PriorityCollection/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/01-First-week/01-PriorityCollection/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/algorithms.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "red/tests.cpp ContainersAndMoves",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/01-First-week/02-Hash/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/01-First-week/02-Hash/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/data.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Data",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/01-First-week/03-SetIterator/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/01-First-week/03-SetIterator/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/data.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Data",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/01-First-week/04-Point3DHasher/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/01-First-week/04-Point3DHasher/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/data.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Data",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/01-First-week/05-PersonHasher/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/01-First-week/05-PersonHasher/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/data.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Data",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/01-First-week/06-SecondIndex/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/01-First-week/06-SecondIndex/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/data.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Data",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/02-Second-week/01-XMLLoad/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/02-Second-week/01-XMLLoad/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/formats.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Formats",
+      "status": "ADAPTED_TESTED",
+      "limits": "The supplied xml.h/xml.cpp are absent from the statement snapshot. Uses a new minimal spending-XML library; not the original library-integration submission."
+    },
+    {
+      "source_path": "04-Brown-Belt/02-Second-week/02-JSONLoad/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/02-Second-week/02-JSONLoad/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/formats.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Formats",
+      "status": "ADAPTED_TESTED",
+      "limits": "The supplied json.h/json.cpp are absent. Uses the independently implemented local JSON library; not the original library-integration submission."
+    },
+    {
+      "source_path": "04-Brown-Belt/02-Second-week/03-INILoad/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/02-Second-week/03-INILoad/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/formats.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Formats",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/02-Second-week/04-Xml2Json/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/02-Second-week/04-Xml2Json/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/formats.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Formats",
+      "status": "ADAPTED_TESTED",
+      "limits": "Original broken starter and tests are absent. Implements and tests both conversions with local document types; not a patch to the original broken code."
+    },
+    {
+      "source_path": "04-Brown-Belt/02-Second-week/05-StatsAggregator/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/02-Second-week/05-StatsAggregator/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/formats.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Formats",
+      "status": "ADAPTED_TESTED",
+      "limits": "Original starter API/empty-input/tie behavior are absent. Reconstructs aggregation classes under museum::brown::StatsAggregators with documented local interface."
+    },
+    {
+      "source_path": "04-Brown-Belt/02-Second-week/06-DoubleDisp/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/02-Second-week/06-DoubleDisp/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/graphics.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Graphics",
+      "status": "ADAPTED_TESTED",
+      "limits": "Original geo2d.h and starter constructors are absent. Implements RTTI-free dispatch with local geometric types; geometry uses long double rather than the original integer-only library."
+    },
+    {
+      "source_path": "04-Brown-Belt/02-Second-week/07-CommentServer/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/02-Second-week/07-CommentServer/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/services.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Services",
+      "status": "ADAPTED_TESTED",
+      "limits": "Original starter body/captcha protocol is absent. HTTP response formatting is implemented; local server uses user_id + text, captcha answer 42 and explicitly different challenge text. Exact original wire compatibility remains unverified."
+    },
+    {
+      "source_path": "04-Brown-Belt/03-Third-week/01-Demographics/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/03-Third-week/01-Demographics/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/services.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Services",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/03-Third-week/02-LazyValue/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/03-Third-week/02-LazyValue/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/data.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Data",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/03-Third-week/03-Synchronized/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/03-Third-week/03-Synchronized/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/concurrency.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Data",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/03-Third-week/04-ConcurrentMap/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/03-Third-week/04-ConcurrentMap/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/data.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Data",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/03-Third-week/05-Polynomial/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/03-Third-week/05-Polynomial/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/data.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Data",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/03-Third-week/06-Objects/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/03-Third-week/06-Objects/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/algorithms.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "red/tests.cpp ContainersAndMoves",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/03-Third-week/07-Zoo/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/03-Third-week/07-Zoo/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/ownership.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Ownership",
+      "status": "ADAPTED_TESTED",
+      "limits": "Missing supplied animals.h is replaced by local classes with the voices given in the statement; ownership/virtual dispatch tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/03-Third-week/08-PipelineBuilder/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/03-Third-week/08-PipelineBuilder/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/ownership.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Ownership",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/03-Third-week/09-ExpressionTree/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/03-Third-week/09-ExpressionTree/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/ownership.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Ownership",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/04-Fourth-week/01-Textures/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/04-Fourth-week/01-Textures/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/graphics.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Graphics",
+      "status": "ADAPTED_TESTED",
+      "limits": "Missing Common.h/IsPointInEllipse are replaced by explicit pixel-center ellipse and local interfaces. Original raster-helper equivalence is unverified."
+    },
+    {
+      "source_path": "04-Brown-Belt/04-Fourth-week/02-Cache/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/04-Fourth-week/02-Cache/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/ownership.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Ownership",
+      "status": "ADAPTED_TESTED",
+      "limits": "Missing Common.h is replaced by documented local interfaces. Thread-safe LRU semantics are tested; unpacking is serialized, no parallel decompression claim."
+    },
+    {
+      "source_path": "04-Brown-Belt/04-Fourth-week/03-UniquePtr/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/04-Fourth-week/03-UniquePtr/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/unique_ptr.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Ownership",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/04-Fourth-week/04-RAII Booking/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/04-Fourth-week/04-RAII%20Booking/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/ownership.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Ownership",
+      "status": "ADAPTED_TESTED",
+      "limits": "Original provider headers are absent. Local contract requires Provider::CancelOrComplete(const Booking&) noexcept and integer booking IDs; exact original adapter unverified."
+    },
+    {
+      "source_path": "04-Brown-Belt/05-Fifth-week/01-PersonStats/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/01-PersonStats/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/services.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Services",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/05-Fifth-week/02-Book/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/02-Book/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/services.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "red/tests.cpp ServicesAndOracles",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/05-Fifth-week/03-Express/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/03-Express/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/services.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "red/tests.cpp ServicesAndOracles",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/05-Fifth-week/04-Issue-Tracker/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/04-Issue-Tracker/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/services.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Services",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/05-Fifth-week/05-Booking/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/05-Booking/README.md",
+      "code": [
+        "projects/cpp-belts/course/red/services.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/red/tests.cpp",
+        "projects/cpp-belts/course/red/check.py"
+      ],
+      "test_group": "red/tests.cpp ServicesAndOracles",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/05-Fifth-week/06-TestPersonStats/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/06-TestPersonStats/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/tests.cpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Services",
+      "status": "ADAPTED_TESTED",
+      "limits": "Tests cover empty/even groups, seven roles and output labels. Six original buggy programs/test_runner.h are absent; original six-mutant acceptance is not claimed."
+    },
+    {
+      "source_path": "04-Brown-Belt/05-Fifth-week/07-BannedDomains/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/07-BannedDomains/README.md",
+      "code": [
+        "projects/cpp-belts/domains/domains.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Services + check.py CLI",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/05-Fifth-week/08-TestBannedDomains/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/08-TestBannedDomains/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/tests.cpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "Services + check.py CLI",
+      "status": "ADAPTED_TESTED",
+      "limits": "Tests cover reversal, self/domain direction, subsumption, boundaries and CLI I/O. Original buggy Domain helpers absent; no original-grader acceptance claim."
+    },
+    {
+      "source_path": "04-Brown-Belt/05-Fifth-week/09-BudgetPart1/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/09-BudgetPart1/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/budget.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "BudgetAndTransport + check.py CLI",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/05-Fifth-week/10-BudgetPart2/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/10-BudgetPart2/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/budget.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "BudgetAndTransport + check.py CLI",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/05-Fifth-week/11-BudgetPart3/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/11-BudgetPart3/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/budget.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "BudgetAndTransport + 100000-command CLI workload",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/05-Fifth-week/12-BudgetPart4/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/05-Fifth-week/12-BudgetPart4/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/budget.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "BudgetAndTransport + check.py CLI",
+      "status": "ADAPTED_TESTED",
+      "limits": "Uses the tested modern budget core. The original less-structured starter is absent, so this is not a source-level refactor of that starter."
+    },
+    {
+      "source_path": "04-Brown-Belt/06-Course-project/01-Part-AB/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/06-Course-project/01-Part-AB/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/transport.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "BudgetAndTransport + check.py archived examples",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/06-Course-project/03-Part-C/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/06-Course-project/03-Part-C/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/transport.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "BudgetAndTransport + check.py archived examples",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/06-Course-project/04-Part-D/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/06-Course-project/04-Part-D/README.md",
+      "code": [
+        "projects/cpp-belts/course/brown/transport.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/brown/tests.cpp",
+        "projects/cpp-belts/course/brown/check.py"
+      ],
+      "test_group": "BudgetAndTransport + check.py archived examples",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Original external grading, timed limits and starter-file packaging were not run; the local museum implementation is tested."
+    },
+    {
+      "source_path": "04-Brown-Belt/06-Course-project/05-Part-E/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/04-Brown-Belt/06-Course-project/05-Part-E/README.md",
+      "code": [
+        "projects/cpp-belts/course/black/transport.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/black/tests.cpp",
+        "projects/cpp-belts/course/black/test_cli.py",
+        "projects/cpp-belts/course/black/check.py"
+      ],
+      "test_group": "Routing",
+      "status": "IMPLEMENTED_TESTED",
+      "limits": "Shared Black E router: independent 400-graph Floyd-Warshall oracle and CLI examples passed. External grader and course timing limits not run."
+    }
+  ]
+}

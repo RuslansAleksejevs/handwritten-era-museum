@@ -1,0 +1,1694 @@
+{
+  "seed": 2026,
+  "entries": [
+    {
+      "id": "003.png",
+      "source_sha256": "e38e1d91568b7117ea93785d3bed72bcb06a9d1608089a3b1e8fa8364d323ea7",
+      "mask_sha256": "e2084f68e79590899d17e966f0496b6e1e6f8448383c0d8804bd3a1b99bc87a7",
+      "pixels_sha256": "db837dc3bd77e897254ec82e92bbac8b171ab238b71733c11ec42dbcbb84af4d",
+      "split": "train",
+      "family": "003.png"
+    },
+    {
+      "id": "105618339-super-purple-modern-suv-car-side-view.png",
+      "source_sha256": "d3e343cc5407ec8eb8a643e64ae7ab247ad289dcaa5f3762ac4d4d9590068c62",
+      "mask_sha256": "b9d5ebd2717ba0afc7422a6c0998ab3b66c27d8e279269dbb883640e532e06fb",
+      "pixels_sha256": "f57a3e81b70b9777895cf3db5c01d5f4d46001bc04d005ed91536012baec309e",
+      "split": "validation",
+      "family": "105618339-super-purple-modern-suv-car-side-view.png"
+    },
+    {
+      "id": "105618639-modern-pale-blue-suv-car-side-view.png",
+      "source_sha256": "d43dbcf68dfef427a4a077b7e174b9d17bf7d46e7d80077c56777e632693d8a2",
+      "mask_sha256": "a79f273a42b608f050828e831b343a8eccd61fd8b74c3776210aa7e8659dd36b",
+      "pixels_sha256": "d327257f05763041e6caafdd8851ecf8792882065fa9b1ad7086c41cf5b9995c",
+      "split": "test",
+      "family": "105618639-modern-pale-blue-suv-car-side-view.png"
+    },
+    {
+      "id": "156551_preview.png",
+      "source_sha256": "9ed0ed462a6ea0e56182342692b6fdaef2bb2a1475576150cdab3ef673e204b1",
+      "mask_sha256": "572c328110913b25b1da8c24bcd0a858a77bcca948ba56c8df871932d7ff5816",
+      "pixels_sha256": "1dc0313e49859bd4bf2658799e53f9b3adc9d97bbc1a539456e42c1531b5fd3c",
+      "split": "test",
+      "family": "156551_preview.png"
+    },
+    {
+      "id": "178583_Side_Profile_Web.png",
+      "source_sha256": "df43ddc3952575488a3cfeba2ecf826119aa457614f82c3e43874000216f4120",
+      "mask_sha256": "ca20e8a9dc021f908938a24f3fec97646cb1f2389afd35cbc28102e30a848b5d",
+      "pixels_sha256": "999797a422d1900f2755d5bcc8575fce86ea9cf4974be1ea1fa2bb4bd752b8b7",
+      "split": "train",
+      "family": "178583_Side_Profile_Web.png"
+    },
+    {
+      "id": "1965-Shelby-Cobra-Roadster-Side-Profile.png",
+      "source_sha256": "b76de2e517f8b1dacba7b8e6882b477815a3d1a5a90acdbe3e652f7b7bef7dd6",
+      "mask_sha256": "b837651a259088e2d2e1dbd3dde46ebbc1c813e8f5c2da43e62fce79cf267dd6",
+      "pixels_sha256": "d011ccc3b6f36d7f026f748480007688d007e1960b7c482f39ffec43f672707b",
+      "split": "train",
+      "family": "1965-Shelby-Cobra-Roadster-Side-Profile.png"
+    },
+    {
+      "id": "2008-Morgan-Life-Car-Side-Speed-1024x768.png",
+      "source_sha256": "2a4d4ef68a98afce6bc449a22dfd5b8ebd322cf61f58c64885a40a624fdb6058",
+      "mask_sha256": "9fe5cea2ea535ff7ef4ca6ae61d1cce19bfef00b9d0787f17cee33578e35ce38",
+      "pixels_sha256": "fca3572d87ecf1046a3dd79a6ef10a460ae674cd69bff10e99f86118d3f7627c",
+      "split": "validation",
+      "family": "2008-Morgan-Life-Car-Side-Speed-1024x768.png"
+    },
+    {
+      "id": "2009-Ford-Kuga-Show-Car-Side-1280x960.png",
+      "source_sha256": "9f0777948ed97208e4dd9159b5065adff6d1cbd679ee243dc5b41bcbba963c43",
+      "mask_sha256": "44e6483b61358b30c769f6e782edb4813b1c49fecd11be853e2e1e00e6684759",
+      "pixels_sha256": "ac812a2ca14548b0fd0c347f5f4f1fed8b8493984c746bf582b50b299c56ec15",
+      "split": "validation",
+      "family": "2009-Ford-Kuga-Show-Car-Side-1280x960.png"
+    },
+    {
+      "id": "2011-278656-pagani-huayra-side-view1.png",
+      "source_sha256": "b14422e886b77949ab0ec4667925ac3b97f3e4bf2aecdb71103e5fafb65a4a55",
+      "mask_sha256": "9cb1255c2c1e06f6c02b28dd409bd69742a6681c8b3b2512a1090caf3bdd96c3",
+      "pixels_sha256": "559d8e83094263851fa577b1d50e29db001699508c7f85eccb86b16e42afe528",
+      "split": "test",
+      "family": "2011-278656-pagani-huayra-side-view1.png"
+    },
+    {
+      "id": "2015_aston_martin_db10_4.png",
+      "source_sha256": "c47ed9a3d44bcef730dbdc042d0d4bd22d973f819a7fdc09c3ea0ade74ef9b66",
+      "mask_sha256": "2fff6a6e9c3a5380ae9afe345b47958979b954acaed0d3947597a12e6efb719a",
+      "pixels_sha256": "62d44bc41169faa6dad1fe548765fa6fb43a3bd48b5ed47410da9306d7b26b87",
+      "split": "validation",
+      "family": "2015_aston_martin_db10_4.png"
+    },
+    {
+      "id": "2018-bm4-gt4-sports-car-side-view-pk.png",
+      "source_sha256": "f445932be52e25922078b324f46a0dcba4a679bc51e3c6263df753504a9cc67c",
+      "mask_sha256": "a8caab562d46a74ed22391cdcda73eb4ddcfcc7452f12c0680ff8cddf9f526f5",
+      "pixels_sha256": "c9fcf8ba67fdcb0fedb07ff499e866157fb74f5b5b3db1df46169a01bddccaef",
+      "split": "test",
+      "family": "2018-bm4-gt4-sports-car-side-view-pk.png"
+    },
+    {
+      "id": "2018-nissan-sentra-2017-nissan-sentra-car-nissan-micra-png-f.png",
+      "source_sha256": "22564cc23a3dd30026e26fab79bb2228b9ca16f3408a16a65802e843e66860a1",
+      "mask_sha256": "a95f247910ec0d9778980a5116b93d29e50a78ea1e3ebce1967b1847fec11028",
+      "pixels_sha256": "c3c3f9bb314dbbe0a1f6cfbb6b5eb45f6fee3efd592efe53d6e50a71531d9239",
+      "split": "train",
+      "family": "2018-nissan-sentra-2017-nissan-sentra-car-nissan-micra-png-f.png"
+    },
+    {
+      "id": "2019-acura-rdx-11.png",
+      "source_sha256": "b9bad5ef605d4d4ccaa761ece460ddc79108d7064248945607ef7e209c6f1929",
+      "mask_sha256": "bd0b0a0f826934e055740086b4926d2c8df958fb391e72bb63e879605d89e937",
+      "pixels_sha256": "663c643f6aa6f01581d8d129eb541260c1b6d6299b90778902d63c49305f5d2b",
+      "split": "test",
+      "family": "2019-acura-rdx-11.png"
+    },
+    {
+      "id": "2019-ferrari-488-spider-side-view-carbuzz-669506.png",
+      "source_sha256": "a8904e487c09202c9d9186f015661c9244f2d2d8891794dd7e6effad409fa58c",
+      "mask_sha256": "c8f8bf53223d51e8a62839386ef4dc78bd0f1db29a668bbe141ad9e1d4a79953",
+      "pixels_sha256": "dd0e5eeef5666effca040a0cba916f98593dd590e754d30b8d78b91a775a95dc",
+      "split": "validation",
+      "family": "2019-ferrari-488-spider-side-view-carbuzz-669506.png"
+    },
+    {
+      "id": "202-2028012_car-png-hd-side-view-transparent-png.png",
+      "source_sha256": "65cfa33b345b324ab624bf222ff42b3a697e6aca96b6e2cfab599322d948be9b",
+      "mask_sha256": "601a0f616d97b74119969562340a133bf8f0b9d12fe7c20e8b9177ce5db79579",
+      "pixels_sha256": "c7e42e5b02f16572b64d417eabdc17bedb616c39de9a0d9117a9495b3efd75e3",
+      "split": "train",
+      "family": "202-2028012_car-png-hd-side-view-transparent-png.png"
+    },
+    {
+      "id": "2020-Honda-City-7-1068x672.png",
+      "source_sha256": "2b6f16d89ce6e6cc4d9218ffb9afed7d93fa9e1b3e0af8ce9c3494b8b26c4952",
+      "mask_sha256": "5945771c4adb0f2cc4203d191fd8b88daf4900e45bbc5620da1049631d551df7",
+      "pixels_sha256": "4acf289583d4eb90a3cafedeb92d5a16490fd00e4425fd232fc23fa7aa39dc96",
+      "split": "train",
+      "family": "2020-Honda-City-7-1068x672.png"
+    },
+    {
+      "id": "39839516-black-sedan-car-side-view.png",
+      "source_sha256": "a86af3236e6be48dde58590f66ce6768955b60d7fe07223f00346d313ced6dab",
+      "mask_sha256": "b426f657f23069d19beb42b7f219d93a0856ab7ff9dd6f2f1fbbab11d10f48e8",
+      "pixels_sha256": "f1de11fb332aa9d7ef5ca7f4c2ee3c67cea79ebc6ab1082ed348d7986dc76841",
+      "split": "test",
+      "family": "39839516-black-sedan-car-side-view.png"
+    },
+    {
+      "id": "3d_metal_machine_160_2000x.png",
+      "source_sha256": "3a7b92e9ab9842b2605c673d0c18d78979bf829e51840d86f4e0f0ee3802b639",
+      "mask_sha256": "f3700ad902ee43745408a54d31892f2f1f897ab714a1370adc1870cd8f08e9da",
+      "pixels_sha256": "0457b87f42884c680640c50993d822f62ecbf892b48f4eb8abdcdf0856513f0f",
+      "split": "test",
+      "family": "3d_metal_machine_160_2000x.png"
+    },
+    {
+      "id": "45303-Kit-stickers-bandes-Mitsubishi-L200.png",
+      "source_sha256": "37dd53634203122ae1e43eaadb522db56d3ac9a11efbca70e5ede277bac9ed1d",
+      "mask_sha256": "f4e795bb109dbb9c3e8caba3985fbdedec78e4f63d5db652627d151c70632f15",
+      "pixels_sha256": "1c185ed09e90cc1a5e60a213d9d3b892c9efcce244ec8143a20b11b6c03b6ce8",
+      "split": "test",
+      "family": "45303-Kit-stickers-bandes-Mitsubishi-L200.png"
+    },
+    {
+      "id": "47865-Kit-Bandes-Bas-Caisse-Porsche-Boxster.png",
+      "source_sha256": "79796e11b870dcf506e7e391985350a54a5b849ef2510d1edf19e0f8ab619032",
+      "mask_sha256": "63c00b765544237c1f44abc9102a0131aca767866e94d7f30b5e6a9743ce678b",
+      "pixels_sha256": "7f2f624d9da055e834253b0642a0f80da0750141e4563f26da36a022f635cabd",
+      "split": "train",
+      "family": "47865-Kit-Bandes-Bas-Caisse-Porsche-Boxster.png"
+    },
+    {
+      "id": "62271369-ehrf%C3%BCrchtig-gelb-muscle-car-seitenansicht.png",
+      "source_sha256": "2b005d1226e0ce1037a06242b909ef7012c919141c070acb2defe277ed4b4075",
+      "mask_sha256": "6b9c5cfff275115a37cd3849ebb991e2caf92b8b030a8d2c67cc50ce540dae7a",
+      "pixels_sha256": "30cea97416818f9fabb834a77e16160d5450f7de1ad85a9cd3ac41541ed06644",
+      "split": "test",
+      "family": "62271369-ehrf%C3%BCrchtig-gelb-muscle-car-seitenansicht.png"
+    },
+    {
+      "id": "63-633585_infiniti-png-car-side-profile-png-transparent-png.png",
+      "source_sha256": "6e29103ca78b6e6ffc8efb068a51347917c4be293d84c103dac6a48445d54bbe",
+      "mask_sha256": "7881e85e40023aaca18addf9c09f1c56826c7905f609f1874b79ad7a1ce533cf",
+      "pixels_sha256": "bc11c16acb4ac348fefcf8ab7fbfc629cd52ff5b94de9829b649244a7928bd6a",
+      "split": "train",
+      "family": "63-633585_infiniti-png-car-side-profile-png-transparent-png.png"
+    },
+    {
+      "id": "676069.png",
+      "source_sha256": "adf3155fa95e8a5e337ab6de6a4ebbd79769770e467a46881b3ef4d23a34ee2f",
+      "mask_sha256": "04d50d4c2ed8c9b75c09dbf324a6f3dcfc894397de91ac1364ece449eeea778f",
+      "pixels_sha256": "cfa8a2f2e1078aebd73dfabc09649c5a49cac9ba7ef45e50ff6719009edbb793",
+      "split": "train",
+      "family": "676069.png"
+    },
+    {
+      "id": "75-752748_red-jaguar-f-type-car-side-view-png.png",
+      "source_sha256": "1cd21a7506ae5e588f69b6b974d3e2d712ff1ee99a29115ada64f002457267e1",
+      "mask_sha256": "8b30331f418fbf2072b263c35bd38addd3b94ad373a13a01fbac5bd025d9fdec",
+      "pixels_sha256": "574b47005ad8d698a30dacda33a4f70f32aefed0bf542273659d04eb49180850",
+      "split": "train",
+      "family": "75-752748_red-jaguar-f-type-car-side-view-png.png"
+    },
+    {
+      "id": "75538664-compact-suv-car-side-view.png",
+      "source_sha256": "7afba42041c0f1042655b6ba277d0bcfa3f719f3eba2cc150ae78e57bca04235",
+      "mask_sha256": "a976c7cc10c47ed8fb69d7f07356db916330f4f0b00882c0fac6de9024ec0e73",
+      "pixels_sha256": "7c3c327405aa1c6f3face4e98c7d6289061cde74e95096b4186683e2430729bb",
+      "split": "validation",
+      "family": "75538664-compact-suv-car-side-view.png"
+    },
+    {
+      "id": "865-8651925_fiat-tipo-company-car-side-view.png",
+      "source_sha256": "2357397d4c35f224bf764627731712b6410ff1aa64d72a52b2abfb8230804c99",
+      "mask_sha256": "4b1ba53982299c65280e1f9f56ae75b039888758395c82627bb232bad5a41fa2",
+      "pixels_sha256": "5c4a4016cc88b36f344b7b864abe31b3bd4bdc122927f78ed216bab63eec5520",
+      "split": "train",
+      "family": "865-8651925_fiat-tipo-company-car-side-view.png"
+    },
+    {
+      "id": "8b21a8c96a9d38143f7b29c0f8e4fe3d.png",
+      "source_sha256": "e5be54e020e7a7463fc7f9911ed4a583116caa79ad464b802ea89d8c383240df",
+      "mask_sha256": "ee5745ce6dca9f06868c5e3712d53859c728d401830ef23de4eb5d28dcbd5ba9",
+      "pixels_sha256": "3ac3b544500b30800ead72d9977315a87f8bba185f35313cbfd89f2928bfe9c6",
+      "split": "validation",
+      "family": "8b21a8c96a9d38143f7b29c0f8e4fe3d.png"
+    },
+    {
+      "id": "94374978-pretty-pink-modern-fast-city-car-side-view.png",
+      "source_sha256": "0dcfa7e20ca26117236c416d15efd81a0b73ee20d09a1c7f086a800d942b6288",
+      "mask_sha256": "a9837f23783a5859e60c171e90767157f4f7c1b745fc88250a80050a3de0cb34",
+      "pixels_sha256": "b0c4465f598ec4f701f01e571cedee642b9ddc4a2d9f897c6027feae7f7d817d",
+      "split": "validation",
+      "family": "94374978-pretty-pink-modern-fast-city-car-side-view.png"
+    },
+    {
+      "id": "Aston-Marton-Car-Branding-Right-Side-PSD-Mockup.png",
+      "source_sha256": "832635594edc00101e60dbae92d37c83a8e1ff27bd17238696e457a9a51c0626",
+      "mask_sha256": "8bb18d6da32b924dc898639dde3306d7dd239371d96f856d83788fbbbdf41c46",
+      "pixels_sha256": "b1b68737aa4c5b4f6ca882084c5c60473871da25523ca3e2ce4fa36281b19d11",
+      "split": "train",
+      "family": "Aston-Marton-Car-Branding-Right-Side-PSD-Mockup.png"
+    },
+    {
+      "id": "Car.png",
+      "source_sha256": "d212288e9b3edb230852df0109e03d5887c6a6ee8af6cfa841061411b8031815",
+      "mask_sha256": "028002f774c54bc66cfed4e7c65a4bc75b60886397a3b356557771a853ed8614",
+      "pixels_sha256": "9353a591f59e928758fa55bb9f00d7384e20ecaa110f4b006dd2006318eaedc1",
+      "split": "test",
+      "family": "Car.png"
+    },
+    {
+      "id": "G40-Junior-GT5-car-side.png",
+      "source_sha256": "b7c1056b34bb96cfe36a290968fa8b02d96b9185a5a1fec6d05e40a6d8e8cec6",
+      "mask_sha256": "5eeb0c07d998c9d3f70f5b47f19277c1a2d829c95aafb4ae720b13b6ac256196",
+      "pixels_sha256": "76d5611e8aaaec5cd9db0c43079accb45b367cf458dd69dba624eb86d37998a0",
+      "split": "test",
+      "family": "G40-Junior-GT5-car-side.png"
+    },
+    {
+      "id": "Haa04c90142df4a01829fd6d84b7b3347H.png",
+      "source_sha256": "7fed1899afd17385d54f38ec80156110f1134f93dbc0688516b39ed9cf8b7f73",
+      "mask_sha256": "8c25b49f1f51a3ef7613cccb5b0b4cef349e9597d7bbdceb6ba732eab6c797b0",
+      "pixels_sha256": "dba8f9f0a98ddd89f237d0a19eac4900fcbdd37ef707228e832722c5b66986ae",
+      "split": "test",
+      "family": "Haa04c90142df4a01829fd6d84b7b3347H.png"
+    },
+    {
+      "id": "Hba200d821f7b485cb1975db750260e88o.png",
+      "source_sha256": "832e75874179529a2b814a53edc596c16d086177927a167c9024c2dd29351aa5",
+      "mask_sha256": "219d24e0d686e33a268379d493a250d9d2460a4f12fa22444c27f02e145f9c44",
+      "pixels_sha256": "1673c10b96c30dc6a703efa3fa31937c381784aac3d7081e8b23965cacadf8c0",
+      "split": "test",
+      "family": "Hba200d821f7b485cb1975db750260e88o.png"
+    },
+    {
+      "id": "IMG_20201123_131711.png",
+      "source_sha256": "1cab84bfaffff2bd0a7f4785b210c58c6c16090ca873c5707062321b415bf261",
+      "mask_sha256": "9f26c778f0dc2038a0516f77a7ad42b900c3dff7b05b0b279c3719c7d6cf05a1",
+      "pixels_sha256": "0e44af62a2c3f591d8af0cbd7ec6312ad9f239d8029ed773dfa4e9cba624db9b",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_132159.png",
+      "source_sha256": "3d9664796ef99aa1ec207ef664c97ff53e7f1f2978070d0fb5be977ab31cb90e",
+      "mask_sha256": "a50a2d4a6d886cc33cf3fd9220ed073b0a15c46ba979165dc34abfb2a9eb16e0",
+      "pixels_sha256": "913a0b1c0f1d950f31ee3e8688cb21c62c7306960e2fa695d6dbf08de8f67091",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_132218__01.png",
+      "source_sha256": "fdb16b586401c43711009ea596fd338d38b62ebae50b3958ca948543b097fa41",
+      "mask_sha256": "1b6720e7afcbaf6e6dee9c79e371d1d1489efcaa09fca6ad363a890968ed2177",
+      "pixels_sha256": "ecf2cb0e906c06facda982609bc80a9705b59a2e242ca15fd83df9626d810ac3",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_132237.png",
+      "source_sha256": "2a3ad5d24897dc90f488cc981a2897c263273e882827d7045e12e95d57f76d0e",
+      "mask_sha256": "3fb2c16e4826be7486bcb92bfcb694d1b7c9e73ee41541250b54475958edfb7e",
+      "pixels_sha256": "99d48ab7654983d4e739e9ca9f55e520dd37cd715bff8771db0f15c04d212c2c",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_132248.png",
+      "source_sha256": "b969a3beefe079df656bbda9bd28a7bcb70768961a781bbf75b1e8427ccca65b",
+      "mask_sha256": "d4c897f8e2f74eba4baaefc13cf8d2f58f4ed3c8a005901f6d6ce861738a97bb",
+      "pixels_sha256": "46f00d8ea4eb728dbea3bb65e75c6d9a0c254bb4934bff645e25ad501906d3c2",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_132316__01.png",
+      "source_sha256": "4bb8e8b4e7af2cfc4236b7bc14baaedfac7213b9171199f65987fb87c0c5e246",
+      "mask_sha256": "5eb5313d59c90c72192e38d8701c8c325e954b507e8e5a12535c29516f28f7b5",
+      "pixels_sha256": "56b746be04e819d9ea3991e7cb9847d8341002b0fefe1c96aba7ebd2aad11607",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_132345__01.png",
+      "source_sha256": "e2986d694bad6ac810388a0ffc85a54168f1307287fe9c96565322bbfbe8ea5f",
+      "mask_sha256": "86adeb4137d5e4bb5444f1a9e549147d96c5ba648df90988b01d5a396d9b6f38",
+      "pixels_sha256": "66dc34bf487aa20115a4c162e6d2f143b0090587f55e5ff3daded8da745552a1",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_132401__01.png",
+      "source_sha256": "558de227602c281d35a6fb1159d8891678278ba4be5bb3fed1443d3c0df41703",
+      "mask_sha256": "e6668d7be2eb0246ccf5404261a2fc02a8b9b527001f22d3b6c47c6a1e3539a7",
+      "pixels_sha256": "39449fa37a65f5f5239dc43dffaf6aee1f652c3ace8cb18a07db786bb4b89994",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_132516__01.png",
+      "source_sha256": "3f23a52166e580a79cd03e4f55ad9a8a27fc3d150546408043ba3fa355316e22",
+      "mask_sha256": "4a39e3edc054f2ec2d769df5d4cfa3d820ae090df72b2e17d6683b636998ddca",
+      "pixels_sha256": "9036a1bcb7b55c77f895c1f7158ec2f4476e2b78195d91040d4a92bd82c4a628",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_132539.png",
+      "source_sha256": "9bc6092f8f47aaa3ff5f5a035c519de84a8e1163b051115ec6a8d15f5868549c",
+      "mask_sha256": "3291764a805f8feb7fd115e9fad9d57be40c79c3fcc4377e2fba2e0bdb01e315",
+      "pixels_sha256": "ec63b2e182ded14d7b666acd73a9c87072058e1eae2584b2d28ca04d5298d226",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_132604__01.png",
+      "source_sha256": "5f6d05fe60236e68c2381edf19a8f2dbb9d544f3850f9b4efd951a498cc727c1",
+      "mask_sha256": "59b6b40aa4964395fa6bd8f5dedfff566b9a7531438cbc20979df347ba539638",
+      "pixels_sha256": "785dfbb3743b39a64f39150f99fad2c8f42c76e203ca61f454f3115e8bcb45ca",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_132617.png",
+      "source_sha256": "c8e281af24744f441491487bc5e34572e9d77ed7263a078c3d4751ff46d2a63b",
+      "mask_sha256": "0b4105aaf58f7dcd9a6b2a6926e416c11304edd0da5ae1a6a207aae45fbcb14d",
+      "pixels_sha256": "a14a76c41817054d4e90ff9b2eec31cc2ed221620eb0e5f33e09e391c46d1fca",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_132631.png",
+      "source_sha256": "27927f64c40dc108fa2902d88d52ecfed66edf4e588811fd0ee0d89950f60f2a",
+      "mask_sha256": "81ad2f971d04e21d1191bc52ece4332cf7bad121c18380ab2ee3c0bb2809cb85",
+      "pixels_sha256": "9b5fd48fd73121bb5f05f24976bd66f779ab8289570c53b631b20bc9166b1e2f",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_132708.png",
+      "source_sha256": "2111e04d1ef91e146cf6db4ebaa083ad3115fae67383a4d70c3743216295f931",
+      "mask_sha256": "9bbf836553032e93424f29eb9bcf663e15472e65be5a51a915bea408f2c9bbbd",
+      "pixels_sha256": "6204aff4624abe9717f0556fad6fb1e3b18c201947ee55b59d17cf3d5cdd89ba",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_132724.png",
+      "source_sha256": "f3a9a572629dd772b514b1ee1fcd55faf05376b8a3b810062f72e913f36ab8cf",
+      "mask_sha256": "630c5e81de3e3d6577d0eee52a07f5b22e6e08544640ea60ff1eed5082926688",
+      "pixels_sha256": "885b850ef6971704443871323f3f18df4e4233f1f6fd667fe77a7eb006ae0f68",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_132752.png",
+      "source_sha256": "5285990e14ac36b48c0ef601d6921578b53f80fbaaa6b51ec32780e1fda94165",
+      "mask_sha256": "7ff3d443cc1ae150f4b6b21a690f4b0e00ace900ba27006a7a94b913eb25f124",
+      "pixels_sha256": "f0b0f21013a5c1ece801eed677f53756a3bb7ea038828f95c2588e9321520ef9",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_132800__01.png",
+      "source_sha256": "d7ca8770253eb5bd0a1f5dc47f8936285c8210a0b59cdefba41469e9f030876c",
+      "mask_sha256": "4db699469df35776e156c8a15e54b6a836bccb77f72237bff8d7ea1462dd92c1",
+      "pixels_sha256": "4f75a5ac63f0f43d6059c726cd4d1303f9d7e677df90a1f64dfa9ab1cb85795d",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_132905.png",
+      "source_sha256": "82768628eb9f4fac936a91e17995f53f2b459ab77250f8e8c101cae72cb21594",
+      "mask_sha256": "3633b6fa26e44d8523634922204d8b48d0510944992f77f05602c6ddca322d1e",
+      "pixels_sha256": "4e3228be3796b391ffb5db755923998461f64152dbe943e49a0e856e53775899",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_132929__01.png",
+      "source_sha256": "99068dc62aff61cb5b73ab1bd94dd07fbdb4f0b5ae621371b9acf1cc569e7a34",
+      "mask_sha256": "ef7740f7c2bf78fb5ffdbce496574faa654c2992f81bab4efc6e9ab80ac6f65b",
+      "pixels_sha256": "afbc1313058c17df05f2e06c51787482ea58643e25c3cd36e281139b739996dc",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_133022__01.png",
+      "source_sha256": "666809cb5d2d665275df201e512c7c0a91946bc308d2e0f6e984b515e7bd2251",
+      "mask_sha256": "a087725b4c7a2876ff90bc409acb9fe36c04fd7b6169f234f3650d7676fbfe21",
+      "pixels_sha256": "5d5d69b9df885a99430d5dccfee7bfa56551a9161a76d872ffb69f6f6fe7cec7",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_133046.png",
+      "source_sha256": "117309a05505c456c1db627d0fef15c4f62249064304177a267c1f61cfbb013a",
+      "mask_sha256": "94c9a706a55b1b3d2558e48375e73fb493ad69302a6dda1156b6ba8fe7fadf1f",
+      "pixels_sha256": "382ffe47d0082ebb94b5336660cc7bb3bc2b96c71b7f3d54d016a4ce9408cd24",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_133302.png",
+      "source_sha256": "e0e700971976a6e6af1eef9dcc07f96e759322d4dd668d0a59d04d66a093f3b4",
+      "mask_sha256": "862bec64c386734fd2d3ee36e9e3187b0dfb2a1d012f44ccfb198ccc4cf71e0c",
+      "pixels_sha256": "5840783e5eb3023f05828efa20b31d06defae3c235313aae983c0de72c26f77e",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_133402.png",
+      "source_sha256": "9157073d389a72f72fa9f2b878af2c759dcd6b8c94bc2648b266bdcfeb7e2efa",
+      "mask_sha256": "c1634527d42144517b61a019e13d7b746287569a9623a9b487d53f5e155768b3",
+      "pixels_sha256": "b32d6ca3aa7ad24ed1528083deeb4c6419b40d75438c02f6f9f482f1e7287e06",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_133422.png",
+      "source_sha256": "b40150633afe6b623e4d29c7072d8475f64bd698301151ac7537ef48afbd889e",
+      "mask_sha256": "ec629c5b3fab9e79454b69f5b0aea22ae12c8c8eb99be9f34764b7dab4ddb64f",
+      "pixels_sha256": "d111926eb73b941398149c9a5b2de62ae7ca99a4f58bba1ab172b1700d8b6279",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_133510__01.png",
+      "source_sha256": "e8d500a5ac1ec2439760479b39241b3478996fd953ba8fd7b4b0b5ce3d38ff11",
+      "mask_sha256": "42fb89561f89653ad4832aaf82253a1e6d0851ecdd4fff7f3d77b965c1003edd",
+      "pixels_sha256": "513e749bc01546ced1b0a1e583bac7ab1e71c0e9b7b3ad77fe6b092f7aadd230",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_134711.png",
+      "source_sha256": "2b0ee426e9c17ac4e7b36fcd26a3062edf933c87e1f09348ffd140b5311c0dd0",
+      "mask_sha256": "ff69b4bd064a8a06a39fc300220c439e5d44047a5a8679d7e2e1343fa6456490",
+      "pixels_sha256": "aed2994edc67950b29d04138ea1da875a5980ed9dfb821c379491eda7fb92d7e",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_134940.png",
+      "source_sha256": "b0d62b5880151f2b4970957492d72a51b703da26c1a15e4ef3543d1e56a6c7ce",
+      "mask_sha256": "d535949f4682afe6237e2797b35b410fdcbab2b1210eda7aef586fabd75f5562",
+      "pixels_sha256": "ba3eb5263ff234d4288a38345c97ca52efd8add2863266023c7ad57fe2bdea92",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_134949.png",
+      "source_sha256": "edb7731adc641d93fd0104e6fede8f3e6c12768ee007b6ed354f16e31881294a",
+      "mask_sha256": "7caccced46f4a2ba7bb691e0d01f2240cbc6f36c7b04b298588fa1b0c42153f3",
+      "pixels_sha256": "f6e5ebd9fb2cd7b8f416a6a6ee3a96b1ff812a9563bbe5dad8b940ae03bba334",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_135003.png",
+      "source_sha256": "0752b16704421f5956cea5ce82c5d93c19fb58c0e4753926d9d764deba122aa8",
+      "mask_sha256": "f559e4652fbd8563508c250df854c95c8b5f6c356eebf169c59a01d42083e2b6",
+      "pixels_sha256": "5c085ad70547a8286e9f0389cfa737f57c8db8fcfb2b594766af5748046285f8",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_135102.png",
+      "source_sha256": "e3e4d94ebd706a37a470a2fc56bee05f1630492fbae50f7930105f59c667fa3e",
+      "mask_sha256": "9ae54345f94b1a7b857f69ba9ef5d6f2089066332836186e5e175196bfd4c9ad",
+      "pixels_sha256": "50108bc8db3823a77646bd19025c574baac259c41711a50b39151f7c7bf892e2",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_135112.png",
+      "source_sha256": "89acf79845de878760cd3c689340df0c99ef7a9c553765f6b62db92e83fe2e38",
+      "mask_sha256": "ea656895506149da221bc295d07c5fcc84546a9448f071e3c336c393f176acdf",
+      "pixels_sha256": "029ebb89196d4796b0bda8ae9f8a9813fd5f8ea93f1df8e993f68527b33757ad",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_135123.png",
+      "source_sha256": "6dedc291d8a8649729f57ec2b50147153db28623726203d88dc167326baf07ce",
+      "mask_sha256": "a17c70608a7d6f28151d10ea9effd43141c8ae94b4f3ac28393e58f82dc7d31d",
+      "pixels_sha256": "a320adff71bff845c7288ddb8e0d6fa040e12cbbced0152f2da8770688b62d75",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_135137.png",
+      "source_sha256": "25d917bc6ab217ad0fffc9a6315787e8e96de12b112d584bd3fd71cd45529233",
+      "mask_sha256": "a290ac40027320854496230b3eb79a7708cad6fc81e997784ea0ebb7dd4ae898",
+      "pixels_sha256": "55ac0b116f4c3a390a8e32774907b180278540ab96febca3cada2f9fac0bf4c7",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_135204.png",
+      "source_sha256": "983d04ca0611a5c2658a66057007e1267977866d5959946ca4132208103e749c",
+      "mask_sha256": "6380b05a67f63b68c720008050b2a9c1c8897b21734bc4937bc9ef3057bb875a",
+      "pixels_sha256": "6bc7a53613f61e7872e08d8c533e1ee5542c369ba5035cb97f7e3745108da01f",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_135540.png",
+      "source_sha256": "2498480603bd8942cc47413acb63804942176bbdc232b22e84fbb6c3195b6b61",
+      "mask_sha256": "2b048cfe035c5810b9efa43a04a966c4cc0317e8458ce74741e0f3104de6af07",
+      "pixels_sha256": "db2fc0638d71d4041df2771a7870b111cf47ebbdb8aa6f87e57ccd968b86bd5d",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_135616.png",
+      "source_sha256": "9bc78f8b8f5b50d01071d777cb910034a9998530d206989bbec84b719180343d",
+      "mask_sha256": "123bc1e1a394f6a60a345042b996ce3f0009ed145d58e91521af3eb3ff652fa2",
+      "pixels_sha256": "53bcc4fcdb335f1194e2715be94bcef5f0ff2edbe7385b026059a0c99468629a",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_135641.png",
+      "source_sha256": "1a6c06625298abd523176af12c608c5ae26698840f67a9549b3547327fdcc80d",
+      "mask_sha256": "8bbe45bb27ca718880d6e77d3fbf8c547388a762738a3fc7d6fee1fec8b55505",
+      "pixels_sha256": "046052bcdc3d6a50426e238de22e9dde893575ece9c90c4ab93de939185dc02c",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_135703.png",
+      "source_sha256": "adf1a5dffa05dd6aed2d8af6edfa0b5dba554f38b80a6a8d8facdcfa9605e4b2",
+      "mask_sha256": "aef6774c2e94d6a94d56e9a6506166e7a1caf57e650c23d728038ddef3e382ae",
+      "pixels_sha256": "f568c04d4ddbabee23ddec17c0669d6a245e627a174515d9ee16d4f682d82133",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_135713.png",
+      "source_sha256": "efe58a3fe24954084f47bdb5ca8d0d17eaba0b277b1fff588ea2f58250d4dcb3",
+      "mask_sha256": "6272754e51df5909eb2d4b4230d517acecf6b52d0294fbfa68f0029f9be026bf",
+      "pixels_sha256": "cbe7dd75ef67ada6ca574864aaced002551651a278e9923a907ffb2370914ea3",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_135740.png",
+      "source_sha256": "2f54d0a432b5a9b9d8b0f3aa21fe82d10a6872f359f6f5ad4fec27d729dbf950",
+      "mask_sha256": "7ae90a3f9d037598a78d589bc9f9f85747d7eed181aea672323182947477403a",
+      "pixels_sha256": "f5caf3b5d23cab2a6a2b584a49133f80def0d6876e55b3547a688a5e8982f326",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_135806.png",
+      "source_sha256": "08629ce0d4b7a80e9fda12c6c0a4b63415ce677983afcd6d232bca54ff529d41",
+      "mask_sha256": "a26d9a9ed17fa61393ced83a253860c446f9dcbeba3667cd8d2be960f5d28a5a",
+      "pixels_sha256": "0ebca7bdd81c6c9d23e8a63124ebbbebcc2c68d85126c2cc6f49a6fe6715de82",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_135900.png",
+      "source_sha256": "13c5f2da63e46ffa16110885f84c52f6f3566f2bfeebb9814bab8f050a9bcb85",
+      "mask_sha256": "e38a9948c71593b5bda76b365576055dbd93d239e788a9de5ed9f521dd73091b",
+      "pixels_sha256": "92e14267edb7c77303b25c9360ef472042ccf4afff4e2ed5de945ecdc4ceb837",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_135908.png",
+      "source_sha256": "73f4609d4e3dea8f6fac6c3180ce747d02516b3579a9b80a650db6e97e8f4053",
+      "mask_sha256": "7b8261a94a88a3e4dd94adccf2bf63b99a34b0594431b6f30c38aaa4f524c69e",
+      "pixels_sha256": "35201ac18bc3b7b8ba33fe423e30d01b7a8f70a15cb914bb80e1178303cc2edd",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_140214.png",
+      "source_sha256": "8302b71a35b03a34a1fcf819ed365449413260c71eb2aa2961da2f314c1b18e9",
+      "mask_sha256": "55ca74fce4a4ac0ffa7e2f25c7b6f6e5954a92600c63ca39940c13ca82514116",
+      "pixels_sha256": "a712daf694338869e4fdd3c56c562e75ff1da8dc767883fbc7ece4f0323e0670",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_140245.png",
+      "source_sha256": "b2c9492430e5b46aadb4276b31ab142c80d5d95136482441342e0d6f5ae833ae",
+      "mask_sha256": "4afa7b03e33063fe83a8d55e2e1dfc45f9727e88f8fba4911f75bac3795e1bb6",
+      "pixels_sha256": "b798590d21a005e77f41ba679862fcc5edb86adcb435fd5abc73dc83ce0acd96",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_141046.png",
+      "source_sha256": "f36e90f8d5f42444592d459c8b28ab7fc564b6b4f15aecf34ee3cc7cc17d836e",
+      "mask_sha256": "2554ab5ef36073dee0fc07ebbaebe2e589ae14acc26de551b8336d171f777dfa",
+      "pixels_sha256": "0838391831e3d8f68322c5e86ea47fb2a015edc699bfcaa2f7018c6d5924e1ae",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_141057.png",
+      "source_sha256": "79d767f7466377290df0d86f18d477e2ea4f20832b41287babf0337e57bbc212",
+      "mask_sha256": "5d4d359fe4216e8d67e38497e78600ca0ff6cee6dcd07d1b51be20edbe2ac789",
+      "pixels_sha256": "1aae3a717ac14e55b3531aa2bf8f184678bd87db36c642a7acc17400f9982ea3",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_141123.png",
+      "source_sha256": "1058c1888eac35ef7f6587f213ddedf64f183ff6debab3aed1bb2222eb257e20",
+      "mask_sha256": "6db88eccb9faac251ec76ae9b79d766d82ccab5e9d9980f903336622bb37085c",
+      "pixels_sha256": "1b1e727144c2641c9e694199aef29814edce884ccc5642be99d6cc573edb76d9",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_142755.png",
+      "source_sha256": "c60c4feea115fbbe80a8e2a82c46e69f68acf3973a1c972d6494351f859ebc64",
+      "mask_sha256": "47dacb06701f05f7f0a9d702dd509cac6027c25037826418159c8d990fb690a2",
+      "pixels_sha256": "2eb42225631a60ec6257b5ea6ead9f02746d914dd2bcee9fea361ede39aba603",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_142834__01.png",
+      "source_sha256": "dc8ec8964d4bd03282aa073c145692bb34ffe19b5bfa357a017ec8d35ff306b4",
+      "mask_sha256": "26787b4961a3c2bf22d46d605ef9a439249549ded291a40980069b1e04a1e8d0",
+      "pixels_sha256": "bfc8029ad36301773caf335ed33a9d0ccfa8dd90f89038a9e89712444ebaba23",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_142855__01.png",
+      "source_sha256": "a9fc655d8495cfaa505eee2c00cb73b3aefad35cecec9359655edc0cf8ea9332",
+      "mask_sha256": "00c6f6d2163c4453697b7baf91a0bdbe249cc854a973b09e67a0c229000ffba6",
+      "pixels_sha256": "7fb060d5c51192425c3a6f6fa37d6bd21a387303295faf5d561d3be7f35a4672",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_142906.png",
+      "source_sha256": "23c8854cae45f30183867d63952f23e0e58f1882d093706456e6c50152aa8f77",
+      "mask_sha256": "b4dcc19d1008514fd9f3429a457756fd88161058a837703bc088462155647c78",
+      "pixels_sha256": "95701e896a49aca3a4df463ed50369e36371eaf97afa05c0027b1ec132d862c4",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_142920__01.png",
+      "source_sha256": "67f5ad05bab77e8c96ee6314a2f65f62b4b074773b2868b4937141ce02bf6ef7",
+      "mask_sha256": "b9a928c13be5d9dc297055141c729377319b43090acbe461f94e2a216a30c70a",
+      "pixels_sha256": "322a1b92188e4b862bc51374c226e8645f793f57328f4b87cd548e250ebaea31",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_142931.png",
+      "source_sha256": "1603b595f455559c1c6b8b65020fe8c3dd164a103e0e56d17566c452c39115c7",
+      "mask_sha256": "2caed1568868b56f75fa1c95cb70f3d9833e26098ac97193ca7752b2d6bfc456",
+      "pixels_sha256": "f9e1bbcd2f88c5581bc284877e88dbfba16f4df3b721956306b0749c9d785f6d",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_142937.png",
+      "source_sha256": "26fc76382490325c4cb9bec5d5528cdb28fb33fae794d8bcc91e802c8f4e2dd1",
+      "mask_sha256": "ee8444645e9dfb255b06d33c2fa774d1aadc2c64a070f9248a5f3d08ecc7faab",
+      "pixels_sha256": "9a934e8fa5907294aab5981700e920be9830a215b601a8a0f8f0ebae1c8fed16",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_142949__01.png",
+      "source_sha256": "8e30747883d11e14ac8bb13ca5df30f59f59a3205d27cc0c2e496e5be250683c",
+      "mask_sha256": "f733088272a07275b3fb874873a5a972434e25356fa755f83a04f87e39644917",
+      "pixels_sha256": "d734cebc650a600018d0b9a63133cdd542f986333193147a4286a0f3a40a5e70",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_142958__01.png",
+      "source_sha256": "4852fdf96cf0bb24727caed7bbbf196443d015ec88a5b4e87df7c1587cca262b",
+      "mask_sha256": "8907e552c0c9147464f082a97d9386cbcbea0d03584fdff524b2e2044d95e05e",
+      "pixels_sha256": "8dff2f38b817fd2b994ea17c3b1bd4e8d535ca20ed14c437e271d616d62a26ec",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143012.png",
+      "source_sha256": "afa5bf3e9edeb083ea5b541a87aff18ba39d7afb0739091dc6f96ff9f230e00e",
+      "mask_sha256": "fb62edc1d28a1932c5a94592d56c04e888ffc0218f12b859bdadaaf440ea89ae",
+      "pixels_sha256": "776feb534367e1a0b4442d509ae0da4c64e0ebeb42a448c7cdbf3ea2060a80c6",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143036.png",
+      "source_sha256": "d205fd5821c6936e23ccca340cd1ad45e0b33cab6ba588fd4dfc1e4ecfd62ecd",
+      "mask_sha256": "adb57130ab27f021a0c287ef050c89951a4d5aa6deb8e8e1ca5c59d5c1524e61",
+      "pixels_sha256": "a01a1170e4d1028287af00817bf5f139a0534e10f7f326cf4844cd5a9d79ad88",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143055.png",
+      "source_sha256": "3a71b40dbff381e17915d2e7a47d4d2b73e9058a09882e052773fa846b4ba666",
+      "mask_sha256": "3ee849bfc1514bd78ed550537b4a7dca49a1e8c21b6ed064fdcd5f7e44d4b1d9",
+      "pixels_sha256": "29e57abe96dbf77bacd8e02fcb66bc101793d4969db6c2f5fc52fbeb39a8ed4f",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143103.png",
+      "source_sha256": "f1ab38aeb045cf05a9a03122167b35fe54752fdabbd23abc9969f6555585f533",
+      "mask_sha256": "1b23d558bc8355fb6bcc4084bbd39520f1eb48a2ee8abd0c808f3b164aa53149",
+      "pixels_sha256": "97fb6675553dd21ca359ca2c150c4f5eb28b695dbee68c0530d95b2734b40cb5",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143129__01.png",
+      "source_sha256": "3ba774ebd3d655e958b9d90cd348730c5bcee07558fc272e4e45cfc78db6bfc6",
+      "mask_sha256": "75426ca1907c2e49580f940e1ee2e0e8bdda4447e35313cb0c73948caeb149f6",
+      "pixels_sha256": "7c97dc0cc5f79201c3d2cc2761edd229c1eaedc1da20f14af3947958e2773609",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143144__01.png",
+      "source_sha256": "03fadd2b29e05627e8e9460952c002bf92d5b13de80384fa2c5cd3ab943d5ed0",
+      "mask_sha256": "754a4519a3994ebb80f44e28c856381267592a1915dbd6e3afdd1900ef67ea6c",
+      "pixels_sha256": "fac89d4eb41c63184eaa06384e0c50b5088a721f88ceae3243e11b69295997bc",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143155.png",
+      "source_sha256": "65e14e6506fa9a5f8956a4b3961aa96bc8b216d0f009f1996a934d99a7863a51",
+      "mask_sha256": "23bcd0680096e905652746853ca184289a3560609f15b61a77f7343fcdfeee98",
+      "pixels_sha256": "f5b06858704587e00142ef3c1d9f78320063aabf14976d7e884ae30a7f641d91",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143206.png",
+      "source_sha256": "f589d4bd73d662a1a98e7ae0ae788a881988acbffbe18cbba8cd299dd72b02e5",
+      "mask_sha256": "e301ef24793d3548e673ab1fd3f7a8f9ed493e6e348f8512b830a45042e6fa6a",
+      "pixels_sha256": "a19c2242548c6e48922f8c3ea1d841228f92f2d2c9f37a6bfdbe811f7299e108",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143217__01.png",
+      "source_sha256": "f85583b3de31a97f25e092ed13bc8c06f80c5c4e2965e55d62c5afb43a1a95f1",
+      "mask_sha256": "839e001d9550e9c4407f93fa7931f67276861211be614f5acc348884c3be8683",
+      "pixels_sha256": "cf7abafc5fae6ad11e1f83ae02cdd75293ecf4cde86dcb76e8a248fb529939b0",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143227.png",
+      "source_sha256": "6adb929afccaaa9981c47b31e3b96d2a46ba054fb270b93704a5047fc6f9ab5b",
+      "mask_sha256": "7a0e29d1fc6a209a1032ae5e4bf0a7fa5931f06b4880f4b5e60d148ef631d92e",
+      "pixels_sha256": "bcccd7cdb0b84eed38a99f39ce68076d1644bec9e92abf8e37847fa92124a4bf",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143236.png",
+      "source_sha256": "c8d9f37bae9264d569a78c221cc8b676698f6fd2279f361dde4567048a1a38ec",
+      "mask_sha256": "2fd1d9503cdbf1c61c7fbb8f2b593c02b608cba278b971a83ef64445cd7f5a2a",
+      "pixels_sha256": "8e504e8031cfcab277e30e1148d97cb35f3ec2b9f6c272f80e493e6a393bb763",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143245.png",
+      "source_sha256": "5f6a174f5537f9490d240cb33d774596eb3089b958bcead383c15ca0c714c567",
+      "mask_sha256": "f2937e3f71f810dee630a1b9f84236da33c9d725d4d2786d93da712fe594ac9e",
+      "pixels_sha256": "1c2f99cc832e34247aba9064489fcb67a50f5159f698faf77d984e5cb2a222c8",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143336.png",
+      "source_sha256": "96e377c3acb2bad3db0d2e349464b6d75e7e59a1b3d7eab61afad764faa06443",
+      "mask_sha256": "65923039ba78374d5a44abe14ead310f439fd488ebea2bf15c835794aecee518",
+      "pixels_sha256": "6388c1bcd98b2574c40e77bc6b947c2206ac6fc30c4f25eb194320101fcacc54",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143344.png",
+      "source_sha256": "d385113d50859b491a10adc4553d7ccf7646432c56f2117f2d59da4383e6a797",
+      "mask_sha256": "126d24585570a9e622ee9f8e9ff4f6e03039c3a1627592eca93647962bd8f534",
+      "pixels_sha256": "c02ce3f6f18c93ab375030e2303b6b62da3d934348e7eaf1dc68094e985afbc1",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143405.png",
+      "source_sha256": "d0b738326aa7aa3b03295173920fcc559b9e9a2a92ffb04bcb67a759e960e7b3",
+      "mask_sha256": "105fdaf381e09f39ba250e4fac0c8f65decb9533105f6353c7febb896ed2a798",
+      "pixels_sha256": "cc79977e19dbbf59f0c16cc8850b3da7248828f5c5c76398e8a28c5b58d38ecd",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143412.png",
+      "source_sha256": "aa011fd0bcf4ae03627af3e366240fbb2fab129c8f92b7ba0f331cc40ae60a5f",
+      "mask_sha256": "dc5e0fb91559c9d042dfb1131cd3ee6c13fb8cbab8dbc51c2c1d3b7e7f64d83d",
+      "pixels_sha256": "90d3f84bbbf43fdfa779d9a015702b0b44ddbb1fcbee40ecdb291abac4d1a18c",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143426.png",
+      "source_sha256": "54b6c5481443b94fcbc6d97617d832f8bdef84ff5b8461b6c8e7b45358e7c32f",
+      "mask_sha256": "fe1197dc3ad5a574184ddfdd5ec7ce378a201d31db60d567dc7decbccbb30cec",
+      "pixels_sha256": "fd420c6308ad6f24fdac2cb549ae46d31c99b3e4a05db4d66610fdbacfa53b3c",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143435.png",
+      "source_sha256": "f9f14245377d79a1032752411be9bf19482e912256b65e6d782d59e0aefb9497",
+      "mask_sha256": "9879b8c6ed644c4ebc9b48cf7ab9e24fb709305170e50d0e2fe8d151d1711e24",
+      "pixels_sha256": "7e96a5c672d0e6d25e978d292beae1651b7e1e28530c8d16f73daa813392598b",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143506.png",
+      "source_sha256": "ff1895c5017fc94338a36755e7943130c3ccaaa10449fc4d9fb18af7989f5e68",
+      "mask_sha256": "2b652be7854204519daf8bc241491bd060480a93e78eb571002330100458e114",
+      "pixels_sha256": "77111f0bf73d2516aecbc1725c1bc873551bce68b86d1ea0aab2db63f3d39d98",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143523.png",
+      "source_sha256": "c6be5485f6e1951b2687c1d31e4661f451c8930c902f176ecb77a21ef3fd6ba8",
+      "mask_sha256": "f7d1fd87dd6333bdf55a2a5c0627029609ad8b4ab206343b6af01cb746214bb2",
+      "pixels_sha256": "53ff2288c3e5242ef953f8f96ce5e25951cf0f24dfd5d322830696a31c6975a2",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143532.png",
+      "source_sha256": "956208a717e4388c344091cba976e90ebfdd8106d9b76674bffb9784b123c8ae",
+      "mask_sha256": "10b1bbb5fd9212725a43947802fbc1f4e1185ad4d83a02a107a2317b484ac01b",
+      "pixels_sha256": "305cdc79c1aa8afd22dab837e47c18a78a24351fcbd34a505e2f4ad62ef28c86",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143545__01.png",
+      "source_sha256": "ecbc35253bc933c684f38d791aa24aee1cc6704701bb6680c1fa61e657a795af",
+      "mask_sha256": "bd728f991dd0c045a50761ecd471fb30a7012818e3153467fa9ed0510c639f21",
+      "pixels_sha256": "100d5ae3885199381afb8dcf6e2f677b9ad8327c5584e0237f96dbd451ae13ea",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143605.png",
+      "source_sha256": "1b74f03c7fb01044d8e450b168ee23e7628b1d6a935440241f57b8cb1874f402",
+      "mask_sha256": "474227d6228611d20af85f111f5df8906c6ac4f08de72340efe318375ffd05f1",
+      "pixels_sha256": "b0ff8f7e880908063f29319bd4c81d485a0f45d023df66737357c18bbf1c9b34",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143617.png",
+      "source_sha256": "85ab1ac721e64fe347a2af43151706b3bdf8d38ca900a4fc07b6b419ba7b2050",
+      "mask_sha256": "1f1f8d464971d20f050ef78fe1da90f14aa502546f9662352ee6b95b7542457d",
+      "pixels_sha256": "1e0f935277dd8d3e12d281d252a62385805a854503e65da945b7a7105f3cce22",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143628.png",
+      "source_sha256": "482bb6481cdcfed822ecdd234b917ac9ef1f1c452103e7d15cb521c2a781f24c",
+      "mask_sha256": "1958006746d7135b793f788c5f76b51e213b2cc36f2c8307f9d1e3822cf2921f",
+      "pixels_sha256": "2c198371fddeed8be966f1a87748fc65a3314a7cc4f5065bdc356fb4919719d6",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143657.png",
+      "source_sha256": "15831ac7e0f3b2c7e154199bd758ba9c27bd3a20dbab90524b034e62af180e53",
+      "mask_sha256": "0bce493002e30c9a769fea82a3dc827fd0827993106020a492a2754e14aa5678",
+      "pixels_sha256": "45e9a4e5106d7a3835fb6a383cd776a9142cbac556c3e1e0a1d434160024a53d",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143710.png",
+      "source_sha256": "e407406c59b75db105bdf872b2e3710fc4cd2377abec9b9a1c00300324fa1dab",
+      "mask_sha256": "ec6e0f5eb3c8d4e1feb27a4ec1272a05702b7081ccee95053d2fb3194ddabdaf",
+      "pixels_sha256": "f06c2d3f1c08e29aa24470c483040fcd999c8e3ae5934e27d7fc97843f9ac06c",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143723.png",
+      "source_sha256": "6870cbc495008334d4ddc5c019b3bf985cd5d1c734e263302a056ab25ca56efb",
+      "mask_sha256": "00897b13704ecf11a897c6aaaf6300fcaadd94fef960c2f01ddc951c7ad359bf",
+      "pixels_sha256": "4232ec2e7feacc54efee0b99fec5642e903ffa2bca888a0bc968d73ce091d720",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143739.png",
+      "source_sha256": "f0d8fde92d0ce89cfa83a4972b121246252757bd15f7b4263e609d94059371f1",
+      "mask_sha256": "e4b8cb26ab46a5dc1c25acec4eba511a8ed2cd0b0bfa3d4f0eabd419431bc014",
+      "pixels_sha256": "6a917ff8ebfe46329505216fd4214f24ce514c0403d019b74f17203da0c32fde",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143749__01.png",
+      "source_sha256": "4d40b26017987890352f48e75147650870c1be06a11edec84049f6c83ff2ba35",
+      "mask_sha256": "f2642eb94a943377f21bb80f76cc6d5cb7d534997a466417fcf5c2293e9e692e",
+      "pixels_sha256": "982a584596b0d2988fe2a0612baddffe7ee7e09d69f1dae463700d2d275980e6",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143758.png",
+      "source_sha256": "061eb07513a89f6f56b1ba047c3075d9b6032354f4bc11042fb47cb16b37b1c5",
+      "mask_sha256": "dd4963a577075c32096a0f166282f6c46806a7ff3012941f145c02110097e5e3",
+      "pixels_sha256": "eee63f57ae78ca365025c36dc024d4f89bcd531a4d9ade013336e9f32c1b5ed1",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143813.png",
+      "source_sha256": "295dba4bcdafd391149ea35bb36f6c43a3d95156e385a9e0b72fa26c85d1e32e",
+      "mask_sha256": "0e9bb1aab0b908d5bb34140eff8d16a3faad1a946c4d87f1502bb9b42d9f3896",
+      "pixels_sha256": "b91b2256ec09cca09027627a0b3ee836a27490cd749d73f628cbdb14c1ff9994",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143830.png",
+      "source_sha256": "35dfc208f061b556850b4fab49dad1dae882089a87383c739bae805d35d1da51",
+      "mask_sha256": "35640e9d979d19ffaa335ca4010a8355c11ed4be8272cafd9dbecc43329f4363",
+      "pixels_sha256": "adec9e54a3bed02a890f7bbecd595a88f577777baa92bf822963bd76ad27d8b4",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143839__01.png",
+      "source_sha256": "26337067c4a14ee41735a84af06a7c5379af6ce8cbb8ddffd759e9c228d4af94",
+      "mask_sha256": "0919d736edb8b71c1dfc4d023b2565d6268895db6d8458cab637e37122f3417a",
+      "pixels_sha256": "d2f2a0e7d21712cf6e4fc8c368a8b7eab6f3d5beca5f7ed11e00a5c1991f454e",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143849.png",
+      "source_sha256": "95c5bd64b515fc572f6f8e4ba2f12bd36f7b4904073e65930eddb85f1204607b",
+      "mask_sha256": "e0fa21b0349ce5251ec5a93092bc98f4a745ea8b323e75c04e00ecf3cbf48de5",
+      "pixels_sha256": "aa9ea553f70085c740cd0f480529be751a3ad47115f86c7dd5ff55c32ef07aa6",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143858__01.png",
+      "source_sha256": "845fea8538bfc93374abda79215b9815c52958486a59b4233a5d1f74f8c2117c",
+      "mask_sha256": "8c59db6942b20f9066b4fb71a03a745e39682d0e125070d04f6a3e1612edc1e0",
+      "pixels_sha256": "fa8c45c58a21f90e4c24241cdf0f81c7ed14fc02223b26048bf7e17b992ebdba",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143908.png",
+      "source_sha256": "85f36f3a54db0ed47b379f01600a0219d95c624212ae7e624e83dd3846f39248",
+      "mask_sha256": "fa45f255b6525792620eef0f8b705ac4c3414e71fb583f815f30c296b84b3f45",
+      "pixels_sha256": "0492dde0259fb7d5076c98ffd45c8f08c6941a0902e587b4d71e5885f5b9f75b",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143925.png",
+      "source_sha256": "932af159f1dba93f5cd4f3c070b08191ca71003f68bd5753a9511407dd72c5ea",
+      "mask_sha256": "e73f23bd9c54d6dfa16a13411a216134f1a77176dc8591b4d78d0a9201b510ac",
+      "pixels_sha256": "4ca2b2ad7aaaf29bd6a585549b2621afb9122f6ab2e368425c077de067168181",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143935.png",
+      "source_sha256": "69c9ab84a504250b4f7a73e0db86e20182d4c8a596c26182ffba9895cff12857",
+      "mask_sha256": "e1ceec7d5154f80bb9f3a6c6c5cab94d75a94a049ff37aaae5b35e6cf6d5a047",
+      "pixels_sha256": "1450ae6a5dc1fffd0dc6d920108553220bcc83feed3cd7163a36a5dd001b53ae",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143945.png",
+      "source_sha256": "17740495406afcfcb4569aa4a12e7459e5ed02ff6c3e54b13a2bf898b2585fb1",
+      "mask_sha256": "36f932f9bbb6fdbfe2a66efde7d7bff02e732bbf279cb9496900001f32b5e0e4",
+      "pixels_sha256": "cf34091305ad86593ab721a69f72b9bccbd52851babf8d14ffba5b8b51b16fbe",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_143954.png",
+      "source_sha256": "b814af5cc45081940a4dff938859d806702bb0b6ab45d495f94d7eadb756758b",
+      "mask_sha256": "bba52286b58970b13eff899a260e8e607c40a189cf55e378506ca0a783d5fe7c",
+      "pixels_sha256": "ed34a02ddc06eceefc7719980937a403ced79214e7707b6c4e59448e3ce6a542",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_144018__01.png",
+      "source_sha256": "8b025b32e5c6cd86d37ed34ffe0d9db06a70f7cd7bf3331946fba434df40b15f",
+      "mask_sha256": "70b655a5ab7e199d2ccf7aec018a0e2605cb402cf29579816d3d69dc3f8c2e6c",
+      "pixels_sha256": "65ed699b18f6be45cc3257febb8343d00993681dd6a817867009f90a09e5a15d",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_144114.png",
+      "source_sha256": "94740f8cb57802a0e03ae5edf481e457d76ca0aaf21709c488bea2f9e0595dc5",
+      "mask_sha256": "1ebb59b1ce1940cd2ef1b8589d97a6c4dc6bb901396595b85c2f2db0de035b92",
+      "pixels_sha256": "930e2f178a281312d3bb66cb2c880b5f00ce628f8f112a01c3627544d79dcb72",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_144130.png",
+      "source_sha256": "de5991c5ad1d2348f5ff392b81c5dc2259cecc8a1c49076c4a5d38747b76146f",
+      "mask_sha256": "3c6aacc1164fec812d732f10c2e80f03772af7285fb9b6f6f1cf081eec2553b0",
+      "pixels_sha256": "03c3441619468f4f161caeb5e969e96d752ae61f48fd5ccd024354022593a08f",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_144418.png",
+      "source_sha256": "10aa644c24afb4505b2020d821128b79710e2f47aec88fff981841085fe6cc81",
+      "mask_sha256": "c6c21893bd7cbf7ed5e8c6cd500c7e5b9af33dc52aa497b655cbab12710e0ee0",
+      "pixels_sha256": "5bc764d5eb4d5777be3bacad0c3fba0e711bd94546a0ee9b042bb42f7f90f116",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_144532.png",
+      "source_sha256": "f11b23ed097974c8e9930069714f17cb0886992f5805b4b6126906169c177d56",
+      "mask_sha256": "2ced9248b959c579e03852620904b9f11fe4e44c2b7b2b3c4417f7299b377241",
+      "pixels_sha256": "4720fd90ad7ab2874c25c7d3a8853dae3bece8a99bea32ebd797d713f3c9d6ed",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_144550.png",
+      "source_sha256": "ddb39375df97516cb9c2642adb574101b0639e9916cc13de1accb52848c56f96",
+      "mask_sha256": "9f5d52a90d39419a47c98ec432a5cce56ebf1e6264a63a131cd187bcf0dfd511",
+      "pixels_sha256": "374cd18c257e2c76c7a7ee3acfcc788cf491311d0afe3e7e27f4dd77cb23c8da",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_144606.png",
+      "source_sha256": "2a8d3dad2fa5f86ae4174180564f4131cfb09762e3974cf779fa619a193c67ba",
+      "mask_sha256": "49f6d003fd7558dfb1187ef1233df576bb533024eac649f6e22cb8cecd217029",
+      "pixels_sha256": "a1633bba93f825627ec8fe770b58fb101c3c740fb26e6ed98f7a29333dbd8ea0",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_144621.png",
+      "source_sha256": "29e2897fa5bda73df1d590170f824282cbb798dfe58b8deacfa8e2275a8b95db",
+      "mask_sha256": "ea78bc988f6fa5f129f4e6eb6232dfbd61fb8d91deb72ac8b776c775233f28ef",
+      "pixels_sha256": "57b2b61b517c7cf1b8db6f1d18f25009467a9be52a40e49de0fd272570664de7",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_144636.png",
+      "source_sha256": "5d075442d1518c19c22ddda916f692686d372063c69190b1bd0516c80982db86",
+      "mask_sha256": "cc50009db1367e7c8d7b905c9db33c0b4ea3695f6a68c40349f3c518065eff20",
+      "pixels_sha256": "101c7b08961aab4513dad4a429813449489d75873385201a8c26ab132d955f76",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_144700.png",
+      "source_sha256": "5dfe95cdaa9d8f380cf44526244f7bb97a26cdda90ecadd885b2ff8a0c4e2f9a",
+      "mask_sha256": "7d44cc6ccbe18de2c2bf740d6c521d0637bd468cca8ed3a2fc55bb129a74dd78",
+      "pixels_sha256": "5a04000f20f96c7e88466379bd64b9d6e6bea54f603d6b5b01ac297aa6aa87e8",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_144709.png",
+      "source_sha256": "dc480332ca8b70a5f8b2ec424679c1b881e611dad2d6ca3fee8e75b672c13a32",
+      "mask_sha256": "443a34c6be37adeff5f92a65a9f8f8533f73eb31478ba193444d8c1875f886a6",
+      "pixels_sha256": "ebdc4f4f7f223a804f63a09c0b20f2ded80e112313572825e05b7288f82678b8",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_144726.png",
+      "source_sha256": "d625cf5c39a62176bc75113902cf222446d8e4808564978225acf0b64d12ef68",
+      "mask_sha256": "9a7e74a6229631defee69684eb88aceac868ab8eee005ab963c477a491601f0b",
+      "pixels_sha256": "7dae05049ab9e569ef53c21e61ded706f73ac097aed1111e925215bf3d609cc3",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_144740.png",
+      "source_sha256": "bd8ffab72447549c02bb790bbf6fe4eb02152f7fc914e25f17356c3701daf21a",
+      "mask_sha256": "acc26eb8cb4abb389f88d2ef5e0f63c9e228f7ee958c1e2e25472f2a1060c76d",
+      "pixels_sha256": "aeb59d86839ef2fc365851548429198bf08b0c19c000803992a905479ac35fb4",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_144750.png",
+      "source_sha256": "9200197409e882afbf6d154777323a21493df35138076f9892b148fb8b3f62d8",
+      "mask_sha256": "ebd9defaa67f1dfde6bd5151a2505fec62bdddb31defad75667fd93beb8a5896",
+      "pixels_sha256": "03ac8e837dc0b3e973b8ce22a76ad2e3a19505bd3a6ce3760f3519e683a492e4",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "IMG_20201123_144800.png",
+      "source_sha256": "2f3bda9f0741b890162539c6995939add8c6d6a44a4b5e8b05e964299cfcb4bd",
+      "mask_sha256": "ab77d13233c95d072cafa3c353cd071c4bdd5f50e5c0bb7de08e87896f6e1e95",
+      "pixels_sha256": "118add1d5ba557e6b99b0eac8d117bccf60cec9a32aba162e178f4a9f0c058dd",
+      "split": "train",
+      "family": "IMG_20201123_131711.png"
+    },
+    {
+      "id": "Jeep-Wrangler-Left-Side-View-79407.png",
+      "source_sha256": "aa864c34fe50881b5d5d415b8aa163f4b60336c6c54233b319644ab351dc839e",
+      "mask_sha256": "ac4ee787e418ee570b819ff22763948713b9845d21a42f7cb6af92264c4bfb76",
+      "pixels_sha256": "4b86b8cbbceaf4304e4e39fc838603c8ee3bdcacc379da621420ef5ff79ec72f",
+      "split": "test",
+      "family": "Jeep-Wrangler-Left-Side-View-79407.png"
+    },
+    {
+      "id": "Maruti-Suzuki-Ertiga-Right-Side-111110.png",
+      "source_sha256": "fe51dddef4996fbdde9336c2886f4fad8d9e75a7b1912a237b35d84697c202e2",
+      "mask_sha256": "8c3fcd1eb01aa9d2e70be7df04e2408ee8eb32c1843a622e67d9733c0c045dae",
+      "pixels_sha256": "46a51cd4dd5c608c777e290daa570c6631dbb92f5870734c47722d64c5ce4da7",
+      "split": "train",
+      "family": "Maruti-Suzuki-Ertiga-Right-Side-111110.png"
+    },
+    {
+      "id": "Monster_energy_custom.png",
+      "source_sha256": "4f0a5d8cc594c2d48d107894df1a57390a8c7b4450cf48fb8b71817a66bad329",
+      "mask_sha256": "bb308a94fa40e9b263c218a0dd2a6b2befb62003c484cadb7b215dbb2c103581",
+      "pixels_sha256": "110bb8a53bbcb4a94490f87e02da050c90a4cf002c82b137981ad9d04f341884",
+      "split": "train",
+      "family": "Monster_energy_custom.png"
+    },
+    {
+      "id": "Police-Car-side-view.png",
+      "source_sha256": "31768973322ec2fa7fd8e92338de14571d9c89cc60e90f2e69ba8653f8e6be4f",
+      "mask_sha256": "58255e227b9d21436327d647cfab764b172a8d405b92c4542c28bc7303806094",
+      "pixels_sha256": "df5b65ccf13e101fca1864b9a99fc2ad7ee028377307951e1eb063169a0e2577",
+      "split": "train",
+      "family": "Police-Car-side-view.png"
+    },
+    {
+      "id": "Safety_Car_side_2015_Malaysia.png",
+      "source_sha256": "3981f31a94c8d1676089f1cc24a4dff7fd8cf3ee3106dfa83b165b435e545a45",
+      "mask_sha256": "11babd01335826e165e1b4334449d2ab56299b50e4808fbb11d4a77889462361",
+      "pixels_sha256": "66cbe6c99224c320998aae7e835f20f75df2dedbb7c473c13c25d23839b2f706",
+      "split": "train",
+      "family": "Safety_Car_side_2015_Malaysia.png"
+    },
+    {
+      "id": "Volkswagen-Golf_GTI_5-door-2004-1600-10.png",
+      "source_sha256": "a303eb801d181407f8e86077a7d57dd2626811f918690e66bc51f56140947177",
+      "mask_sha256": "03909526a424d7fcd171d0ec4f1da81896212bf59d55619b74f3f4dd0fa57f7b",
+      "pixels_sha256": "6eb1234319075ff612e899836b980bf8101cfbac455a29df684394c0d57a5ab5",
+      "split": "test",
+      "family": "Volkswagen-Golf_GTI_5-door-2004-1600-10.png"
+    },
+    {
+      "id": "a594e4d7b37f6e9357ca3b92a4125262.png",
+      "source_sha256": "13a734de13b42c52bcb123a2a5600861c799a274f7e4586d63667184f0e744b9",
+      "mask_sha256": "04b1f0808dc6a0a4f8013fd008b966b5c1e8b2b31fd1d9485cdbed62d2761998",
+      "pixels_sha256": "b401d44521834a53cee46ca5500ae8e8878ee0435419eeb2fe69cd8772ad548e",
+      "split": "train",
+      "family": "a594e4d7b37f6e9357ca3b92a4125262.png"
+    },
+    {
+      "id": "anne-nygard-6t7wZAU3nuY-unsplash.png",
+      "source_sha256": "8d0ddc44177aa35fce775e37314a2ad98adf1c34967d28241388733e042b70d5",
+      "mask_sha256": "7d1f26e9c9ce363f8dcf1684973477fbf2fd72befac18cb0cbeceb8cb4dd31a2",
+      "pixels_sha256": "e9441efd488c13ca300de8f05820965ee0e2b1a6425f1095f7a360388f0cff34",
+      "split": "train",
+      "family": "anne-nygard-6t7wZAU3nuY-unsplash.png"
+    },
+    {
+      "id": "audi-r8-v10-car-side-view.png",
+      "source_sha256": "fb1bb6ab566741ded994e635590cc4be3711491764afde96c03f9798a5f17937",
+      "mask_sha256": "c47a1c534d61efa4efee0bb78221e81604e29ebc37cf1b355b4a4322e9f8769e",
+      "pixels_sha256": "b7dfd90b1d02f7f9fdaaeeb6db9595fd3630efda5e28bd69c022fcea9ce97572",
+      "split": "train",
+      "family": "audi-r8-v10-car-side-view.png"
+    },
+    {
+      "id": "audir8.png",
+      "source_sha256": "5b09250349b2549b907a8e4e439c72ab1626152b8062f9e336f760f1c93cc156",
+      "mask_sha256": "cee3b9b0faf932c88d8bdb6d5bccc70dc6d51ea76a52bda1b574c145ab22f361",
+      "pixels_sha256": "9f1d05f8853a39f138e77611d40133f4245aacd578b70c74e6f5e486b70991b8",
+      "split": "validation",
+      "family": "audir8.png"
+    },
+    {
+      "id": "auto-machine-grey-toyota-car-hd-wallpaper-preview.png",
+      "source_sha256": "de6ff2f1190a8ef8ca1ba7585cd14ed99c184cf90edf21a4a5d239fece3aabd9",
+      "mask_sha256": "aa05fdf1442229c7c5477c634fb4443b6e8277757124950fa06d035f9a7d3606",
+      "pixels_sha256": "4df23f8e04d1fa7ca5317e218f95cff4ef86cdd11daa6a87c1ba69450dd5e92b",
+      "split": "test",
+      "family": "auto-machine-grey-toyota-car-hd-wallpaper-preview.png"
+    },
+    {
+      "id": "bb29a1ee64eaa0186407c5d2ead9c959.png",
+      "source_sha256": "58653857ab1b80047cc685b9f5fa030ec2611b18e4f10f1d8ace1758e91fb9de",
+      "mask_sha256": "e946f15e42f33c27aa5cd71f9bc419c6a023659cb3990bdb8608276895749629",
+      "pixels_sha256": "73c073eb0d13958e686a8276692fa2ff490f57398e184732ccf1bc9489816a04",
+      "split": "test",
+      "family": "bb29a1ee64eaa0186407c5d2ead9c959.png"
+    },
+    {
+      "id": "black-volkswagen-golf.png",
+      "source_sha256": "c95a06da9669585a05d2a2dc6f82360499d65af6887af7152a9bf3e1d90274b4",
+      "mask_sha256": "c0a6cdf48a11e6f91142a528a0c771b65801701009702ec82279a78a19495bba",
+      "pixels_sha256": "2aec9ce008e3081b48bba0f6b0aaacd0a0050f27b9949b0033be4f9040fa7c4f",
+      "split": "train",
+      "family": "black-volkswagen-golf.png"
+    },
+    {
+      "id": "black_side_shot_GALLERY.png",
+      "source_sha256": "a0b69523f1e314f65f073cfd852f386c63f604c757fb494f298cd7a2be579eec",
+      "mask_sha256": "8dcbc0a48bcbfd8474e373514dfa5ff0426766581ca06aaf45530c1d839e097d",
+      "pixels_sha256": "8f0c126e5cd74d7fe269f34bb9f4f015b7137a6354e4bc8a5ca9ab9b4c44b6ef",
+      "split": "test",
+      "family": "black_side_shot_GALLERY.png"
+    },
+    {
+      "id": "brandon-paul-ErH1LWnAKXg-unsplash.png",
+      "source_sha256": "63e7bf4e34f7a4278572c9c936d587865672e0ef9f52d1fe4f77038d3f177774",
+      "mask_sha256": "8d2f0391a1a0bc59a3c77bd71a1a9e3886ff99ffc5fd231258db60fa656347e6",
+      "pixels_sha256": "19c21ec6ca5be7b863753eb956310b45bf57c7d4008b6cd9c948553104a4c8a1",
+      "split": "test",
+      "family": "brandon-paul-ErH1LWnAKXg-unsplash.png"
+    },
+    {
+      "id": "car-graphic-19.png",
+      "source_sha256": "3e57eb9df7264c60535bf916ae511ec049087c8e2e3112eb2c7dc46751f187c8",
+      "mask_sha256": "32a2ed0e543fb3d8d72c456495cb06a7497242c36048448196343a799cd02ce6",
+      "pixels_sha256": "88467020c745a5d74914470811d13188149f061030f7df759f631efe9fa4cde2",
+      "split": "train",
+      "family": "car-graphic-19.png"
+    },
+    {
+      "id": "car-side.png",
+      "source_sha256": "aa36cfc4ec3fbb46bb9392dbee2e3922d7d261e99ae1cbc90be12ce582a97039",
+      "mask_sha256": "8c8e4feea313c6cbb22f3229f8eb60f146b6fcb3ef4a300524d4265634025ca7",
+      "pixels_sha256": "331bfe212969285e7fc8814b9e9ae444ec184ff819fdb75c0484a242860d6fca",
+      "split": "train",
+      "family": "car-side.png"
+    },
+    {
+      "id": "car1112.png",
+      "source_sha256": "8189eee2a6d384653d4c74aab3e97603e4c685db273a108f30646d7750df6a6d",
+      "mask_sha256": "3c2abd2aebe934a0fd9287c72411bb4380927e033bf0055c12ed78eb46396137",
+      "pixels_sha256": "7e8bcd7acd03d81a6eb8bc801ab04d08575b5c5ab076b90ede0fdc4188a9d29b",
+      "split": "test",
+      "family": "car1112.png"
+    },
+    {
+      "id": "carsticker.png",
+      "source_sha256": "ba9a07b841f4c7651e86463dbdc53865aea50d34c333690dc90bed9ee29e3aaf",
+      "mask_sha256": "987a3f6ca3810dcd704dcbbb93854ab499b15b540385eb0e7fcee41515d8827b",
+      "pixels_sha256": "9d65da9b5c4a612b3d2367a47269298e088db49a9af7942e0916243fa2151418",
+      "split": "train",
+      "family": "carsticker.png"
+    },
+    {
+      "id": "d9ce7968a4073918ce554523363caa73.png",
+      "source_sha256": "a8c0adc86e36cdcec13bfa4524a3ac0c291d5fd4e55e6c83ccb440ba3bb093f2",
+      "mask_sha256": "2f4b5981882684abc30fed3b4dd98e42bd1e6d91e7888d92faac18cd04a0890f",
+      "pixels_sha256": "f7e325d434bc832a5a954fbb53cc9f6c01fcafc5f6bed5aebfed83e76eda3743",
+      "split": "train",
+      "family": "d9ce7968a4073918ce554523363caa73.png"
+    },
+    {
+      "id": "depositphotos_176490672-stock-photo-white-toyota-suv-car-sid.png",
+      "source_sha256": "e533de392716071973f30659dadbee8e74a0eb844d05b588eb591d8d9e2cdef2",
+      "mask_sha256": "abc732fa74ce48640265f20baa76131b48e7fea2892bf0e7beee531d354530b1",
+      "pixels_sha256": "db4610ff6ec36f444d7da543a623ce66a8ed9f24bac14571316197ea96da3e42",
+      "split": "train",
+      "family": "depositphotos_176490672-stock-photo-white-toyota-suv-car-sid.png"
+    },
+    {
+      "id": "dimon-blr-rwgyRguL_YE-unsplash.png",
+      "source_sha256": "2c5df9e85836f4f4fe265b1f0fcbc53f42a7504fa14c13893a9f99498a5f1df9",
+      "mask_sha256": "859bcfa4319247e295a6bed9e755ce1da6fc3d8b3aea652ddcd9b07df95fdc23",
+      "pixels_sha256": "c44b883137fd74732b97358caa3c31c71cec8f726fa0632808425ee5f30ccca5",
+      "split": "train",
+      "family": "dimon-blr-rwgyRguL_YE-unsplash.png"
+    },
+    {
+      "id": "driver-clipart-horsepower-sports-car-side-view-png-transparent-side-car-png-880_295.png",
+      "source_sha256": "4083bcf0d6bbb87c54c2946cd4bcd7e806e6fe639bb8df1bdd132af62c3c3347",
+      "mask_sha256": "c767cb44ad675f04121ee2dc7cb822a4285ee6e212ad3848bc74f55b1d4db9dc",
+      "pixels_sha256": "de9392b103177859a3d213ac064f344ce02b753fd0396372619292ae078f0c6b",
+      "split": "train",
+      "family": "driver-clipart-horsepower-sports-car-side-view-png-transparent-side-car-png-880_295.png"
+    },
+    {
+      "id": "e4a49bfe830012333d89a9861f6c4821.png",
+      "source_sha256": "63dc0ca72ff1aff2326b358f18cbfb46324bb23b1147dcafa00eaa379a22460b",
+      "mask_sha256": "d6156e9ed9a6379e82dea653e9752c6ce358296939745baa63c96fc304b1f5e5",
+      "pixels_sha256": "59feb0182565d57650e368a0806ad2b39939ff44765e823ce4633b936762b4a4",
+      "split": "test",
+      "family": "e4a49bfe830012333d89a9861f6c4821.png"
+    },
+    {
+      "id": "gabor-papp-k688MQzA3LI-unsplash.png",
+      "source_sha256": "b6eebbd6f1dbd53a79efa47c51dfb04ce1cbd5e7d433432059376009c47d3106",
+      "mask_sha256": "176ba5cb72ca93993c4fa6d7bd37035f5ca9ed4d169788b69c29694bd6129f27",
+      "pixels_sha256": "a8bcb14b83c749acb4a33825daa2e287a8016396d3455a9be094c94c1f612de4",
+      "split": "train",
+      "family": "gabor-papp-k688MQzA3LI-unsplash.png"
+    },
+    {
+      "id": "hd-car-side-view-transparent-background-transparent-png-image-car-side-png-1947_776.png",
+      "source_sha256": "2bcf703c473dfca452a04c79379f9c9df54ba0aac1837e7bcf055e50c8733554",
+      "mask_sha256": "24d0830a4a9aff28cc7e06d1aa2d40d8212ca67f91d09bd21f24ca813ab0a88d",
+      "pixels_sha256": "265a9bdf8beb3c6c5a1b1947a660730f8fde9338c44208fafbd4a80118b67ecd",
+      "split": "test",
+      "family": "hd-car-side-view-transparent-background-transparent-png-image-car-side-png-1947_776.png"
+    },
+    {
+      "id": "il_570xN-1259936156_o9i9.png",
+      "source_sha256": "463bbbe48c18fd2a07d03951e94574bc2791f20fdb1d36ab9e14d4a04adf2e76",
+      "mask_sha256": "f4abf56990a9254cb91916ab3dc4ef2f0d1bd4fe2083161a73c1b14539513171",
+      "pixels_sha256": "daa969fbecdd609da5a803e3aaa019bcacb1ddc3ecbb7f51dd227ae10830bb98",
+      "split": "train",
+      "family": "il_570xN-1259936156_o9i9.png"
+    },
+    {
+      "id": "im10.png",
+      "source_sha256": "010b56772c134700466312bc4e11be7f3d2a10e7bf51624b32397051a8a707f2",
+      "mask_sha256": "571adebe41832ba8fd609f6d64d780e3f9bceabcdcf9e5c53ae162723bca4572",
+      "pixels_sha256": "073860212dc862ac22ea6bc70403601917f982b11d62347710f984f84a5ecd92",
+      "split": "validation",
+      "family": "im10.png"
+    },
+    {
+      "id": "im11.png",
+      "source_sha256": "6e15d06a4075a0be90de0a772b1161f43b1e5f9a85352a4484f9082ee9147daf",
+      "mask_sha256": "66effa488ceb84fabe2b928993124ab6f5f8e54d4d6eca5529fd9d0bd4d415df",
+      "pixels_sha256": "b1e6fa73d49c2d76ee5c3134b4f9b528a354066702a29d6e7c877379aca45ea5",
+      "split": "validation",
+      "family": "im10.png"
+    },
+    {
+      "id": "im12.png",
+      "source_sha256": "3b559df62902907d817b56443d44c143a16854ea36d4cadbef4bacd5bab2d968",
+      "mask_sha256": "59f45558d3b87bf23c4651bb0aa76b10b12126b2f3a00d953e20ddd80f55e2a7",
+      "pixels_sha256": "cab41ad5296578c8f8dc0bdc1e3fa13e9c278bacd76b933613442eb46aa503dc",
+      "split": "validation",
+      "family": "im10.png"
+    },
+    {
+      "id": "im13.png",
+      "source_sha256": "83a7c1fd869148a1dc637c50c2b40096c62aedd1cefc2170c0051287db00a941",
+      "mask_sha256": "40ece5ad75e4f8773701014f8cd86ed9a032fbd70af0fbd3c6ef95307eaf1f12",
+      "pixels_sha256": "0f41a0cb4d353aa45a5b145eaf885a787e6c70ba715acd96409f43432d5e26bc",
+      "split": "validation",
+      "family": "im10.png"
+    },
+    {
+      "id": "im14.png",
+      "source_sha256": "e4ba4a3ae8a6dd77564af5088e5db7cae03c261baa4536393863f6d81eb437a3",
+      "mask_sha256": "c7aad25945f46820efc04225130f39acc6641c078c8ba631e632bb0f3ae22eee",
+      "pixels_sha256": "7e0d8497fc00fdf8a546716838d94a1ff5b68a47d4cfdac3736fe7d7a3437392",
+      "split": "validation",
+      "family": "im10.png"
+    },
+    {
+      "id": "im15.png",
+      "source_sha256": "0194909f895a142457d1fc59f0bb81098033e6a24a6138a193a54b35f7ed6188",
+      "mask_sha256": "76f46d31af724b9463fe8ce09fd3b01503c74efc5c3149c42a72cbd575e63927",
+      "pixels_sha256": "a2c256e60c419662437821b7ff28ce5fb2193e1b8353c9438926a7e40bba8746",
+      "split": "validation",
+      "family": "im10.png"
+    },
+    {
+      "id": "im16.png",
+      "source_sha256": "1a4b11b3e7f84c251175d287d701e320c1dc36c5d4cbad8e753f7f3e97d8d79c",
+      "mask_sha256": "5e9b0f164ddcc72667afbee58e3f8de39b715436e40ce0746bf522a4c5e4b4eb",
+      "pixels_sha256": "af81aaebd6a53eea0c99cf84573b7f8e820dd112560661888d1a7aa3cffa430a",
+      "split": "validation",
+      "family": "im10.png"
+    },
+    {
+      "id": "im18.png",
+      "source_sha256": "5a6cfe9efa7a1abbe07b146c5a3a4af9a1dda967c94059a2b8ef68ba56ed0b74",
+      "mask_sha256": "445b04e26d352c8fe7b7960d2170799341914a7ed93b0d2e0b20748c0615cffd",
+      "pixels_sha256": "575c9d051d3317078370ceea1c084697c3e25ebec36336413be4d7e672267f7b",
+      "split": "validation",
+      "family": "im10.png"
+    },
+    {
+      "id": "im19.png",
+      "source_sha256": "fe4e9cbb868aa48231210c0fa549c238661b63ccbfff89029f1f317fd3d2d199",
+      "mask_sha256": "56f5920db3d8f0adae87982ff221207308863048bc7441816132ec51d15929c7",
+      "pixels_sha256": "aaadb3bedd30e8065ab6300bc5b78f99dabb6a606f246aae1ac6f464bc4f89f2",
+      "split": "validation",
+      "family": "im10.png"
+    },
+    {
+      "id": "im2.png",
+      "source_sha256": "60f06e4604434c0c6cafab72dfdbce7681e0db74d845585139cf58c45dcf6b0a",
+      "mask_sha256": "ead0f87680d332abf5c8ef087ec4420c9c72cacbf0b9ccf9a27d62ba61476124",
+      "pixels_sha256": "54fa844b8a877202c77c0aeca4cfb13687f2316ffcef8dc540db17391f9d3eda",
+      "split": "validation",
+      "family": "im10.png"
+    },
+    {
+      "id": "im20.png",
+      "source_sha256": "2c0830e3fd02e282c11de80052e8303d8cb994a8f23b6fdb2afe371a7f54a0be",
+      "mask_sha256": "a0a2bc5e56191edce344d21155ab487fe3f870ca1bcf7268bf2c23cf583960fb",
+      "pixels_sha256": "94cfc9269ae431501fc18f1d336d6f5435a4ea3997374265c33e4c5093962055",
+      "split": "validation",
+      "family": "im10.png"
+    },
+    {
+      "id": "im21.png",
+      "source_sha256": "5f8e03a786db7c5adda48f4a07be45b6840758f799c9d7562acbdd2547bca973",
+      "mask_sha256": "cb7ed1b89387ba83dfeaddd61be14b3244501ebbbcecb0064117612aa6f65aa6",
+      "pixels_sha256": "e36edc95a919401a59bda6a5e59f4618170de7d391fb0e9f6d1d67688c8c646d",
+      "split": "validation",
+      "family": "im10.png"
+    },
+    {
+      "id": "im22.png",
+      "source_sha256": "5f6214a4027992c561377d129b910124abbdb8c39ac3344255fcec4250658966",
+      "mask_sha256": "54774b5119628637e8213e3731eb37c7e4ad0bd30264605f8af9a03332b8ea35",
+      "pixels_sha256": "58da4974e6f508b8eb5a354a59847867f04395e2397a4f073dcd3427e8a1e3c9",
+      "split": "validation",
+      "family": "im10.png"
+    },
+    {
+      "id": "im23.png",
+      "source_sha256": "7450303937aaf89a45f24ac137cf430a8afb861d5836de8fc66e3875459bc85c",
+      "mask_sha256": "535d9aefbfbc1a42e43f8bd013c073b1427dda19e167946cf0e785c3cc0d9260",
+      "pixels_sha256": "a147480f99961fa4b776b6cf4569429f9f1ad44882f0a07bfe7a541d8efc80ff",
+      "split": "validation",
+      "family": "im10.png"
+    },
+    {
+      "id": "im24.png",
+      "source_sha256": "f87d063e1781955dad727365f8504e0ad8b2aaf5f0366e84bdc489b45c58887d",
+      "mask_sha256": "ccbe751de3e9d72f7973de078a3ca39cabedf5e00f202fc1e877c50123d9f12a",
+      "pixels_sha256": "cc4c2c8546939418255f3ada485268f14e3c7ae76028c0a2e5f7bd646ccfeb26",
+      "split": "validation",
+      "family": "im10.png"
+    },
+    {
+      "id": "im25.png",
+      "source_sha256": "d73be09db7ec019b6d9550558fbab474f1442742490516b0780b070094a8344f",
+      "mask_sha256": "6112f4088c6cfdc170b13c16a16e17e67ec896c1ac43ebd92d310705ec7f00b0",
+      "pixels_sha256": "3912336370aa7b2f01708d35a94062b562539409e744a47614510ed7b0f05f41",
+      "split": "validation",
+      "family": "im10.png"
+    },
+    {
+      "id": "im3.png",
+      "source_sha256": "01d308746da53c626d0d08eea60f373a0bbf27ae4ab5c67cffd12539e608e12b",
+      "mask_sha256": "c770812d887b011577b5c18467c30e98d6ddbab9388da827dded2764506bd852",
+      "pixels_sha256": "809d8a89c205a07def19dee212a93de74d12846ae3281385bda7683b0b290411",
+      "split": "validation",
+      "family": "im10.png"
+    },
+    {
+      "id": "im4.png",
+      "source_sha256": "82741f2a64ac656b9649853cadc6d304a2ba24ff723db5a9c574f0ce98a8fc09",
+      "mask_sha256": "22734026ddb06d980e2b480a6563005144c213aa333a98a29cf1c5bb28995b0d",
+      "pixels_sha256": "d1bc726f07398170c989660a812b5fc7db1ce7ebcc5cdfb5d91089941bef79f8",
+      "split": "validation",
+      "family": "im10.png"
+    },
+    {
+      "id": "im5.png",
+      "source_sha256": "13b8def91234ad0ed050abbea61f8cb4bb89250c212e83765f3012a8fad5d0c3",
+      "mask_sha256": "73307543ad175162b74500d358a242ad3aadbf64849b8c95072e312a53fb1078",
+      "pixels_sha256": "91ece2bfa3478d44f95386aa5de2cd799becdda4c8febf5faf1b2d9379dd27f3",
+      "split": "validation",
+      "family": "im10.png"
+    },
+    {
+      "id": "im6.png",
+      "source_sha256": "e30ec808c46291f7b69b67d38345dc651b19ea9ac335cf36eb4fd1937ef1e5e4",
+      "mask_sha256": "68d1d69c07d7ad122b8ab0fc83f0598948d334a5b41cae56728520a3aec1450c",
+      "pixels_sha256": "ee97631a7aab980d0a324f93a8dccc0ba857254bcf922882b9c18932d227a03f",
+      "split": "validation",
+      "family": "im10.png"
+    },
+    {
+      "id": "im7.png",
+      "source_sha256": "8e4d22f99bc8fce516abb818469673f3df5b76c2c792b341eeeee81d224957e1",
+      "mask_sha256": "03b428a456f4de405da2d80569dc3030b05d6104d74ee9227f09e7f59c7804ac",
+      "pixels_sha256": "a6da74fcd264aa0a96695f24b4f6ad1af90c3eaf2444647eaa1bb15ae07c55df",
+      "split": "validation",
+      "family": "im10.png"
+    },
+    {
+      "id": "im8.png",
+      "source_sha256": "689558a109833875271f02d970bf09eef75e3ed3ebc25a48eb2160aec1d6b562",
+      "mask_sha256": "cdd8808eb2117a688a3452cb26a14251db924874f407ea770e047825fdbdbfb2",
+      "pixels_sha256": "a798431821c5ad71d26d8b73dd9416bda1fbef05e32ecff5c8ea40248cc1e5db",
+      "split": "validation",
+      "family": "im10.png"
+    },
+    {
+      "id": "im9.png",
+      "source_sha256": "5cd9971f625b393687ea40d4597a8b8df1eab7e1c5decff6e052fb557321102e",
+      "mask_sha256": "94da9aea9ed0f7b1ac34f2a2335e71bd10cba65d9cf4e777b2960b7a751fa7e1",
+      "pixels_sha256": "b59a892df0c330b68e6b8de2d084bb9c89ab0d9476736f889ca1ca5212c82d52",
+      "split": "validation",
+      "family": "im10.png"
+    },
+    {
+      "id": "image%20(10).png",
+      "source_sha256": "269dbb0d622e16e955305ab408bfe2dada1246441dc045a6c2d1e5a2d0399190",
+      "mask_sha256": "f5cb31889f655209e1a3b969a50ac44ba7a9424f701560a4c96303a3f693b0fd",
+      "pixels_sha256": "b0054c203ae01d069932d750576e4a781806461b6aad880ff5c9ef867b6d4b4b",
+      "split": "test",
+      "family": "image%20(10).png"
+    },
+    {
+      "id": "image%20(11).png",
+      "source_sha256": "ae680904de9c99932dea9a81f265e8fa6f44d0831cbebdd780b5512d759f6e7f",
+      "mask_sha256": "65b8458acff46d6439e89414c7b8ff2a69b8c53e416d8d756c3876ed215196fb",
+      "pixels_sha256": "6961457ac40d4d717ede3eefe5c5381449fede62f967d4f79c85a2b53a7f9ee3",
+      "split": "test",
+      "family": "image%20(10).png"
+    },
+    {
+      "id": "image%20(12).png",
+      "source_sha256": "28a6b7c5ca48506956821587e586002c251b95a9e35e2aace9235ef76f6e388b",
+      "mask_sha256": "c70dab5a818ee0f83294eeadb584b14e5816808d18d4aa61e84970fccc29c610",
+      "pixels_sha256": "d3102e2424c3ed7ac059d7e902e4db05765750d67082b21c1e079b6fd1d8719e",
+      "split": "test",
+      "family": "image%20(10).png"
+    },
+    {
+      "id": "image%20(13).png",
+      "source_sha256": "1e58860af00ff27d03a3596a68c54e4d480b2aa3dae7210b3f7e3a56a2a7d23c",
+      "mask_sha256": "32b4dbb304cab04273c1dfd47aa7721b4bce1ba93dc8635abc7863988ebdf6d3",
+      "pixels_sha256": "503c84b3f6559460bf484121b0751ba04cce110bd2e94018df0a513895547840",
+      "split": "test",
+      "family": "image%20(10).png"
+    },
+    {
+      "id": "image%20(14).png",
+      "source_sha256": "6a08380a3567ac7a61e01ec9567c95fc042f79339c5bbe01fbdaed8f7f4b8d5d",
+      "mask_sha256": "2c37ced749e050a328aa6488a08ad2c0a2ce6683c92b4ce7d34e4a0084d54ca8",
+      "pixels_sha256": "8c561c14ecfd5fd1fb427ff2cdd2118d232b9552292979d6eda1de24e7eda9be",
+      "split": "test",
+      "family": "image%20(10).png"
+    },
+    {
+      "id": "image%20(15).png",
+      "source_sha256": "5d2f2ebc34ceca3e71bf4693b8ba5400f3dc30bac38cb2b099cd8829a69e3bbe",
+      "mask_sha256": "06555d463f4d327e13e8a9641043b98202bc1a11b2ed457e468a4f55198d1ba2",
+      "pixels_sha256": "cb172b8fbdf104899fedbd07b4da201f9263bfef1a438a0a30729fc1f2ae2ecb",
+      "split": "test",
+      "family": "image%20(10).png"
+    },
+    {
+      "id": "image%20(16).png",
+      "source_sha256": "2c203bdc04faf0500f39f9a9158946b3998f35ca940fdd34e483b6ef859a23d9",
+      "mask_sha256": "ac076ef8349d8d8cc81629f2a9a759096a3d0108313559f4a2ccd51ded6d24a6",
+      "pixels_sha256": "29eb378da83ef86056d71722bbe2eb0f2ecffef3727cd674feab1db0d365cd04",
+      "split": "test",
+      "family": "image%20(10).png"
+    },
+    {
+      "id": "kevin-bhagat-3cLpiv8h5so-unsplash.png",
+      "source_sha256": "053710622c8223d3af1c4441b2cc7e27bd5e9eba5a32227d18ee91cc491c5282",
+      "mask_sha256": "3748215f0789201198e101563ba9b81966a69ba2276edc638fb2ccb19eb2effa",
+      "pixels_sha256": "d8f31a22587a744d6e529cc8441b2075301483c676d703b253bdd6fe227255cf",
+      "split": "test",
+      "family": "kevin-bhagat-3cLpiv8h5so-unsplash.png"
+    },
+    {
+      "id": "m_next_037.png",
+      "source_sha256": "063a6da2180d67584c4df1f694bad874dc8d05dfbc362043f8ec0f607c9f36ab",
+      "mask_sha256": "0cd95520d53e1eb50cb971f43c803b859091a3a719e9963da780825946512dbe",
+      "pixels_sha256": "564c7606ae2fbbf2814b491f91dcd83637e4230eb80a9d58350730ed3b4c59ac",
+      "split": "train",
+      "family": "m_next_037.png"
+    },
+    {
+      "id": "malusi-msomi-1Jz3Xq7EcrI-unsplash.png",
+      "source_sha256": "c442a518014534732876deda8fabff3d9e5777bb65534dc9e9e2096512da1301",
+      "mask_sha256": "5bc67ffbe898559fa70038a2c3b064e5c334069ba7dc7caa81f87b45f0620a4b",
+      "pixels_sha256": "6ee7f9f6887bf507cdf9ef67bc6223cc41c58ea30823f935527832c2b0b4c1c4",
+      "split": "train",
+      "family": "malusi-msomi-1Jz3Xq7EcrI-unsplash.png"
+    },
+    {
+      "id": "maxresdefault.png",
+      "source_sha256": "64029c2e3ad6c1e185558987d320815756e49dd39c8ecf70b7b961eceee32807",
+      "mask_sha256": "51e9041236607bcea1366f4732e1709fe5368910d3d4bd900cd1d4ae510afe10",
+      "pixels_sha256": "398e7a099baefb1ca12b5aeaaa14ba6e9dd7b567e0fd3b9c98bba493006c94ff",
+      "split": "train",
+      "family": "maxresdefault.png"
+    },
+    {
+      "id": "side-view-(left)-90.png",
+      "source_sha256": "8bdbbd3e807d8f889f5272f013f0b6a0ceb76e30b7d7662127110542fbea52b4",
+      "mask_sha256": "e329c30b085a07d3817c0710ecf7eb1c1c141217fd3bd7938fc66db3e1b9ebcc",
+      "pixels_sha256": "96584c3324581e440eab5595a94f4aad0cb79d448c4acd38b4ae17f36067e343",
+      "split": "test",
+      "family": "side-view-(left)-90.png"
+    },
+    {
+      "id": "toyota-gt86-blue-sport-car-side-view-wallpaper-preview.png",
+      "source_sha256": "b895c90d3d2ceadc1800e3894bf0a8a5c28afd4a68fbc00f866a50d5e03b1165",
+      "mask_sha256": "3f6ef6e232c7b5095e3b8529c9b417bd860ae76779c73d89e1fd950e55ac3f14",
+      "pixels_sha256": "e089e951788ab64cba46cb3383c7e7c8034380af6d59a4fb65d749615dcde376",
+      "split": "test",
+      "family": "toyota-gt86-blue-sport-car-side-view-wallpaper-preview.png"
+    },
+    {
+      "id": "unnamed.png",
+      "source_sha256": "091465450b7db9d4f993b90bb723542d937517f30a0cfb2f7b66d0e9f0ee7ce9",
+      "mask_sha256": "ddf6ede7903b8c973b60cc723c0eafcae551a89cea4eed75ec055023345146b8",
+      "pixels_sha256": "286aa6cc68bd3d2cc41c145b26d77b3204cb59cdc955c2cc2637c204c099f5f6",
+      "split": "train",
+      "family": "unnamed.png"
+    },
+    {
+      "id": "yuvraj-singh-keRubFoQix8-unsplash.png",
+      "source_sha256": "4855f471dd318e026cba446e421a3fdfe570b231870dc348cfdbf6d0ae6efdb7",
+      "mask_sha256": "f8eea62c5d6273774b9cdd03f46d327920611ad475317681afe178aa845e25be",
+      "pixels_sha256": "fc6b9d8febc6ce3e71a9f26e66b4b744e25679b897098a3184bb328f4329f284",
+      "split": "train",
+      "family": "yuvraj-singh-keRubFoQix8-unsplash.png"
+    }
+  ],
+  "rule": "group capture dates, im-numbered and image-numbered filename series, and exact RGB duplicates; largest groups first, allocate to lowest filled fraction of 70/15/15 targets"
+}

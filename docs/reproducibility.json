@@ -1,0 +1,52 @@
+{
+  "checked_on": "2026-10-08",
+  "platform": "macOS arm64",
+  "python": "3.14.6",
+  "compiler": "Apple clang 17.0.0",
+  "mpi": "MPICH 5.0.2",
+  "isolation": "Separate source copy without Git history or prior builds; newly created venv installed from requirements-lock.txt. Existing host OS, compiler and MPICH runtime; copied hash-verified datasets.",
+  "locked_dependencies": 38,
+  "checks": {
+    "pip_check": "PASS",
+    "make_check": "PASS: C++ checks, 51 Python tests, local links and six original fingerprints",
+    "recorded_source": "PASS: ten experiment source hashes and one support module; altered-file probe rejected",
+    "mpi_check": "PASS: 510 inversions, 75 NumPy/LAPACK comparisons, 5 extreme-scale diagnostics, 48 failing CLI runs",
+    "mpi_ubsan": "PASS: 510 inversions across 1, 2, 3, 4, 6 ranks",
+    "cnn_saved_weights": "PASS: nine checkpoints; predictions/targets exact, confidence and test metrics within absolute 1e-7",
+    "music_media": "PASS: nine MIDI timelines, MP3 fingerprints and FFmpeg decode"
+  },
+  "full_reruns": [
+    "linear model",
+    "random correlations",
+    "forecasting",
+    "autoencoder",
+    "segmentation",
+    "transfer including pretrained extraction",
+    "music with re-parsed score archive",
+    "plotting gallery"
+  ],
+  "comparison": {
+    "metrics": "Exact numeric equality after excluding elapsed training time and source fingerprints; original saved results retained.",
+    "figures": "Exact RGBA pixels for the six experiments; linear and plotting-gallery outputs also match byte for byte.",
+    "music_midi_mp3": "Exact bytes",
+    "retrained_checkpoints": "All seven serialized files and tensors/configs match exactly."
+  },
+  "weights": {
+    "count": 17,
+    "manifest": "weights-manifest.json",
+    "asset": "museum-weights-v1.0.0.tar.gz",
+    "bytes": 12475199,
+    "sha256": "2fca9ee45b1b30ee3e807b4f760e1b112b6ff9b77d56614d266ea1883f825d32",
+    "state": "Distributed with the v1.0.0 GitHub Release."
+  },
+  "not_checked": [
+    "Linux",
+    "Open MPI",
+    "fresh OS/compiler installation",
+    "CNN retraining",
+    "new hardware timing measurements",
+    "ASan/TSan portability",
+    "GitHub Actions execution"
+  ],
+  "metadata_redaction": "The saved parallel-comparison compiler string substitutes <MPI_PREFIX> for a local installation path; numerical measurements are unchanged."
+}

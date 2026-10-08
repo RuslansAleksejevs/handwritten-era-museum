@@ -1,0 +1,787 @@
+{
+  "schema_version": 1,
+  "belt": "01-White-Belt",
+  "source_revision": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+  "recorded_on": "2026-10-07",
+  "scope": "Every leaf task page in the recovered inventory for this belt. Modern independent C++17 code and local checks; not a certified full official course inventory or grader submission.",
+  "entry_count": 49,
+  "checks": {
+    "standard": "PASS",
+    "undefined_behavior_sanitizer": "PASS",
+    "standalone_header_syntax": "PASS",
+    "compiler": "Apple clang version 17.0.0 (local c++)",
+    "fresh_environment_audit": "DEFERRED_BY_USER"
+  },
+  "entries": [
+    {
+      "source_path": "01-White-Belt/01-First-week/01-Sum/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/01-First-week/01-Sum/README.md",
+      "statement_sha256": "81987611624d1942ff574061846a089e741ec813c795a6a598c361b2bcb7e50c",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white sum",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[sum]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/01-First-week/02-MinString/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/01-First-week/02-MinString/README.md",
+      "statement_sha256": "effd1c4e0f6e9bab6a3c0ea16317c9dcc64f58008a78339dc7dfae672830c04a",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white min-string",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[min-string]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/01-First-week/03-Equation/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/01-First-week/03-Equation/README.md",
+      "statement_sha256": "eb06f11863ccfa04846bb89cd7819b6cb9d0c81a9663e2fedb1180eb4d1e2c64",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white equation",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[equation]"
+      ],
+      "note": "The no-real-root example contains the word \"fire\" in the archive. The implementation follows the prose: output no roots."
+    },
+    {
+      "source_path": "01-White-Belt/01-First-week/04-Division/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/01-First-week/04-Division/README.md",
+      "statement_sha256": "f2939c778eee5a176bd51e31600ca9dd57fca90655b19d60a8e530d6b980af4d",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white division",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[division]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/01-First-week/05-Value/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/01-First-week/05-Value/README.md",
+      "statement_sha256": "3f0780964f296de7e937ff2584ebf94d169c9b68ca8f85c7ac47584aa8ed202a",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white price",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[price]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/01-First-week/06-EvenNums/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/01-First-week/06-EvenNums/README.md",
+      "statement_sha256": "c4d497814559c4b7deafcad37f70f8ed9361873f67163b6489076cea6ce3cd70",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white even",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[even]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/01-First-week/07-SecondOccurence/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/01-First-week/07-SecondOccurence/README.md",
+      "statement_sha256": "dc8017c8bc28b33faa22a7e47ecb5df8d82a2f735c209d3068b3761b2330074a",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white second-f",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[second-f]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/01-First-week/08-GCD/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/01-First-week/08-GCD/README.md",
+      "statement_sha256": "6a420107a59b18d3d489effffb723cbe31386be1c9a498fded02fc3b52256243",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white gcd",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[gcd]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/01-First-week/09-BinaryNums/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/01-First-week/09-BinaryNums/README.md",
+      "statement_sha256": "0349627a38cc3ed1da5180985534199e0d25546389a02a94944a91f33a18909e",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white binary",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[binary]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/02-Second-week/01-Factorial/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/01-Factorial/README.md",
+      "statement_sha256": "5470d97b7ce098015c09286533374ee7d2c30f8e467c8b23691501a0a4e9c514",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "white::Factorial",
+      "implementation": [
+        "projects/cpp-belts/course/white/basics.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/tests.cpp::TestFactorial"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/02-Second-week/02-Palindrome/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/02-Palindrome/README.md",
+      "statement_sha256": "17051a3f5ee8bc4558094badc89dbd061cc68dda9e3d2c0f99fec8ef258a15e7",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "white::IsPalindrom",
+      "implementation": [
+        "projects/cpp-belts/course/white/basics.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/tests.cpp::TestPalindrome"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/02-Second-week/03-PalindromeFilter/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/03-PalindromeFilter/README.md",
+      "statement_sha256": "1d1aa95e303bde564701152110543de4cb12b8dc490bddad5c1215419e313424",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "white::PalindromFilter",
+      "implementation": [
+        "projects/cpp-belts/course/white/basics.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/tests.cpp::TestFilter"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/02-Second-week/04-Maximizer/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/04-Maximizer/README.md",
+      "statement_sha256": "a69bc7fa59801cdb1d001ce63c7a23fd6a6e96a0ce885de4c62c25c4c9fa1a60",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "white::UpdateIfGreater",
+      "implementation": [
+        "projects/cpp-belts/course/white/basics.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/tests.cpp::TestMaximizer"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/02-Second-week/05-StringMover/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/05-StringMover/README.md",
+      "statement_sha256": "9ad5083503fb211c668de8584758b76aea22720fefd4b133bd82d39e386b8e04",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "white::MoveStrings",
+      "implementation": [
+        "projects/cpp-belts/course/white/basics.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/tests.cpp::TestMoveStrings"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/02-Second-week/06-SequenceReversed/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/06-SequenceReversed/README.md",
+      "statement_sha256": "8437164e4e41e2948af22109520bc1b0bb33dfe2bc2b1ec776c3d361abfa9ef5",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "white::Reverse",
+      "implementation": [
+        "projects/cpp-belts/course/white/basics.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/tests.cpp::TestReverse"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/02-Second-week/07-SequenceReversed2/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/07-SequenceReversed2/README.md",
+      "statement_sha256": "df90edccdc889445dc1ac38c45f9463104e6bb5988e464371e8c77b6ca2aca10",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "white::Reversed",
+      "implementation": [
+        "projects/cpp-belts/course/white/basics.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/tests.cpp::TestReversed"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/02-Second-week/08-MeanTemperature/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/08-MeanTemperature/README.md",
+      "statement_sha256": "709dad5d0fa19458c4f54037b2ea3a3789c449e93beb7602fcb41075688be594",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white temperature",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[temperature]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/02-Second-week/09-Queue/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/09-Queue/README.md",
+      "statement_sha256": "fee9de046f58994943bb5612fcb3c54e54ec83e9eeb6addbfe26af3b1233e2e6",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white queue",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[queue]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/02-Second-week/10-MonthlyTasks/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/10-MonthlyTasks/README.md",
+      "statement_sha256": "d265e9961366ca97aa295a6efa6a3224db2f033802b6b8d734876e25d9b4caba",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white months",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[months]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/02-Second-week/11-Anagrams/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/11-Anagrams/README.md",
+      "statement_sha256": "cc63082d5dce50d9c9a166017fe7e613ff071d71e71fc8f79c9c00852a2f817a",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white anagrams",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[anagrams]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/02-Second-week/12-Dictionary/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/12-Dictionary/README.md",
+      "statement_sha256": "0db854ced4b8df34b4335c4e5cc34cb64605fe5cb09abffb2377b582d20f3faf",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white capitals",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[capitals]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/02-Second-week/13-BusSchedule/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/13-BusSchedule/README.md",
+      "statement_sha256": "2343ef5c4a1b6e9a6100afef174fa6a17342072ccbb3573890c920a85a46165d",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white buses",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp",
+        "projects/cpp-belts/course/white/buses.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[buses]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/02-Second-week/14-BusSchedule2/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/14-BusSchedule2/README.md",
+      "statement_sha256": "6032878fb1e4784b4a3abdf11f2ae2939f9023709765225c895767b21ebcb157",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white routes",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[routes]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/02-Second-week/15-UniqueStrings/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/15-UniqueStrings/README.md",
+      "statement_sha256": "4116bbe63ab008770f69f79a9cdccca5cc08188991cb8f0f3624f8b0d5bea0c9",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white unique",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[unique]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/02-Second-week/16-DictionaryValues/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/16-DictionaryValues/README.md",
+      "statement_sha256": "87c05c949b3c55c62fb001f8ac4ffe227d9bf2f05cd0707d21b81d90214b5b50",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "white::BuildMapValuesSet",
+      "implementation": [
+        "projects/cpp-belts/course/white/basics.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/tests.cpp::TestMapValues"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/02-Second-week/17-Synonims/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/17-Synonims/README.md",
+      "statement_sha256": "0d90d854489cad14b5d72b46d0957bfc8ec3e4f201d51680f9aee1e4b4fe65e9",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white synonyms",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[synonyms]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/02-Second-week/18-BusSchedule3/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/02-Second-week/18-BusSchedule3/README.md",
+      "statement_sha256": "9728bbd083f1735a4b73de02b202d3272f87b1bf9899268a0dd0581aedda7f10",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white route-sets",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[route-sets]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/03-Third-week/01-AbsSort/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/03-Third-week/01-AbsSort/README.md",
+      "statement_sha256": "cc4e2ab847ad2d203dfbb7dca370100dfe3eeb4ba76b42cb7a73954d807e0ef1",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white abs-sort",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[abs-sort]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/03-Third-week/02-ToLowerSort/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/03-Third-week/02-ToLowerSort/README.md",
+      "statement_sha256": "929cf2857a8cf2a830f05be545d4608d0e5c8c821c01d1a147900cab83b55f40",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white case-sort",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[case-sort]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/03-Third-week/03-SortedStrings/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/03-Third-week/03-SortedStrings/README.md",
+      "statement_sha256": "3ec129c0f0a9a0016946594eb947116fbf4e640539e03a74dfc8e056f1a3adc6",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "white::SortedStrings",
+      "implementation": [
+        "projects/cpp-belts/course/white/basics.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/tests.cpp::TestSortedStrings"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/03-Third-week/04-Names1/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/03-Third-week/04-Names1/README.md",
+      "statement_sha256": "ac5bbeb826dc43af78cda9e060c39561af9993d0e16dd964e34ea1ffd91d9e66",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "white::Person",
+      "implementation": [
+        "projects/cpp-belts/course/white/person.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/tests.cpp::TestPerson"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/03-Third-week/05-Names2/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/03-Third-week/05-Names2/README.md",
+      "statement_sha256": "5402bc10cc4d15c0e492b48f0db5372e0a51d503b2eb9eb4d1f658bb57d45695",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "white::Person::GetFullNameWithHistory",
+      "implementation": [
+        "projects/cpp-belts/course/white/person.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/tests.cpp::TestPersonHistory"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/03-Third-week/06-String/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/03-Third-week/06-String/README.md",
+      "statement_sha256": "7f329b50bdbfa337f7ba4f4af0917d5b92596174a59131fe0fa18c79ea55a3ec",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "white::ReversibleString",
+      "implementation": [
+        "projects/cpp-belts/course/white/basics.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/tests.cpp::TestString"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/03-Third-week/07-Names3/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/03-Third-week/07-Names3/README.md",
+      "statement_sha256": "19629f01de511d2362cd8172bf0f5380dc8e47663cd6a4641528452f8a192756",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "white::birth::Person",
+      "implementation": [
+        "projects/cpp-belts/course/white/person.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/tests.cpp::TestPersonBirth"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/03-Third-week/08-Incognizable/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/03-Third-week/08-Incognizable/README.md",
+      "statement_sha256": "9b34a0af808a807b5fcce686a12f4665d8aa84659d07de958612f0fa3c241dca",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "white::Incognizable",
+      "implementation": [
+        "projects/cpp-belts/course/white/basics.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/tests.cpp::TestInitialization"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/04-Fourth-week/01-LectureTitle/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/01-LectureTitle/README.md",
+      "statement_sha256": "b6b97bfbfc943c27f9f26262cc496b809ca1d3886164ba39cdd51ef4431dbe84",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "white::LectureTitle",
+      "implementation": [
+        "projects/cpp-belts/course/white/basics.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/tests.cpp::TestLectureTitle"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/04-Fourth-week/02-ReversableFunc/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/02-ReversableFunc/README.md",
+      "statement_sha256": "5c2973679ac04dcda94858b8231236b2bba15ed7d8a32cbf66103a655f583b7d",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "white::Function",
+      "implementation": [
+        "projects/cpp-belts/course/white/basics.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/tests.cpp::TestFunction"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/04-Fourth-week/03-ReversableFunc2/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/03-ReversableFunc2/README.md",
+      "statement_sha256": "5828f073fe6b867df54994beb8e5c2547d1bd79c8b17af33c3bdb479317779d7",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "white::Function",
+      "implementation": [
+        "projects/cpp-belts/course/white/basics.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/tests.cpp::TestFunctionMultiply"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/04-Fourth-week/04-Input1/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/04-Input1/README.md",
+      "statement_sha256": "831ce8ac9ad07c5db4d44a8b4316bfed42ab06bf354d56dd56db76e0fc64692f",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white copy",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[copy]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/04-Fourth-week/05-Input2/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/05-Input2/README.md",
+      "statement_sha256": "0623a3cd3fb8e56cdfcaa6da41946f31e70aa0b201f8c26367b9e661ce9445ae",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white copy-file",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[copy-file]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/04-Fourth-week/06-Precision/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/06-Precision/README.md",
+      "statement_sha256": "74dc2bba7f9b1ba80563ecc5ca4e7fa25021979ea78e670762e74581e12ad6a4",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white precision",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[precision]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/04-Fourth-week/07-TableReading/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/07-TableReading/README.md",
+      "statement_sha256": "260457ccd210edea88ff34ab7e0448f968c80a2ab14c55930b894ce2638f8477",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white table",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[table]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/04-Fourth-week/08-StudentList/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/08-StudentList/README.md",
+      "statement_sha256": "7415b0c91e166c69ec6bf672bd6d5c61751c3d4407f8c137d38b0f3074bc1299",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white students",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[students]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/04-Fourth-week/09-Rational/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/09-Rational/README.md",
+      "statement_sha256": "3451a470da59acc3178a9ff3b8eeb47b6d94c0f6c4480198aef4c7f16aa1ac33",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "white::Rational",
+      "implementation": [
+        "projects/cpp-belts/course/white/rational.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/tests.cpp::TestRational"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/04-Fourth-week/10-EnsureEqual/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/10-EnsureEqual/README.md",
+      "statement_sha256": "5cdc2d32d837457b8d0d96e3327bbbfe17ebed51f76d64ad35a7ba605d4bfcb4",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "white::EnsureEqual",
+      "implementation": [
+        "projects/cpp-belts/course/white/basics.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/tests.cpp::TestEnsureEqual"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/04-Fourth-week/11-RationalExceptions/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/11-RationalExceptions/README.md",
+      "statement_sha256": "5288f09d80b711a78837885b167888f0db4d4b11621a267db8c71ce661f89fb9",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "white::Rational",
+      "implementation": [
+        "projects/cpp-belts/course/white/rational.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/tests.cpp::TestRationalExceptions"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/04-Fourth-week/12-Calc/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/12-Calc/README.md",
+      "statement_sha256": "3eadfd887fceb90d336b923258cdeff1700893fe12397a3de26b03e5e4e1c415",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white calculator",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[calculator]"
+      ]
+    },
+    {
+      "source_path": "01-White-Belt/04-Fourth-week/13-TimeServer/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/04-Fourth-week/13-TimeServer/README.md",
+      "statement_sha256": "6ac4051321b29851499ea04edc93bd19f053a108a89a2a848b3f6d629ec13b1c",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "white::TimeServer",
+      "implementation": [
+        "projects/cpp-belts/course/white/basics.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/tests.cpp::TestTimeServer"
+      ],
+      "note": "AskTimeServer is caller-supplied. Tests use success, system_error and logic_error fakes; no network request is sent."
+    },
+    {
+      "source_path": "01-White-Belt/05-Course-project/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/01-White-Belt/05-Course-project/README.md",
+      "statement_sha256": "baa822cf12d4d2a7c9f31569a03824a05fab9711a190d08b486ed24d89fb85ef",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "white database",
+      "implementation": [
+        "projects/cpp-belts/course/white/main.cpp",
+        "projects/cpp-belts/course/white/commands.hpp",
+        "projects/cpp-belts/course/white/database.hpp",
+        "projects/cpp-belts/course/white/date.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/white/test_cli.py::CASES[database]",
+        "projects/cpp-belts/course/white/tests.cpp::TestDatabase",
+        "projects/cpp-belts/course/white/test_cli.py::check (stateful oracle)"
+      ]
+    }
+  ]
+}

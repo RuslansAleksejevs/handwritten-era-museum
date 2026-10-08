@@ -1,0 +1,632 @@
+{
+  "schema_version": 1,
+  "belt": "02-Yellow-Belt",
+  "source_revision": "87c0b9ba255c8716a559d1d56c87cd06a5701e5e",
+  "recorded_on": "2026-10-07",
+  "scope": "Every leaf task page in the recovered inventory for this belt. Modern independent C++17 code and local checks; not a certified full official course inventory or grader submission.",
+  "entry_count": 37,
+  "checks": {
+    "standard": "PASS",
+    "undefined_behavior_sanitizer": "PASS",
+    "standalone_header_syntax": "PASS",
+    "compiler": "Apple clang version 17.0.0 (local c++)",
+    "fresh_environment_audit": "DEFERRED_BY_USER"
+  },
+  "entries": [
+    {
+      "source_path": "02-Yellow-Belt/01-First-week/01-Matrix-Sum/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/01-First-week/01-Matrix-Sum/README.md",
+      "statement_sha256": "6d41a014e06104c4d02f46d5916b2462ad93005b2bad4f18e8769cd3b5785383",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "yellow matrix",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/main.cpp",
+        "projects/cpp-belts/course/yellow/commands.hpp",
+        "projects/cpp-belts/course/yellow/exercises.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/test_cli.py::CASES[matrix]",
+        "projects/cpp-belts/course/yellow/tests.cpp::TestMatrix"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/01-First-week/02-Mean-Temperature/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/01-First-week/02-Mean-Temperature/README.md",
+      "statement_sha256": "932c3495b7b71e410f6c1fd9558ca93692136d07e4b37ecce274f5c16d9ea1e1",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "yellow temperature",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/main.cpp",
+        "projects/cpp-belts/course/yellow/commands.hpp",
+        "projects/cpp-belts/course/yellow/exercises.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/test_cli.py::CASES[temperature]",
+        "projects/cpp-belts/course/yellow/tests.cpp::TestTemperature"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/01-First-week/03-Block-Mass/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/01-First-week/03-Block-Mass/README.md",
+      "statement_sha256": "911893c8506d31d9dffa48c1824b3ff63382e7cbba88b3b17972bda8aa8162a6",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "yellow blocks",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/main.cpp",
+        "projects/cpp-belts/course/yellow/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/test_cli.py::CASES[blocks]"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/01-First-week/04-Region-Base/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/01-First-week/04-Region-Base/README.md",
+      "statement_sha256": "8e609ef1ccc6d0d7cbce0017b7b066c8739147cc181e0774fe51c26d6036c5f9",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "yellow::FindMaxRepetitionCount",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/exercises.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestRegions"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/01-First-week/05-Issue-Tracker/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/01-First-week/05-Issue-Tracker/README.md",
+      "statement_sha256": "f042fa1256e9d63a55d79fdcc6b1b2383eba18dcf997f42c86b971ddf9ce65ee",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "yellow::TeamTasks",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/exercises.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestTasks"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/01-First-week/06-Squares/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/01-First-week/06-Squares/README.md",
+      "statement_sha256": "0aa01f207875f80af5b3af319fa892f5fb099e14dbbed6fe69f40770172c8a6a",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "yellow::Sqr",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/exercises.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestSquare"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/01-First-week/07-Reference/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/01-First-week/07-Reference/README.md",
+      "statement_sha256": "c1cf3163ce46069dba2fac8c6b11f9e409c4d3d82fb7d45e95aaadab22e1a294",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "yellow::GetRefStrict",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/exercises.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestReference"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/02-Second-week/01-Decomposition/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/02-Second-week/01-Decomposition/README.md",
+      "statement_sha256": "db3a5b0d26ddba04058fd9e3f963cf35d30a8cfac328432c6e4fd272cb0122c5",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "decomposition",
+      "entry_point": "yellow buses",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/buses/query.h",
+        "projects/cpp-belts/course/yellow/buses/query.cpp",
+        "projects/cpp-belts/course/yellow/buses/responses.h",
+        "projects/cpp-belts/course/yellow/buses/responses.cpp",
+        "projects/cpp-belts/course/yellow/buses/bus_manager.h",
+        "projects/cpp-belts/course/yellow/buses/bus_manager.cpp",
+        "projects/cpp-belts/course/yellow/buses/main.cpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/test_cli.py::CASES[buses]",
+        "projects/cpp-belts/course/yellow/tests.cpp::TestBusInterfaces"
+      ],
+      "note": "The pinned driver interface was inspected; the implementation and response model are new. The multi-file program is compiled and exercised."
+    },
+    {
+      "source_path": "02-Yellow-Belt/02-Second-week/02-GetDistinctRealRootCount/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/02-Second-week/02-GetDistinctRealRootCount/README.md",
+      "statement_sha256": "32164ef89ea498a201b879b5418f49b272f4f1b780fa9659dfabd584039716a1",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "test_suite",
+      "entry_point": "yellow::contracts::RootCounter",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/contract_tests.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestRootContract"
+      ],
+      "note": "A generic candidate test suite, run against the local correct implementation and representative faulty candidates; this is not an implementation-only substitution for the testing assignment."
+    },
+    {
+      "source_path": "02-Yellow-Belt/02-Second-week/03-PersonTest/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/02-Second-week/03-PersonTest/README.md",
+      "statement_sha256": "b3deb262e53aeab2e1a2cce117cb72d0a0c895beb1f1f02798dd7514d7539b06",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "test_suite",
+      "entry_point": "yellow::contracts::Person",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/contract_tests.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestPersonContract"
+      ],
+      "note": "A generic candidate test suite, run against the local correct implementation and representative faulty candidates; this is not an implementation-only substitution for the testing assignment."
+    },
+    {
+      "source_path": "02-Yellow-Belt/02-Second-week/04-RationalTest/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/02-Second-week/04-RationalTest/README.md",
+      "statement_sha256": "5985d457b1f4283412bd41b310a4cd3ab060cae75bade8bef171eb5a5b95ebc5",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "test_suite",
+      "entry_point": "yellow::contracts::Rational",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/contract_tests.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestRationalContract"
+      ],
+      "note": "A generic candidate test suite, run against the local correct implementation and representative faulty candidates; this is not an implementation-only substitution for the testing assignment."
+    },
+    {
+      "source_path": "02-Yellow-Belt/02-Second-week/05-IsPalindromTest/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/02-Second-week/05-IsPalindromTest/README.md",
+      "statement_sha256": "bf33c5cd97bab63d2c391c3387c06882afaee8240a71b90532f0edc473ebc43c",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "test_suite",
+      "entry_point": "yellow::contracts::Palindrome",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/contract_tests.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestPalindromeContract"
+      ],
+      "note": "A generic candidate test suite, run against the local correct implementation and representative faulty candidates; this is not an implementation-only substitution for the testing assignment."
+    },
+    {
+      "source_path": "02-Yellow-Belt/03-Third-week/01-SumReverseSort/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/03-Third-week/01-SumReverseSort/README.md",
+      "statement_sha256": "13b15530be32c3f427fcaac806d37be009c36c30d39f7761bfea05ff7c6a3b9c",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "yellow::Sum / Reverse / Sort",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/sum_reverse_sort.cpp",
+        "projects/cpp-belts/course/yellow/sum_reverse_sort.h"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestSeparateFunctions"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/03-Third-week/02-PhoneNumber/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/03-Third-week/02-PhoneNumber/README.md",
+      "statement_sha256": "b44fa0529424dc0383e75d03fcef4e0c8af00594640befa52fc0f78b7e9bbc8b",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "yellow::PhoneNumber",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/phone_number.cpp",
+        "projects/cpp-belts/course/yellow/phone_number.h"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestPhone"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/03-Third-week/03-ClassDeclaration/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/03-Third-week/03-ClassDeclaration/README.md",
+      "statement_sha256": "a7a446b196b09457e439bf5e3878b9e390124b3cad8bafcfb6495afd17bbd9f7",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "yellow::Rectangle",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/rectangle.h",
+        "projects/cpp-belts/course/yellow/rectangle.cpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestRectangle"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/03-Third-week/04-Decomposition2/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/03-Third-week/04-Decomposition2/README.md",
+      "statement_sha256": "22d3abe2a7fbd00d0b9fd937e494125d7308ad3fd72346418d0f8bc46ca8fae2",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "decomposition",
+      "entry_point": "yellow buses",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/buses/query.h",
+        "projects/cpp-belts/course/yellow/buses/query.cpp",
+        "projects/cpp-belts/course/yellow/buses/responses.h",
+        "projects/cpp-belts/course/yellow/buses/responses.cpp",
+        "projects/cpp-belts/course/yellow/buses/bus_manager.h",
+        "projects/cpp-belts/course/yellow/buses/bus_manager.cpp",
+        "projects/cpp-belts/course/yellow/buses/main.cpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/test_cli.py::CASES[buses]",
+        "projects/cpp-belts/course/yellow/tests.cpp::TestBusInterfaces"
+      ],
+      "note": "The pinned driver interface was inspected; the implementation and response model are new. The multi-file program is compiled and exercised."
+    },
+    {
+      "source_path": "02-Yellow-Belt/04-Fourth-week/01-PrintVectorPart/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/01-PrintVectorPart/README.md",
+      "statement_sha256": "6b51ffd283ac4443941d27fe84334b7d39db31d19312aab5b4c0d081fc10faa1",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "yellow::PrintVectorPart",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/exercises.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestVectorPart"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/04-Fourth-week/02-FindGreaterElements/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/02-FindGreaterElements/README.md",
+      "statement_sha256": "b463d489e2e9c2bdd13257ff1165caa5ba3f3ea1062c94cb22608a0117a04c44",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "yellow::FindGreaterElements",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/exercises.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestGreater"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/04-Fourth-week/03-SplitIntoWords/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/03-SplitIntoWords/README.md",
+      "statement_sha256": "d1bb587e8152f0674314c661a15270f3419971699f411cd99be63e98614ce764",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "yellow::SplitIntoWords",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/exercises.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestWords"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/04-Fourth-week/04-RemoveDuplicates/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/04-RemoveDuplicates/README.md",
+      "statement_sha256": "d44e3892a58c072e58d5a151c727a3c7e2c149060c2dd9b2283ad0bf4e366b47",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "yellow::RemoveDuplicates",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/exercises.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestDuplicates"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/04-Fourth-week/05-Permutations/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/05-Permutations/README.md",
+      "statement_sha256": "07933bc03ccb7b51614e1f79725681fa3db646e845c960ae920f009a513c717f",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "yellow permutations",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/main.cpp",
+        "projects/cpp-belts/course/yellow/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/test_cli.py::CASES[permutations]"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/04-Fourth-week/06-PersonStats/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/06-PersonStats/README.md",
+      "statement_sha256": "53c6326e0ca6c7ab87973b74d5a2de28a9f21052a6707f004f3559d908eb8cfb",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "yellow::demographics::PrintStats",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/exercises.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestDemographics"
+      ],
+      "note": "The standalone exhibit supplies local Person/Gender and ComputeMedianAge scaffolding; an original grader supplies those externally."
+    },
+    {
+      "source_path": "02-Yellow-Belt/04-Fourth-week/07-MergeSort/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/07-MergeSort/README.md",
+      "statement_sha256": "c390dcade6a3ad0d552fb14410821c61ff473123e237e8265d45d54498658197",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "yellow::MergeSort",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/exercises.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestMergeSort"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/04-Fourth-week/08-MergeSort2/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/08-MergeSort2/README.md",
+      "statement_sha256": "2bacb0c1540e6a2a241db5fc9bf38ed401fce3dfc042e56d4cdfa83cbc5a4d71",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "yellow::ternary::MergeSort",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/exercises.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestMergeSort"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/04-Fourth-week/09-Budget/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/09-Budget/README.md",
+      "statement_sha256": "d5abc3ee70903bfe4dfcd81d7aa4bff25c8ba97d2926ba83294562b81709f18c",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "yellow budget",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/main.cpp",
+        "projects/cpp-belts/course/yellow/commands.hpp",
+        "projects/cpp-belts/course/yellow/budget.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/test_cli.py::CASES[budget]",
+        "projects/cpp-belts/course/yellow/tests.cpp::TestBudget",
+        "projects/cpp-belts/course/yellow/test_cli.py::check (datetime oracle)"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/04-Fourth-week/10-Budget2/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/10-Budget2/README.md",
+      "statement_sha256": "817fbaafa307ffb399cfc24231b03b138fce588a17d8ce9bc22110ddd73f9904",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "yellow budget-prefix",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/main.cpp",
+        "projects/cpp-belts/course/yellow/commands.hpp",
+        "projects/cpp-belts/course/yellow/budget.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/test_cli.py::CASES[budget-prefix]",
+        "projects/cpp-belts/course/yellow/tests.cpp::TestPrefixBudget",
+        "projects/cpp-belts/course/yellow/test_cli.py::check (datetime oracle)"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/04-Fourth-week/11-FindNearestElement/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/11-FindNearestElement/README.md",
+      "statement_sha256": "e651714768ad4d6e165a420da3191e79ff97d024cbf83dbc866adb3c32267625",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "yellow::FindNearestElement",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/exercises.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestNearest"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/04-Fourth-week/12-Person4/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/12-Person4/README.md",
+      "statement_sha256": "2740c433ee3d26a7694307cb82cdeb04fec0dec0586b1d075f9ec528a75542e8",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "yellow::Person::GetFullName",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/../white/person.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestPersonContract"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/04-Fourth-week/13-Prefix/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/13-Prefix/README.md",
+      "statement_sha256": "4370c4b4d5c0519865eb54cad841a9fb9ee24b5d517e37f05bc0b6e9fea088be",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "yellow::FindStartsWith(char)",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/exercises.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestPrefix"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/04-Fourth-week/14-Prefix2/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/14-Prefix2/README.md",
+      "statement_sha256": "4feb66385b1e3e23ca1590cdfd32cf5ef082885bb6421a73dc2bab90b9ddddda",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "yellow::FindStartsWith(string)",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/exercises.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestPrefix"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/04-Fourth-week/15-Arithmetic/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/15-Arithmetic/README.md",
+      "statement_sha256": "c0bb6695a550c75310753292592113915efc0fd5a722d8a67919dcedbd7b0b20",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "yellow arithmetic",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/main.cpp",
+        "projects/cpp-belts/course/yellow/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/test_cli.py::CASES[arithmetic]"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/04-Fourth-week/16-Arithmetic2/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/04-Fourth-week/16-Arithmetic2/README.md",
+      "statement_sha256": "c841bb8b9a3500f5b2566bdb116a703da21bebe02251d8b7e1571e42c2cb2018",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "yellow arithmetic-minimal",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/main.cpp",
+        "projects/cpp-belts/course/yellow/commands.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/test_cli.py::CASES[arithmetic-minimal]"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/05-Fifth-week/01-Inheritance/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/05-Fifth-week/01-Inheritance/README.md",
+      "statement_sha256": "dac96c1ae9fa75f323df9ee05a9072dbaa16fca69d6f69eeb55d63f83394a0f0",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "yellow::Animal / Dog",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/oop.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestAnimal"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/05-Fifth-week/02-SendMessage/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/05-Fifth-week/02-SendMessage/README.md",
+      "statement_sha256": "07a8caaf7096dbaec171b19ced3d010959373d92608565c39112bdbcc0e56517",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "yellow::INotifier / SmsNotifier / EmailNotifier",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/oop.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestNotifiers"
+      ],
+      "note": "SendSms and SendEmail are caller-supplied. Tests record calls locally; no message is sent."
+    },
+    {
+      "source_path": "02-Yellow-Belt/05-Fifth-week/03-Figures/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/05-Fifth-week/03-Figures/README.md",
+      "statement_sha256": "2adbb199716c840a4e1a807a7f583edc213d7d4c939e661d2c8e697de8cae716",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "yellow figures",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/main.cpp",
+        "projects/cpp-belts/course/yellow/commands.hpp",
+        "projects/cpp-belts/course/yellow/oop.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/test_cli.py::CASES[figures]",
+        "projects/cpp-belts/course/yellow/tests.cpp::TestFigures"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/05-Fifth-week/04-Refactoring/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/05-Fifth-week/04-Refactoring/README.md",
+      "statement_sha256": "ba69c6e9cb9a82c0842b62da313f6eab162f5cb0e797a1ea42e031c4e841b90c",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "api",
+      "entry_point": "yellow::refactoring::Person / Student / Teacher / Policeman",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/oop.hpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/tests.cpp::TestRefactor"
+      ]
+    },
+    {
+      "source_path": "02-Yellow-Belt/06-Course-project/README.md",
+      "source_url": "https://github.com/ivtsylin/BeltsCpp/blob/87c0b9ba255c8716a559d1d56c87cd06a5701e5e/02-Yellow-Belt/06-Course-project/README.md",
+      "statement_sha256": "9a6ff1aad5fb9197665ff20da699e39adae12ef84bbf525e4c3f2e205e76da0e",
+      "status": "LOCAL_CONTRACT_TESTED",
+      "grader_acceptance": "NOT_RUN",
+      "kind": "program",
+      "entry_point": "yellow database",
+      "implementation": [
+        "projects/cpp-belts/course/yellow/main.cpp",
+        "projects/cpp-belts/course/yellow/commands.hpp",
+        "projects/cpp-belts/course/yellow/events/database.h",
+        "projects/cpp-belts/course/yellow/events/database.cpp",
+        "projects/cpp-belts/course/yellow/events/date.h",
+        "projects/cpp-belts/course/yellow/events/date.cpp",
+        "projects/cpp-belts/course/yellow/events/node.h",
+        "projects/cpp-belts/course/yellow/events/node.cpp",
+        "projects/cpp-belts/course/yellow/events/token.h",
+        "projects/cpp-belts/course/yellow/events/token.cpp",
+        "projects/cpp-belts/course/yellow/events/condition_parser.h",
+        "projects/cpp-belts/course/yellow/events/condition_parser.cpp",
+        "projects/cpp-belts/course/yellow/events/main.cpp"
+      ],
+      "tests": [
+        "projects/cpp-belts/course/yellow/test_cli.py::CASES[database]",
+        "projects/cpp-belts/course/yellow/tests.cpp::TestEvents",
+        "projects/cpp-belts/course/yellow/test_cli.py::check (stateful oracle)"
+      ]
+    }
+  ]
+}

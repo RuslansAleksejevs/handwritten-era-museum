@@ -1,0 +1,21 @@
+{
+  "implementation": "MPICH",
+  "version": "5.0.2",
+  "source_url": "https://www.mpich.org/static/downloads/5.0.2/mpich-5.0.2.tar.gz",
+  "source_sha256": "928c2f18d350a91443fe8024ad01ce2c6009e9c551e0a73e797fc567f119137d",
+  "device": "ch3:sock",
+  "scope": "Single-host loopback testing; static MPI library, not instrumented with UBSan. Local MPI build kept outside the portfolio.",
+  "configure_options": [
+    "--with-device=ch3:sock",
+    "--disable-fortran",
+    "--disable-cxx",
+    "--disable-romio",
+    "--without-hwloc",
+    "--with-datatype-engine=dataloop",
+    "--disable-shared",
+    "--enable-static",
+    "CC=clang",
+    "CXX=clang++",
+    "CFLAGS=-O2"
+  ]
+}

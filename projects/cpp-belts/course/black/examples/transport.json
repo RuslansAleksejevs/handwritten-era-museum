@@ -1,0 +1,157 @@
+{
+  "base_requests": [
+    {
+      "type": "Stop",
+      "name": "Museum",
+      "latitude": 55,
+      "longitude": 37,
+      "road_distances": {
+        "Library": 1150,
+        "Campus": 1500,
+        "Station": 1850,
+        "Park": 2200,
+        "Harbor": 2550
+      }
+    },
+    {
+      "type": "Stop",
+      "name": "Library",
+      "latitude": 55.1,
+      "longitude": 37.06,
+      "road_distances": {
+        "Museum": 1150,
+        "Campus": 1150,
+        "Station": 1500,
+        "Park": 1850,
+        "Harbor": 2200
+      }
+    },
+    {
+      "type": "Stop",
+      "name": "Campus",
+      "latitude": 55.25,
+      "longitude": 37.03,
+      "road_distances": {
+        "Museum": 1500,
+        "Library": 1150,
+        "Station": 1150,
+        "Park": 1500,
+        "Harbor": 1850
+      }
+    },
+    {
+      "type": "Stop",
+      "name": "Station",
+      "latitude": 55.15,
+      "longitude": 37.25,
+      "road_distances": {
+        "Museum": 1850,
+        "Library": 1500,
+        "Campus": 1150,
+        "Park": 1150,
+        "Harbor": 1500
+      }
+    },
+    {
+      "type": "Stop",
+      "name": "Park",
+      "latitude": 55.32,
+      "longitude": 37.17,
+      "road_distances": {
+        "Museum": 2200,
+        "Library": 1850,
+        "Campus": 1500,
+        "Station": 1150,
+        "Harbor": 1150
+      }
+    },
+    {
+      "type": "Stop",
+      "name": "Harbor",
+      "latitude": 55.05,
+      "longitude": 37.35,
+      "road_distances": {
+        "Museum": 2550,
+        "Library": 2200,
+        "Campus": 1850,
+        "Station": 1500,
+        "Park": 1150
+      }
+    },
+    {
+      "type": "Bus",
+      "name": "12",
+      "stops": [
+        "Museum",
+        "Library",
+        "Campus",
+        "Park"
+      ],
+      "is_roundtrip": false
+    },
+    {
+      "type": "Bus",
+      "name": "42",
+      "stops": [
+        "Library",
+        "Station",
+        "Harbor"
+      ],
+      "is_roundtrip": false
+    }
+  ],
+  "routing_settings": {
+    "bus_wait_time": 2,
+    "bus_velocity": 30
+  },
+  "render_settings": {
+    "width": 780,
+    "height": 430,
+    "padding": 65,
+    "stop_radius": 6,
+    "line_width": 7,
+    "stop_label_font_size": 17,
+    "stop_label_offset": [
+      10,
+      -8
+    ],
+    "bus_label_font_size": 18,
+    "bus_label_offset": [
+      10,
+      20
+    ],
+    "underlayer_color": [
+      255,
+      255,
+      255,
+      0.92
+    ],
+    "underlayer_width": 4,
+    "color_palette": [
+      "teal",
+      [
+        203,
+        77,
+        40
+      ]
+    ],
+    "layers": [
+      "bus_lines",
+      "bus_labels",
+      "stop_points",
+      "stop_labels"
+    ]
+  },
+  "stat_requests": [
+    {
+      "id": 1,
+      "type": "Route",
+      "from": "Museum",
+      "to": "Harbor"
+    },
+    {
+      "id": 2,
+      "type": "Map"
+    }
+  ]
+}

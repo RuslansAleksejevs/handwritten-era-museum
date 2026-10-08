@@ -1,0 +1,55 @@
+{
+  "config": {
+    "epochs": 12,
+    "batch_size": 256,
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "optimizer": "AdamW",
+    "seeds": [
+      2026,
+      2027,
+      2028
+    ],
+    "models": [
+      "linear",
+      "historical",
+      "compact"
+    ],
+    "selection": "minimum validation NLL within each run; no test-set selection",
+    "augmentation": "none for all models",
+    "device": "cpu",
+    "threads": 2,
+    "deterministic_algorithms": true,
+    "split_seed": 2019,
+    "normalization": {
+      "mean": [
+        0.4913578049257899,
+        0.48211599409381817,
+        0.44650548738766366
+      ],
+      "std": [
+        0.24708681401422325,
+        0.24347867438795093,
+        0.26155450876864794
+      ],
+      "fit": "training only"
+    }
+  },
+  "dataset": {
+    "name": "CIFAR-10 binary edition",
+    "url": "https://www.cs.toronto.edu/~kriz/cifar-10-binary.tar.gz",
+    "official_md5": "c32a1d4ab5d03f1284b67883e8d87530",
+    "sha256": "c4a38c50a1bc5f3a1c5537f2155ab9d68f9f25eb1ed8d9ddda3db29a59bca1dd",
+    "train": 45000,
+    "validation": 5000,
+    "test": 10000,
+    "train_indices_sha256": "cb094134e31e027616b4064d37422c127712057b05660f668fd5aa738080784c",
+    "validation_indices_sha256": "2fea25abfe5461676b6fa934d68032908eb62de34a2c1672d679f655d312434d"
+  },
+  "code_sha256": {
+    "run.py": "8b67b7f030100a84033983eba423a3e860eedfd631605cdd6db086c6013da875",
+    "cnn_models.py": "089b6a01e6b7d2f4a7db5c6731e0da954f8c2fb2bf9848fcc1505f3ba4435d36",
+    "cifar_data.py": "120cf6a093d66473d603e180664d8f891ce9f3961d536f90447cd6de72dc8d23",
+    "originals/learning/convnet.py": "4211dbb240421f915f8a46459dabd395135e4662edae1cbc633738e9ec8ef11b"
+  }
+}

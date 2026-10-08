@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "stop_name": "Museum",
+      "time": 2,
+      "type": "Wait"
+    },
+    {
+      "bus": "12",
+      "span_count": 1,
+      "time": 2.3,
+      "type": "Bus"
+    },
+    {
+      "stop_name": "Library",
+      "time": 2,
+      "type": "Wait"
+    },
+    {
+      "bus": "42",
+      "span_count": 2,
+      "time": 6,
+      "type": "Bus"
+    }
+  ],
+  "request_id": 1,
+  "total_time": 12.3
+}

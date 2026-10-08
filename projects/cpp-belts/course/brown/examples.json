@@ -1,0 +1,51 @@
+[
+  {
+    "source_path": "04-Brown-Belt/03-Third-week/01-Demographics/README.md",
+    "mode": "demographics",
+    "input": "11\nIvan 25 1000 M\nOlga 30 623 W\nSergey 24 825 M\nMaria 42 1254 W\nMikhail 15 215 M\nOleg 18 230 M\nDenis 53 8965 M\nMaxim 37 9050 M\nIvan 47 19050 M\nIvan 17 50 M\nOlga 23 550 W\nAGE 18\nAGE 25\nWEALTHY 5\nPOPULAR_NAME M\n",
+    "expected": "There are 9 adult people for maturity age 18\nThere are 6 adult people for maturity age 25\nTop-5 people have total income 39319\nMost popular name among people of gender M is Ivan\n",
+    "format": "text"
+  },
+  {
+    "source_path": "04-Brown-Belt/05-Fifth-week/09-BudgetPart1/README.md",
+    "mode": "budget-home",
+    "input": "8\nEarn 2000-01-02 2000-01-06 20\nComputeIncome 2000-01-01 2001-01-01\nPayTax 2000-01-02 2000-01-03\nComputeIncome 2000-01-01 2001-01-01\nEarn 2000-01-03 2000-01-03 10\nComputeIncome 2000-01-01 2001-01-01\nPayTax 2000-01-03 2000-01-03\nComputeIncome 2000-01-01 2001-01-01\n",
+    "expected": "20\n18.96\n28.96\n27.2076\n",
+    "format": "text"
+  },
+  {
+    "source_path": "04-Brown-Belt/05-Fifth-week/10-BudgetPart2/README.md",
+    "mode": "budget",
+    "input": "8\nEarn 2000-01-02 2000-01-06 20\nComputeIncome 2000-01-01 2001-01-01\nPayTax 2000-01-02 2000-01-03 13\nComputeIncome 2000-01-01 2001-01-01\nSpend 2000-12-30 2001-01-02 14\nComputeIncome 2000-01-01 2001-01-01\nPayTax 2000-12-30 2000-12-30 13\nComputeIncome 2000-01-01 2001-01-01\n",
+    "expected": "20\n18.96\n8.46\n8.46\n",
+    "format": "text"
+  },
+  {
+    "source_path": "04-Brown-Belt/06-Course-project/01-Part-AB/README.md",
+    "mode": "transport-ab",
+    "input": "10\nStop Tolstopaltsevo: 55.611087, 37.20829\nStop Marushkino: 55.595884, 37.209755\nBus 256: Biryulyovo Zapadnoye > Biryusinka > Universam > Biryulyovo Tovarnaya > Biryulyovo Passazhirskaya > Biryulyovo Zapadnoye\nBus 750: Tolstopaltsevo - Marushkino - Rasskazovka\nStop Rasskazovka: 55.632761, 37.333324\nStop Biryulyovo Zapadnoye: 55.574371, 37.6517\nStop Biryusinka: 55.581065, 37.64839\nStop Universam: 55.587655, 37.645687\nStop Biryulyovo Tovarnaya: 55.592028, 37.653656\nStop Biryulyovo Passazhirskaya: 55.580999, 37.659164\n3\nBus 256\nBus 750\nBus 751\n",
+    "expected": "Bus 256: 6 stops on route, 5 unique stops, 4371.02 route length\nBus 750: 5 stops on route, 3 unique stops, 20939.5 route length\nBus 751: not found\n",
+    "format": "text"
+  },
+  {
+    "source_path": "04-Brown-Belt/06-Course-project/01-Part-AB/README.md",
+    "mode": "transport-ab",
+    "input": "13\nStop Tolstopaltsevo: 55.611087, 37.20829\nStop Marushkino: 55.595884, 37.209755\nBus 256: Biryulyovo Zapadnoye > Biryusinka > Universam > Biryulyovo Tovarnaya > Biryulyovo Passazhirskaya > Biryulyovo Zapadnoye\nBus 750: Tolstopaltsevo - Marushkino - Rasskazovka\nStop Rasskazovka: 55.632761, 37.333324\nStop Biryulyovo Zapadnoye: 55.574371, 37.6517\nStop Biryusinka: 55.581065, 37.64839\nStop Universam: 55.587655, 37.645687\nStop Biryulyovo Tovarnaya: 55.592028, 37.653656\nStop Biryulyovo Passazhirskaya: 55.580999, 37.659164\nBus 828: Biryulyovo Zapadnoye > Universam > Rossoshanskaya ulitsa > Biryulyovo Zapadnoye\nStop Rossoshanskaya ulitsa: 55.595579, 37.605757\nStop Prazhskaya: 55.611678, 37.603831\n6\nBus 256\nBus 750\nBus 751\nStop Samara\nStop Prazhskaya\nStop Biryulyovo Zapadnoye\n",
+    "expected": "Bus 256: 6 stops on route, 5 unique stops, 4371.02 route length\nBus 750: 5 stops on route, 3 unique stops, 20939.5 route length\nBus 751: not found\nStop Samara: not found\nStop Prazhskaya: no buses\nStop Biryulyovo Zapadnoye: buses 256 828\n",
+    "format": "text"
+  },
+  {
+    "source_path": "04-Brown-Belt/06-Course-project/03-Part-C/README.md",
+    "mode": "transport-c",
+    "input": "13\nStop Tolstopaltsevo: 55.611087, 37.20829, 3900m to Marushkino\nStop Marushkino: 55.595884, 37.209755, 9900m to Rasskazovka\nBus 256: Biryulyovo Zapadnoye > Biryusinka > Universam > Biryulyovo Tovarnaya > Biryulyovo Passazhirskaya > Biryulyovo Zapadnoye\nBus 750: Tolstopaltsevo - Marushkino - Rasskazovka\nStop Rasskazovka: 55.632761, 37.333324\nStop Biryulyovo Zapadnoye: 55.574371, 37.6517, 7500m to Rossoshanskaya ulitsa, 1800m to Biryusinka, 2400m to Universam\nStop Biryusinka: 55.581065, 37.64839, 750m to Universam\nStop Universam: 55.587655, 37.645687, 5600m to Rossoshanskaya ulitsa, 900m to Biryulyovo Tovarnaya\nStop Biryulyovo Tovarnaya: 55.592028, 37.653656, 1300m to Biryulyovo Passazhirskaya\nStop Biryulyovo Passazhirskaya: 55.580999, 37.659164, 1200m to Biryulyovo Zapadnoye\nBus 828: Biryulyovo Zapadnoye > Universam > Rossoshanskaya ulitsa > Biryulyovo Zapadnoye\nStop Rossoshanskaya ulitsa: 55.595579, 37.605757\nStop Prazhskaya: 55.611678, 37.603831\n6\nBus 256\nBus 750\nBus 751\nStop Samara\nStop Prazhskaya\nStop Biryulyovo Zapadnoye\n",
+    "expected": "Bus 256: 6 stops on route, 5 unique stops, 5950 route length, 1.361239 curvature\nBus 750: 5 stops on route, 3 unique stops, 27600 route length, 1.318084 curvature\nBus 751: not found\nStop Samara: not found\nStop Prazhskaya: no buses\nStop Biryulyovo Zapadnoye: buses 256 828\n",
+    "format": "text"
+  },
+  {
+    "source_path": "04-Brown-Belt/06-Course-project/04-Part-D/README.md",
+    "mode": "transport-json",
+    "input": "{\n  \"base_requests\": [\n    {\n      \"type\": \"Stop\",\n      \"road_distances\": {\n        \"Marushkino\": 3900\n      },\n      \"longitude\": 37.20829,\n      \"name\": \"Tolstopaltsevo\",\n      \"latitude\": 55.611087\n    },\n    {\n      \"type\": \"Stop\",\n      \"road_distances\": {\n        \"Rasskazovka\": 9900\n      },\n      \"longitude\": 37.209755,\n      \"name\": \"Marushkino\",\n      \"latitude\": 55.595884\n    },\n    {\n      \"type\": \"Bus\",\n      \"name\": \"256\",\n      \"stops\": [\n        \"Biryulyovo Zapadnoye\",\n        \"Biryusinka\",\n        \"Universam\",\n        \"Biryulyovo Tovarnaya\",\n        \"Biryulyovo Passazhirskaya\",\n        \"Biryulyovo Zapadnoye\"\n      ],\n      \"is_roundtrip\": true\n    },\n    {\n      \"type\": \"Bus\",\n      \"name\": \"750\",\n      \"stops\": [\n        \"Tolstopaltsevo\",\n        \"Marushkino\",\n        \"Rasskazovka\"\n      ],\n      \"is_roundtrip\": false\n    },\n    {\n      \"type\": \"Stop\",\n      \"road_distances\": {},\n      \"longitude\": 37.333324,\n      \"name\": \"Rasskazovka\",\n      \"latitude\": 55.632761\n    },\n    {\n      \"type\": \"Stop\",\n      \"road_distances\": {\n        \"Rossoshanskaya ulitsa\": 7500,\n        \"Biryusinka\": 1800,\n        \"Universam\": 2400\n      },\n      \"longitude\": 37.6517,\n      \"name\": \"Biryulyovo Zapadnoye\",\n      \"latitude\": 55.574371\n    },\n    {\n      \"type\": \"Stop\",\n      \"road_distances\": {\n        \"Universam\": 750\n      },\n      \"longitude\": 37.64839,\n      \"name\": \"Biryusinka\",\n      \"latitude\": 55.581065\n    },\n    {\n      \"type\": \"Stop\",\n      \"road_distances\": {\n        \"Rossoshanskaya ulitsa\": 5600,\n        \"Biryulyovo Tovarnaya\": 900\n      },\n      \"longitude\": 37.645687,\n      \"name\": \"Universam\",\n      \"latitude\": 55.587655\n    },\n    {\n      \"type\": \"Stop\",\n      \"road_distances\": {\n        \"Biryulyovo Passazhirskaya\": 1300\n      },\n      \"longitude\": 37.653656,\n      \"name\": \"Biryulyovo Tovarnaya\",\n      \"latitude\": 55.592028\n    },\n    {\n      \"type\": \"Stop\",\n      \"road_distances\": {\n        \"Biryulyovo Zapadnoye\": 1200\n      },\n      \"longitude\": 37.659164,\n      \"name\": \"Biryulyovo Passazhirskaya\",\n      \"latitude\": 55.580999\n    },\n    {\n      \"type\": \"Bus\",\n      \"name\": \"828\",\n      \"stops\": [\n        \"Biryulyovo Zapadnoye\",\n        \"Universam\",\n        \"Rossoshanskaya ulitsa\",\n        \"Biryulyovo Zapadnoye\"\n      ],\n      \"is_roundtrip\": true\n    },\n    {\n      \"type\": \"Stop\",\n      \"road_distances\": {},\n      \"longitude\": 37.605757,\n      \"name\": \"Rossoshanskaya ulitsa\",\n      \"latitude\": 55.595579\n    },\n    {\n      \"type\": \"Stop\",\n      \"road_distances\": {},\n      \"longitude\": 37.603831,\n      \"name\": \"Prazhskaya\",\n      \"latitude\": 55.611678\n    }\n  ],\n  \"stat_requests\": [\n    {\n      \"type\": \"Bus\",\n      \"name\": \"256\",\n      \"id\": 1965312327\n    },\n    {\n      \"type\": \"Bus\",\n      \"name\": \"750\",\n      \"id\": 519139350\n    },\n    {\n      \"type\": \"Bus\",\n      \"name\": \"751\",\n      \"id\": 194217464\n    },\n    {\n      \"type\": \"Stop\",\n      \"name\": \"Samara\",\n      \"id\": 746888088\n    },\n    {\n      \"type\": \"Stop\",\n      \"name\": \"Prazhskaya\",\n      \"id\": 65100610\n    },\n    {\n      \"type\": \"Stop\",\n      \"name\": \"Biryulyovo Zapadnoye\",\n      \"id\": 1042838872\n    }\n  ]\n}\n",
+    "expected": "[\n  {\n    \"route_length\": 5950,\n    \"request_id\": 1965312327,\n    \"curvature\": 1.36124,\n    \"stop_count\": 6,\n    \"unique_stop_count\": 5\n  },\n  {\n    \"route_length\": 27600,\n    \"request_id\": 519139350,\n    \"curvature\": 1.31808,\n    \"stop_count\": 5,\n    \"unique_stop_count\": 3\n  },\n  {\n    \"request_id\": 194217464,\n    \"error_message\": \"not found\"\n  },\n  {\n    \"request_id\": 746888088,\n    \"error_message\": \"not found\"\n  },\n  {\n    \"buses\": [],\n    \"request_id\": 65100610\n  },\n  {\n    \"buses\": [\n      \"256\",\n      \"828\"\n    ],\n    \"request_id\": 1042838872\n  }\n]\n",
+    "format": "json"
+  }
+]

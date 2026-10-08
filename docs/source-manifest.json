@@ -1,0 +1,52 @@
+[
+  {
+    "file": "Jordan/solver.h",
+    "ref": "810ce9b5ff3bcf44bb89272c7ace0617b830c05b",
+    "snapshot_observed_on": "2026-10-04",
+    "source_sha256": "f76ae850d137d176baff2cb0524cd44ba70ec4cc166336f78c00240b879cf2dd",
+    "selection": "lines 13–18",
+    "excerpt_sha256": "4bc822177c057dea145e01651c45d66b49dfd8f5e21062520074c51406cfee20",
+    "chapter": "numerical-methods",
+    "source_id": "archive-numerics"
+  },
+  {
+    "file": "NN4science_2_linear_models.ipynb",
+    "ref": "12f1058d2d0f2753ecf0a69526226755b889244c",
+    "snapshot_observed_on": "2026-10-04",
+    "source_sha256": "f879f88db2322101dc6af485e36f56cbe414a093b174f6037652b11505149842",
+    "selection": "cell 24, loss normalization through return",
+    "excerpt_sha256": "226eebbe63269dba173d7b8f64c828adf9440842ef64f3fae5b6876a16217821",
+    "chapter": "machine-learning",
+    "source_id": "archive-learning"
+  },
+  {
+    "file": "contests/biweekly99.ipynb",
+    "ref": "23cfdd72109ea0cd2d51b1694c97c44a6a2b9457",
+    "snapshot_observed_on": "2026-10-04",
+    "source_sha256": "7f96929730f127770f26d6458150dd69a96e4b3b739a7de0f8fe08e08d0da682",
+    "selection": "cell 24, restoring state after dfs2",
+    "excerpt_sha256": "da65453f4edd2209234bbb84e2efa3dcca425aa8f11b0b87bb454d29149bba1a",
+    "chapter": "algorithms",
+    "source_id": "archive-algorithms"
+  },
+  {
+    "file": "2DPlot.zip",
+    "ref": "master",
+    "snapshot_observed_on": "2026-10-04",
+    "source_sha256": "39be5a0e2691f59477d6a4c55e31a514cfaadd29ca784d724e8fc0ac7fdad030",
+    "selection": "ZIP member 2DPlot/2DPlot.py, commented surface construction",
+    "excerpt_sha256": "49f4198a2c4c7289a321e688feb27386375c82c12e525c4b7823c0cb9b32df9e",
+    "chapter": "visualizations",
+    "source_id": "archive-coursework"
+  },
+  {
+    "file": "Jordan_MPI/solver.h",
+    "ref": "810ce9b5ff3bcf44bb89272c7ace0617b830c05b",
+    "snapshot_observed_on": "2026-10-05",
+    "source_sha256": "d0a1be62a467fc89e06c88786bdd9e8f8ef0d560873876b82276b94ff8e1ce43",
+    "selection": "lines 77–81, LF-normalized with trailing newline",
+    "excerpt_sha256": "77b05a7d4910e7b229c61d462256181a45656963bdd4f918047a77885c69c3d6",
+    "chapter": "numerical-methods",
+    "source_id": "archive-numerics"
+  }
+]

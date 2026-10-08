@@ -1,0 +1,96 @@
+[
+  {
+    "path": "numerics/serial-solver.cpp",
+    "source_id": "archive-numerics",
+    "source_file": "Jordan/solver.h",
+    "selection": "bytes [194, 1422)",
+    "source_sha256": "f76ae850d137d176baff2cb0524cd44ba70ec4cc166336f78c00240b879cf2dd",
+    "excerpt_sha256": "04a95349a74f27b9cbeab8777cb9156de801e654b7f398da848743e8c15faa60",
+    "preservation": "exact source bytes; no formatting or fixes",
+    "first_line": 10,
+    "last_line": 41
+  },
+  {
+    "path": "numerics/pthreads-worker.cpp",
+    "source_id": "archive-numerics",
+    "source_file": "Jordan_threads/solver.h",
+    "selection": "bytes [3452, 5308)",
+    "source_sha256": "4b5c702adf341aaa9e41a52f51e74e08845f7158ecd6ce029093f1ccc5d259ae",
+    "excerpt_sha256": "1fca358464d6789a4fe87a670801b9ef967a169a02d8575db3542ec58e1b287a",
+    "preservation": "exact source bytes; no formatting or fixes",
+    "first_line": 92,
+    "last_line": 135
+  },
+  {
+    "path": "numerics/mpi-solver.cpp",
+    "source_id": "archive-numerics",
+    "source_file": "Jordan_MPI/solver.h",
+    "selection": "bytes [677, 3956)",
+    "source_sha256": "d0a1be62a467fc89e06c88786bdd9e8f8ef0d560873876b82276b94ff8e1ce43",
+    "excerpt_sha256": "053869c1c2a4b2137eca668a619ed053211f7b54fb0830b4459690b2d4528b9b",
+    "preservation": "exact source bytes; no formatting or fixes",
+    "first_line": 29,
+    "last_line": 108
+  },
+  {
+    "path": "algorithms/root-count.py",
+    "source_id": "archive-algorithms",
+    "source_file": "contests/biweekly99.ipynb",
+    "selection": "code cell 24 (zero-based), decoded UTF-8 cell source",
+    "source_sha256": "7f96929730f127770f26d6458150dd69a96e4b3b739a7de0f8fe08e08d0da682",
+    "excerpt_sha256": "59c0de16cd4222a97fcf76445364c4aeac4427737f601089fd11a38d7de30a75",
+    "preservation": "exact decoded cell text, including comments and whitespace; no added imports or newline"
+  },
+  {
+    "path": "learning/convnet.py",
+    "source_id": "archive-learning",
+    "source_file": "DL_msu_4_CIFAR_classification_CNN.ipynb",
+    "selection": "code cell 5 (zero-based), decoded UTF-8 cell source",
+    "source_sha256": "61df1c297f74ac5ba5e1c70bb78a20c766680805891554e2cfb4915891b5716d",
+    "excerpt_sha256": "4211dbb240421f915f8a46459dabd395135e4662edae1cbc633738e9ec8ef11b",
+    "preservation": "exact decoded cell text, including comments and whitespace; no added imports or newline"
+  },
+  {
+    "path": "learning/random-correlations.ipynb",
+    "source_id": "archive-learning",
+    "source_file": "NN4science_4_feature_engineering.ipynb",
+    "selection": "cells 3, 5, 7, 9, 10, 11, 13, 14 (zero-based); seven code cells and the original reaction",
+    "source_sha256": "ce308f1e7516419be90a0097030c5b52a5a714c5a9616aa3211750156af7e9a4",
+    "excerpt_sha256": "0897d4f4609f5d35d03bdc2a048e20f41fa6100b3cf8f4b8918e6cbda587bd1d",
+    "preservation": "Exact decoded cell sources and saved outputs; notebook wrapper rebuilt and execution metadata removed. No code repairs or added imports.",
+    "cells": [
+      {
+        "source_index": 3,
+        "source_sha256": "052fbddfe193aa017a2d31ac06ca605db56cc56a8a44a834a2e8409663704099"
+      },
+      {
+        "source_index": 5,
+        "source_sha256": "44af137f28cd26690513a2b9fe7bc0da36a5f62165825179b41334ac3f4192e5"
+      },
+      {
+        "source_index": 7,
+        "source_sha256": "4cd20054b5398dc9dc3292ad160b66e0ee39e49a0c050d25fe3dc7fde96b8b5a"
+      },
+      {
+        "source_index": 9,
+        "source_sha256": "4f8c84d591fac28fac2d2cfeaa5b3de47e9d59476533f6c1a71d420181838a7f"
+      },
+      {
+        "source_index": 10,
+        "source_sha256": "954e5c949c3c308b5c5a5d4b4cef69f3049dbc82d08ace5ec8f13c567c71baa0"
+      },
+      {
+        "source_index": 11,
+        "source_sha256": "ab13967efebb7748c68357e616c1a7f80ae0cab1858178d8d8f66982a7110cdb"
+      },
+      {
+        "source_index": 13,
+        "source_sha256": "95110afdeff18208c6280a593f7b2a97e7dade7752ccd4d800b4aa4eba18056a"
+      },
+      {
+        "source_index": 14,
+        "source_sha256": "cfe77afd7758686aafe49d6fd79d4f6e3cda20dd0d8eb397fb29b1f0d2d39cf9"
+      }
+    ]
+  }
+]

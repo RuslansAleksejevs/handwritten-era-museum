@@ -1,0 +1,1889 @@
+{
+  "schema": 1,
+  "corpus_sha256": "4fd4d97a7407f052d081f18c25b8207ef5dc3127fc794d6d826274925214cf17",
+  "config": {
+    "hidden": 128,
+    "layers": 2,
+    "dropout": 0.2
+  },
+  "maximum_epochs": 80,
+  "seeds": [
+    2022,
+    2023,
+    2024
+  ],
+  "selected_seed": 2022,
+  "selection": "minimum validation event NLL; test never selects models or sampling",
+  "baseline_candidates": [
+    {
+      "order": 1,
+      "strength": 1.0,
+      "validation_nll": 2.6304943800031575
+    },
+    {
+      "order": 1,
+      "strength": 5.0,
+      "validation_nll": 2.55161775742571
+    },
+    {
+      "order": 1,
+      "strength": 20.0,
+      "validation_nll": 2.544228194981067
+    },
+    {
+      "order": 2,
+      "strength": 1.0,
+      "validation_nll": 2.8929626643223947
+    },
+    {
+      "order": 2,
+      "strength": 5.0,
+      "validation_nll": 2.6003303193395415
+    },
+    {
+      "order": 2,
+      "strength": 20.0,
+      "validation_nll": 2.4827181447926963
+    },
+    {
+      "order": 3,
+      "strength": 1.0,
+      "validation_nll": 3.3187922201719524
+    },
+    {
+      "order": 3,
+      "strength": 5.0,
+      "validation_nll": 2.7557723714433786
+    },
+    {
+      "order": 3,
+      "strength": 20.0,
+      "validation_nll": 2.5196062859709345
+    }
+  ],
+  "selected_baseline": {
+    "order": 2,
+    "strength": 20.0,
+    "validation_nll": 2.4827181447926963
+  },
+  "runs": [
+    {
+      "seed": 2022,
+      "best_epoch": 23,
+      "validation_nll": 2.008031530890056,
+      "parameters": 193622,
+      "seconds": 8.870825458085164,
+      "history": [
+        {
+          "epoch": 1,
+          "train_nll": 5.615703456194548,
+          "validation_nll": 4.0878528390132205
+        },
+        {
+          "epoch": 2,
+          "train_nll": 3.915126142057237,
+          "validation_nll": 3.4615221699740304
+        },
+        {
+          "epoch": 3,
+          "train_nll": 3.5807119062696873,
+          "validation_nll": 3.2300361681839265
+        },
+        {
+          "epoch": 4,
+          "train_nll": 3.3389483968133136,
+          "validation_nll": 3.013138403813146
+        },
+        {
+          "epoch": 5,
+          "train_nll": 3.0877215799189877,
+          "validation_nll": 2.83753262683463
+        },
+        {
+          "epoch": 6,
+          "train_nll": 2.892258747842621,
+          "validation_nll": 2.667362419804904
+        },
+        {
+          "epoch": 7,
+          "train_nll": 2.7490534552101926,
+          "validation_nll": 2.563985720105116
+        },
+        {
+          "epoch": 8,
+          "train_nll": 2.617409851510001,
+          "validation_nll": 2.4596320834874192
+        },
+        {
+          "epoch": 9,
+          "train_nll": 2.497383396448282,
+          "validation_nll": 2.3485320895795785
+        },
+        {
+          "epoch": 10,
+          "train_nll": 2.3955736925300557,
+          "validation_nll": 2.3154227372626184
+        },
+        {
+          "epoch": 11,
+          "train_nll": 2.328993232147076,
+          "validation_nll": 2.2422094126822243
+        },
+        {
+          "epoch": 12,
+          "train_nll": 2.2651010871384134,
+          "validation_nll": 2.2005907304766237
+        },
+        {
+          "epoch": 13,
+          "train_nll": 2.2009168654517532,
+          "validation_nll": 2.1488918732284126
+        },
+        {
+          "epoch": 14,
+          "train_nll": 2.138674361522535,
+          "validation_nll": 2.122015318782015
+        },
+        {
+          "epoch": 15,
+          "train_nll": 2.0841307978527928,
+          "validation_nll": 2.113131968907907
+        },
+        {
+          "epoch": 16,
+          "train_nll": 2.042678057571661,
+          "validation_nll": 2.0761510654997735
+        },
+        {
+          "epoch": 17,
+          "train_nll": 1.994020028657044,
+          "validation_nll": 2.0622167491882313
+        },
+        {
+          "epoch": 18,
+          "train_nll": 1.9607034720877847,
+          "validation_nll": 2.051234011460816
+        },
+        {
+          "epoch": 19,
+          "train_nll": 1.9237136167921174,
+          "validation_nll": 2.03041626480569
+        },
+        {
+          "epoch": 20,
+          "train_nll": 1.8724105943906513,
+          "validation_nll": 2.020621397812754
+        },
+        {
+          "epoch": 21,
+          "train_nll": 1.8371463857343946,
+          "validation_nll": 2.0207592175650992
+        },
+        {
+          "epoch": 22,
+          "train_nll": 1.8012965625697253,
+          "validation_nll": 2.012251524705435
+        },
+        {
+          "epoch": 23,
+          "train_nll": 1.7585695051235695,
+          "validation_nll": 2.008031530890056
+        },
+        {
+          "epoch": 24,
+          "train_nll": 1.7205885655236115,
+          "validation_nll": 2.020492532036521
+        },
+        {
+          "epoch": 25,
+          "train_nll": 1.6864297699397575,
+          "validation_nll": 2.012972786392964
+        },
+        {
+          "epoch": 26,
+          "train_nll": 1.648719489599466,
+          "validation_nll": 2.024905543855455
+        },
+        {
+          "epoch": 27,
+          "train_nll": 1.6145145395431935,
+          "validation_nll": 2.030858611785801
+        },
+        {
+          "epoch": 28,
+          "train_nll": 1.5851057710291108,
+          "validation_nll": 2.0291233758004465
+        },
+        {
+          "epoch": 29,
+          "train_nll": 1.53587781576888,
+          "validation_nll": 2.042364362336304
+        },
+        {
+          "epoch": 30,
+          "train_nll": 1.514637965907674,
+          "validation_nll": 2.047391327792032
+        },
+        {
+          "epoch": 31,
+          "train_nll": 1.474571987442087,
+          "validation_nll": 2.0631158333581787
+        },
+        {
+          "epoch": 32,
+          "train_nll": 1.44422385172902,
+          "validation_nll": 2.080455429193763
+        },
+        {
+          "epoch": 33,
+          "train_nll": 1.399702870810748,
+          "validation_nll": 2.0918336198516143
+        },
+        {
+          "epoch": 34,
+          "train_nll": 1.3659647589518913,
+          "validation_nll": 2.1346875274990342
+        },
+        {
+          "epoch": 35,
+          "train_nll": 1.3441676076146445,
+          "validation_nll": 2.1530188265591668
+        }
+      ],
+      "checkpoint_sha256": "980672e19c700a2adfc1208ce21896ff8a48808d2749d8bab7d7ed0af7ec5703",
+      "test": {
+        "nll": 2.022612228655494,
+        "piece_mean_nll": 2.02846519947052,
+        "events": 1784,
+        "pieces": [
+          {
+            "id": "chor002",
+            "family": "chor002",
+            "n": 45,
+            "nll": 1.901094913482666,
+            "pitch_accuracy": 0.6000000238418579,
+            "duration_accuracy_given_pitch": 0.800000011920929
+          },
+          {
+            "id": "chor016",
+            "family": "chor016",
+            "n": 61,
+            "nll": 1.6965397596359253,
+            "pitch_accuracy": 0.6065573692321777,
+            "duration_accuracy_given_pitch": 0.8196721076965332
+          },
+          {
+            "id": "chor020",
+            "family": "chor020",
+            "n": 44,
+            "nll": 1.7544186115264893,
+            "pitch_accuracy": 0.5909090638160706,
+            "duration_accuracy_given_pitch": 0.8636363744735718
+          },
+          {
+            "id": "chor047",
+            "family": "chor047",
+            "n": 43,
+            "nll": 1.9662855863571167,
+            "pitch_accuracy": 0.4651162922382355,
+            "duration_accuracy_given_pitch": 0.8837209343910217
+          },
+          {
+            "id": "chor052",
+            "family": "chor052",
+            "n": 57,
+            "nll": 1.5560120344161987,
+            "pitch_accuracy": 0.6666666865348816,
+            "duration_accuracy_given_pitch": 0.7368420958518982
+          },
+          {
+            "id": "chor055",
+            "family": "chor055",
+            "n": 31,
+            "nll": 1.0027884244918823,
+            "pitch_accuracy": 0.7419354915618896,
+            "duration_accuracy_given_pitch": 0.9354838728904724
+          },
+          {
+            "id": "chor065",
+            "family": "chor065",
+            "n": 32,
+            "nll": 2.1241965293884277,
+            "pitch_accuracy": 0.40625,
+            "duration_accuracy_given_pitch": 0.84375
+          },
+          {
+            "id": "chor109",
+            "family": "chor109",
+            "n": 60,
+            "nll": 2.844740152359009,
+            "pitch_accuracy": 0.4833333194255829,
+            "duration_accuracy_given_pitch": 0.46666666865348816
+          },
+          {
+            "id": "chor114",
+            "family": "chor114",
+            "n": 34,
+            "nll": 1.9233680963516235,
+            "pitch_accuracy": 0.5882353186607361,
+            "duration_accuracy_given_pitch": 0.8235294222831726
+          },
+          {
+            "id": "chor147",
+            "family": "chor147",
+            "n": 42,
+            "nll": 1.7052050828933716,
+            "pitch_accuracy": 0.6428571343421936,
+            "duration_accuracy_given_pitch": 0.8095238208770752
+          },
+          {
+            "id": "chor149",
+            "family": "chor149",
+            "n": 27,
+            "nll": 3.474924325942993,
+            "pitch_accuracy": 0.37037035822868347,
+            "duration_accuracy_given_pitch": 0.6296296119689941
+          },
+          {
+            "id": "chor152",
+            "family": "chor152",
+            "n": 40,
+            "nll": 2.0178334712982178,
+            "pitch_accuracy": 0.550000011920929,
+            "duration_accuracy_given_pitch": 0.699999988079071
+          },
+          {
+            "id": "chor163",
+            "family": "chor163",
+            "n": 27,
+            "nll": 1.8195359706878662,
+            "pitch_accuracy": 0.5185185074806213,
+            "duration_accuracy_given_pitch": 0.8888888955116272
+          },
+          {
+            "id": "chor169",
+            "family": "chor169",
+            "n": 44,
+            "nll": 2.218003749847412,
+            "pitch_accuracy": 0.5,
+            "duration_accuracy_given_pitch": 0.7727272510528564
+          },
+          {
+            "id": "chor191",
+            "family": "chor114",
+            "n": 32,
+            "nll": 1.8100786209106445,
+            "pitch_accuracy": 0.46875,
+            "duration_accuracy_given_pitch": 0.875
+          },
+          {
+            "id": "chor192",
+            "family": "chor192",
+            "n": 25,
+            "nll": 2.6226162910461426,
+            "pitch_accuracy": 0.4000000059604645,
+            "duration_accuracy_given_pitch": 0.7200000286102295
+          },
+          {
+            "id": "chor193",
+            "family": "chor193",
+            "n": 30,
+            "nll": 2.770782232284546,
+            "pitch_accuracy": 0.6000000238418579,
+            "duration_accuracy_given_pitch": 0.6666666865348816
+          },
+          {
+            "id": "chor211",
+            "family": "chor211",
+            "n": 52,
+            "nll": 2.224482536315918,
+            "pitch_accuracy": 0.36538460850715637,
+            "duration_accuracy_given_pitch": 0.7884615659713745
+          },
+          {
+            "id": "chor212",
+            "family": "chor212",
+            "n": 37,
+            "nll": 1.8177413940429688,
+            "pitch_accuracy": 0.45945945382118225,
+            "duration_accuracy_given_pitch": 0.7567567825317383
+          },
+          {
+            "id": "chor220",
+            "family": "chor220",
+            "n": 62,
+            "nll": 2.512080192565918,
+            "pitch_accuracy": 0.5,
+            "duration_accuracy_given_pitch": 0.6774193644523621
+          },
+          {
+            "id": "chor227",
+            "family": "chor227",
+            "n": 53,
+            "nll": 2.7974681854248047,
+            "pitch_accuracy": 0.2830188572406769,
+            "duration_accuracy_given_pitch": 0.7547169923782349
+          },
+          {
+            "id": "chor250",
+            "family": "chor020",
+            "n": 46,
+            "nll": 1.8571726083755493,
+            "pitch_accuracy": 0.52173912525177,
+            "duration_accuracy_given_pitch": 0.8260869383811951
+          },
+          {
+            "id": "chor267",
+            "family": "chor047",
+            "n": 41,
+            "nll": 2.105396270751953,
+            "pitch_accuracy": 0.4390243887901306,
+            "duration_accuracy_given_pitch": 0.9024389982223511
+          },
+          {
+            "id": "chor272",
+            "family": "chor002",
+            "n": 59,
+            "nll": 2.010000228881836,
+            "pitch_accuracy": 0.49152541160583496,
+            "duration_accuracy_given_pitch": 0.8644067645072937
+          },
+          {
+            "id": "chor273",
+            "family": "chor020",
+            "n": 45,
+            "nll": 1.6645138263702393,
+            "pitch_accuracy": 0.5777778029441833,
+            "duration_accuracy_given_pitch": 0.8444444537162781
+          },
+          {
+            "id": "chor292",
+            "family": "chor047",
+            "n": 42,
+            "nll": 1.8998842239379883,
+            "pitch_accuracy": 0.4285714328289032,
+            "duration_accuracy_given_pitch": 0.9047619104385376
+          },
+          {
+            "id": "chor293",
+            "family": "chor065",
+            "n": 29,
+            "nll": 2.3107306957244873,
+            "pitch_accuracy": 0.37931033968925476,
+            "duration_accuracy_given_pitch": 0.931034505367279
+          },
+          {
+            "id": "chor299",
+            "family": "chor152",
+            "n": 51,
+            "nll": 2.4430551528930664,
+            "pitch_accuracy": 0.5490196347236633,
+            "duration_accuracy_given_pitch": 0.5686274766921997
+          },
+          {
+            "id": "chor321",
+            "family": "chor055",
+            "n": 35,
+            "nll": 1.0089106559753418,
+            "pitch_accuracy": 0.7428571581840515,
+            "duration_accuracy_given_pitch": 0.9428571462631226
+          },
+          {
+            "id": "chor322",
+            "family": "chor052",
+            "n": 55,
+            "nll": 1.6051424741744995,
+            "pitch_accuracy": 0.6363636255264282,
+            "duration_accuracy_given_pitch": 0.7454545497894287
+          },
+          {
+            "id": "chor332",
+            "family": "chor114",
+            "n": 51,
+            "nll": 2.0538477897644043,
+            "pitch_accuracy": 0.45098039507865906,
+            "duration_accuracy_given_pitch": 0.8039215803146362
+          },
+          {
+            "id": "chor333",
+            "family": "chor016",
+            "n": 63,
+            "nll": 1.921035647392273,
+            "pitch_accuracy": 0.5079365372657776,
+            "duration_accuracy_given_pitch": 0.7777777910232544
+          },
+          {
+            "id": "chor341",
+            "family": "chor002",
+            "n": 62,
+            "nll": 1.9029382467269897,
+            "pitch_accuracy": 0.5483871102333069,
+            "duration_accuracy_given_pitch": 0.8225806355476379
+          },
+          {
+            "id": "chor346",
+            "family": "chor346",
+            "n": 52,
+            "nll": 2.28723406791687,
+            "pitch_accuracy": 0.5192307829856873,
+            "duration_accuracy_given_pitch": 0.7115384340286255
+          },
+          {
+            "id": "chor347",
+            "family": "chor065",
+            "n": 38,
+            "nll": 2.3269355297088623,
+            "pitch_accuracy": 0.5263158082962036,
+            "duration_accuracy_given_pitch": 0.7631579041481018
+          },
+          {
+            "id": "chor348",
+            "family": "chor152",
+            "n": 40,
+            "nll": 2.0178334712982178,
+            "pitch_accuracy": 0.550000011920929,
+            "duration_accuracy_given_pitch": 0.699999988079071
+          },
+          {
+            "id": "chor351",
+            "family": "chor052",
+            "n": 55,
+            "nll": 1.8326520919799805,
+            "pitch_accuracy": 0.6181818246841431,
+            "duration_accuracy_given_pitch": 0.6909090876579285
+          },
+          {
+            "id": "chor352",
+            "family": "chor016",
+            "n": 62,
+            "nll": 1.7501516342163086,
+            "pitch_accuracy": 0.5645161271095276,
+            "duration_accuracy_given_pitch": 0.8225806355476379
+          },
+          {
+            "id": "chor360",
+            "family": "chor055",
+            "n": 38,
+            "nll": 1.1198651790618896,
+            "pitch_accuracy": 0.7368420958518982,
+            "duration_accuracy_given_pitch": 0.9210526347160339
+          },
+          {
+            "id": "chor364",
+            "family": "chor114",
+            "n": 42,
+            "nll": 2.4611120223999023,
+            "pitch_accuracy": 0.523809552192688,
+            "duration_accuracy_given_pitch": 0.6190476417541504
+          }
+        ]
+      }
+    },
+    {
+      "seed": 2023,
+      "best_epoch": 26,
+      "validation_nll": 2.0472724473583255,
+      "parameters": 193622,
+      "seconds": 9.674361125100404,
+      "history": [
+        {
+          "epoch": 1,
+          "train_nll": 5.45546927806561,
+          "validation_nll": 3.5171908387454005
+        },
+        {
+          "epoch": 2,
+          "train_nll": 3.689923603261333,
+          "validation_nll": 3.3565441533331684
+        },
+        {
+          "epoch": 3,
+          "train_nll": 3.40975376659459,
+          "validation_nll": 3.128714154990779
+        },
+        {
+          "epoch": 4,
+          "train_nll": 3.1608811354046358,
+          "validation_nll": 2.9439475267705784
+        },
+        {
+          "epoch": 5,
+          "train_nll": 2.989996258424441,
+          "validation_nll": 2.810376254758212
+        },
+        {
+          "epoch": 6,
+          "train_nll": 2.8490424222277273,
+          "validation_nll": 2.693339236948768
+        },
+        {
+          "epoch": 7,
+          "train_nll": 2.7570001120729537,
+          "validation_nll": 2.627965732283232
+        },
+        {
+          "epoch": 8,
+          "train_nll": 2.668078195442927,
+          "validation_nll": 2.530054414241781
+        },
+        {
+          "epoch": 9,
+          "train_nll": 2.5817214856874737,
+          "validation_nll": 2.4591816783561904
+        },
+        {
+          "epoch": 10,
+          "train_nll": 2.4929772656988267,
+          "validation_nll": 2.394310547356111
+        },
+        {
+          "epoch": 11,
+          "train_nll": 2.4117002010545727,
+          "validation_nll": 2.341596854252028
+        },
+        {
+          "epoch": 12,
+          "train_nll": 2.338290327088966,
+          "validation_nll": 2.2752268624977328
+        },
+        {
+          "epoch": 13,
+          "train_nll": 2.2668230808967804,
+          "validation_nll": 2.2301786476304986
+        },
+        {
+          "epoch": 14,
+          "train_nll": 2.1997277693606283,
+          "validation_nll": 2.1812078487247266
+        },
+        {
+          "epoch": 15,
+          "train_nll": 2.141061923024235,
+          "validation_nll": 2.155398853228126
+        },
+        {
+          "epoch": 16,
+          "train_nll": 2.0895039551601546,
+          "validation_nll": 2.1110788966873697
+        },
+        {
+          "epoch": 17,
+          "train_nll": 2.0343085380724024,
+          "validation_nll": 2.1096160954458307
+        },
+        {
+          "epoch": 18,
+          "train_nll": 1.9826154392439495,
+          "validation_nll": 2.0890204442447953
+        },
+        {
+          "epoch": 19,
+          "train_nll": 1.9416217443473396,
+          "validation_nll": 2.0619237244358137
+        },
+        {
+          "epoch": 20,
+          "train_nll": 1.894997985660404,
+          "validation_nll": 2.0541857638218644
+        },
+        {
+          "epoch": 21,
+          "train_nll": 1.850554189477734,
+          "validation_nll": 2.057385924912598
+        },
+        {
+          "epoch": 22,
+          "train_nll": 1.8159242491419703,
+          "validation_nll": 2.04760677591634
+        },
+        {
+          "epoch": 23,
+          "train_nll": 1.7760942083404425,
+          "validation_nll": 2.0478422102183296
+        },
+        {
+          "epoch": 24,
+          "train_nll": 1.7371763944725989,
+          "validation_nll": 2.0502682582364344
+        },
+        {
+          "epoch": 25,
+          "train_nll": 1.6946624025283166,
+          "validation_nll": 2.063551899641943
+        },
+        {
+          "epoch": 26,
+          "train_nll": 1.6650520206148611,
+          "validation_nll": 2.0472724473583255
+        },
+        {
+          "epoch": 27,
+          "train_nll": 1.6192430915175642,
+          "validation_nll": 2.0502542763299734
+        },
+        {
+          "epoch": 28,
+          "train_nll": 1.5894806408071058,
+          "validation_nll": 2.072190923895329
+        },
+        {
+          "epoch": 29,
+          "train_nll": 1.5418585176880446,
+          "validation_nll": 2.126540414044555
+        },
+        {
+          "epoch": 30,
+          "train_nll": 1.5190703974006456,
+          "validation_nll": 2.0882869288039116
+        },
+        {
+          "epoch": 31,
+          "train_nll": 1.4711314349152471,
+          "validation_nll": 2.0910968017333906
+        },
+        {
+          "epoch": 32,
+          "train_nll": 1.4454790457413509,
+          "validation_nll": 2.1026923500774153
+        },
+        {
+          "epoch": 33,
+          "train_nll": 1.411771528363378,
+          "validation_nll": 2.1194341743648737
+        },
+        {
+          "epoch": 34,
+          "train_nll": 1.3825499667985155,
+          "validation_nll": 2.1660189474437974
+        },
+        {
+          "epoch": 35,
+          "train_nll": 1.3451046933651172,
+          "validation_nll": 2.1676278701207092
+        },
+        {
+          "epoch": 36,
+          "train_nll": 1.3120504328805025,
+          "validation_nll": 2.198917828204537
+        },
+        {
+          "epoch": 37,
+          "train_nll": 1.2689619516935833,
+          "validation_nll": 2.1869646845798028
+        },
+        {
+          "epoch": 38,
+          "train_nll": 1.236811933072862,
+          "validation_nll": 2.222110236194772
+        }
+      ],
+      "checkpoint_sha256": "0cdec38851c0eca0883b22a2c3c6afbac8b8f166288fc3111867ade88e8094f7",
+      "test": {
+        "nll": 2.072122366706352,
+        "piece_mean_nll": 2.0773432672023775,
+        "events": 1784,
+        "pieces": [
+          {
+            "id": "chor002",
+            "family": "chor002",
+            "n": 45,
+            "nll": 1.901430368423462,
+            "pitch_accuracy": 0.6222222447395325,
+            "duration_accuracy_given_pitch": 0.8222222328186035
+          },
+          {
+            "id": "chor016",
+            "family": "chor016",
+            "n": 61,
+            "nll": 1.8559085130691528,
+            "pitch_accuracy": 0.6065573692321777,
+            "duration_accuracy_given_pitch": 0.8360655903816223
+          },
+          {
+            "id": "chor020",
+            "family": "chor020",
+            "n": 44,
+            "nll": 1.7513535022735596,
+            "pitch_accuracy": 0.6363636255264282,
+            "duration_accuracy_given_pitch": 0.8863636255264282
+          },
+          {
+            "id": "chor047",
+            "family": "chor047",
+            "n": 43,
+            "nll": 1.9953521490097046,
+            "pitch_accuracy": 0.3720930218696594,
+            "duration_accuracy_given_pitch": 0.8604651093482971
+          },
+          {
+            "id": "chor052",
+            "family": "chor052",
+            "n": 57,
+            "nll": 1.70887291431427,
+            "pitch_accuracy": 0.6140350699424744,
+            "duration_accuracy_given_pitch": 0.719298243522644
+          },
+          {
+            "id": "chor055",
+            "family": "chor055",
+            "n": 31,
+            "nll": 1.0920134782791138,
+            "pitch_accuracy": 0.6774193644523621,
+            "duration_accuracy_given_pitch": 0.9354838728904724
+          },
+          {
+            "id": "chor065",
+            "family": "chor065",
+            "n": 32,
+            "nll": 2.0382697582244873,
+            "pitch_accuracy": 0.53125,
+            "duration_accuracy_given_pitch": 0.84375
+          },
+          {
+            "id": "chor109",
+            "family": "chor109",
+            "n": 60,
+            "nll": 2.8978281021118164,
+            "pitch_accuracy": 0.44999998807907104,
+            "duration_accuracy_given_pitch": 0.5166666507720947
+          },
+          {
+            "id": "chor114",
+            "family": "chor114",
+            "n": 34,
+            "nll": 1.8527326583862305,
+            "pitch_accuracy": 0.6176470518112183,
+            "duration_accuracy_given_pitch": 0.7941176295280457
+          },
+          {
+            "id": "chor147",
+            "family": "chor147",
+            "n": 42,
+            "nll": 1.7169629335403442,
+            "pitch_accuracy": 0.5714285969734192,
+            "duration_accuracy_given_pitch": 0.8333333134651184
+          },
+          {
+            "id": "chor149",
+            "family": "chor149",
+            "n": 27,
+            "nll": 3.981027841567993,
+            "pitch_accuracy": 0.2222222238779068,
+            "duration_accuracy_given_pitch": 0.6666666865348816
+          },
+          {
+            "id": "chor152",
+            "family": "chor152",
+            "n": 40,
+            "nll": 2.066981792449951,
+            "pitch_accuracy": 0.6000000238418579,
+            "duration_accuracy_given_pitch": 0.7250000238418579
+          },
+          {
+            "id": "chor163",
+            "family": "chor163",
+            "n": 27,
+            "nll": 1.7231618165969849,
+            "pitch_accuracy": 0.5925925970077515,
+            "duration_accuracy_given_pitch": 0.8888888955116272
+          },
+          {
+            "id": "chor169",
+            "family": "chor169",
+            "n": 44,
+            "nll": 2.0151116847991943,
+            "pitch_accuracy": 0.5454545617103577,
+            "duration_accuracy_given_pitch": 0.8181818127632141
+          },
+          {
+            "id": "chor191",
+            "family": "chor114",
+            "n": 32,
+            "nll": 1.608075499534607,
+            "pitch_accuracy": 0.53125,
+            "duration_accuracy_given_pitch": 0.90625
+          },
+          {
+            "id": "chor192",
+            "family": "chor192",
+            "n": 25,
+            "nll": 2.8794023990631104,
+            "pitch_accuracy": 0.3199999928474426,
+            "duration_accuracy_given_pitch": 0.800000011920929
+          },
+          {
+            "id": "chor193",
+            "family": "chor193",
+            "n": 30,
+            "nll": 2.969644069671631,
+            "pitch_accuracy": 0.5666666626930237,
+            "duration_accuracy_given_pitch": 0.6333333253860474
+          },
+          {
+            "id": "chor211",
+            "family": "chor211",
+            "n": 52,
+            "nll": 2.1484568119049072,
+            "pitch_accuracy": 0.36538460850715637,
+            "duration_accuracy_given_pitch": 0.7884615659713745
+          },
+          {
+            "id": "chor212",
+            "family": "chor212",
+            "n": 37,
+            "nll": 1.6340268850326538,
+            "pitch_accuracy": 0.5675675868988037,
+            "duration_accuracy_given_pitch": 0.8108108043670654
+          },
+          {
+            "id": "chor220",
+            "family": "chor220",
+            "n": 62,
+            "nll": 2.430392265319824,
+            "pitch_accuracy": 0.5161290168762207,
+            "duration_accuracy_given_pitch": 0.6451612710952759
+          },
+          {
+            "id": "chor227",
+            "family": "chor227",
+            "n": 53,
+            "nll": 2.7815346717834473,
+            "pitch_accuracy": 0.2830188572406769,
+            "duration_accuracy_given_pitch": 0.7358490824699402
+          },
+          {
+            "id": "chor250",
+            "family": "chor020",
+            "n": 46,
+            "nll": 1.849061369895935,
+            "pitch_accuracy": 0.5652173757553101,
+            "duration_accuracy_given_pitch": 0.804347813129425
+          },
+          {
+            "id": "chor267",
+            "family": "chor047",
+            "n": 41,
+            "nll": 2.152735710144043,
+            "pitch_accuracy": 0.3658536672592163,
+            "duration_accuracy_given_pitch": 0.8536585569381714
+          },
+          {
+            "id": "chor272",
+            "family": "chor002",
+            "n": 59,
+            "nll": 2.020880937576294,
+            "pitch_accuracy": 0.49152541160583496,
+            "duration_accuracy_given_pitch": 0.8983050584793091
+          },
+          {
+            "id": "chor273",
+            "family": "chor020",
+            "n": 45,
+            "nll": 1.663955569267273,
+            "pitch_accuracy": 0.6000000238418579,
+            "duration_accuracy_given_pitch": 0.8222222328186035
+          },
+          {
+            "id": "chor292",
+            "family": "chor047",
+            "n": 42,
+            "nll": 1.9896901845932007,
+            "pitch_accuracy": 0.3333333432674408,
+            "duration_accuracy_given_pitch": 0.8809523582458496
+          },
+          {
+            "id": "chor293",
+            "family": "chor065",
+            "n": 29,
+            "nll": 2.4345335960388184,
+            "pitch_accuracy": 0.4482758641242981,
+            "duration_accuracy_given_pitch": 0.8965517282485962
+          },
+          {
+            "id": "chor299",
+            "family": "chor152",
+            "n": 51,
+            "nll": 2.5942580699920654,
+            "pitch_accuracy": 0.5686274766921997,
+            "duration_accuracy_given_pitch": 0.5686274766921997
+          },
+          {
+            "id": "chor321",
+            "family": "chor055",
+            "n": 35,
+            "nll": 1.074904203414917,
+            "pitch_accuracy": 0.6857143044471741,
+            "duration_accuracy_given_pitch": 0.9428571462631226
+          },
+          {
+            "id": "chor322",
+            "family": "chor052",
+            "n": 55,
+            "nll": 1.8212918043136597,
+            "pitch_accuracy": 0.581818163394928,
+            "duration_accuracy_given_pitch": 0.7272727489471436
+          },
+          {
+            "id": "chor332",
+            "family": "chor114",
+            "n": 51,
+            "nll": 2.0999672412872314,
+            "pitch_accuracy": 0.45098039507865906,
+            "duration_accuracy_given_pitch": 0.8235294222831726
+          },
+          {
+            "id": "chor333",
+            "family": "chor016",
+            "n": 63,
+            "nll": 2.1437833309173584,
+            "pitch_accuracy": 0.4761904776096344,
+            "duration_accuracy_given_pitch": 0.7936508059501648
+          },
+          {
+            "id": "chor341",
+            "family": "chor002",
+            "n": 62,
+            "nll": 1.9017521142959595,
+            "pitch_accuracy": 0.5967742204666138,
+            "duration_accuracy_given_pitch": 0.8548387289047241
+          },
+          {
+            "id": "chor346",
+            "family": "chor346",
+            "n": 52,
+            "nll": 2.130131721496582,
+            "pitch_accuracy": 0.5192307829856873,
+            "duration_accuracy_given_pitch": 0.7884615659713745
+          },
+          {
+            "id": "chor347",
+            "family": "chor065",
+            "n": 38,
+            "nll": 2.2244873046875,
+            "pitch_accuracy": 0.5789473652839661,
+            "duration_accuracy_given_pitch": 0.8157894611358643
+          },
+          {
+            "id": "chor348",
+            "family": "chor152",
+            "n": 40,
+            "nll": 2.066981792449951,
+            "pitch_accuracy": 0.6000000238418579,
+            "duration_accuracy_given_pitch": 0.7250000238418579
+          },
+          {
+            "id": "chor351",
+            "family": "chor052",
+            "n": 55,
+            "nll": 1.9977762699127197,
+            "pitch_accuracy": 0.5636363625526428,
+            "duration_accuracy_given_pitch": 0.6909090876579285
+          },
+          {
+            "id": "chor352",
+            "family": "chor016",
+            "n": 62,
+            "nll": 1.9943995475769043,
+            "pitch_accuracy": 0.5645161271095276,
+            "duration_accuracy_given_pitch": 0.8064516186714172
+          },
+          {
+            "id": "chor360",
+            "family": "chor055",
+            "n": 38,
+            "nll": 1.2558571100234985,
+            "pitch_accuracy": 0.7105262875556946,
+            "duration_accuracy_given_pitch": 0.9210526347160339
+          },
+          {
+            "id": "chor364",
+            "family": "chor114",
+            "n": 42,
+            "nll": 2.6287426948547363,
+            "pitch_accuracy": 0.523809552192688,
+            "duration_accuracy_given_pitch": 0.6428571343421936
+          }
+        ]
+      }
+    },
+    {
+      "seed": 2024,
+      "best_epoch": 21,
+      "validation_nll": 2.0354938333837387,
+      "parameters": 193622,
+      "seconds": 8.407885833177716,
+      "history": [
+        {
+          "epoch": 1,
+          "train_nll": 5.535543788635946,
+          "validation_nll": 3.785432015124723
+        },
+        {
+          "epoch": 2,
+          "train_nll": 3.7052783669668403,
+          "validation_nll": 3.355824740534403
+        },
+        {
+          "epoch": 3,
+          "train_nll": 3.387870099653671,
+          "validation_nll": 3.0800071754773053
+        },
+        {
+          "epoch": 4,
+          "train_nll": 3.1361251119704168,
+          "validation_nll": 2.8751890135788276
+        },
+        {
+          "epoch": 5,
+          "train_nll": 2.943239816844288,
+          "validation_nll": 2.705150425968341
+        },
+        {
+          "epoch": 6,
+          "train_nll": 2.810854434766773,
+          "validation_nll": 2.6268721294616766
+        },
+        {
+          "epoch": 7,
+          "train_nll": 2.7164248707213354,
+          "validation_nll": 2.54363804414544
+        },
+        {
+          "epoch": 8,
+          "train_nll": 2.6369956383831306,
+          "validation_nll": 2.4846776283504717
+        },
+        {
+          "epoch": 9,
+          "train_nll": 2.54249372165877,
+          "validation_nll": 2.380129788504978
+        },
+        {
+          "epoch": 10,
+          "train_nll": 2.441110892137626,
+          "validation_nll": 2.319107350634552
+        },
+        {
+          "epoch": 11,
+          "train_nll": 2.3388341193137077,
+          "validation_nll": 2.25542523468655
+        },
+        {
+          "epoch": 12,
+          "train_nll": 2.2523170032204827,
+          "validation_nll": 2.2016530904666105
+        },
+        {
+          "epoch": 13,
+          "train_nll": 2.184654982437461,
+          "validation_nll": 2.1684511869420775
+        },
+        {
+          "epoch": 14,
+          "train_nll": 2.124657846808884,
+          "validation_nll": 2.133399233164769
+        },
+        {
+          "epoch": 15,
+          "train_nll": 2.075469752811975,
+          "validation_nll": 2.1198610819866652
+        },
+        {
+          "epoch": 16,
+          "train_nll": 2.0326354929200243,
+          "validation_nll": 2.1038356336375053
+        },
+        {
+          "epoch": 17,
+          "train_nll": 1.9871049838524715,
+          "validation_nll": 2.081018488706303
+        },
+        {
+          "epoch": 18,
+          "train_nll": 1.9467784972913822,
+          "validation_nll": 2.0678656969729827
+        },
+        {
+          "epoch": 19,
+          "train_nll": 1.9046210842140578,
+          "validation_nll": 2.063586399512468
+        },
+        {
+          "epoch": 20,
+          "train_nll": 1.8697676388269109,
+          "validation_nll": 2.05010499432206
+        },
+        {
+          "epoch": 21,
+          "train_nll": 1.8295555643452561,
+          "validation_nll": 2.0354938333837387
+        },
+        {
+          "epoch": 22,
+          "train_nll": 1.7849926778319902,
+          "validation_nll": 2.05756998565835
+        },
+        {
+          "epoch": 23,
+          "train_nll": 1.7403428847926947,
+          "validation_nll": 2.0491559438302485
+        },
+        {
+          "epoch": 24,
+          "train_nll": 1.7110920873623543,
+          "validation_nll": 2.0389027493253407
+        },
+        {
+          "epoch": 25,
+          "train_nll": 1.6688987991480404,
+          "validation_nll": 2.0557350347655685
+        },
+        {
+          "epoch": 26,
+          "train_nll": 1.636400372578486,
+          "validation_nll": 2.0567560545460974
+        },
+        {
+          "epoch": 27,
+          "train_nll": 1.5950725159691141,
+          "validation_nll": 2.0880900000182674
+        },
+        {
+          "epoch": 28,
+          "train_nll": 1.5607426822410817,
+          "validation_nll": 2.063939592291848
+        },
+        {
+          "epoch": 29,
+          "train_nll": 1.5166127838942245,
+          "validation_nll": 2.09263690661224
+        },
+        {
+          "epoch": 30,
+          "train_nll": 1.4810282303875406,
+          "validation_nll": 2.08433418000706
+        },
+        {
+          "epoch": 31,
+          "train_nll": 1.4507577087838126,
+          "validation_nll": 2.0997142939042495
+        },
+        {
+          "epoch": 32,
+          "train_nll": 1.4053100239875085,
+          "validation_nll": 2.1262084408239885
+        },
+        {
+          "epoch": 33,
+          "train_nll": 1.382279410075861,
+          "validation_nll": 2.1188298479085086
+        }
+      ],
+      "checkpoint_sha256": "1510dbd75b7fb04e85a32719b2662e1c1ac704fac3d0a2809cedf4adf458ec7a",
+      "test": {
+        "nll": 2.0582315772771835,
+        "piece_mean_nll": 2.0663294345140457,
+        "events": 1784,
+        "pieces": [
+          {
+            "id": "chor002",
+            "family": "chor002",
+            "n": 45,
+            "nll": 1.8686237335205078,
+            "pitch_accuracy": 0.6000000238418579,
+            "duration_accuracy_given_pitch": 0.800000011920929
+          },
+          {
+            "id": "chor016",
+            "family": "chor016",
+            "n": 61,
+            "nll": 1.8502247333526611,
+            "pitch_accuracy": 0.5901639461517334,
+            "duration_accuracy_given_pitch": 0.8196721076965332
+          },
+          {
+            "id": "chor020",
+            "family": "chor020",
+            "n": 44,
+            "nll": 1.75783109664917,
+            "pitch_accuracy": 0.6136363744735718,
+            "duration_accuracy_given_pitch": 0.8636363744735718
+          },
+          {
+            "id": "chor047",
+            "family": "chor047",
+            "n": 43,
+            "nll": 2.1240384578704834,
+            "pitch_accuracy": 0.4651162922382355,
+            "duration_accuracy_given_pitch": 0.8837209343910217
+          },
+          {
+            "id": "chor052",
+            "family": "chor052",
+            "n": 57,
+            "nll": 1.5827593803405762,
+            "pitch_accuracy": 0.6491228342056274,
+            "duration_accuracy_given_pitch": 0.7368420958518982
+          },
+          {
+            "id": "chor055",
+            "family": "chor055",
+            "n": 31,
+            "nll": 1.2171270847320557,
+            "pitch_accuracy": 0.6129032373428345,
+            "duration_accuracy_given_pitch": 0.9354838728904724
+          },
+          {
+            "id": "chor065",
+            "family": "chor065",
+            "n": 32,
+            "nll": 2.14717435836792,
+            "pitch_accuracy": 0.53125,
+            "duration_accuracy_given_pitch": 0.84375
+          },
+          {
+            "id": "chor109",
+            "family": "chor109",
+            "n": 60,
+            "nll": 2.7952957153320312,
+            "pitch_accuracy": 0.4833333194255829,
+            "duration_accuracy_given_pitch": 0.5666666626930237
+          },
+          {
+            "id": "chor114",
+            "family": "chor114",
+            "n": 34,
+            "nll": 1.8851488828659058,
+            "pitch_accuracy": 0.6176470518112183,
+            "duration_accuracy_given_pitch": 0.8235294222831726
+          },
+          {
+            "id": "chor147",
+            "family": "chor147",
+            "n": 42,
+            "nll": 1.6080572605133057,
+            "pitch_accuracy": 0.738095223903656,
+            "duration_accuracy_given_pitch": 0.8095238208770752
+          },
+          {
+            "id": "chor149",
+            "family": "chor149",
+            "n": 27,
+            "nll": 3.570051670074463,
+            "pitch_accuracy": 0.37037035822868347,
+            "duration_accuracy_given_pitch": 0.6666666865348816
+          },
+          {
+            "id": "chor152",
+            "family": "chor152",
+            "n": 40,
+            "nll": 2.046492576599121,
+            "pitch_accuracy": 0.5,
+            "duration_accuracy_given_pitch": 0.6499999761581421
+          },
+          {
+            "id": "chor163",
+            "family": "chor163",
+            "n": 27,
+            "nll": 1.6636438369750977,
+            "pitch_accuracy": 0.5925925970077515,
+            "duration_accuracy_given_pitch": 0.8888888955116272
+          },
+          {
+            "id": "chor169",
+            "family": "chor169",
+            "n": 44,
+            "nll": 2.212873697280884,
+            "pitch_accuracy": 0.47727271914482117,
+            "duration_accuracy_given_pitch": 0.7045454382896423
+          },
+          {
+            "id": "chor191",
+            "family": "chor114",
+            "n": 32,
+            "nll": 1.7255737781524658,
+            "pitch_accuracy": 0.53125,
+            "duration_accuracy_given_pitch": 0.90625
+          },
+          {
+            "id": "chor192",
+            "family": "chor192",
+            "n": 25,
+            "nll": 2.6752612590789795,
+            "pitch_accuracy": 0.4000000059604645,
+            "duration_accuracy_given_pitch": 0.6800000071525574
+          },
+          {
+            "id": "chor193",
+            "family": "chor193",
+            "n": 30,
+            "nll": 2.8861281871795654,
+            "pitch_accuracy": 0.5333333611488342,
+            "duration_accuracy_given_pitch": 0.699999988079071
+          },
+          {
+            "id": "chor211",
+            "family": "chor211",
+            "n": 52,
+            "nll": 2.1105146408081055,
+            "pitch_accuracy": 0.38461539149284363,
+            "duration_accuracy_given_pitch": 0.7884615659713745
+          },
+          {
+            "id": "chor212",
+            "family": "chor212",
+            "n": 37,
+            "nll": 1.8870090246200562,
+            "pitch_accuracy": 0.4324324429035187,
+            "duration_accuracy_given_pitch": 0.7837837934494019
+          },
+          {
+            "id": "chor220",
+            "family": "chor220",
+            "n": 62,
+            "nll": 2.582209825515747,
+            "pitch_accuracy": 0.5161290168762207,
+            "duration_accuracy_given_pitch": 0.5967742204666138
+          },
+          {
+            "id": "chor227",
+            "family": "chor227",
+            "n": 53,
+            "nll": 2.8508658409118652,
+            "pitch_accuracy": 0.24528302252292633,
+            "duration_accuracy_given_pitch": 0.7924528121948242
+          },
+          {
+            "id": "chor250",
+            "family": "chor020",
+            "n": 46,
+            "nll": 1.829338788986206,
+            "pitch_accuracy": 0.5869565010070801,
+            "duration_accuracy_given_pitch": 0.8260869383811951
+          },
+          {
+            "id": "chor267",
+            "family": "chor047",
+            "n": 41,
+            "nll": 2.313192129135132,
+            "pitch_accuracy": 0.4146341383457184,
+            "duration_accuracy_given_pitch": 0.8780487775802612
+          },
+          {
+            "id": "chor272",
+            "family": "chor002",
+            "n": 59,
+            "nll": 1.9639246463775635,
+            "pitch_accuracy": 0.47457626461982727,
+            "duration_accuracy_given_pitch": 0.8644067645072937
+          },
+          {
+            "id": "chor273",
+            "family": "chor020",
+            "n": 45,
+            "nll": 1.5961215496063232,
+            "pitch_accuracy": 0.6000000238418579,
+            "duration_accuracy_given_pitch": 0.8444444537162781
+          },
+          {
+            "id": "chor292",
+            "family": "chor047",
+            "n": 42,
+            "nll": 2.1281898021698,
+            "pitch_accuracy": 0.3571428656578064,
+            "duration_accuracy_given_pitch": 0.8809523582458496
+          },
+          {
+            "id": "chor293",
+            "family": "chor065",
+            "n": 29,
+            "nll": 2.421006679534912,
+            "pitch_accuracy": 0.4482758641242981,
+            "duration_accuracy_given_pitch": 0.931034505367279
+          },
+          {
+            "id": "chor299",
+            "family": "chor152",
+            "n": 51,
+            "nll": 2.485361099243164,
+            "pitch_accuracy": 0.5490196347236633,
+            "duration_accuracy_given_pitch": 0.5098039507865906
+          },
+          {
+            "id": "chor321",
+            "family": "chor055",
+            "n": 35,
+            "nll": 1.2111990451812744,
+            "pitch_accuracy": 0.6285714507102966,
+            "duration_accuracy_given_pitch": 0.9428571462631226
+          },
+          {
+            "id": "chor322",
+            "family": "chor052",
+            "n": 55,
+            "nll": 1.6948964595794678,
+            "pitch_accuracy": 0.6181818246841431,
+            "duration_accuracy_given_pitch": 0.7454545497894287
+          },
+          {
+            "id": "chor332",
+            "family": "chor114",
+            "n": 51,
+            "nll": 2.1338586807250977,
+            "pitch_accuracy": 0.4901960790157318,
+            "duration_accuracy_given_pitch": 0.8039215803146362
+          },
+          {
+            "id": "chor333",
+            "family": "chor016",
+            "n": 63,
+            "nll": 1.9597045183181763,
+            "pitch_accuracy": 0.523809552192688,
+            "duration_accuracy_given_pitch": 0.7777777910232544
+          },
+          {
+            "id": "chor341",
+            "family": "chor002",
+            "n": 62,
+            "nll": 1.8439178466796875,
+            "pitch_accuracy": 0.5645161271095276,
+            "duration_accuracy_given_pitch": 0.8225806355476379
+          },
+          {
+            "id": "chor346",
+            "family": "chor346",
+            "n": 52,
+            "nll": 2.1876397132873535,
+            "pitch_accuracy": 0.48076921701431274,
+            "duration_accuracy_given_pitch": 0.7884615659713745
+          },
+          {
+            "id": "chor347",
+            "family": "chor065",
+            "n": 38,
+            "nll": 2.289656400680542,
+            "pitch_accuracy": 0.5789473652839661,
+            "duration_accuracy_given_pitch": 0.7631579041481018
+          },
+          {
+            "id": "chor348",
+            "family": "chor152",
+            "n": 40,
+            "nll": 2.046492576599121,
+            "pitch_accuracy": 0.5,
+            "duration_accuracy_given_pitch": 0.6499999761581421
+          },
+          {
+            "id": "chor351",
+            "family": "chor052",
+            "n": 55,
+            "nll": 1.8611034154891968,
+            "pitch_accuracy": 0.6363636255264282,
+            "duration_accuracy_given_pitch": 0.6909090876579285
+          },
+          {
+            "id": "chor352",
+            "family": "chor016",
+            "n": 62,
+            "nll": 1.9144196510314941,
+            "pitch_accuracy": 0.6290322542190552,
+            "duration_accuracy_given_pitch": 0.8064516186714172
+          },
+          {
+            "id": "chor360",
+            "family": "chor055",
+            "n": 38,
+            "nll": 1.2925118207931519,
+            "pitch_accuracy": 0.6315789222717285,
+            "duration_accuracy_given_pitch": 0.9210526347160339
+          },
+          {
+            "id": "chor364",
+            "family": "chor114",
+            "n": 42,
+            "nll": 2.4337375164031982,
+            "pitch_accuracy": 0.523809552192688,
+            "duration_accuracy_given_pitch": 0.6190476417541504
+          }
+        ]
+      }
+    }
+  ],
+  "recipe": {
+    "optimizer": "AdamW",
+    "learning_rate": 0.002,
+    "weight_decay": 0.01,
+    "batch_pieces": 24,
+    "gradient_clip": 1.0,
+    "patience_epochs": 12,
+    "prompt_events": 8,
+    "augmentation": "none",
+    "device": "CPU"
+  },
+  "environment": {
+    "python": "3.14.6",
+    "torch": "2.14.1",
+    "numpy": "2.5.3",
+    "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+    "threads": 2,
+    "music21": "10.5.0"
+  },
+  "markov_test": {
+    "nll": 2.4160914476313895,
+    "piece_mean_nll": 2.417714110835714,
+    "events": 1784,
+    "pieces": [
+      {
+        "id": "chor002",
+        "family": "chor002",
+        "n": 45,
+        "nll": 1.9606332379508227
+      },
+      {
+        "id": "chor016",
+        "family": "chor016",
+        "n": 61,
+        "nll": 2.0491386047497473
+      },
+      {
+        "id": "chor020",
+        "family": "chor020",
+        "n": 44,
+        "nll": 1.91612537880942
+      },
+      {
+        "id": "chor047",
+        "family": "chor047",
+        "n": 43,
+        "nll": 2.65297839748379
+      },
+      {
+        "id": "chor052",
+        "family": "chor052",
+        "n": 57,
+        "nll": 1.8674097101349727
+      },
+      {
+        "id": "chor055",
+        "family": "chor055",
+        "n": 31,
+        "nll": 1.3988957563095417
+      },
+      {
+        "id": "chor065",
+        "family": "chor065",
+        "n": 32,
+        "nll": 2.438460591497153
+      },
+      {
+        "id": "chor109",
+        "family": "chor109",
+        "n": 60,
+        "nll": 3.6695370131595073
+      },
+      {
+        "id": "chor114",
+        "family": "chor114",
+        "n": 34,
+        "nll": 2.121559055249067
+      },
+      {
+        "id": "chor147",
+        "family": "chor147",
+        "n": 42,
+        "nll": 1.944766185760304
+      },
+      {
+        "id": "chor149",
+        "family": "chor149",
+        "n": 27,
+        "nll": 3.9546218049690576
+      },
+      {
+        "id": "chor152",
+        "family": "chor152",
+        "n": 40,
+        "nll": 2.1533839134082426
+      },
+      {
+        "id": "chor163",
+        "family": "chor163",
+        "n": 27,
+        "nll": 2.2602729328372853
+      },
+      {
+        "id": "chor169",
+        "family": "chor169",
+        "n": 44,
+        "nll": 2.2046863279567215
+      },
+      {
+        "id": "chor191",
+        "family": "chor114",
+        "n": 32,
+        "nll": 2.1338843752118635
+      },
+      {
+        "id": "chor192",
+        "family": "chor192",
+        "n": 25,
+        "nll": 3.400964604897282
+      },
+      {
+        "id": "chor193",
+        "family": "chor193",
+        "n": 30,
+        "nll": 3.3970174477532065
+      },
+      {
+        "id": "chor211",
+        "family": "chor211",
+        "n": 52,
+        "nll": 2.59936861419831
+      },
+      {
+        "id": "chor212",
+        "family": "chor212",
+        "n": 37,
+        "nll": 2.114170163800669
+      },
+      {
+        "id": "chor220",
+        "family": "chor220",
+        "n": 62,
+        "nll": 3.7508468662119276
+      },
+      {
+        "id": "chor227",
+        "family": "chor227",
+        "n": 53,
+        "nll": 3.2595086019235593
+      },
+      {
+        "id": "chor250",
+        "family": "chor020",
+        "n": 46,
+        "nll": 2.0134219172211814
+      },
+      {
+        "id": "chor267",
+        "family": "chor047",
+        "n": 41,
+        "nll": 2.6323502701102455
+      },
+      {
+        "id": "chor272",
+        "family": "chor002",
+        "n": 59,
+        "nll": 2.1543328176586836
+      },
+      {
+        "id": "chor273",
+        "family": "chor020",
+        "n": 45,
+        "nll": 1.7849701099245714
+      },
+      {
+        "id": "chor292",
+        "family": "chor047",
+        "n": 42,
+        "nll": 2.528740757951475
+      },
+      {
+        "id": "chor293",
+        "family": "chor065",
+        "n": 29,
+        "nll": 2.506212440932851
+      },
+      {
+        "id": "chor299",
+        "family": "chor152",
+        "n": 51,
+        "nll": 2.867089701271095
+      },
+      {
+        "id": "chor321",
+        "family": "chor055",
+        "n": 35,
+        "nll": 1.425224663433893
+      },
+      {
+        "id": "chor322",
+        "family": "chor052",
+        "n": 55,
+        "nll": 1.9723165892352073
+      },
+      {
+        "id": "chor332",
+        "family": "chor114",
+        "n": 51,
+        "nll": 2.4195360367088803
+      },
+      {
+        "id": "chor333",
+        "family": "chor016",
+        "n": 63,
+        "nll": 2.441261926122676
+      },
+      {
+        "id": "chor341",
+        "family": "chor002",
+        "n": 62,
+        "nll": 1.9477671215198478
+      },
+      {
+        "id": "chor346",
+        "family": "chor346",
+        "n": 52,
+        "nll": 2.7218534624778923
+      },
+      {
+        "id": "chor347",
+        "family": "chor065",
+        "n": 38,
+        "nll": 2.8668745839936647
+      },
+      {
+        "id": "chor348",
+        "family": "chor152",
+        "n": 40,
+        "nll": 2.1533839134082426
+      },
+      {
+        "id": "chor351",
+        "family": "chor052",
+        "n": 55,
+        "nll": 2.253306362470535
+      },
+      {
+        "id": "chor352",
+        "family": "chor016",
+        "n": 62,
+        "nll": 2.189873259070505
+      },
+      {
+        "id": "chor360",
+        "family": "chor055",
+        "n": 38,
+        "nll": 1.5360459030605962
+      },
+      {
+        "id": "chor364",
+        "family": "chor114",
+        "n": 42,
+        "nll": 3.0457730125840694
+      }
+    ]
+  },
+  "paired_bootstrap": {
+    "unit": "hymn family",
+    "samples": 5000,
+    "seed": 2048,
+    "gru_minus_markov_95_percent_interval": [
+      -0.5079628224788694,
+      -0.2979686339032348
+    ]
+  },
+  "test_nll_mean": 2.05098872421301,
+  "test_nll_std": 0.025537377172208997
+}

@@ -1,0 +1,71 @@
+{
+  "seed": 20261005,
+  "search_documents": 8000,
+  "words_per_document": 25,
+  "search_queries_per_workload": 200,
+  "domain_roots": 10000,
+  "domain_queries": 10000,
+  "search_index_build_ms": 13.002,
+  "search_rare_index": {
+    "samples_ms": [
+      0.525,
+      0.513,
+      0.503
+    ],
+    "median_ms": 0.513,
+    "checksum": "13954997257469628556"
+  },
+  "search_rare_scan": {
+    "samples_ms": [
+      492.383,
+      491.645,
+      491.214
+    ],
+    "median_ms": 491.645,
+    "checksum": "13954997257469628556"
+  },
+  "search_common_index": {
+    "samples_ms": [
+      6.611,
+      6.669,
+      6.526
+    ],
+    "median_ms": 6.611,
+    "checksum": "1183071294126663413"
+  },
+  "search_common_scan": {
+    "samples_ms": [
+      374.698,
+      372.184,
+      369.555
+    ],
+    "median_ms": 372.184,
+    "checksum": "1183071294126663413"
+  },
+  "domains_index": {
+    "samples_ms": [
+      1.099,
+      1.076,
+      1.085
+    ],
+    "median_ms": 1.085,
+    "checksum": "5000"
+  },
+  "domains_scan": {
+    "samples_ms": [
+      78.334,
+      78.806,
+      79.205
+    ],
+    "median_ms": 78.806,
+    "checksum": "5000"
+  },
+  "environment": {
+    "recorded_on": "2026-10-05",
+    "system": "Darwin",
+    "architecture": "arm64",
+    "compiler": "Apple clang version 17.0.0 (clang-1700.6.4.2)",
+    "flags": "-std=c++17 -O2 -Wall -Wextra -Wpedantic -pthread"
+  },
+  "scope": "One machine, three timed samples after a warm-up. Query-only times; corpus generation/tokenization excluded for both methods. Search index construction reported separately; domain construction excluded. Search result vectors are compared exactly against a pretokenized full-scan/full-sort baseline outside timing. Every domain answer is compared against a linear suffix scan outside timing. No production, cross-machine or optimal-baseline claim."
+}

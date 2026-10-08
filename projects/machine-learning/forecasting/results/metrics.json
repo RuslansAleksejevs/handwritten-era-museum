@@ -1,0 +1,249 @@
+{
+  "dataset": "UCI Bike Sharing, daily Capital Bikeshare demand, 2011-2012",
+  "source": "https://archive.ics.uci.edu/static/public/275/bike+sharing+dataset.zip",
+  "sha256": "b70182d0d0508e9abbb79306ce5c0cec34869000f8220175ac83d11dbe845401",
+  "license": "CC BY 4.0",
+  "doi": "10.24432/C5W894",
+  "original_scope": "Delivery Club training CSV absent; this is a separate modern substitute-data experiment",
+  "initial_history": [
+    "2011-01-01",
+    "2012-06-30"
+  ],
+  "validation": [
+    "2012-07-01",
+    "2012-08-31"
+  ],
+  "test": [
+    "2012-09-01",
+    "2012-12-31"
+  ],
+  "validation_days": 62,
+  "test_days": 122,
+  "forecast": "refit from all observed history at each weekly origin; predict up to seven days without consuming within-horizon targets",
+  "features": "demand lags 7/14/21/28, linear calendar trend, yearly sin/cos and weekday indicators; no observed future weather or demand components",
+  "selected_alpha": 0.1,
+  "candidates": [
+    {
+      "alpha": 0.1,
+      "validation": {
+        "ridge": {
+          "mae": 646.5367326851687,
+          "rmse": 847.8926906945017
+        },
+        "last_week": {
+          "mae": 744.6290322580645,
+          "rmse": 994.6681972299332
+        },
+        "four_week_mean": {
+          "mae": 618.9032258064516,
+          "rmse": 823.2430277028104
+        }
+      }
+    },
+    {
+      "alpha": 1.0,
+      "validation": {
+        "ridge": {
+          "mae": 646.7120264851,
+          "rmse": 846.4541437361233
+        },
+        "last_week": {
+          "mae": 744.6290322580645,
+          "rmse": 994.6681972299332
+        },
+        "four_week_mean": {
+          "mae": 618.9032258064516,
+          "rmse": 823.2430277028104
+        }
+      }
+    },
+    {
+      "alpha": 10.0,
+      "validation": {
+        "ridge": {
+          "mae": 648.3595463395666,
+          "rmse": 836.1506077504655
+        },
+        "last_week": {
+          "mae": 744.6290322580645,
+          "rmse": 994.6681972299332
+        },
+        "four_week_mean": {
+          "mae": 618.9032258064516,
+          "rmse": 823.2430277028104
+        }
+      }
+    },
+    {
+      "alpha": 100.0,
+      "validation": {
+        "ridge": {
+          "mae": 676.9284721987308,
+          "rmse": 830.4851256404498
+        },
+        "last_week": {
+          "mae": 744.6290322580645,
+          "rmse": 994.6681972299332
+        },
+        "four_week_mean": {
+          "mae": 618.9032258064516,
+          "rmse": 823.2430277028104
+        }
+      }
+    },
+    {
+      "alpha": 1000.0,
+      "validation": {
+        "ridge": {
+          "mae": 1014.9042609147483,
+          "rmse": 1123.2221302207213
+        },
+        "last_week": {
+          "mae": 744.6290322580645,
+          "rmse": 994.6681972299332
+        },
+        "four_week_mean": {
+          "mae": 618.9032258064516,
+          "rmse": 823.2430277028104
+        }
+      }
+    }
+  ],
+  "validation_metrics": {
+    "ridge": {
+      "mae": 646.5367326851687,
+      "rmse": 847.8926906945017
+    },
+    "last_week": {
+      "mae": 744.6290322580645,
+      "rmse": 994.6681972299332
+    },
+    "four_week_mean": {
+      "mae": 618.9032258064516,
+      "rmse": 823.2430277028104
+    }
+  },
+  "test_metrics": {
+    "ridge": {
+      "mae": 1189.8222779955488,
+      "rmse": 1642.3202147859026
+    },
+    "last_week": {
+      "mae": 1325.5245901639344,
+      "rmse": 1896.1348087925485
+    },
+    "four_week_mean": {
+      "mae": 1140.502049180328,
+      "rmse": 1665.8916708219458
+    }
+  },
+  "test_by_horizon": {
+    "1": {
+      "ridge": {
+        "mae": 1321.2486898430586,
+        "rmse": 1751.2768528864715
+      },
+      "last_week": {
+        "mae": 1225.0,
+        "rmse": 1685.0788639638733
+      },
+      "four_week_mean": {
+        "mae": 1303.5833333333333,
+        "rmse": 1735.4104861834721
+      }
+    },
+    "2": {
+      "ridge": {
+        "mae": 1407.3514356214973,
+        "rmse": 1668.7629110244263
+      },
+      "last_week": {
+        "mae": 1530.5,
+        "rmse": 1821.147943834694
+      },
+      "four_week_mean": {
+        "mae": 1261.9444444444443,
+        "rmse": 1640.7992039788958
+      }
+    },
+    "3": {
+      "ridge": {
+        "mae": 1200.754201111945,
+        "rmse": 1916.8465329449477
+      },
+      "last_week": {
+        "mae": 1659.4444444444443,
+        "rmse": 2422.6191290511274
+      },
+      "four_week_mean": {
+        "mae": 1340.4027777777778,
+        "rmse": 2010.3928245563795
+      }
+    },
+    "4": {
+      "ridge": {
+        "mae": 1448.8899949125819,
+        "rmse": 2015.0137048432991
+      },
+      "last_week": {
+        "mae": 2248.176470588235,
+        "rmse": 2844.1853894237915
+      },
+      "four_week_mean": {
+        "mae": 1475.6470588235295,
+        "rmse": 2095.1593088382956
+      }
+    },
+    "5": {
+      "ridge": {
+        "mae": 969.2654811764852,
+        "rmse": 1443.9768153523576
+      },
+      "last_week": {
+        "mae": 696.7058823529412,
+        "rmse": 1328.314456037292
+      },
+      "four_week_mean": {
+        "mae": 759.4264705882352,
+        "rmse": 1439.1637545811109
+      }
+    },
+    "6": {
+      "ridge": {
+        "mae": 1019.4548180985685,
+        "rmse": 1349.7105216438122
+      },
+      "last_week": {
+        "mae": 927.0,
+        "rmse": 1349.7741641169632
+      },
+      "four_week_mean": {
+        "mae": 943.0588235294117,
+        "rmse": 1384.127581462311
+      }
+    },
+    "7": {
+      "ridge": {
+        "mae": 940.6214726994194,
+        "rmse": 1141.5012227425457
+      },
+      "last_week": {
+        "mae": 966.0588235294117,
+        "rmse": 1180.4845714914752
+      },
+      "four_week_mean": {
+        "mae": 870.9558823529412,
+        "rmse": 1104.8045625012278
+      }
+    }
+  },
+  "environment": {
+    "python": "3.14.6",
+    "numpy": "2.5.3",
+    "sklearn": "1.9.1"
+  },
+  "code_sha256": {
+    "run.py": "7bcca515e2d49727171ac214f78d655a3372242cc2932d8ad94656ac39d5e6dd",
+    "forecast.py": "4519248fd94aa5962ee491111f73313329c9a07e664d9ffda580f988ae43233d"
+  }
+}

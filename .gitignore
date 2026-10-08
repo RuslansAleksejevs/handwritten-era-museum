@@ -1,0 +1,11 @@
+.DS_Store
+build/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.superdesign/
+
+# Model weights belong in external --cache directories.
+*.pt
+projects/music-generation/results/*.wav

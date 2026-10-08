@@ -1,0 +1,385 @@
+{
+  "sizes": [
+    32,
+    128,
+    256,
+    512
+  ],
+  "repeats": 5,
+  "warmups_per_case": 1,
+  "case_order": [
+    {
+      "n": 512,
+      "backend": "threads",
+      "workers": 4
+    },
+    {
+      "n": 512,
+      "backend": "mpi",
+      "workers": 1
+    },
+    {
+      "n": 128,
+      "backend": "serial",
+      "workers": 1
+    },
+    {
+      "n": 128,
+      "backend": "mpi",
+      "workers": 2
+    },
+    {
+      "n": 256,
+      "backend": "mpi",
+      "workers": 1
+    },
+    {
+      "n": 256,
+      "backend": "threads",
+      "workers": 2
+    },
+    {
+      "n": 32,
+      "backend": "mpi",
+      "workers": 4
+    },
+    {
+      "n": 256,
+      "backend": "mpi",
+      "workers": 4
+    },
+    {
+      "n": 32,
+      "backend": "serial",
+      "workers": 1
+    },
+    {
+      "n": 512,
+      "backend": "mpi",
+      "workers": 4
+    },
+    {
+      "n": 512,
+      "backend": "mpi",
+      "workers": 2
+    },
+    {
+      "n": 32,
+      "backend": "threads",
+      "workers": 2
+    },
+    {
+      "n": 256,
+      "backend": "serial",
+      "workers": 1
+    },
+    {
+      "n": 256,
+      "backend": "threads",
+      "workers": 4
+    },
+    {
+      "n": 256,
+      "backend": "mpi",
+      "workers": 2
+    },
+    {
+      "n": 32,
+      "backend": "mpi",
+      "workers": 2
+    },
+    {
+      "n": 128,
+      "backend": "threads",
+      "workers": 4
+    },
+    {
+      "n": 32,
+      "backend": "mpi",
+      "workers": 1
+    },
+    {
+      "n": 512,
+      "backend": "serial",
+      "workers": 1
+    },
+    {
+      "n": 512,
+      "backend": "threads",
+      "workers": 2
+    },
+    {
+      "n": 128,
+      "backend": "mpi",
+      "workers": 1
+    },
+    {
+      "n": 32,
+      "backend": "threads",
+      "workers": 4
+    },
+    {
+      "n": 128,
+      "backend": "mpi",
+      "workers": 4
+    },
+    {
+      "n": 128,
+      "backend": "threads",
+      "workers": 2
+    }
+  ],
+  "matrix": {
+    "seed": 20261007,
+    "family": "strict row-diagonal dominance",
+    "fingerprints_fnv1a64": {
+      "512": "20927db6a259e8e7",
+      "128": "4a8c56f6abba9cca",
+      "256": "5ac92de7656321a6",
+      "32": "7cdb08a52e73a421"
+    }
+  },
+  "timing_scope": "checked inverse: allocation, scaling, worker setup/distribution, solve, gather, one left residual and normalized residual; excludes MPI_Init/Finalize, process launch, input generation and right residual",
+  "mpi_extra": "includes collective diagnostic-error agreement; maximum elapsed rank duration",
+  "limits": "one host, small sample, no CPU pinning; no multi-node or general speedup claim",
+  "environment": {
+    "architecture": "arm64",
+    "os": "Darwin",
+    "python": "3.14.6",
+    "logical_cpus": 10,
+    "compiler": "Apple clang version 17.0.0 (clang-1700.6.4.2)",
+    "mpi_compiler": "clang++ -I<MPI_PREFIX>/include -L<MPI_PREFIX>/lib -lmpi -lpmpi -lpthread"
+  },
+  "summaries": [
+    {
+      "n": 32,
+      "backend": "serial",
+      "workers": 1,
+      "median_seconds": 3.925e-05,
+      "minimum_seconds": 3.8834e-05,
+      "maximum_seconds": 4.1917e-05,
+      "speedup_vs_serial": 1.0
+    },
+    {
+      "n": 32,
+      "backend": "threads",
+      "workers": 2,
+      "median_seconds": 0.000351834,
+      "minimum_seconds": 0.00029675,
+      "maximum_seconds": 0.000402167,
+      "speedup_vs_serial": 0.1115582916943786
+    },
+    {
+      "n": 32,
+      "backend": "threads",
+      "workers": 4,
+      "median_seconds": 0.000476625,
+      "minimum_seconds": 0.000408916,
+      "maximum_seconds": 0.000805416,
+      "speedup_vs_serial": 0.08234985575662208
+    },
+    {
+      "n": 32,
+      "backend": "mpi",
+      "workers": 1,
+      "median_seconds": 3.4999999911633495e-05,
+      "minimum_seconds": 3.399999991415825e-05,
+      "maximum_seconds": 3.6000000022795575e-05,
+      "speedup_vs_serial": 1.1214285742599064
+    },
+    {
+      "n": 32,
+      "backend": "mpi",
+      "workers": 2,
+      "median_seconds": 0.0013619999999718857,
+      "minimum_seconds": 0.0011450000000650107,
+      "maximum_seconds": 0.001665000000002692,
+      "speedup_vs_serial": 0.028817914831725546
+    },
+    {
+      "n": 32,
+      "backend": "mpi",
+      "workers": 4,
+      "median_seconds": 0.0043100000000322325,
+      "minimum_seconds": 0.0035599999999931242,
+      "maximum_seconds": 0.005215000000021064,
+      "speedup_vs_serial": 0.009106728538214957
+    },
+    {
+      "n": 128,
+      "backend": "serial",
+      "workers": 1,
+      "median_seconds": 0.01184475,
+      "minimum_seconds": 0.011793833,
+      "maximum_seconds": 0.012098584,
+      "speedup_vs_serial": 1.0
+    },
+    {
+      "n": 128,
+      "backend": "threads",
+      "workers": 2,
+      "median_seconds": 0.011312917,
+      "minimum_seconds": 0.010671542,
+      "maximum_seconds": 0.012678083,
+      "speedup_vs_serial": 1.0470111289599313
+    },
+    {
+      "n": 128,
+      "backend": "threads",
+      "workers": 4,
+      "median_seconds": 0.011401625,
+      "minimum_seconds": 0.010787291,
+      "maximum_seconds": 0.014481166,
+      "speedup_vs_serial": 1.038865074057426
+    },
+    {
+      "n": 128,
+      "backend": "mpi",
+      "workers": 1,
+      "median_seconds": 0.0018340000000307555,
+      "minimum_seconds": 0.001822999999944841,
+      "maximum_seconds": 0.0019690000000309738,
+      "speedup_vs_serial": 6.4584242092701025
+    },
+    {
+      "n": 128,
+      "backend": "mpi",
+      "workers": 2,
+      "median_seconds": 0.007934000000091146,
+      "minimum_seconds": 0.0059489999999868814,
+      "maximum_seconds": 0.010344999999915672,
+      "speedup_vs_serial": 1.4929102596248962
+    },
+    {
+      "n": 128,
+      "backend": "mpi",
+      "workers": 4,
+      "median_seconds": 0.009721000000013191,
+      "minimum_seconds": 0.009242000000085682,
+      "maximum_seconds": 0.014808000000016364,
+      "speedup_vs_serial": 1.2184703219816815
+    },
+    {
+      "n": 256,
+      "backend": "serial",
+      "workers": 1,
+      "median_seconds": 0.131830666,
+      "minimum_seconds": 0.128883583,
+      "maximum_seconds": 0.213529708,
+      "speedup_vs_serial": 1.0
+    },
+    {
+      "n": 256,
+      "backend": "threads",
+      "workers": 2,
+      "median_seconds": 0.0725705,
+      "minimum_seconds": 0.072260541,
+      "maximum_seconds": 0.072923041,
+      "speedup_vs_serial": 1.816587539013787
+    },
+    {
+      "n": 256,
+      "backend": "threads",
+      "workers": 4,
+      "median_seconds": 0.05056125,
+      "minimum_seconds": 0.049597375,
+      "maximum_seconds": 0.061522541,
+      "speedup_vs_serial": 2.6073458626912904
+    },
+    {
+      "n": 256,
+      "backend": "mpi",
+      "workers": 1,
+      "median_seconds": 0.014144999999984975,
+      "minimum_seconds": 0.014111999999954605,
+      "maximum_seconds": 0.021667999999976928,
+      "speedup_vs_serial": 9.319948108882294
+    },
+    {
+      "n": 256,
+      "backend": "mpi",
+      "workers": 2,
+      "median_seconds": 0.02742599999999129,
+      "minimum_seconds": 0.01971800000001167,
+      "maximum_seconds": 0.0364039999999477,
+      "speedup_vs_serial": 4.806776999928603
+    },
+    {
+      "n": 256,
+      "backend": "mpi",
+      "workers": 4,
+      "median_seconds": 0.02312199999994391,
+      "minimum_seconds": 0.023052000000006956,
+      "maximum_seconds": 0.023520999999959713,
+      "speedup_vs_serial": 5.701525214095659
+    },
+    {
+      "n": 512,
+      "backend": "serial",
+      "workers": 1,
+      "median_seconds": 1.010337083,
+      "minimum_seconds": 0.98446325,
+      "maximum_seconds": 1.136817292,
+      "speedup_vs_serial": 1.0
+    },
+    {
+      "n": 512,
+      "backend": "threads",
+      "workers": 2,
+      "median_seconds": 0.660863084,
+      "minimum_seconds": 0.649973375,
+      "maximum_seconds": 0.838977792,
+      "speedup_vs_serial": 1.5288145267318336
+    },
+    {
+      "n": 512,
+      "backend": "threads",
+      "workers": 4,
+      "median_seconds": 0.437360917,
+      "minimum_seconds": 0.429773292,
+      "maximum_seconds": 0.469746542,
+      "speedup_vs_serial": 2.310076286491781
+    },
+    {
+      "n": 512,
+      "backend": "mpi",
+      "workers": 1,
+      "median_seconds": 0.289421999999945,
+      "minimum_seconds": 0.2889860000000226,
+      "maximum_seconds": 0.30002600000000257,
+      "speedup_vs_serial": 3.49087865815381
+    },
+    {
+      "n": 512,
+      "backend": "mpi",
+      "workers": 2,
+      "median_seconds": 0.08870300000000952,
+      "minimum_seconds": 0.08641199999999571,
+      "maximum_seconds": 0.0980850000000828,
+      "speedup_vs_serial": 11.390111754956333
+    },
+    {
+      "n": 512,
+      "backend": "mpi",
+      "workers": 4,
+      "median_seconds": 0.08445399999993697,
+      "minimum_seconds": 0.08173599999997805,
+      "maximum_seconds": 0.08669499999996333,
+      "speedup_vs_serial": 11.963164361673266
+    }
+  ],
+  "max_two_sided_residual": 1.0065532633146436e-14,
+  "measurements_sha256": "a48d1710e1fcf55d610a2ae5d3f88d6b7e28560868cbd076eb712182eaca1e54",
+  "code_sha256": {
+    "scripts/compare_parallel.py": "ac61e4209fd0f4bfd8c9e898da9fad5fda2c33203d271cee25e247c13af890cb",
+    "scripts/mpi_runner.py": "551174483bb46f5a826d8e0996f4abdffcd3f27a9c2b2438da4c01fc12fe8ce1",
+    "projects/numerical-methods/comparison/common.hpp": "fbe9c0348885d1d075be21cb9ad88ef3b39ab7edd0824fb6c1636e1aa08dc0e8",
+    "projects/numerical-methods/comparison/local.cpp": "07bb5cef6b3b3ccefeadd21080621e04a7bd43e4c2a1f049f63df56b8cad9156",
+    "projects/numerical-methods/comparison/mpi.cpp": "1540b93ab6d4d5f9669476c86a065fbc0cba67f89f1f1bc8a3df977e8816ca4f",
+    "projects/numerical-methods/include/matrix.hpp": "fb1f2b150eaaa82c6136dcd59ed1c80fc4847068385098a537ecfb87fd21cd0b",
+    "projects/numerical-methods/include/solver.hpp": "d0ef8dfb8a1d72fbe809de3c71825b9ef68aca929b0380208ec5db4d0295943a",
+    "projects/numerical-methods/mpi/solver.hpp": "37f92d6abcc14d36ac4f0ffd1ac5634184e25c1f7ecd8cca986ca2edddef6c18",
+    "projects/numerical-methods/mpi/solver.cpp": "20e468657d17203b53d3a053c4ff7d6ddb54481ad639bd9282d5682cbb0ed5e9"
+  },
+  "compiler_flags": "-std=c++17 -O2 -Wall -Wextra -Wpedantic -pthread"
+}
