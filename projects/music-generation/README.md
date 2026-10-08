@@ -82,6 +82,6 @@ The offline tests cover ties, repeated notes, rests, invalid rhythm, family sepa
 
 J. S. Bach; digital edition **© 2009 Craig Stuart Sapp**, [bach-370-chorales](https://github.com/craigsapp/bach-370-chorales/tree/67ef0b59bf49d0b562e8dfc9b870f6f9d5287822), **CC BY-NC-SA 4.0**. [Original notice](CORPUS-LICENSE.txt) · [License terms](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-The score-derived demo events, MIDI, audio and piano rolls in this chapter are provided under the same CC BY-NC-SA 4.0 terms. Changes include extracting the soprano, transposition, synthesized performance and generated continuations. The full score corpus is fetched on demand. This credit concerns these musical materials; the collection's own code license is still undecided.
+The score-derived demo events, MIDI, audio and piano rolls in this chapter are provided under the same CC BY-NC-SA 4.0 terms. Changes include extracting the soprano, transposition, synthesized performance and generated continuations. The full score corpus is fetched on demand. This credit concerns these musical materials; the collection's own code is covered by the [MIT license](../../LICENSE).
 
 [← Back to the map](../../README.md) · [Continue to algorithms →](../algorithms/README.md)
